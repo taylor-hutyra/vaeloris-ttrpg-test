@@ -1,0 +1,17 @@
+# World Builder data stores (regenerated from markdown via `wb.py sync`)
+_meta/wb.db
+_meta/wb-graph.json
+_meta/chroma/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
