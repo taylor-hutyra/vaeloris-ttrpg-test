@@ -35,7 +35,8 @@ This campaign takes place 89 years after Melek the Grey first demonstrated morta
 - The **Mirennian League** controls the seas — a thalassocracy of merchant houses that publicly condemns magic while privately profiting from it. The Azure Hand smuggles refugees for gold.
 - **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago under the paranoid High King Thorgar VI. Inside, the Bronr'n Legacy plots reform in secret.
 - **Gearhaven** is five years old — a frontier boomtown at Rust-Water Bay, Novaterra. Elm-korin Dwarves, human mages, and Gnomes are inventing technomancy in real time. Not a metropolis — a gold-rush settlement crackling with potential.
-- The **Pirate Confederacy** is well-established — 470 years old, ruling from Serpent's Tooth in the Fractured Isles.
+- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. Inside, High King Thorgar VII rules with paranoid rigidity. The Bronr'n Legacy plots reform in secret. The Barazkor Clan enforces orthodoxy.
+- The **Pirate Confederacy** is well-established — 470 years old, ruling from Serpent's Tooth in the Fractured Isles. They serve as mercenary muscle for whoever pays, and several captains are on Shadewalker retainer.
 - The **Shadewalkers** run the intelligence underworld from Port Farrick.
 - The **Lothari Silent Network** controls the overland Silk Road and preserves ancient knowledge in hidden desert vaults.
 - The **Waldkyn** of the Whispering Vales are split between three factions: isolationists, interventionists, and militant purifiers.
@@ -80,7 +81,8 @@ Throughout the campaign, track the party's standing with each major faction. The
 - Lux Aeterna: 4 (Trusted — they work for Rennick)
 - Legio Null: 1 (Enemies — the party are mages)
 - Azure Hand: 3 (Known — business relationship via passage)
-- Pirate Confederacy: 3 (Known — neutral until contact)
+- Kharnzarak (Bronr'n Legacy): 2 (Distrusted — outsiders in a sealed kingdom)
+- Kharnzarak (Barazkor Throne): 1 (Enemies — surface-dwellers are forbidden)
 - Gearhaven: 3 (Known — neutral until arrival)
 - Waldkyn Quiet Vales: 3 (Known — neutral until contact)
 - Lothari Silent Network: 3 (Known — peripheral contact)
@@ -171,12 +173,12 @@ When the Four bound Kael'Zorai during the Paroxysm, they shattered the instrumen
 |-------|--------|----------|-------------|
 | **The Ulzammar Band** | Time | Desert foothills near Lux Aeterna | Buried in First Age stone, stabilized by the Lothari's dream-magic and the desert's mana scarcity |
 | **The Brass Heart** | Systematization | Gearhaven, Novaterra | Unknowingly used as a power source for the city's infant Mana-Pylon network |
-| **The Leviathan's Eye** | Control | Eye Tower, Serpent's Tooth | Submerged in deep water, anchored by oceanic weight and the chaotic energy of the reefs |
+| **The Deep Measure** | Control | The Adamant Foundations, Kharnzarak | Embedded in the mountain's roots since the First Age; its field of Control has unknowingly reinforced Dwarven isolationism and the kingdom's rigid hierarchy for millennia |
 | **The Singing Shard** | Silence | Sacred grove, Whispering Vales | Woven into the Waldkyn Song-Wards, its silence balanced by constant harmonic singing |
 
 ### Properties
 
-- **Individually:** Each piece radiates a field effect related to its domain. The Band slows aging nearby. The Heart makes machines more efficient. The Eye calms waters and repels hostile creatures. The Shard creates zones of perfect stillness.
+- **Individually:** Each piece radiates a field effect related to its domain. The Band slows aging nearby. The Heart makes machines more efficient. The Deep Measure enforces rigid obedience and hierarchy in its vicinity. The Shard creates zones of perfect stillness.
 - **Proximity effect:** Two pieces in close proximity create localized distortions — time skips, objects animating, water behaving strangely, patches of absolute silence.
 - **Assembled:** The full Crown grants the wielder the ability to rewrite the laws of magic itself — to impose a single, unified order on the entire ambient mana field. In mortal hands, this burns the wielder's mind in seconds (like Melek the Grey). The Echo-Lord, as a shard of divine consciousness, can sustain it.
 
@@ -190,6 +192,148 @@ The Architect gives the party a crystalline device that pulses with harmonic fre
 - Emits a soft hum that the Waldkyn find deeply unsettling
 - Cannot be destroyed by mundane means
 - If examined with any magic-sensing ability (Knowledge — Arcana [Intellect], **Average [◆◆]**), radiates protective magic overlaying something deeper and older that defies classification
+
+---
+
+## Chapter 3.5: Recurring Antagonists
+
+The Architect is the campaign's hidden villain — but the players need enemies they can *see*. These four antagonist threads weave through all three acts, creating persistent tension and providing combat encounters between the moral dilemmas.
+
+### Commander Thalric — The Relentless Hunter
+
+*Introduced in Act I. Pursues through Act II. Potential reluctant ally in Act III.*
+
+Thalric commands the Legio Null's Desert Division — 100 Cold-Iron-armored Sand-Riders. He is not a monster. He is a true believer who watched the Harbor Fire of Port Farrick kill 200 people as a boy and has dedicated his life to ensuring magic never harms the innocent again. He is polite, professional, and will execute the players without hesitation if he catches them.
+
+**Appearances:**
+- **Act I:** Primary pursuer during the desert chase. Narrowly misses the party at the Lothari waystation.
+- **Act II (Gearhaven):** A Legio Null agent, **Inquisitor Dorn**, arrives in Gearhaven posing as a refugee. He's Thalric's forward scout, tracking the party's ocean crossing. If discovered, he fights to the death rather than surrender intelligence.
+- **Act II (Kharnzarak):** Thalric himself appears at the trade-gate entrance to Kharnzarak. He's tracked the Compass's resonance to the mountain and is attempting to convince the Dwarves to let him in. The Barazkor Clan is considering it — an alliance of convenience against mutual enemies.
+- **Act II (Whispering Vales):** A Sand-Rider patrol skirts the Vales' border, unable to enter due to Song-Wards but visibly watching. The players know he's out there.
+- **Act III:** If convinced the Crown is a genuine world-ending threat (Charm [Presence] or Negotiation [Presence], **Formidable ◆◆◆◆◆**, reduced to **Hard ◆◆◆** with physical evidence), Thalric redirects his hunters toward the Barren Hills. His Cold-Iron armor provides natural resistance to the Fifth Harmony wave.
+
+> **COMMANDER THALRIC** [Nemesis]
+> *Human, Legio Null*
+> **Brawn 3 | Agility 3 | Intellect 3 | Cunning 3 | Willpower 4 | Presence 3**
+> Soak: 6 (Cold-Iron plate) | Wounds: 16 | Strain: 16 | Defense: 1/1
+> **Skills:** Athletics 2, Coercion 3, Cool 3, Discipline 3, Leadership 3, Melee 3, Perception 2, Ranged 2, Resilience 2, Survival 2, Vigilance 3
+> **Talents:** Adversary 2, Command 3, Nobody's Fool 2
+> **Abilities:**
+> *Cold-Iron Armor:* Magic actions targeting Thalric or originating within Short range upgrade their difficulty once. The armor dampens ambient magic.
+> *Null-Lantern:* Once per encounter, Thalric activates his lantern. All magic actions within Short range upgrade difficulty twice for 3 rounds.
+> *Zealot's Resolve:* Once per session, when Thalric would exceed his Strain threshold, he may reduce strain to 1 instead.
+> **Equipment:** Cold-Iron longsword (Melee; Damage 7; Crit 3; Engaged; Sunder), Cold-Iron crossbow (Ranged; Damage 8; Crit 3; Medium; Pierce 1), Cold-Iron plate armor, Null-Lantern, Signal Flares
+
+### The Pale Ledger — Shadewalker Rival
+
+*Introduced late Act I (via Ink's report). Active pursuer from Act II onward.*
+
+When Ink reported the Ulzammar Band to her Shadewalker superiors, the intelligence triggered an emergency protocol. The Shadewalker Inner Circle dispatched their most effective operative: **The Pale Ledger** — a human woman in her 40s, unremarkable in every way, who keeps a small leather journal in which she records debts. She does not kill people. She acquires them. Everyone owes her something.
+
+The Pale Ledger does not want to destroy the Crown or save the world. She wants to *control information about the Crown* — to own the secret and leverage it for the Shadewalkers' benefit. If the party gathers the pieces, she wants to be there when it happens, to document everything, and to sell that knowledge to every power in the world.
+
+**Appearances:**
+- **Late Act I:** The players learn Ink "reported to her superiors." Ink is now off the board — recalled. A new Shadewalker presence is felt: subtle signs of surveillance (a footprint near camp, a message intercepted, a contact who suddenly won't talk).
+- **Act II (any arc):** The Pale Ledger makes contact — politely. She offers information, resources, or help in exchange for the party keeping her informed about the Crown pieces. She is genuinely useful. She is also recording everything.
+- **Act II (Kharnzarak):** She has an agent inside the mountain — a Thulkor'n smuggler named **Grik** who operates through the trade-gate. Grik can help the party get in... but everything Grik knows, the Ledger knows.
+- **Act III:** The Pale Ledger appears at the Barren Hills with a small team. She is not there to help or hinder — she is there to *document*. If the party wins, she'll sell the story of their heroism. If they lose, she'll sell the secret of the Crown to the Magocracy (which doesn't exist yet but will). She is the most dangerous kind of enemy: one who is on nobody's side.
+
+**The Ledger's Leverage:** Throughout Act II, the Pale Ledger acquires leverage on the party — secrets overheard, deals witnessed, debts tracked. If the party tries to cut her out, she threatens to reveal their location to Thalric, expose their actions to whatever community they're currently embedded in, or simply sell the Crown's existence to the Varnathi Senate.
+
+> **THE PALE LEDGER** [Nemesis]
+> *Human, Shadewalker*
+> **Brawn 1 | Agility 3 | Intellect 4 | Cunning 5 | Willpower 3 | Presence 3**
+> Soak: 2 | Wounds: 12 | Strain: 20 | Defense: 0/1
+> **Skills:** Charm 3, Cool 4, Deception 4, Knowledge — Lore 3, Negotiation 3, Perception 4, Skulduggery 3, Stealth 3, Streetwise 4, Vigilance 3
+> **Talents:** Adversary 2, Nobody's Fool 4, Plausible Deniability 3
+> **Abilities:**
+> *I Know What You Did:* Once per session per PC, the Pale Ledger may reveal a secret or debt she's collected about a character, adding 2 Setback dice to that character's social checks for the remainder of the scene.
+> *The Network:* The Pale Ledger is never truly alone. She can summon 4 Shadewalker operatives [Minion group] within one hour in any civilized location.
+> *Vanish:* Once per session, the Pale Ledger may simply disappear from a scene. She was never cornered. She had an exit planned before she entered the room.
+> **Equipment:** Concealed blade (Melee; Damage 3; Crit 2; Engaged; Pierce 2, Vicious 1), the Ledger itself (contains enough blackmail to topple governments)
+
+### Captain Drest "Three-Fingers" Moray — Pirate Mercenary
+
+*Introduced Act II. Recurring combat antagonist.*
+
+Drest is a Thulkor'n Dwarf pirate captain — ambitious, blunt, and perpetually in need of coin. The Pale Ledger hired him and his crew (the corsair ship *Iron Maiden* and 30 pirates) to shadow the party, acquire Crown pieces if possible, and — at minimum — prevent the party from operating freely.
+
+Drest is not evil. He doesn't know what the Crown is. He knows the Shadewalkers are paying him extremely well to chase a group of mage-fugitives across the world and steal specific artifacts from them. He considers this a perfectly normal Tuesday.
+
+**Appearances:**
+- **Act II (first arc):** The *Iron Maiden* appears on the horizon — shadowing the party's ship. Drest doesn't engage immediately; he's assessing.
+- **Act II (second arc):** Drest and a shore party attempt to ambush the players at a critical moment — during the Crystal Deep extraction in Gearhaven, during the approach to Kharnzarak's trade-gate, or on the path to the Whispering Vales. This should be a running battle, not a set-piece — Drest fights to grab a Crown piece and retreat, not to kill.
+- **Act II (third arc):** Drest makes a direct play. He corners the party with his full crew and demands a Crown piece in exchange for leaving them alone. He can be fought (difficult — 30 pirates), negotiated with (he's pragmatic), or tricked.
+- **Act III:** If still alive, Drest shows up at the Barren Hills. The Pale Ledger sent him. When the Fifth Harmony wave begins, Drest's pirates feel it — the stillness, the loss of free will. For a man who lives for freedom, this is intolerable. He switches sides. "I signed on to steal trinkets, not to watch the world die standing up."
+
+> **CAPTAIN DREST "THREE-FINGERS" MORAY** [Nemesis]
+> *Thulkor'n Dwarf, Pirate*
+> **Brawn 4 | Agility 3 | Intellect 2 | Cunning 3 | Willpower 3 | Presence 3**
+> Soak: 6 (heavy leather + Dwarven constitution) | Wounds: 18 | Strain: 14 | Defense: 0/0
+> **Skills:** Athletics 3, Brawl 3, Coercion 2, Cool 2, Leadership 2, Melee 3, Perception 2, Ranged 2, Resilience 3, Survival 2, Vigilance 2
+> **Talents:** Adversary 1, Durable 2, Knockdown, Lethal Blows 2
+> **Abilities:**
+> *Thulkor'n Grit:* Once per encounter, when Drest suffers a Critical Injury, he may downgrade its severity by 20.
+> *Boarding Action:* Drest and his pirates add a Boost die to all combat checks during the first round of any surprise attack or boarding action.
+> **Equipment:** Dwarven war-axe (Melee; Damage 8; Crit 2; Engaged; Vicious 2), heavy pistol (Ranged; Damage 7; Crit 3; Medium; Limited Ammo 1), heavy leather coat
+
+> **DREST'S PIRATES** [Minion group — typically 2 groups of 5]
+> **Brawn 3 | Agility 2 | Intellect 1 | Cunning 2 | Willpower 2 | Presence 1**
+> Soak: 4 | Wounds: 5 each
+> **Skills (group):** Athletics, Brawl, Melee, Ranged, Vigilance
+> **Equipment:** Cutlasses (Melee; Damage 6; Crit 3; Engaged), hand crossbows (Ranged; Damage 6; Crit 4; Medium)
+
+### Krag-Vosk the Unbroken — Bloodied Fist War-Priest
+
+*Introduced Act II. Ideological foil. Potential tragedy.*
+
+Krag-Vosk is a Gral (Orc) war-priest of the Bloodied Fist Clans — the Varr-Darg faction that worships Grom-Kain (Kael'Zorai) and believes the Crown will resurrect their creator. He is enormous, devout, terrifying, and utterly sincere. He does not work for the Architect. He doesn't even know the Architect exists. He independently tracked the Crown's resonance through ritual communion with the Barren Hills' Scars of Dissonance.
+
+Krag-Vosk is the campaign's most sympathetic antagonist. His people were driven into the wastelands, enslaved, excluded from the First Council of Races, and systematically brutalized for 1,400 years. When he says "Grom-Kain will return and make us whole," he is expressing the deepest longing of a people who have never known justice. He is wrong about what the Crown will do — but he is not wrong about the wound.
+
+**Appearances:**
+- **Act II (second arc onward):** Krag-Vosk and his warband (20 Bloodied Fist warriors) appear wherever the Crown pieces' resonance is strongest. He approaches the party not with hostility but with religious awe: "You carry the hands of our Father. Where do you take them?"
+- **Repeated Contact:** Krag-Vosk follows the party between arcs. He does not attack unless provoked or unless the party attempts to destroy a Crown piece (which would be desecrating a holy artifact). He tries to convince the party to bring the pieces to the Barren Hills — which, ironically, is exactly what the Architect wants.
+- **The Moral Knife:** If the party tells Krag-Vosk the truth about the Architect's plan, he faces a devastating choice. Either the party is lying (and they're trying to steal his god's power), or the being guiding them is a perversion of Grom-Kain. Neither answer is acceptable.
+- **Act III:** When the Echo-Lord dons the Crown and projects the Fifth Harmony, Krag-Vosk feels it — the stillness that his creator always promised, and it is WRONG. It is not the tempering, the endurance, the purpose that Grom-Kain represented. It is death wearing his Father's face. Krag-Vosk charges the cathedral in a berserker rage, his warband behind him. He fights alongside the party — not as an ally of convenience, but as a son defending his father's honor from a parasite.
+
+> **KRAG-VOSK THE UNBROKEN** [Nemesis]
+> *Gral (Orc), Bloodied Fist War-Priest*
+> **Brawn 5 | Agility 2 | Intellect 2 | Cunning 2 | Willpower 4 | Presence 3**
+> Soak: 7 (natural + bone armor) | Wounds: 22 | Strain: 16 | Defense: 1/0
+> **Skills:** Athletics 3, Brawl 3, Coercion 3, Cool 2, Discipline 3, Leadership 3, Melee 4, Resilience 4, Survival 3, Vigilance 2
+> **Talents:** Adversary 2, Durable 3, Enduring 2, Fearsome 3, Feral Strength 3
+> **Abilities:**
+> *Grom-Kain's Tempering:* Krag-Vosk halves damage from the first attack that hits him each encounter (before soak). His skin briefly hardens to stone.
+> *War-Priest's Fury:* Once per encounter, Krag-Vosk may suffer 4 strain to take an additional action on his turn.
+> *Scar-Communion:* Near a Scar of Dissonance, Krag-Vosk can sense the Crown pieces' direction and approximate distance. He gains a Boost die to all Perception checks in such areas.
+> *The Unbroken Will:* Krag-Vosk cannot be Staggered by fear effects. He is immune to the Architect's calming aura.
+> **Equipment:** Grom-Kain's Fang (massive stone maul; Melee; Damage 10; Crit 2; Engaged; Concussive 2, Knockdown), bone armor, ritual fetishes
+
+> **BLOODIED FIST WARRIORS** [Minion group — typically 2 groups of 5]
+> **Brawn 4 | Agility 2 | Intellect 1 | Cunning 2 | Willpower 3 | Presence 1**
+> Soak: 5 | Wounds: 6 each
+> **Skills (group):** Athletics, Brawl, Melee, Resilience, Survival
+> **Equipment:** Stone axes (Melee; Damage 7; Crit 3; Engaged; Knockdown), javelins (Ranged; Damage 6; Crit 4; Medium; Limited Ammo 3)
+
+### How the Antagonists Interact
+
+The four antagonist threads are independent — they are NOT coordinating. This creates chaos that the party can exploit:
+
+| Antagonist | Wants | Fears | Can Be Turned? |
+|------------|-------|-------|----------------|
+| **Thalric** | Capture the party; suppress magic | Losing control; a threat bigger than mages | Yes — if convinced the Crown is a world-ending threat |
+| **The Pale Ledger** | Information; leverage; profit | Losing control of the narrative; being irrelevant | No — but can be bargained with or outmaneuvered |
+| **Drest** | Money; reputation; the next score | The Fifth Harmony (loss of free will) | Yes — when the stakes become real, he chooses freedom |
+| **Krag-Vosk** | Resurrect Grom-Kain; Orkin salvation | The Crown being a lie; his faith being wrong | Yes — when the Echo-Lord reveals itself as a perversion of his god |
+
+**Playing them off each other:**
+- Tip off Thalric about Drest's pirate ship → Legio Null attacks the pirates instead of the party
+- Feed the Pale Ledger false information → she redirects Drest to the wrong location
+- Convince Krag-Vosk that Thalric is desecrating Grom-Kain's artifacts → Orkin attack the Legio Null
+- Lead Drest to the Pale Ledger's position → pirate raids the Shadewalker camp for loot
+
+These interactions are emergent — let the players be creative. Reward clever faction manipulation with XP and narrative advantage.
 
 ---
 
@@ -545,8 +689,8 @@ Vesper demands payment: the players must carry a sealed package to a contact in 
 
 The players choose where to go first based on the Resonance Compass's three pulses:
 - Southeast (strongest) — Gearhaven, Novaterra
-- South (steady) — Serpent's Tooth, Fractured Isles
-- Northeast (faintest, because it's closest but behind enemy lines) — Whispering Vales, mainland
+- North (steady, deep underground) — Kharnzarak, the sealed Dwarven kingdom
+- West (faintest, muffled by living wards) — Whispering Vales, mainland
 
 Vesper can take them to any of the three.
 
@@ -675,67 +819,227 @@ The Architect appears between each arc — always at moments of doubt. Track the
 
 ---
 
-### Arc B: The Leviathan's Eye — Serpent's Tooth, Fractured Isles
+### Arc B: The Deep Measure — Kharnzarak, the Sealed Kingdom
 
-*Theme: Honor among thieves | Freedom vs. security | The heist*
+*Theme: Tradition vs. truth | Obedience vs. conscience | What does a sealed door protect — the world, or a lie?*
 **Pacing:** 6–10 sessions | **Adventurer Tier (150–300 XP)**
 
-#### Serpent's Tooth — Gazetteer
+#### Getting Inside
 
-**Overview:** Pirate capital. ~3,000 souls (wildly diverse — every outcast the world produces). Natural harbor hidden behind a cliff-flanked channel. The Eye Tower guards the entrance.
+Kharnzarak has been sealed for 90 years. The Adamant Gates are shut, runed, and guarded. No outsider has entered since High King Thorgar VI's decree. There is exactly one opening: the **Trade-Gate** — a small, heavily guarded portal at the mountain's eastern foot where Dwarven merchants exchange steel and gold for surface goods. Non-Dwarves are permitted in a 50-foot antechamber and no further.
 
-**Government:** Captains' Council under the Code of the Coast
-**Currency:** The Fang (triangular gold coin)
-**Law:** The Code of the Coast — no fighting on Council ground, Eye Tower is sacrosanct
+**Methods of Entry:**
+- **The Bronr'n Legacy contact:** If the party has Thulkor'n or Elm-korin connections (character background, Gearhaven contacts), they can reach **Delva Bronr'n-Kith** — a Bronr'n Legacy operative who works in the Trade-Gate's customs office. She can smuggle the party inside in ore-carts. Risky but direct.
+- **The Shadewalker route:** The Pale Ledger's agent **Grik** (Thulkor'n smuggler) maintains a hidden passage through an abandoned mine shaft that connects to the kingdom's Lower Deep. Grik demands payment: 500 Sparks or a favor owed to the Pale Ledger (she always collects).
+- **The Hard Way:** The party finds another entrance — an old ventilation shaft, a sealed emergency exit, a forgotten tunnel from the Stone-Road era. Survival [Cunning] **Daunting (◆◆◆◆)** to locate; multiple hazards inside.
 
-**Districts:**
+#### Kharnzarak — Gazetteer
 
-**The Throat** — Narrow channel, Eye Tower (150 ft lighthouse on First Age foundations), The Fangs (ballista emplacements, chain barrier).
+**Overview:** The greatest Dwarven city in the world — carved into the roots of the Dragon's Tooth Mountains over three thousand years. A vertical city descending miles into the earth, with each level reflecting the rigid hierarchy of Dwarven society. At SA 1490, it is a kingdom frozen in amber: magnificent, ancient, suffocating, and slowly dying from within. The Deep Measure's field of Control permeates everything — the strict obedience, the refusal to change, the paranoid certainty that the outside world is corruption.
 
-**The Belly (Harbor)** — Docks, ships at anchor, chaos.
-- **The Captains' Table** — Roofless tavern, neutral ground. Run by Mama Bones (massive, one-legged, knows everything, untouchable).
-- **The Council Hall** — Converted shipwreck hull. Flags of every crew.
-- **The Tide Market** — Black market. Notable: Flicker (Skorn fence, knows real artifacts from fakes).
-- **The Bilge** — Cheapest flophouse. 1 Fang/night. Run by No-Face (carved mask, philosophical).
-- **The Mermaid's Kiss** — Upscale inn. Run by Captain-Retired Lysara Vane (Zara's aunt, elegant, gossip source).
+**Population:** ~15,000 (exclusively Nûm-Khazal'n Dwarves, plus ~200 Gatestone-Clan laborers who are functionally an underclass)
 
-**The Shanties (Hillside)** — Residential chaos. The Roost (messenger hawks, run by Aelindra, Sael'anir Elf). The Forge (Grix Iron-Gut, Thulkor'n smith/locksmith). The Shrine of the Drowned (Brother Calm, former priest).
+**Government:** Hereditary Monarchy under the Stone-Lays. High King Thorgar VII of the Barazkor Clan rules from the Adamant Throne with absolute authority. The Stone-Lay Council (9 clan-lords) advises but cannot override.
 
-**The Depths** — Flooded First Age ruins beneath the Eye Tower. Home to the Drowned Sage.
+**Economy:** Self-sufficient. Mining (iron, gold, gems), internal agriculture (fungal farms, underground livestock), master smithing. The only external trade happens through the Trade-Gate.
 
-#### Key NPCs
+**Currency:** Stone-Marks (small iron tokens stamped with the Crown of the Mountain). The party's Mana-Crystal Sparks are illegal inside Kharnzarak — possession of mana-crystals is treated as "surface taint."
 
-**Captain-General Zara "Salt-Blood" Vane** — Human, late 30s. Granddaughter of the founder. Holds the Council through charisma and the largest fleet. Knows the Eye is more than a crystal. Keeps a Drakona advisor (Vyra Scale-Speaker) hidden below the Council Hall.
+**Social Rules (critical for gameplay):**
+- Non-Dwarves are **forbidden**. Discovery means immediate imprisonment and possible execution.
+- Magic is **heretical**. The Elm-korin were exiled for practicing it. Any visible spellcasting triggers an armed response.
+- Caste determines everything. High Clans speak to High Clans. Guild Clans do not address High Clans without permission. Gatestone Clans are invisible.
+- The name **Ulzammar** is forbidden. Speaking it aloud draws the attention of the King's Enforcers.
 
-**Captain Drest "Three-Fingers" Moray** — Thulkor'n Dwarf rival. Wants Zara's seat. Not evil — believes her protectionism stifles growth. Useful as a coup-distraction for the heist.
+#### Levels of Kharnzarak
 
-**The Drowned Sage** — Lives in the flooded ruins. Wears a diving suit, never removes helmet. Actually a Shadewalker archivist. Knows the Eye Tower's tether system. Trades knowledge for secrets.
+**The Trade-Gate (Surface Level)**
+The only point of contact with the outside world. A fortified antechamber where surface merchants exchange goods with Dwarven traders through a barred window. Guards (Barazkor Enforcers) watch every interaction.
 
-#### Sidequests
+| Location | Description |
+|----------|-------------|
+| **The Customs Hall** | Where goods are inspected. Run by Delva Bronr'n-Kith (secretly a Bronr'n Legacy operative). |
+| **The Weigh-Master's Office** | Where Stone-Marks are exchanged for surface goods at fixed rates. The Weigh-Master, **Tharn Gulgrym**, is a Gulgrym Clan elder who hates the Barazkor but follows the rules. He can be bribed with rare surface metals. |
 
-**"Mama Bones Remembers"** — Rescue a marooned pirate who knows Drest is selling patrol schedules to the Mirennians. Multiple political outcomes. 15 XP.
+**The Upper Halls (High Clans)**
+Magnificent carved galleries, soaring vaulted ceilings, rune-light chandeliers. The residences and workspaces of the Barazkor (royal), Farrazul (gem-cutters), and other High Clans. Everything is pristine, ordered, oppressively perfect.
 
-**"The Fighting Pits"** — Weekly tournament. Three rounds vs. Kelga, The Nail, and Drest. Style matters as much as victory. 15 XP, +1 Pirate rep.
+| Location | Description |
+|----------|-------------|
+| **The Adamant Throne Room** | The seat of power. A massive hall with a ceiling lost in shadow. The Adamant Throne sits on a dais of dark stone — and beneath the dais, carved into the mountain's bedrock, the Deep Measure pulses. The throne room feels HEAVY — visitors experience an overwhelming compulsion to kneel, to obey, to be silent. This is the Crown piece's field of Control. |
+| **The Hall of Names** | Where clan lineages are carved into walls of polished granite. Thousands of names, going back to the First Age. Names that have been chiseled away (Thulkor'n, Elm-korin) leave visible scars in the stone. |
+| **The King's Forge** | Thorgar VII's personal smithy. He forges here when he cannot sleep — which is often. The King is not well. The Crown piece's influence has made him rigid, paranoid, and unable to tolerate any deviation from routine. He is not evil. He is a man being slowly crushed by a force he cannot perceive. |
+| **The Farrazul Galleries** | The gem-cutters' quarter. Wealth beyond imagining — vaults of cut gems, showcases of legendary craft. The Farrazul Clan is the only power that rivals the throne, and their leader, **Lord Mazrek Farrazul**, is a pragmatist quietly considering whether Thorgar VII's reign is sustainable. |
 
-**"Vyra's Request"** — Discover the exiled Drakona advisor. She identifies the Crown piece and offers lore in exchange for carrying a warning to Drakenvast. 10 XP.
+**The Guild Halls (Mid-Level)**
+The working heart of the kingdom. Foundries, workshops, training halls. The Guild Clans — smiths, miners, engineers, stone-carvers — do the work that keeps Kharnzarak alive. Conditions are crowded but functional. The atmosphere is tense — guild-masters chafe under regulations that grow stricter every year.
 
-**"The Rum-Runner's Race"** — Scout the Mirennian blockade fleet. Two-day race against rival crews. The blockade is a Golden Compass corporate action, not League navy — valuable intelligence. 20 XP, +1 Pirate rep.
+| Location | Description |
+|----------|-------------|
+| **The Great Foundry** | A cavern of roaring forge-fires where the kingdom's steel is made. The heat is intense. Hundreds of smiths work in rotating shifts. The Foundry-Master, **Korrin Gulgrym**, is Tharn's cousin and a secret Bronr'n Legacy sympathizer. |
+| **The Rune-Archive** | A library of stone tablets containing the kingdom's technical knowledge. Heavily restricted — only approved scholars may enter. The Archive-Keeper, **Elder Varn**, is ancient and nearly blind but has memorized every tablet. He knows where the forbidden Ulzammar records are sealed. |
+| **The Mead-Hall of Iron** | The guild-workers' tavern. Loud, crowded, the one place in Kharnzarak where caste rules relax slightly. Good Dwarven ale (strong enough to strip paint). The bartender, **Hamm One-Ear**, hears everything. |
 
-#### Main Quest: The Leviathan's Eye
+**The Lower Deep (Gatestone Clans & Mines)**
+The lowest inhabited level — dimly lit tunnels where the Gatestone Clans perform the most dangerous labor: deep mining, waste removal, tunnel maintenance. Conditions are grim. The Gatestone Dwarves are effectively serfs.
 
-**The Problem:** The Eye calms reefs, wards against navies, and illuminates the channel. Without it, the Mirennian blockade fleet crushes the Confederacy.
+| Location | Description |
+|----------|-------------|
+| **The Deep Mines** | Miles of tunnels descending into the earth. Rich in iron and coal. Increasingly unstable at the lowest levels — the Earthwake of SA 1200 damaged the deep infrastructure and it was never fully repaired. |
+| **Gatestone Barracks** | Cramped communal housing. No privacy, no luxuries. The Gatestone Dwarves are bitter, proud, and quietly furious. Their informal leader, **Marga Stonefist**, runs an underground resistance that dreams of caste reform. |
+| **The Abandoned Deeps** | Below the active mines — collapsed tunnels, flooded chambers, and sealed passages from the kingdom's earlier, more ambitious days. This is where the Bronr'n Legacy meets in secret. It is also the path to the Adamant Foundations. |
 
-**Path 1: The Grand Heist** (Best content)
-THE DROWNED HALLS dungeon (3–4 sessions):
-- Level 1: Tidal Gallery — rising/falling water, Reef-Lurkers, First Age murals
-- Level 2: Ritual Chambers — four tether anchor-nodes (coordinated deactivation puzzle, Knowledge — Arcana [Intellect], **Average (◆◆)** each)
-- Level 3: The Scar Below — Tide-Wraith guardian [Nemesis] (Soak 4, Wounds 20, Strain 14, Drowning Embrace, Tidal Surge cone at Short range)
+**The Adamant Foundations (First Age Level)**
+Below everything — below the mines, below the collapsed tunnels, below the memory of living Dwarves — lie the Adamant Foundations. The bedrock on which Kharnzarak was built. This is First Age construction: the same dark, too-regular stone as the Ruin of Kel-Thar, the same alien geometry.
 
-Requires a topside distraction: Drest's coup, the Mirennian probe, or Mama Bones's "retirement party."
-Extract the Eye, escape through sea caves, flee before the Confederacy realizes.
+The Deep Measure is here — embedded in a crystalline formation at the mountain's absolute root. It has been here since before the Dwarves built their kingdom above it. The field of Control radiates upward through miles of stone, subtle but relentless, shaping Dwarven society toward rigid order for three thousand years.
 
-**Path 2: Negotiation** — Full evidence + 2 sidequests + neutralize the Mirennian threat first.
-**Path 3: Betrayal** — Azure Hand helps extract the Eye; players sell out the Confederacy. -3 Pirate rep.
+#### Key NPCs of Kharnzarak
+
+**High King Thorgar VII** — *The Throne That Does Not Rest*
+- Nûm-Khazal'n Dwarf male, 180s (middle-aged for a Dwarf), gaunt, dark circles under his eyes
+- Grandson of Thorgar VI (who sealed the gates). Inherited his grandfather's paranoia — amplified by the Deep Measure's field. He does not sleep well. He forges compulsively. He issues increasingly irrational edicts (last month: all left-handed tools must be re-forged right-handed, because "asymmetry invites disorder").
+- **Not a villain.** A man being slowly destroyed by a force he cannot see. If the Deep Measure is removed, the paranoia lifts like fog — and Thorgar VII might become the reformer Kharnzarak desperately needs.
+- **Personality:** Brittle. Formal. Occasionally reveals flashes of warmth (especially when discussing craft — he is a genuinely gifted smith). Then the rigidity snaps back.
+
+**Lord Mazrek Farrazul** — *The Richest Dwarf in the Mountain*
+- Farrazul Clan lord, 200s, impeccably dressed, voice like honey over gravel
+- Controls the kingdom's gem and precious metal wealth. A political realist who sees Thorgar VII crumbling and is positioning the Farrazul Clan to fill the vacuum.
+- **Not an ally.** Mazrek is happy to use the party to destabilize the Barazkor, but he wants the Deep Measure for himself. He doesn't know what it truly is — he thinks it's a powerful Dwarven artifact that grants authority. If he gets it, Kharnzarak trades one form of rigid control for another.
+- **Quest Connection:** Mazrek can provide access to the Upper Halls and political cover — but his help always comes with strings.
+
+**Delva Bronr'n-Kith** — *The Mole*
+- Bronr'n Dwarf female, 90s (young), customs clerk, freckled, nervous energy
+- A true believer in the Bronr'n Legacy's reform mission. She's been waiting years for a chance to act. The party's arrival is that chance.
+- **Personality:** Talks fast when nervous (always). Brave beyond her apparent timidity. Will risk her life for the cause but is terrified of being caught.
+- **Quest Connection:** The party's primary inside contact. She provides disguises (Gatestone Clan work-clothes), forged caste-papers, and knowledge of patrol schedules. She can also connect the party to the Bronr'n Legacy's hidden leadership.
+
+**Korrin Gulgrym** — *The Foundry-Master*
+- Gulgrym Clan elder, 160s, massive, soot-stained, missing half his left ear
+- Runs the Great Foundry with quiet competence. Secretly sympathizes with the Bronr'n Legacy but won't act unless he's certain of success — too many people depend on him.
+- **Quest Connection:** Can provide access to the Deep Mines and technical knowledge about the Adamant Foundations' structure. If the party earns his trust, he'll provide tools and a distraction (a controlled foundry "accident" that draws the King's Enforcers away from the lower levels).
+
+**Marga Stonefist** — *Voice of the Forgotten*
+- Gatestone Dwarf female, 130s, lean and hard, eyes like nails
+- Unofficial leader of the Gatestone Clans' resistance. She doesn't dream of reform — she dreams of revolution. She's been mapping the Abandoned Deeps for years, looking for leverage.
+- **Quest Connection:** Knows the Abandoned Deeps better than anyone alive. Can guide the party to the Adamant Foundations — but she wants payment: when the party leaves Kharnzarak, she wants them to carry a message to the surface Dwarves (the Wandering Kin, the Elm-korin) telling them the gates can be opened from within.
+
+#### Sidequests in Kharnzarak
+
+**"The Forge-Test" (Social/Skill Challenge)**
+- **Hook:** To move freely in the Guild Halls, the party needs to pass as Gatestone workers. But Gatestone Dwarves are identifiable by their calluses, their smell (sulfur and iron), and their knowledge of mining procedures. Delva can provide papers, but the party needs to pass a spot-inspection.
+- **Challenge:** A series of social and knowledge checks: Deception [Cunning] **Hard (◆◆◆)** to maintain the disguise, Knowledge — Engineering [Intellect] **Average (◆◆)** to answer technical questions, Athletics [Brawn] **Average (◆◆)** to demonstrate mining technique, and a Discipline [Willpower] **Hard (◆◆◆)** to resist the Deep Measure's ambient compulsion to submit to authority.
+- **Failure consequence:** The Enforcers become suspicious. Increased patrols in the Guild Halls. Future Stealth checks in the area add a Setback die.
+- **Reward:** 10 XP, freedom of movement in the Guild Halls, Korrin's grudging respect.
+
+**"The King's Madness" (Investigation/Lore)**
+- **Hook:** Korrin confides that the King's behavior has worsened dramatically in the past year. He's issuing contradictory edicts. He forges the same blade over and over — a perfect replica of the Crown of the Mountain's centerpiece — then destroys it and starts again. Something is wrong.
+- **Investigation:** The party can access the King's Forge (Stealth [Agility] **Daunting ◆◆◆◆** or Deception [Cunning] **Hard ◆◆◆** with Farrazul's help). Inside, they find dozens of destroyed blade replicas — and on the King's workbench, sketches. Not of the Crown of the Mountain. Of something else. Four interlocking shapes. The King is unconsciously drawing the Crown of the Ulzammar. The Deep Measure is calling to him in his sleep.
+- **Reward:** 15 XP. Critical evidence that the Crown piece is real and is affecting the King directly. This can be used to convince Korrin, Marga, or even Mazrek to help.
+
+**"The Sealed Archive" (Exploration/Puzzle)**
+- **Hook:** Elder Varn in the Rune-Archive mentions that the forbidden Ulzammar records were sealed in a sub-vault "beneath the third pillar" centuries ago. He's too old and blind to retrieve them himself, but he can describe the location and the ward-mechanism.
+- **The Vault:** A small chamber sealed by a Dwarven rune-lock — a physical puzzle requiring the manipulation of stone gears in a specific sequence (Skulduggery [Cunning] **Hard ◆◆◆** or Knowledge — Engineering [Intellect] **Average ◆◆** if a Dwarf character assists). Inside: stone tablets describing the Adamant Foundations in detail, including a map to the Deep Measure's chamber and the chilling note: *"It was here before us. We built upon it. Perhaps it built upon us."*
+- **Reward:** 15 XP. The map to the Adamant Foundations (essential for the main quest). Lore confirmation that the Dwarves have always known something was beneath them — and chose to forget.
+
+**"Marga's Price" (Social/Moral)**
+- **Hook:** Marga Stonefist will guide the party to the Adamant Foundations, but first, she wants proof of their commitment. She asks them to sabotage a specific mine shaft — one that the Barazkor Clan uses to extract gold for the King's personal vault. Collapsing it would humiliate the throne and embolden the Gatestone resistance.
+- **The Dilemma:** The sabotage is relatively easy (Athletics [Brawn] **Average ◆◆** to weaken the supports, then a controlled detonation). But the shaft is active — Gatestone miners work there. Marga says she'll clear them out, but the timing is tight. If the party delays or botches the timing, miners could be trapped or killed.
+- **Resolution Options:**
+  - Complete the sabotage cleanly: Marga guides them. +1 Bronr'n Legacy rep, but the Barazkor increase patrols.
+  - Refuse and find another way to earn Marga's trust (complete "The King's Madness" sidequest and show her the sketches — proof that something IS wrong with the throne): Marga guides them without the sabotage. Slower, but cleaner.
+  - Sabotage but warn the miners yourself: Marga is furious (you compromised her plan) but respects the moral conviction. She guides them, grudgingly.
+- **Reward:** 10 XP, Marga's guidance to the Foundations.
+
+#### Main Quest: The Deep Measure
+
+**The Problem:**
+The Deep Measure is embedded in the crystalline bedrock at the Adamant Foundations — the absolute root of the mountain. Its field of Control radiates upward, reinforcing rigid hierarchy, obedience, and isolation throughout the kingdom. Removing it will:
+1. Immediately destabilize the King's mental state (for the better — the paranoia lifts, but the withdrawal may cause confusion and vulnerability)
+2. Weaken the mountain's structural integrity in the deep levels (the Measure's energy has been holding unstable geology in place)
+3. Shatter the invisible social order that keeps the caste system functioning — the Gatestone Clans will feel the compulsion lift and may revolt immediately
+
+**Path 1: The Deep Descent** (Recommended — Most Content)
+Navigate the Abandoned Deeps, breach the Adamant Foundations, and extract the Deep Measure.
+
+*THE ADAMANT FOUNDATIONS (Dungeon — 3–4 sessions)*
+
+**Approach — The Abandoned Deeps:**
+Below the active mines, the tunnels become ancient, unstable, and dark. Marga (or the party's own mapping from the Sealed Archive) guides them through collapsed passages, flooded chambers, and zones where the stone itself seems to resist intrusion.
+
+**Hazards:**
+- **Collapse zones:** Weakened ceilings that threaten cave-ins (Perception [Cunning] **Average ◆◆** to spot, Coordination [Agility] **Hard ◆◆◆** to dodge falling stone; damage 10 on failure)
+- **Rust-Gas pockets:** Invisible, odorless gas that corrodes metal (Survival [Cunning] **Hard ◆◆◆** to detect; undetected, metal equipment degrades — weapons lose 1 damage, armor loses 1 soak until repaired)
+- **Deep Tremors:** The mountain shudders periodically. Each tremor: Resilience [Brawn] **Average (◆◆)** or become Disoriented for 1 round
+
+**Level 1 — The Drowned Galleries:**
+Flooded tunnels from the Earthwake of SA 1200. Knee-to-chest-deep water, cold, dark. Ancient Dwarven carvings on the walls — depicting the founding of Kharnzarak, the raising of the Adamant Throne, and — on the oldest, deepest wall — a shape beneath the mountain. Four interlocking curves. The Crown.
+
+**Encounter:** **Stone-Lurkers** — blind, pale, crab-like creatures that have evolved in the lightless deeps for centuries. They attack vibration sources (movement, speech, metalwork). 2 groups of 4 [Minion groups].
+
+> **STONE-LURKERS** [Minion group]
+> **Brawn 3 | Agility 3 | Intellect 1 | Cunning 2 | Willpower 1 | Presence 1**
+> Soak: 4 (chitinous shell) | Wounds: 5 each
+> **Skills (group):** Brawl, Stealth, Perception
+> **Abilities:** *Tremor-Sense* — detects movement within Medium range through vibration. Cannot be surprised by moving creatures. *Ambush* — add a Boost die to first attack from hiding.
+> **Equipment:** Mandibles (Brawl; Damage 6; Crit 3; Engaged; Pierce 1)
+
+**Level 2 — The Threshold:**
+The transition from Dwarven to First Age architecture. The stone changes — darker, smoother, with the same unsettling mathematical precision the party has seen before. The temperature drops. Sound carries strangely. The ambient hum of the Deep Measure is audible now — not a sound, but a vibration in the bones.
+
+**The Control Field Intensifies:**
+From this point, all characters make a **Discipline [Willpower] check, Hard (◆◆◆)** every 30 minutes or suffer Control Exposure:
+
+| Level | Effect |
+|-------|--------|
+| 1 | Must obey the last direct order given by any authority figure (resist with Discipline **Hard ◆◆◆**) |
+| 2 | Cannot initiate actions that contradict established hierarchy. Must wait for permission to act. |
+| 3 | Compelled to kneel and submit. Cannot attack the "rightful ruler" (the nearest authority figure). Discipline **Daunting (◆◆◆◆)** to act freely. |
+| Recovery | Leaving the Foundations removes all levels over 10 minutes. A Triumph on any Discipline check removes 1 level. |
+
+**Puzzle:** A massive stone door inscribed with Ulzammar notation — similar to the Vault of Still Measure in the Whispering Vales. The inscription reads: *"Only the unruled may pass."* The door opens for characters who are NOT under Control Exposure. Characters at level 1+ find the door immovable. This forces the party to manage their exposure carefully — someone must stay "free" to open the way.
+
+**Level 3 — The Chamber of the Deep Measure:**
+A hemispherical cavern of First Age stone. At its center, a crystalline formation rises from the bedrock like a frozen geyser — dark crystal shot through with pale metallic veins, identical in composition to the Ulzammar Band. The Deep Measure sits within this formation, pulsing with slow, metronomic certainty.
+
+The chamber is beautiful and terrible. The symmetry is perfect. The silence is total. Standing here, the party feels the full weight of the Crown piece's domain: **absolute, unquestionable order.** It is not malicious. It is simply *correct.* The strongest voice in every character's mind says: *"This is where you belong. Kneel. Serve. Be still. Be perfect."*
+
+**Guardian:** The Deep Measure is guarded not by a creature but by a **Law-Echo** — a semi-sentient manifestation of Kael'Zorai's will, shaped by 1,500 years of Dwarven culture into the form of a massive, stern Dwarven king in adamant armor. It does not speak. It judges. Characters who fail a **Discipline [Willpower] check, Formidable (◆◆◆◆◆)** upon entering the chamber are Staggered for 1 round by the sheer psychic weight of its authority.
+
+> **LAW-ECHO** [Nemesis]
+> *Construct (Divine Echo), shaped by Dwarven cultural resonance*
+> **Brawn 5 | Agility 2 | Intellect 3 | Cunning 2 | Willpower 5 | Presence 5**
+> Soak: 8 (adamant form) | Wounds: 25 | Strain: 18 | Defense: 2/0
+> **Skills:** Brawl 4, Coercion 4, Cool 4, Discipline 5, Melee 4, Resilience 4, Vigilance 3
+> **Talents:** Adversary 3, Durable 3, Enduring 3
+> **Abilities:**
+> *Aura of Authority:* All creatures within Short range add 2 Setback dice to checks that defy authority, break rules, or act independently. Characters who have resisted Control Exposure reduce this to 1 Setback die.
+> *Edict:* As an action, the Law-Echo issues a command (Coercion [Willpower] vs. target's Discipline [Willpower]). On success, the target must obey a single simple command ("Stop," "Kneel," "Drop your weapon") for 1 round.
+> *Adamant Strike:* Melee; Damage 12; Crit 2; Engaged; Concussive 2, Sunder. On a Triumph: the target gains 1 level of Control Exposure.
+> *Immutable Form:* The Law-Echo halves damage from all non-magical sources before soak. It cannot be moved, knocked down, or repositioned by any force.
+> *Shatter the Unruled:* Once per encounter, the Law-Echo channels the Deep Measure's full power in a Medium range pulse. All creatures: **Discipline [Willpower], Formidable (◆◆◆◆◆)** or gain 2 levels of Control Exposure and suffer 10 strain.
+> **Weakness:** Characters who have overcome ALL levels of Control Exposure (reached level 3 and recovered through successful checks) are "proven unruled" — the Law-Echo's Aura of Authority does not affect them, and their attacks deal +3 damage to the Echo. The chamber punishes obedience and rewards defiance.
+> **Equipment:** Adamant warhammer (see Adamant Strike above)
+
+**The Extraction:**
+Once the Law-Echo is defeated (or — for very clever parties — bypassed by proving every party member "unruled"), the Deep Measure can be extracted. It resists — the crystalline formation cracks and groans as the piece is pulled free. The mountain shudders. Dust falls from the ceiling.
+
+**Immediate Consequences:**
+- The tremors intensify. The party has approximately 1 hour to ascend before the deep levels become dangerously unstable.
+- Above, the social order cracks. Gatestone workers put down their tools and refuse orders for the first time in living memory. Barazkor Enforcers respond with force. The beginnings of revolution.
+- The King staggers from his forge, blinking, confused. The fog is lifting. He says to no one in particular: "What... what year is it?"
+
+**Path 2: The Political Overthrow**
+Convince Lord Mazrek Farrazul to stage a coup against Thorgar VII. In the chaos of regime change, the party descends to the Foundations while every Enforcer is occupied above. Faster, but Mazrek takes the throne — trading one form of control for another. The Deep Measure is extracted, but Kharnzarak's future is darker.
+
+**Path 3: The Smash-and-Grab**
+No subtlety. Fight through every level, smash the Law-Echo, take the piece, and flee. Possible with a high-power party but devastatingly costly. Every Enforcer in the kingdom is on alert. The party leaves behind a trail of casualties and a kingdom in chaos — not reform, just destruction.
+
+> **Faction Standing Changes — Arc B:**
+> - Kharnzarak (Bronr'n Legacy): Variable (+2 for Deep Descent with reform, +1 for Political Overthrow, -2 for Smash-and-Grab)
+> - Kharnzarak (Barazkor Throne): Always -1 or worse (the party violated the kingdom's most sacred law)
+> - Shadewalkers: +1 if the party used Grik's route (the Pale Ledger now knows how to enter Kharnzarak — valuable intelligence)
+> - Gearhaven: +1 if the party shares knowledge of the Adamant Foundations' technomantic potential with Elm-korin contacts
 
 ---
 
@@ -904,7 +1208,8 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | Faction | Requirement | Contribution |
 |---------|-------------|-------------|
 | **Gearhaven** | Rep 4+ | Thaelra sends a prototype airship — barely functional, held together by Gnomish ingenuity. Arcane cannon can breach the cathedral's outer defenses. |
-| **Pirate Confederacy** | Rep 4+ | Zara sends ships up the coast with ballistae and Wind-Shaped gales. Naval bombardment distraction + civilian evacuation from the wave's path. |
+| **Kharnzarak (Bronr'n Legacy)** | Rep 4+ | Delva and Korrin lead a strike team of Dwarven engineers and Gatestone fighters. They bring Dwarven steel, tunnel-warfare expertise, and — critically — runic tools that can interface with First Age architecture, allowing the party to bypass the cathedral's geometric defenses. |
+| **Captain Drest** | Survived + witnessed the Fifth Harmony | Drest and his remaining pirates switch sides. They provide fast-attack harassment, diversionary raids, and a ship for evacuation. "I signed on to steal trinkets, not to watch the world die standing up." |
 | **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
 | **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. |
@@ -1003,7 +1308,8 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 |---------|-----------|-------------------|
 | **Lux Aeterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Aeterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Aeterna survives regardless, but the players never learn what happened to the people they left behind. |
 | **Gearhaven** | Thaelra sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
-| **Pirate Confederacy** | Zara sends a barrel of rum and a note: "You owe me a lighthouse." Relations are tense but alive. The Confederacy endures. | Without the Eye, the Mirennian blockade crushes Serpent's Tooth within two years. The pirates scatter. The Code of the Coast dies. |
+| **Kharnzarak** | The gates crack open — for the first time in 90 years. Thorgar VII, clear-eyed and shaken, issues a single edict: "We were sealed by fear. We will open by choice." Trade resumes. The Bronr'n Legacy is legitimized. The Gatestone Clans gain representation on the Stone-Lay Council. It will take generations, but the mountain is breathing again. | Thorgar VII's paranoia returns without the Deep Measure — but differently. He becomes erratic, violent. Mazrek stages a coup. Kharnzarak enters civil war. The gates remain sealed, now by conflict rather than decree. |
+| **Captain Drest** | If he survived and fought alongside the party, Drest sends a message via Azure Hand courier: "I broke my contract for you. The Shadewalkers want my head. Worth it. If you need a ship, you know where to find me." He becomes a permanent ally — a free captain beholden to no one. | If Drest was killed or never turned, the Pale Ledger hires a new pirate captain. The cycle continues. |
 | **Waldkyn** | Sprout (the Ribbet child) sends a letter carried by a Faerie messenger: "The trees are singing again. Come play." The Stillwood retreats. The Vales heal. | The Stillwood reaches the Harmony Oak within four years. The Waldkyn flee. The Vales become the largest Stillwood zone on the continent — a wound that will not heal for centuries. |
 | **Orkin** | Grukka carves the party's names into a bone-totem and places it in the Barren Hills where the cathedral stood. "You fought for a world that never fought for us. We will remember." The Whisper-Shamans gain influence among the clans, tempering the Bloodied Fist's rage. | The Varr-Darg return to their cycle of violence. Nothing changes for the Orkin. It never does. |
 
@@ -1033,8 +1339,8 @@ Somewhere, a bird sings.
 | Crystal Golem | Construct | Rival | Resonance Pulse stun, Shard Burst | Crystal Deep |
 | Geode Warden | Construct | Nemesis | Regeneration in geode, negotiable | Crystal Deep |
 | Maw-Borer | Monstrosity | Rival | Burrow, acid, attracted to mana | Novaterra jungle |
-| Reef-Lurker | Aberration | Rival | Ambush, swim, transparent camouflage | Drowned Halls |
-| Tide-Wraith | Aberration | Nemesis | Drowning Embrace, Tidal Surge, Scar regeneration | Drowned Halls |
+| Stone-Lurker | Beast | Minion | Tremor-sense, ambush, blind | Kharnzarak Abandoned Deeps |
+| Law-Echo | Construct (Divine) | Nemesis | Aura of Authority, Edict, Adamant Strike, Immutable Form | Adamant Foundations |
 | Stillness Sentinel | Construct | Nemesis | Aura of Stillness, Orderly Strike, Perfect Defense | Vault of Still Measure |
 | Chrono-Sentinel | Construct | Rival | Time manipulation, Immobilize/Extra maneuver | Cathedral of Geometry |
 | Silence Wraith | Aberration | Rival | Feeds on sound, empowered in silence zones | Cathedral of Geometry |
@@ -1063,7 +1369,8 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Lux Aeterna | 4 | | | | | |
 | Legio Null | 1 | 1 | 1 | 1 | 1 | |
 | Azure Hand | 3 | | | | | |
-| Pirate Confederacy | 3 | 3 | | | | |
+| Kharnzarak (Bronr'n) | 2 | 2 | | | | |
+| Kharnzarak (Throne) | 1 | 1 | | | | |
 | Gearhaven | 3 | 3 | | | | |
 | Waldkyn Quiet Vales | 3 | 3 | | | | |
 | Lothari Silent Network | 3 | | | | | |
@@ -1085,11 +1392,15 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Pip Sprocket | Chief engineer | Gearhaven | Cheerful, scattered, brilliant |
 | Sergeant Hrothgar | Militia commander | Gearhaven | Gruff, pragmatic, protective |
 | Tinker Gaz | Sand Gnome inventor | Gearhaven | Ancient, perceptive, cryptic |
-| Zara "Salt-Blood" Vane | Pirate captain-general | Serpent's Tooth | Magnetic, decisive, just |
-| Drest "Three-Fingers" Moray | Rival pirate captain | Serpent's Tooth | Blunt, ambitious, honest |
-| The Drowned Sage | Shadewalker archivist | Serpent's Tooth depths | Pedantic, lonely, precise |
-| Mama Bones | Tavern matriarch | Serpent's Tooth | Immovable, knowing, warm |
-| Vyra Scale-Speaker | Exiled Drakona advisor | Serpent's Tooth caves | Cautious, wise, grieving |
+| High King Thorgar VII | Controlled monarch | Kharnzarak | Brittle, gifted, crumbling |
+| Lord Mazrek Farrazul | Ambitious clan lord | Kharnzarak | Smooth, pragmatic, dangerous |
+| Delva Bronr'n-Kith | Bronr'n Legacy mole | Kharnzarak Trade-Gate | Nervous, brave, fast-talking |
+| Korrin Gulgrym | Foundry-Master | Kharnzarak Guild Halls | Quiet, competent, cautious |
+| Marga Stonefist | Gatestone resistance leader | Kharnzarak Lower Deep | Hard, fierce, revolutionary |
+| Commander Thalric | Legio Null hunter | Mainland (pursues) | Polite, professional, remorseless |
+| The Pale Ledger | Shadewalker operative | Mobile (everywhere) | Unremarkable, omniscient, patient |
+| Drest "Three-Fingers" Moray | Pirate mercenary | Mobile (pursues) | Blunt, pragmatic, turnable |
+| Krag-Vosk the Unbroken | Bloodied Fist war-priest | Barren Hills (mobile) | Devout, terrifying, sincere |
 | Root-Speaker Elm-Thara | Stillwood Circle elder | Whispering Vales | Patient, immovable, ancient |
 | Branch-Speaker Kethra | Flowing River leader | Whispering Vales | Quick, frustrated, hopeful |
 | Ash-Claw | Kyn-Clan war-chief | Whispering Vales border | Intense, certain, turnable |
