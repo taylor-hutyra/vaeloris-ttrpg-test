@@ -1,19 +1,61 @@
-# World Builder data stores (regenerated from markdown via `wb.py sync`)
+# ──────────────────────────────────────────────
+# World Builder — derived data stores
+# (regenerated from markdown via `wb.py sync`)
+# ──────────────────────────────────────────────
 _meta/wb.db
 _meta/wb-graph.json
 _meta/chroma/
 
-# Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Python
+# ──────────────────────────────────────────────
+# Python virtual environment & bytecode
+# ──────────────────────────────────────────────
+_meta/.wb-venv/
+.venv/
 __pycache__/
 *.pyc
-.venv/
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
 
+# ──────────────────────────────────────────────
+# Benchmark & throwaway scripts
+# ──────────────────────────────────────────────
+_meta/store-benchmark*.py
+_meta/store-benchmark*.json
+_meta/migrate_relationships.py
+
+# ──────────────────────────────────────────────
+# Obsidian
+# ──────────────────────────────────────────────
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlink.json
+
+# ──────────────────────────────────────────────
+# OS junk
+# ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# ──────────────────────────────────────────────
+# Secrets & environment
+# ──────────────────────────────────────────────
 .env
+.env.*
+*.key
+*.pem
+
+# ──────────────────────────────────────────────
+# Editor / IDE
+# ──────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
