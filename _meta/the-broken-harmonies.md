@@ -761,6 +761,49 @@ These optional quests establish the world, bond the players to the community, an
 
 ---
 
+### Before Session 1: Making Lux Aeterna Home
+
+The campaign's emotional cost of leaving Lux Aeterna is proportional to how much the players came to love it. These five micro-scenes happen before the first external crisis — woven into the natural flow of the players arriving, getting their bearings, and taking their first job. They are not optional. They are load-bearing.
+
+Run them organically over the first session or early downtime. None require skill checks. None have plots. They are people being people, and that is the whole point.
+
+**Marta's First Refusal**
+The first time a player tries to pay for a meal at the Dusty Lantern, Marta waves it off. "First week's on the house." If pressed on why:
+
+*"Someone did that for me once, when I first got here. I didn't have anything. She said I could pay her back by doing it for the next person. I never got her name — she was burned in Argentum's Silver Square, two years later."* She sets the pitcher down. *"So. First week's on the house."*
+
+She turns back to the kitchen. She doesn't want anything said in response. Let the silence sit.
+
+**Hask's Test**
+If players spend time in the alchemist's workshop, Hask demonstrates a new healing draught by drinking it himself first — then watching his own face in a piece of polished metal before handing the bottle over. "I don't sell what I haven't tried. Too many people already trusted strangers with their lives."
+
+He doesn't say what he means by that. He doesn't need to.
+
+**Aldric's Schoolroom — Petra**
+A 10-year-old girl named **Petra** sits outside the schoolroom alone when the players pass. Soot-marks on her fingers that don't wash off. She's trying very hard not to look at anything flammable.
+
+She manifested sparks two weeks ago. She hasn't been back inside since. She's afraid of what she might do.
+
+If a player speaks to her, she doesn't want reassurance — she's already past that. She wants to know if it *gets better.* If people learn to live with it, or if it's always like this, always one bad moment away from disaster. The player can answer honestly, lie, or say nothing. Whatever they say, she nods like she expected it, and goes back inside.
+
+**Remember Petra.** She appears in one more beat (The Night the Lantern Was Full) and then vanishes into the chaos of Act I's end. Players who did the sidequests and talked to her will think about her when they hear about the children in Gearhaven. They will think about her more when they see what the Fifth Harmony does to people who were just starting to believe the world had room for them.
+
+**Sabel's Ledger**
+The first time Warden Sabel formally meets the players — probably when briefing them on their first assignment — she asks each player's name, writes it in a small leather ledger, and asks without inflection: "Next of kin? Anyone we should notify if something happens out there?"
+
+Most players in Lux Aeterna have no one. She knows this. She's asking because everyone who passes through this settlement deserves to have their name written down by someone who will check for them when they're late.
+
+The ledger reappears in Act III.
+
+**The Thing About Cira**
+Old Cira tells fortunes for food or wine. But she also, occasionally, says something to a stranger with no preamble and no explanation.
+
+One player — the GM's choice, or whoever seems most guarded — walks past her mat and she says, without looking up: *"You've been carrying that since you were twelve. It's lighter than you think."*
+
+She will not clarify. She will not acknowledge she said it. The player will spend sessions trying to figure out what she meant. Eventually they'll realize she was right.
+
+---
+
 ### Session 1: "The Desert Gives Nothing for Free"
 
 **Setup:** The players are a relic-hunting crew working for Rennick Thale. Three days ago, he sent a mining team to investigate a promising Mana-Crystal vein in the desert foothills — near a mapped but unexplored First Age ruin. The team hasn't checked in. Rennick sends the players to find them.
@@ -880,6 +923,24 @@ While waiting for Ink's analysis, the players have free time. Use this to run si
 | **Shop** | — | See Shopping table above |
 | **Play Bone-Dice at the Lantern** | Skulduggery (Cunning) vs. opposed check | Win or lose 5–10 Sparks; hear rumors from fellow gamblers |
 
+**The Night the Lantern Was Full**
+
+Run this scene on the last evening of the downtime period, before the mirror-charms begin to flicker. It is the settlement at its most alive. Introduce it deliberately:
+
+*"Before you sleep — let me show you what the evenings look like here, when things are good."*
+
+Walk the players through the settlement. These are things they can see if they look:
+
+- The Dusty Lantern is packed. Someone has a drum. A Halfling woman is dancing on a table, badly and joyfully. Marta is watching from behind the counter with an expression she doesn't know she's making.
+- Aldric is outside reading to six children by firelight. Petra is sitting closest to the light, which she used to avoid. She's not looking at her hands.
+- Hask is standing at the canyon rim, alone, watching the stars, holding a cup of tea he hasn't drunk. He's been there for an hour.
+- Sabel is doing weapons checks on the militia's crossbows, one by one, making a small sound of approval each time one is right. She's checked them all twice already. This is how she sits still.
+- Old Cira, in the dark, is humming louder than usual. If a player approaches, she stops. She says: *"Don't forget this. Whatever comes — don't forget what this felt like."* Then she starts humming again.
+
+No skill checks. No plot. This is a single breath before everything changes.
+
+The next morning, the mirror-charms fail.
+
 *Rumor Table (d8):*
 
 | Roll | Rumor | True? |
@@ -908,6 +969,29 @@ Read or paraphrase the Architect's speech from the existing campaign plan (Part 
 3. It claims to be a servant of the Four, left behind to watch
 4. It gives them the Resonance Compass
 5. It tells them the fragments must be brought to a "wound in the world" to be unmade
+
+**The Personal Address — What It Knows**
+
+After the key beats, before it gives the Compass, the Architect looks at each character in turn and says something specific — something true about each person's wound. It does not ask these things. It simply knows them, with the certainty of something that has been watching for a very long time.
+
+Adapt these to the players' actual backgrounds and histories as established in session zero:
+
+| Background | What the Architect Says |
+|------------|------------------------|
+| **Persecuted Mage** | *"You have been running since [the year they fled]. I know what that costs. I know you sometimes wonder whether the running is worth more than what you left behind. It is. You are worth more than what they tried to burn out of you."* |
+| **Lothari Dreamer** | *"Your vision was real. You saw the pattern forming before anyone else — that is why you came here. You were always going to find this Band. Something called you because something knew you would answer."* |
+| **Thulkor'n Exile** | *"Your clan did not fail you. The world failed your clan. There is a difference, and you have been punishing yourself for a wound someone else inflicted. That ends now."* |
+| **Mirennian Deserter** | *"The order you refused was wrong. You knew it the moment you heard it. Trust that knowing — it is the only faculty you possess that has never lied to you. It is why I came to you."* |
+| **Waldkyn Wanderer** | *"The Vales are suffering. You knew it before you left — that is why you left. The answers you needed were never there. They were here. They were always going to be here."* |
+| **Orkin Outcast** | *"They called it integration. They meant submission. You were right to refuse. You were right about all of it, and you were right before you had words for why."* |
+| **Halfling Wayfinder** | *"The road your family travels is a circle. It returns to comfort, to safety, to the same stories told in the same taverns. You are the first of your line who wanted something the road couldn't give you."* |
+| **Gnomish Integrator** | *"The disturbance you came to study was not anomalous. It was a summons. The pattern has been waiting for minds like yours to find it. You did not choose this work. It chose you."* |
+
+These words should feel like relief. Like being seen after years of invisibility.
+
+**Note for the GM:** This is calculated. Every sentence is precisely targeted to lower defenses — the Architect has been watching through Miravel's network, through the Resonance Compass it already prepared, through 1,500 years of learning to read mortal fear. The warmth in these words is instrumentalized. But the words themselves are *true.* That is what makes this moment dangerous — and what makes the betrayal, later, cut so deep.
+
+A single Perception check, **Hard (◆◆◆)**, lets a player notice: these words are perfectly tailored to each person, delivered without hesitation, with zero errors. A therapist would call this skill. A spy would call it targeting.
 
 **NPC Reactions:**
 - **Rennick:** Awed and skeptical in equal measure. "That's either a god or the best con I've ever seen. Either way, I'd listen."
@@ -959,6 +1043,21 @@ The chase from Lux Aeterna to the coast should feel like a war-movie extraction.
 - Open terrain with no cover. The party must cross a vast, flat expanse of salt-crusted earth before reaching the Lothari waystation on the far side.
 - A sandstorm builds on the horizon (natural weather). The party can try to outrun it (Resilience [Brawn] checks, strain risk) or shelter and let the storm cover their tracks (lose time but add a Boost die to Stealth for the next leg).
 - **Encounter Option:** Mid-crossing, the Resonance Compass activates — pulsing hard toward the southeast (the direction of Novaterra). The Band grows warm. For one moment, the players feel a presence watching them — vast, patient, pleased. The Architect speaks in their minds: *"You're doing the right thing. Don't stop."*
+- **The People Left Behind (emotional encounter — run mid-crossing):** As the party crosses the open flats, they spot movement: three figures from Lux Aeterna, moving on the same bearing. They heard about the evacuation late and are following the party's route south. The GM should name at least one. If the players completed "The Missing Miner" sidequest, one of them is **Goss** — the miner they rescued. If not, it's **Tomas**, a young supply worker from the Veiled Market who once gave a player directions without being asked.
+
+  The Sand-Riders on the ridge have also spotted them. The civilians are exposed in the open. The riders are closing.
+
+  **The Choice (no skill check — this is a moral decision):**
+  - *Go back for them:* Add a Setback die to the party's next Survival or Stealth check (lost time). But you might save all three.
+  - *Signal them to scatter:* Roll openly — on 1–3 (Genesys dice, one Ability die), they find cover in time; on 4–6, one is caught.
+  - *Keep moving:* All three are likely caught. The party hears it happen. They cannot stop and look back.
+
+  Whatever the players choose, at least one person from Lux Aeterna does not make it out of the Salt Flats. The players witness this or hear this. They have to keep moving.
+
+  This is not about guilt. The players made the best choice under real pressure. It is about cost — the cost of being the person carrying the thing that everyone is chasing. There is no version of their situation that doesn't leave someone behind. The Architect never mentioned that part.
+
+  *Payoff:* If Goss/Tomas was caught, a letter from a Mirennian contact arrives in Act II: a prisoner was released without charge after months of interrogation — insufficient evidence of magic. They're alive. If Goss/Tomas was saved, they arrive in Gearhaven three months later via the Azure Hand route. They find the players. They are alive because someone went back.
+
 - **Decision Point:** Kael spots something troubling — a second set of tracks. Another patrol. The Legio Null is boxing them in. Kael knows a shortcut through Lothari sacred territory (faster but risky — the Silent Network guards their secrets with lethal force), or the party can try to punch through the patrol (direct combat with 6 Sand-Riders and Commander Thalric).
 
 **Leg 3: The Coastal Approach (Day 3)**
@@ -994,6 +1093,27 @@ Vesper can take them to any of the three.
 The players on the *Silk Dagger*, watching the mainland's cliffs shrink behind them. The sunset paints the desert gold. Somewhere behind them, Lux Aeterna survives — but barely. They carry the Band, the Compass, and the Architect's mission. They are hunted by the Legio Null, indebted to Mirennian smugglers, and guided by a being of light they have no reason to distrust.
 
 Yet.
+
+**What the Last Shot Looks Like:**
+The desert. Orange light. Kael standing on the cliff watching the ship go, because Kael stayed — they belong to this coast and this is where the Silent Network needs them. A player might look back. Let them see Kael raise one hand.
+
+Then the cliffs curve and there's only ocean.
+
+**Seeds Planted in Act I — Payoffs in Act II and III**
+
+The GM should explicitly track these during Act I so they can be deployed at the right moments:
+
+| What happens in Act I | When it pays off |
+|----------------------|-----------------|
+| **Marta's story** (the woman who was burned in Argentum) | In the Act III epilogue: Marta kept the Lantern running through everything. She still doesn't charge first-week refugees. The cycle continues. |
+| **Petra** (spark-touched girl outside the schoolroom) | First mention in Act II downtime via letter. Second appearance: if Sabel's team is present in Act III, Petra is one of the eight battle-mages. She is not afraid of herself anymore. |
+| **Sabel's ledger** | She still has it in Act III. All the players' names are in it. So are the names of people who didn't make it. |
+| **Old Cira's "don't forget this"** | When the players return to the mainland for Act III, the first thing the GM should invoke is that memory. What the Lantern felt like. What the canyon smelled like. It was home. |
+| **Hask's self-test** ("I don't sell what I haven't tried") | In Act II, when the players are weighing trusting the Architect, someone might remember Hask's words and realize: they have been taking the Architect's word for everything without testing anything. |
+| **The Architect's personal address** | In Act III, when the Architect says "Thank you," those same cadences echo. The comfort was real. The use was also real. Every word it said was a key cut to fit a specific lock. |
+| **Goss/Tomas (Salt Flats — caught or saved)** | See above. The result of the players' choice returns to them in Act II. |
+| **Kael raising their hand on the cliff** | If Kael reappears in Act II or III, no grand reunion. Just: they're there. That's enough. |
+| **Cira's "it's lighter than you think"** | When a character finally understands what they've been carrying — their wound, their fear, their background's through-line question — this is the moment. It probably happens during or after the final confrontation. Cira was right. She's always right. |
 
 > **Faction Standing Changes — Act I:**
 > - Lux Aeterna: +1 (max 5) if the players chose to leave willingly; unchanged if they had to be convinced
