@@ -1,32 +1,47 @@
 ---
 wb-type: person
 wb-id: clever-jeni-pipkin
-name: "Clever Jeni Pipkin"
-aliases: [Clever Jeni]
-species: "[[Halflings]]"
+name: Clever Jeni Pipkin
+aliases:
+- Clever Jeni
+species: '[[Halflings]]'
 born: null
 died: null
-birthplace: "[[Greenmeadow]]"
-residence: "[[Greenmeadow]]"
-faction: "[[Hearthfolk Commonwealth]]"
-role: "Folklore figure, conflict resolver, trickster-diplomat"
+birthplace: '[[Greenmeadow]]'
+residence: '[[Greenmeadow]]'
+faction: '[[Hearthfolk Commonwealth]]'
+role: Folklore figure, conflict resolver, trickster-diplomat
 title: null
 gender: female
 relationships:
-  - target: "[[Halflings]]"
-    type: cultural-icon
-    note: "Star of 'Clever Jeni and the Grumpy Giant' and dozens of other fireside tales"
-  - target: "[[Greenmeadow]]"
-    type: resident
-    note: "Based in the Halfling heartland"
+- target: '[[Halflings]]'
+  type: related
+  metadata:
+    description: Star of 'Clever Jeni and the Grumpy Giant' and dozens of other fireside tales
+    nature: cultural icon
+- target: '[[Greenmeadow]]'
+  type: located-in
+  metadata:
+    description: Based in the Halfling heartland
+- target: '[[Granny Pip]]'
+  type: custom
+  metadata:
+    description: 'cultural-complement: Where Jeni is the trickster, Granny Pip is the sage'
+- target: '[[Greenmeadow]]'
+  type: contains
+  metadata:
+    description: Based in the Halfling heartland
 timeline:
-  - period: "SA:1000-"
-    event: "Became the subject of an ever-growing cycle of folklore tales celebrating Halfling wit and diplomacy"
-tags: [person, halfling, hearthfolk, folklore]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1000-
+  event: Became the subject of an ever-growing cycle of folklore tales celebrating Halfling wit and diplomacy
+tags:
+- person
+- halfling
+- hearthfolk
+- folklore
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Clever Jeni Pipkin
 
 **Clever Jeni Pipkin** -- universally known simply as **Clever Jeni** -- is the most beloved figure in [[Halflings|Halfling]] folklore, the star of an ever-growing cycle of fireside tales in which a small, unassuming [[Halflings|Halfling]] woman outwits giants, confounds tyrants, and resolves seemingly impossible conflicts through a combination of sharp thinking, generous hospitality, and the quiet confidence that comes from knowing you have already put the kettle on.

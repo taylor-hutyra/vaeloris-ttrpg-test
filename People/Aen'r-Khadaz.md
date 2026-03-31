@@ -1,50 +1,110 @@
 ---
 wb-type: person
 wb-id: aen-r-khadaz
-name: "Aen'r-Khadaz"
-aliases: [The Deep Shaper, The First Rhythm]
+name: Aen'r-Khadaz
+aliases:
+- The Deep Shaper
+- The First Rhythm
+- A'rastheon
 species: divine
 born: null
 died: null
 birthplace: null
 residence: null
 faction: null
-role: "First Hand — the Deep Shaper, awakener of the world's bones"
-title: "The Deep Shaper"
+role: First Hand — the Deep Shaper, awakener of the world's bones
+title: The Deep Shaper
 gender: null
 relationships:
-  - target: "[[Dwarves]]"
-    type: creator
-    note: "His Pulse awakened the bedrock from which the Four Pillars shaped the Dwarves"
-  - target: "[[Aenareth]]"
-    type: co-creator
-    note: "Fellow First Hand — known as the Prime Voice to Elves, the Great Smith to Humans"
-  - target: "[[Kael'Zorai]]"
-    type: co-creator
-    note: "Fellow First Hand, later adversary in the Paroxysm"
-  - target: "[[Grom-Kain]]"
-    type: co-creator
-    note: "Fellow First Hand (Kael'Zorai in Orkin tradition)"
-  - target: "[[The Four Pillars]]"
-    type: venerated-by
-    note: "Central figure in Dwarven cosmology"
-  - target: "[[The Four Makers]]"
-    type: venerated-by
-    note: "Known as the Great Smith in Human tradition"
+- target: '[[Dwarves]]'
+  type: creator
+  metadata:
+    description: His Pulse awakened the bedrock from which the Four Pillars shaped the Dwarves
+- target: '[[A''rastheon]]'
+  type: identity
+  metadata:
+    description: Aen'r-Khadaz is the Dwarven cultural name for A'rastheon, the prime pre-existent creator
+- target: '[[Aenareth]]'
+  type: identity
+  metadata:
+    description: Elven cultural name for the same prime creator
+- target: '[[Kael''Zorai]]'
+  type: creator
+  metadata:
+    description: Fellow First Hand, later adversary in the Paroxysm
+    nature: collaborative
+- target: '[[Grom-Kain]]'
+  type: creator
+  metadata:
+    description: Fellow First Hand (Kael'Zorai in Orkin tradition)
+    nature: collaborative
+- target: '[[The Four Pillars]]'
+  type: worshipped-by
+  metadata:
+    description: Central figure in Dwarven cosmology
+- target: '[[The Four Makers]]'
+  type: worshipped-by
+  metadata:
+    description: Known as the Great Smith in Human tradition
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: United with other First Hands to seal Ulzammar — Dur'k Thul (the Fracture of Law)
+- target: '[[The Binding]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Participated in sealing Kael'Zorai
+- target: '[[The Great Withdrawal]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Withdrew from the physical plane — the Pillars folded back into the stone
+- target: '[[Grom-Kain]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' in Orkin tradition
+- target: '[[Kael''Zorai]]'
+  type: created-by
+  metadata:
+    description: Fellow First Hand (cultural name for A'rastheon)
+    nature: collaborative
+- target: '[[Grom-Kain Worship]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who betrayed Grom-Kain
+- target: '[[The Four Makers]]'
+  type: related
+  metadata:
+    description: The Great Smith corresponds to the Dwarven Deep Shaper — both are cultural names for A'rastheon
+    nature: parallel
+- target: '[[The Four Pillars]]'
+  type: worships
+  metadata:
+    description: The Deep Shaper who initiated the First Rhythm
+- target: '[[Dwarves]]'
+  type: created-by
+  metadata:
+    description: Dwarven cultural name for A'rastheon, the prime creator
 timeline:
-  - period: "FA"
-    event: "Awakened the bones of existence with the Pulse — the First Rhythm that rippled through the bedrock of the void"
-  - period: "FA"
-    event: "From the deep echoes of the First Rhythm came the Four Pillars of Craft"
-  - period: "FA"
-    event: "Participated in the sealing of Kael'Zorai during the Paroxysm"
-  - period: "SA:1"
-    event: "Withdrew from the physical plane in the Great Withdrawal"
-tags: [person, divine, first-hand, creator, dwarven-cosmology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Awakened the bones of existence with the Pulse — the First Rhythm that rippled through the bedrock of the void
+- period: FA
+  event: From the deep echoes of the First Rhythm came the Four Pillars of Craft
+- period: FA
+  event: Participated in the sealing of Kael'Zorai during the Paroxysm
+- period: SA:1
+  event: Withdrew from the physical plane in the Great Withdrawal
+tags:
+- person
+- divine
+- first-hand
+- creator
+- dwarven-cosmology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aen'r-Khadaz
 
 **Aen'r-Khadaz** — the **Deep Shaper** — is the Dwarven name for the primordial First Hand who initiated creation through the raw, percussive act of the **First Rhythm**. To the [[Dwarves]] of [[Vaeloris]], creation was not a song but a **strike**, a structure, and a weight. The world was formed by the Pulse of Aen'r-Khadaz, who awakened the bones of existence with a rhythm that rippled through the bedrock of the void.
@@ -77,7 +137,7 @@ Whether Aen'r-Khadaz and Aenareth are the same entity perceived differently, or 
 
 ## The Paroxysm
 
-The Dwarves remember the catastrophe of [[Kael'Zorai]]'s rebellion as **Dur'k Thul** — the Fracture of Law. They know the Sixth First Hand as **Ulzammar**, the Sealed Concept — a force of perfect, sterile order that sought to reduce the beautiful complexity of the Four Pillars to a single, rigid truth.
+The Dwarves remember the catastrophe of [[Kael'Zorai]]'s rebellion as **Dur'k Thul** — the Fracture of Law. They know the Fifth First Hand as **Ulzammar**, the Sealed Concept — a force of perfect, sterile order that sought to reduce the beautiful complexity of the Four Pillars to a single, rigid truth.
 
 Aen'r-Khadaz and the other First Hands united to seal Ulzammar away, but the cost was the **Great Withdrawal**. The Pillars folded back into the stone. The forges went briefly cold. The rhythm of the deep places faltered, and for the first time, the Dwarves stood alone in the silence of their halls.
 

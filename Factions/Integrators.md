@@ -1,46 +1,44 @@
 ---
 wb-type: faction
-wb-id: "integrators"
-name: "Integrators"
+wb-id: integrators
+name: Integrators
 aliases:
-  - "New-Growth School"
-type: "philosophical"
+- New-Growth School
+type: philosophical
 founded: null
 dissolved: null
-headquarters: "[[Mycohollow]]"
+headquarters: '[[Mycohollow]]'
 leader: null
 territory:
-  - "[[Mycohollow]]"
-influence: "growing minority"
+- '[[Mycohollow]]'
+influence: growing minority
 goals:
-  - "Evolve the Syn-Koinos by weaving in new elements"
-  - "Integrate foreign magic and technologies into the pattern"
-  - "Build a stronger, more resilient world-fabric through innovation"
+- Evolve the Syn-Koinos by weaving in new elements
+- Integrate foreign magic and technologies into the pattern
+- Build a stronger, more resilient world-fabric through innovation
 relationships:
-  - target: "[[Forest Gnomes]]"
-    type: "innovative minority within"
-    period: ""
-  - target: "[[Balancers]]"
-    type: "rival faction"
-    period: ""
-  - target: "[[Purifiers]]"
-    type: "rival faction"
-    period: ""
+- target: '[[Forest Gnomes]]'
+  type: custom
+  metadata:
+    description: innovative minority within
+- target: '[[Balancers]]'
+  type: rival
+- target: '[[Purifiers]]'
+  type: rival
 timeline:
-  - period: ""
-    event: "Founded as a progressive school of thought within Mycohollow"
-  - period: ""
-    event: "Gained growing support among younger Gnomes open to outside collaboration"
+- period: ''
+  event: Founded as a progressive school of thought within Mycohollow
+- period: ''
+  event: Gained growing support among younger Gnomes open to outside collaboration
 tags:
-  - faction
-  - gnomish
-  - forest-gnome
-  - philosophical
-  - progressive
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- gnomish
+- forest-gnome
+- philosophical
+- progressive
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Integrators
 
 The Integrators, also known as the **New-Growth School**, are a small but growing faction of innovators within [[Forest Gnomes|Forest Gnome]] society at [[Mycohollow]]. They represent the progressive position in the Great Philosophical Divide, arguing that the world's pattern must evolve to survive.

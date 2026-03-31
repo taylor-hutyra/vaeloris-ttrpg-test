@@ -1,61 +1,161 @@
 ---
 wb-type: religion
 wb-id: the-four-makers
-name: "The Four Makers"
-aliases: [The Common Creation, The Flame and the Anvil]
+name: The Four Makers
+aliases:
+- The Common Creation
+- The Flame and the Anvil
 type: creation-myth
 founded: null
 founder: null
 deities: []
 headquarters: null
 tenets:
-  - "The Great Smith roused the world from formless stillness with the First Flame"
-  - "Four divine Craftsmen shaped the unfinished cosmos into form"
-  - "The Makers withdrew because the world had become their vessel"
-  - "The divine did not vanish — it was woven into the world"
-  - "Humans carry the Flame of Will — unfinished, but striving"
-followers: "All three major Human cultures — Varnathi, Mirennians, and Lothari"
+- The Great Smith roused the world from formless stillness with the First Flame
+- Four divine Craftsmen shaped the unfinished cosmos into form
+- The Makers withdrew because the world had become their vessel
+- The divine did not vanish — it was woven into the world
+- Humans carry the Flame of Will — unfinished, but striving
+followers: All three major Human cultures — Varnathi, Mirennians, and Lothari
 relationships:
-  - target: "[[Humans]]"
-    type: practiced-by
-  - target: "[[Varnathi]]"
-    type: practiced-by
-    note: "View the Makers as aspects of divine logic — Mason as Lawgiver, Carpenter as Worldbinder"
-  - target: "[[Mirennians]]"
-    type: practiced-by
-    note: "View the Makers as elemental muses — Mason as Old Flame Beneath, Painter as the Dancing One"
-  - target: "[[Lothari]]"
-    type: practiced-by
-    note: "View the Makers as dream-motifs — Mason as the Pillar, Painter as the Flickering Breath"
-  - target: "[[Aenareth]]"
-    type: parallel
-    note: "The Great Smith corresponds to the Elven Prime Voice"
-  - target: "[[Aen'r-Khadaz]]"
-    type: parallel
-    note: "The Great Smith corresponds to the Dwarven Deep Shaper"
-  - target: "[[The Four Pillars]]"
-    type: parallel
-    note: "Mason=Tharn'm, Carpenter=Bronr'n, Jeweler=Farrazul, Painter=Elmura"
-  - target: "[[The Four Harmonies]]"
-    type: parallel
-    note: "Mason=N'rthelion, Carpenter=C'rhanna, Jeweler=Mirelaris, Painter=Lelyari'"
-  - target: "[[Pantheon of the Ordained]]"
-    type: predecessor
-    note: "The Ordained formalized and politicized these older creation myths"
+- target: '[[Humans]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Varnathi]]'
+  type: worshipped-by
+  metadata:
+    description: View the Makers as aspects of divine logic — Mason as Lawgiver, Carpenter as Worldbinder
+    nature: practice
+- target: '[[Mirennians]]'
+  type: worshipped-by
+  metadata:
+    description: View the Makers as elemental muses — Mason as Old Flame Beneath, Painter as the Dancing One
+    nature: practice
+- target: '[[Lothari]]'
+  type: worshipped-by
+  metadata:
+    description: View the Makers as dream-motifs — Mason as the Pillar, Painter as the Flickering Breath
+    nature: practice
+- target: '[[A''rastheon]]'
+  type: worshipped-by
+  metadata:
+    description: The prime creator — known to Humans as the Great Smith
+    nature: deity
+- target: '[[Tham''dran]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Stability — known to Humans as the Mason
+    nature: deity
+- target: '[[Virandros]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Growth — known to Humans as the Carpenter
+    nature: deity
+- target: '[[Myrasael]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Refinement — known to Humans as the Jeweler
+    nature: deity
+- target: '[[Elaraieth]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Inspiration — known to Humans as the Painter
+    nature: deity
+- target: '[[Kael''Zorai]]'
+  type: related
+  metadata:
+    description: Humans were actually created by Kael'Zorai, not from the Flame of Will — this truth is unknown to Human theologians
+    nature: hidden truth
+- target: '[[Aenareth]]'
+  type: related
+  metadata:
+    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for A'rastheon
+    nature: parallel
+- target: '[[Aen''r-Khadaz]]'
+  type: related
+  metadata:
+    description: The Great Smith corresponds to the Dwarven Deep Shaper — both are cultural names for A'rastheon
+    nature: parallel
+- target: '[[The Four Pillars]]'
+  type: related
+  metadata:
+    description: Mason=Tharn'm (Tham'dran), Carpenter=Bronr'n (Virandros), Jeweler=Farrazul (Myrasael), Painter=Elmura (Elaraieth)
+    nature: parallel
+- target: '[[The Four Harmonies]]'
+  type: related
+  metadata:
+    description: Mason=N'rthelion (Tham'dran), Carpenter=C'rhanna (Virandros), Jeweler=Mirelaris (Myrasael), Painter=Lelyari'
+      (Elaraieth)
+    nature: parallel
+- target: '[[Pantheon of the Ordained]]'
+  type: predecessor
+  metadata:
+    description: The Ordained formalized and politicized these older creation myths
+- target: '[[A''rastheon]]'
+  type: worships
+  metadata:
+    description: Known as the Great Smith in Human tradition
+- target: '[[Aen''r-Khadaz]]'
+  type: worships
+  metadata:
+    description: Known as the Great Smith in Human tradition
+- target: '[[Aenareth]]'
+  type: worships
+  metadata:
+    description: Known as the Great Smith in Human tradition
+- target: '[[Elaraieth]]'
+  type: worships
+  metadata:
+    description: Known as the Painter in Human tradition
+- target: '[[Myrasael]]'
+  type: worships
+  metadata:
+    description: Known as the Jeweler in Human tradition
+- target: '[[Tham''dran]]'
+  type: worships
+  metadata:
+    description: Known as the Mason in Human tradition
+- target: '[[Virandros]]'
+  type: worships
+  metadata:
+    description: Known as the Carpenter in Human tradition
+- target: '[[The Synthesis]]'
+  type: related
+  metadata:
+    description: Tham'dran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
+    nature: parallel
+- target: '[[Aetheris]]'
+  type: custom
+  metadata:
+    description: remembrance
+- target: '[[Humans]]'
+  type: related
+  metadata:
+    description: Human cultural interpretation — they believe the Flame of Will created them, not Kael'Zorai
+    nature: creation myth
+- target: '[[Pantheon of the Ordained]]'
+  type: successor
+  metadata:
+    description: The Ordained formalized and politicized these older creation myths
 timeline:
-  - period: "FA"
-    event: "The Great Smith strikes the Foundation Bell — the First Flame awakens form, time, and possibility"
-  - period: "FA"
-    event: "The Four Makers shape the cosmos — mountains, forests, gems, and color"
-  - period: "FA"
-    event: "The Makers withdraw — the divine is woven into the world"
-  - period: "SA:455"
-    event: "The Varnathi formalize the myth through the Pantheon of the Ordained"
-tags: [religion, creation-myth, human, four-makers, cross-cultural]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: The Great Smith strikes the Foundation Bell — the First Flame awakens form, time, and possibility
+- period: FA
+  event: The Four Makers shape the cosmos — mountains, forests, gems, and color
+- period: FA
+  event: The Makers withdraw — the divine is woven into the world
+- period: SA:455
+  event: The Varnathi formalize the myth through the Pantheon of the Ordained
+tags:
+- religion
+- creation-myth
+- human
+- four-makers
+- cross-cultural
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Four Makers
 
 **The Four Makers** is the common Human creation myth shared across all three major cultures of [[Vaeloris]] — the [[Varnathi]], the [[Mirennians]], and the [[Lothari]]. While each culture interprets the myth through its own lens, the core narrative is remarkably consistent: a primordial force called the **Great Smith** initiated creation, and from the resonance of that act came four divine Craftsmen who shaped the unfinished cosmos into the world mortals now inhabit.

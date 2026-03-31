@@ -2,28 +2,65 @@
 wb-type: event
 wb-id: age-of-city-states
 name: Age of City-States
-aliases: [Republican Fragmentation]
-date: "SA:600"
-duration: "Ongoing political era"
-location: "[[Varnathi Republic]]"
-participants: ["[[Vernath]]", "[[Argentum]]", "[[Castellum]]", "[[Port Farrick]]"]
-causes: ["[[Bloodless Coup]]", "Dissolution of central Imperial authority"]
-consequences: ["Development of distinct city-state identities", "Vernath became center of Philosophy and Law", "Argentum became center of Finance and Industry", "Castellum became center of Military and Discipline", "Port Farrick became center of Trade and Diplomacy"]
-affected-entities: ["[[Varnathi Republic]]", "[[Vernath]]", "[[Argentum]]", "[[Castellum]]", "[[Port Farrick]]"]
+aliases:
+- Republican Fragmentation
+date: SA:600
+period: SA:600
+duration: Ongoing political era
+location: '[[Varnathi Republic]]'
+participants:
+- '[[Vernath]]'
+- '[[Argentum]]'
+- '[[Castellum]]'
+- '[[Port Farrick]]'
+causes:
+- '[[Bloodless Coup]]'
+- Dissolution of central Imperial authority
+consequences:
+- Development of distinct city-state identities
+- Vernath became center of Philosophy and Law
+- Argentum became center of Finance and Industry
+- Castellum became center of Military and Discipline
+- Port Farrick became center of Trade and Diplomacy
+affected-entities:
+- '[[Varnathi Republic]]'
+- '[[Vernath]]'
+- '[[Argentum]]'
+- '[[Castellum]]'
+- '[[Port Farrick]]'
 status: historical
 relationships:
-  - target: "[[Bloodless Coup]]"
-    type: caused-by
-    period: "SA:581"
-  - target: "[[Dwarven Isolation]]"
-    type: contemporary
-    period: "SA:615"
+- target: '[[Bloodless Coup]]'
+  type: caused-by
+  period: SA:581
+- target: '[[Dwarven Isolation]]'
+  type: contemporary
+  period: SA:615
+- target: '[[Emperor Titus II]]'
+  type: caused-by
+  period: SA:581
+  metadata:
+    description: Titus II's abdication dissolved the monarchy, creating the Republic
+- target: '[[Sundering of Mount Cinder]]'
+  type: contemporary
+  period: SA:635
+  metadata:
+    description: Volcanic eruption devastated the Mirennian League during this era
+- target: '[[Varnathi Pentarchy]]'
+  type: related
+  period: SA:600
+  metadata:
+    description: The city-state system evolved into the eventual Pentarchy government
+- target: '[[Dwarven Isolation]]'
+  type: caused
+  period: SA:600
 timeline: []
-tags: [event, epoch-iib-republican-revolution]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-iib-republican-revolution
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Age of City-States
 
 With central Imperial authority broken, the [[Varnathi Republic]] functioned as a loose federation. The major city-states developed distinct identities that would shape their cultures for millennia.

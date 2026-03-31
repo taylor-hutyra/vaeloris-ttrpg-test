@@ -1,39 +1,77 @@
 ---
 wb-type: person
 wb-id: grogor-the-eye
-name: "Grogor the Eye"
-aliases: [The Prospector, Deep-Vein Grogor]
-species: "[[Thulkor'n]]"
+name: Grogor the Eye
+aliases:
+- The Prospector
+- Deep-Vein Grogor
+species: '[[Thulkor''n]]'
 born: null
 died: null
-birthplace: "[[Kharnzarak]]"
-residence: "[[Central Mountains]]"
-faction: "[[Thulkor'n]]"
-role: "Prospector, discoverer of the Deep-Vein silver deposit"
+birthplace: '[[Kharnzarak]]'
+residence: '[[Central Mountains]]'
+faction: '[[Thulkor''n]]'
+role: Prospector, discoverer of the Deep-Vein silver deposit
 title: null
 gender: male
 relationships:
-  - target: "[[Argentum]]"
-    type: catalyst
-    period: "SA:485"
-    note: "His discovery led directly to the founding of the city"
-  - target: "[[Varnathi Empire]]"
-    type: subject
-    period: "SA:485"
-    note: "The Empire immediately annexed the region he discovered"
-  - target: "[[Silver Lords]]"
-    type: catalyst
-    note: "The merchant-nobility class that arose from the wealth of his discovery"
+- target: '[[Argentum]]'
+  type: custom
+  period: SA:485
+  metadata:
+    description: 'catalyst: His discovery led directly to the founding of the city'
+- target: '[[Varnathi Empire]]'
+  type: serves
+  period: SA:485
+  metadata:
+    description: The Empire immediately annexed the region he discovered
+    nature: subject
+- target: '[[Silver Lords]]'
+  type: custom
+  metadata:
+    description: 'catalyst: The merchant-nobility class that arose from the wealth of his discovery'
+- target: '[[Silver Boom]]'
+  type: involved-in
+  period: SA:485
+  metadata:
+    description: His discovery of the Deep-Vein triggered the Silver Boom
+- target: '[[Central Mountains]]'
+  type: located-in
+  period: SA:485
+  metadata:
+    description: Discovered the massive silver deposit in the Central Mountains
+- target: '[[Deep-Vein Silver]]'
+  type: creator
+  period: SA:485
+  metadata:
+    description: Discovered the Deep-Vein deposit of nearly pure silver
+- target: '[[Kharnzarak]]'
+  type: origin
+  period: SA:485
+  metadata:
+    description: Exiled from Kharnzarak as a Thulkor'n before becoming a surface prospector
+- target: '[[Deep-Vein Silver]]'
+  type: custom
+  metadata:
+    description: discovered-by
+- target: '[[Argentum]]'
+  type: founder
+  period: SA:485
+  metadata:
+    description: Thulkor'n prospector whose discovery of the Deep-Vein led to the city's founding
 timeline:
-  - period: "SA:485"
-    event: "Discovered the Deep-Vein in the Central Mountains -- a massive deposit of nearly pure silver"
-  - period: "SA:485"
-    event: "The Varnathi Empire annexed the region, founding the mining camp that would become Argentum"
-tags: [person, dwarf, thulkorn, prospector]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:485
+  event: Discovered the Deep-Vein in the Central Mountains -- a massive deposit of nearly pure silver
+- period: SA:485
+  event: The Varnathi Empire annexed the region, founding the mining camp that would become Argentum
+tags:
+- person
+- dwarf
+- thulkorn
+- prospector
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Grogor the Eye
 
 **Grogor the Eye** was a [[Thulkor'n]] prospector who, in **SA 485**, discovered the **Deep-Vein** in the [[Central Mountains]] -- a massive deposit of nearly pure silver that would transform the economy of the [[Varnathi Empire]], birth the city of [[Argentum]], and create a new class of merchant-nobility whose wealth would eventually rival the Emperor's own.

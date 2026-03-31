@@ -2,38 +2,65 @@
 wb-type: government
 wb-id: hearthfolk-commonwealth
 name: Hearthfolk Commonwealth
-aliases: [Confederation of Burrows, The Burrows]
+aliases:
+- Confederation of Burrows
+- The Burrows
 type: democracy
-founded: "980"
-territory: ["[[Greenmeadow]]", "[[The Burrows]]"]
+founded: SA:980
+territory:
+- '[[Greenmeadow]]'
+- '[[The Burrows]]'
 leader: null
 capital: null
 laws:
-  - "Town charters govern each Burrow independently"
-  - "Treaty of the Hearth — permanent neutrality, no military boots on Halfling soil"
-  - "The Unwritten Law of the Neighbors — reputation as currency"
+- Town charters govern each Burrow independently
+- Treaty of the Hearth — permanent neutrality, no military boots on Halfling soil
+- The Unwritten Law of the Neighbors — reputation as currency
 relationships:
-  - target: "[[Mycohollow Mycelial Council]]"
-    type: historic-alliance
-    period: ""
-  - target: "[[Varnathi Pentarchy]]"
-    type: wary-neutrality
-    period: ""
-  - target: "[[Mirennian League]]"
-    type: trade-partner
-    period: ""
+- target: '[[Mycohollow Mycelial Council]]'
+  type: custom
+  metadata:
+    description: historic-alliance
+- target: '[[Varnathi Pentarchy]]'
+  type: custom
+  metadata:
+    description: wary-neutrality
+- target: '[[Mirennian League]]'
+  type: trade
+- target: '[[Halflings]]'
+  type: controls
+  period: SA:980-
+  metadata:
+    description: Loose confederation governing Halfling Burrows through direct democracy
+- target: '[[Greenmeadow]]'
+  type: controls
+  period: SA:980-
+  metadata:
+    description: Seated in the founding Halfling settlement
+- target: '[[Forest Gnomes]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Declaration of Hollowkin Rights; shared Burrows and Hollows community
+- target: '[[Varnathi Pentarchy]]'
+  type: ally
+  period: SA:1280-
+  metadata:
+    description: Treaty of the Hearth grants Halfling neutrality; wary coexistence
 timeline:
-  - period: "980"
-    event: "Founding of Greenmeadow, the first permanent Halfling settlement"
-  - period: ""
-    event: "Declaration of Hollowkin Rights signed with the Gnomes"
-  - period: ""
-    event: "Treaty of the Hearth forces Varnathi Republic to recognize Halfling neutrality"
-tags: [government, halfling, hearthfolk]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:980
+  event: Founding of Greenmeadow, the first permanent Halfling settlement
+- period: SA:980
+  event: Declaration of Hollowkin Rights signed with the Gnomes
+- period: SA:1280
+  event: Treaty of the Hearth forces Varnathi Republic to recognize Halfling neutrality
+tags:
+- government
+- halfling
+- hearthfolk
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Hearthfolk Commonwealth
 
 The collection of [[Halflings|Halfling]] towns and villages, known as the Burrows, are loosely united in what the Tallfolk call the "Hearthfolk Commonwealth." To Halflings, it is simply "home."

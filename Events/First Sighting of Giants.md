@@ -3,24 +3,54 @@ wb-type: event
 wb-id: first-sighting-of-giants
 name: First Sighting of Giants
 aliases: []
-date: "SA:75"
-duration: "Single expedition"
-location: "[[Dragon's Tooth Mountains]]"
-participants: ["[[Dwarves]]", "[[Giants]]"]
-causes: ["Dwarven mining expedition in northern peaks"]
-consequences: ["High King's decree of Wide Berth marking Giant territory as forbidden", "Theories that Giants are gardeners of the First Hands' abandoned sanctuaries"]
-affected-entities: ["[[Dwarves]]", "[[Giants]]", "[[Kharnzarak]]"]
+date: SA:75
+period: SA:75
+duration: Single expedition
+location: '[[Dragon''s Tooth Mountains]]'
+participants:
+- '[[Dwarves]]'
+- '[[Giants]]'
+causes:
+- Dwarven mining expedition in northern peaks
+consequences:
+- High King's decree of Wide Berth marking Giant territory as forbidden
+- Theories that Giants are gardeners of the First Hands' abandoned sanctuaries
+affected-entities:
+- '[[Dwarves]]'
+- '[[Giants]]'
+- '[[Kharnzarak]]'
 status: historical
 relationships:
-  - target: "[[Ore-Grain Exchange]]"
-    type: related
-    period: "SA:62"
+- target: '[[Ore-Grain Exchange]]'
+  type: related
+  period: SA:62
+- target: '[[Giants]]'
+  type: involved
+  period: SA:75
+  metadata:
+    description: First official contact with the colossal beings tending cyclopean ruins
+- target: '[[Kharnzarak]]'
+  type: involved
+  period: SA:75
+  metadata:
+    description: Dwarven mining expedition made the discovery; High King decreed Wide Berth
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: involved
+  period: SA:75
+  metadata:
+    description: Giants found in a high-altitude valley in the northern peaks
+- target: '[[Passing of the Giants]]'
+  type: related
+  period: SA:75
+  metadata:
+    description: The Giants first encountered by Dwarves had now vanished entirely
 timeline: []
-tags: [event, epoch-i-echoes-of-dawn]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-i-echoes-of-dawn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # First Sighting of Giants
 
 A Dwarven mining expedition in the northern peaks of the [[Dragon's Tooth Mountains]] broke into a high-altitude valley and recorded the first official contact with the [[Giants]].

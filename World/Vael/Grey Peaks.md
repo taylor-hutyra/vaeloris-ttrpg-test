@@ -3,29 +3,36 @@ wb-type: place
 wb-id: grey-peaks
 name: Grey Peaks
 aliases: []
-parent: "[[Vael]]"
+parent: '[[Vael]]'
 spatial-type: mountain
 contains: []
 population: null
-ruler: "[[Council of Elders]]"
-faction: "[[Crag-Striders]]"
+ruler: '[[Council of Elders]]'
+faction: '[[Crag-Striders]]'
 climate: alpine, harsh winters, inaccessible valleys
-resources: [stone, mountain herbs, limited grazing]
+resources:
+- stone
+- mountain herbs
+- limited grazing
 status: isolated Waldkyn enclave, slow and deliberate governance
 relationships:
-  - target: "[[Whispering Vales]]"
-    type: culturally-linked
-    period: "1-"
+- target: '[[Whispering Vales]]'
+  type: related
+  period: 1-
+  metadata:
+    nature: culturally linked
 timeline:
-  - period: "SA:20-"
-    event: Firbolg and Galapa Waldkyn settle the high mountain valleys
-  - period: "SA:2410"
-    event: Battle of the Grey Peaks; Allied Fleet intercepts Drakona armada in a Pyrrhic aerial victory
-tags: [place, mountain, waldkyn]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:20-
+  event: Firbolg and Galapa Waldkyn settle the high mountain valleys
+- period: SA:2410
+  event: Battle of the Grey Peaks; Allied Fleet intercepts Drakona armada in a Pyrrhic aerial victory
+tags:
+- place
+- mountain
+- waldkyn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Grey Peaks
 
 The Grey Peaks are a range of high, inaccessible mountains on [[Vael]], home to the [[Crag-Striders]] -- an isolated enclave of primarily [[Firbolg]] and [[Galapa]] [[Waldkyn]] who have adapted their philosophy of balance to the unforgiving nature of stone.

@@ -4,25 +4,35 @@ wb-id: desertborn-confederacy
 name: Desertborn Confederacy
 aliases: []
 type: political
-founded: "SA:1300"
+founded: SA:1300
 dissolved: null
-headquarters: "[[Great Desert]]"
+headquarters: '[[Great Desert]]'
 leader: null
-territory: ["[[Great Desert]]"]
+territory:
+- '[[Great Desert]]'
 influence: moderate
 goals:
-  - Control the overland Silk Road trade routes
-  - Preserve Lothari independence and cultural identity
-  - Maintain neutrality between northern powers
-relationships: []
+- Control the overland Silk Road trade routes
+- Preserve Lothari independence and cultural identity
+- Maintain neutrality between northern powers
+relationships:
+- target: '[[Silent Network]]'
+  type: involved
+  period: SA:1350-
+  metadata:
+    description: Spiritual and political leadership of the Lothari people
+    nature: has part
 timeline:
-  - period: "SA:1300"
-    label: Lothari nomadic tribes united under the mystics to seize control of the Silk Road
-tags: [faction, human, lothari, political]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1300
+  label: Lothari nomadic tribes united under the mystics to seize control of the Silk Road
+tags:
+- faction
+- human
+- lothari
+- political
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Desertborn Confederacy
 
 The **Desertborn Confederacy** is the political alliance of the [[Lothari]] nomadic tribes, founded in SA:1300 when the chaos of the [[Guild Wars]] and the distraction of the [[Varnathi]] Republic allowed the desert peoples to seize control of the overland Silk Road.

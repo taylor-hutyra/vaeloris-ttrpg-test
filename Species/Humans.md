@@ -2,29 +2,175 @@
 wb-type: species
 wb-id: humans
 name: Humans
-aliases: [Mankind, The Unfinished, Mortal-kind]
-origin: "Born from the residual Flame of Will left behind by the Four Makers after their withdrawal — from the light came Humanity, passionate, willful, and yearning for meaning"
-lifespan: "70-90 years"
-traits: [adaptable, ambitious, culturally diverse, willful, innovative, short-lived]
-habitat: ["[[Vernath]]", "[[Mirennian League]]", "[[Lothari Desert]]", "[[Novaterra]]", "[[Aurumport]]"]
+aliases:
+- Mankind
+- The Unfinished
+- Mortal-kind
+origin: Born from the residual Flame of Will left behind by the Four Makers after their withdrawal — from the light came Humanity,
+  passionate, willful, and yearning for meaning
+lifespan: 70-90 years
+traits:
+- adaptable
+- ambitious
+- culturally diverse
+- willful
+- innovative
+- short-lived
+habitat:
+- '[[Vernath]]'
+- '[[Mirennian League]]'
+- '[[Lothari Desert]]'
+- '[[Novaterra]]'
+- '[[Aurumport]]'
 population: most numerous
 relationships:
-  - target: "[[Orkin]]"
-    type: shared-origin
-    period: "SA"
-  - target: "[[Elves]]"
-    type: diplomatic
-  - target: "[[Dwarves]]"
-    type: trade
-  - target: "[[Waldkyn]]"
-    type: uneasy-neighbors
-  - target: "[[The Four Makers]]"
-    type: creator-myth
-tags: [species, mortal, widespread, political]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Kael''Zorai]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: True origin — created independently by Kael'Zorai as Children of Potential
+- target: '[[Orkin]]'
+  type: related
+  period: FA
+  metadata:
+    description: Both created by Kael'Zorai — Humans and Orkin are sibling races
+    nature: shared origin
+- target: '[[Elves]]'
+  type: ally
+  metadata:
+    nature: diplomatic
+- target: '[[Dwarves]]'
+  type: trade
+- target: '[[Waldkyn]]'
+  type: rival
+  metadata:
+    nature: uneasy neighbors
+- target: '[[The Four Makers]]'
+  type: related
+  metadata:
+    description: Human cultural interpretation — they believe the Flame of Will created them, not Kael'Zorai
+    nature: creation myth
+- target: '[[Vernath]]'
+  type: homeland
+  period: SA:28-
+  metadata:
+    description: Capital of the Varnathi, oldest human power on the mainland
+- target: '[[Varnathi Pentarchy]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Varnathi governed by the Pentarchy of five co-equal Consuls
+- target: '[[Mirennian League]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Mirennians governed by the Admiralty Council thalassocracy
+- target: '[[Lothari Silent Network]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Lothari guided by the Council of Dreamers
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Humans call Gnomes and similar folk 'Small-Folk'; Gnomes call Humans 'Loud-Walkers'
+    nature: coexistent
+- target: '[[Halflings]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Halflings live alongside Humans; Treaty of the Hearth ensures Halfling neutrality
+    nature: coexistent
+- target: '[[Church of the Celestial Word]]'
+  type: worships
+  period: SA:2020-
+  metadata:
+    description: The most significant cross-species faith, predominantly Human
+- target: '[[Gearhaven]]'
+  type: native
+  period: SA:1485-
+  metadata:
+    description: Human mages co-founded Gearhaven alongside Elm-korin Dwarves
+- target: '[[M''ren''r'']]'
+  type: native
+  period: SA:900-
+  metadata:
+    description: Humans co-govern M'ren'r' through the Guild-Chancellor position
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Human communities showed remarkable adaptability to chaotic conditions
+- target: '[[Gearhaven Cog-Council]]'
+  type: member
+  period: SA:1485-
+  metadata:
+    description: Human mages and scholars integral to Gearhaven's governance and economy
+- target: '[[Grom-Kain]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Created independently — Children of Potential
+- target: '[[Church of the Celestial Word]]'
+  type: worships
+  period: SA:2020-
+  metadata:
+    description: Predominantly Human faith, though open to all races
+    nature: practice
+- target: '[[The Four Makers]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Aen''valar]]'
+  type: ally
+  period: SA:900-
+  metadata:
+    description: Cross-racial collaboration actively encouraged; humans study and teach alongside Elves
+    nature: collaborative
+- target: '[[Aetheris]]'
+  type: custom
+  metadata:
+    description: silent-guardians
+- target: '[[Drakona]]'
+  type: serves
+  period: SA:2341-SA:2700
+  metadata:
+    nature: vassal
+- target: '[[Elm-korin]]'
+  type: ally
+  period: SA:1485-
+  metadata:
+    description: Founded Gearhaven alongside human mages; human scholars integral to city's economy and intellectual culture
+- target: '[[Lothari]]'
+  type: parent
+- target: '[[Mirennians]]'
+  type: parent
+- target: '[[Primalkyn]]'
+  type: related
+  metadata:
+    nature: curious frustration
+- target: '[[Varnathi]]'
+  type: parent
+- target: '[[M''ren''r'']]'
+  type: related
+  period: SA:900-
+  metadata:
+    nature: co-governed
+timeline:
+- period: FA
+  event: Created independently by Kael'Zorai as Children of Potential — adaptable, ambitious, driven by awareness of mortal
+    limitation
+- period: FA
+  event: Showed remarkable adaptability to chaotic conditions during the Paroxysm
+tags:
+- species
+- mortal
+- widespread
+- political
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Humans
 
 Humans are the most numerous and culturally diverse people of [[Vaeloris]]. They view themselves as unfinished — not flawed, but evolving. Where [[Elves]] see echoes and [[Dwarves]] see permanence, Humans see potential. Though divided by myth and dialect, they share core beliefs: choice is sacred, identity is shaped not given, and the world is still becoming.

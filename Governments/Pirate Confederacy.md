@@ -2,40 +2,104 @@
 wb-type: government
 wb-id: pirate-confederacy
 name: Pirate Confederacy
-aliases: [Pirate Confederacy of the Fractured Isles, Pirate Lords of Serpent's Tooth, Freebooter Nation]
+aliases:
+- Pirate Confederacy of the Fractured Isles
+- Pirate Lords of Serpent's Tooth
+- Freebooter Nation
 type: anarchy
-founded: "1020"
-territory: ["[[Fractured Isles]]", "[[Serpent's Tooth]]"]
+founded: '1020'
+territory:
+- '[[Fractured Isles]]'
+- '[[Serpent''s Tooth]]'
 leader: null
 capital: null
 laws:
-  - "The Code of the Coast — established by Captain Vane"
+- The Code of the Coast — established by Captain Vane
 relationships:
-  - target: "[[Mirennian League]]"
-    type: hostile
-    period: ""
-  - target: "[[Varnathi Pentarchy]]"
-    type: hostile
-    period: ""
-  - target: "[[Azure Hand]]"
-    type: covert-ally
-    period: ""
+- target: '[[Mirennian League]]'
+  type: enemy
+  metadata:
+    nature: hostile
+- target: '[[Varnathi Pentarchy]]'
+  type: enemy
+  metadata:
+    nature: hostile
+- target: '[[Azure Hand]]'
+  type: ally
+  metadata:
+    nature: covert
+- target: '[[Floating Market of Zure]]'
+  type: involved-in
+  period: SA:2500-2688
+  metadata:
+    description: Cloudborn Corsairs and pirates traded at the floating market
+- target: '[[Azure Hand]]'
+  type: ally
+  period: SA:1100-
+  metadata:
+    description: Uses pirate lords to destabilize Golden Compass rivals
+- target: '[[Brinepipers of Salty Coast]]'
+  type: custom
+  metadata:
+    description: food supplier in exchange for protection
+- target: '[[Golden Compass Syndicate]]'
+  type: enemy
+  period: SA:1020-
+  metadata:
+    description: Views the Confederacy as vermin to be eradicated
+- target: '[[Drakona]]'
+  type: custom
+  period: SA:2280-SA:2700
+  metadata:
+    description: former-ally
+- target: '[[Halflings]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Brinepipers of the Salty Coast act as food suppliers in exchange for protection
+- target: '[[Mirennians]]'
+  type: enemy
+- target: '[[Fractured Isles]]'
+  type: controls
+  period: 1020-
+- target: '[[Coastal Regions]]'
+  type: custom
+  period: SA
+  metadata:
+    description: 'contested-border: Pirate Confederacy operates from hidden coves raiding Mirennian shipping'
+- target: '[[Port Farrick]]'
+  type: enemy
+  period: SA:1020-1070
+  metadata:
+    description: Captain Vane blockaded the port for six months
+- target: '[[Pirate Revival]]'
+  type: involved-in
+  period: SA:3100
+  metadata:
+    description: Adapted with Wave-Skimmers and cliff-launched gliders
+- target: '[[Privateer Accords]]'
+  type: involved-in
+  period: SA:2595
+  metadata:
+    description: Granted pardons and legal status; fitted ships with flight-cores
 timeline:
-  - period: "1020"
-    event: "Captain Vane unites pirate crews, establishes Code of the Coast and fortifies Serpent's Tooth"
-  - period: "1070"
-    event: "Vane's fleet blockades Port Farrick for six months; Vane assassinated by Shadewalkers"
-  - period: "2280"
-    event: "Pirate Lords ally with the Drakona in the Scaled Pact"
-  - period: "2595"
-    event: "Privateer Accords grant legal status in exchange for fighting the Drakona"
-  - period: "3100"
-    event: "Pirate Revival — development of Wave-Skimmers and cliff-launched gliders"
-tags: [government, human, pirate]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '1020'
+  event: Captain Vane unites pirate crews, establishes Code of the Coast and fortifies Serpent's Tooth
+- period: '1070'
+  event: Vane's fleet blockades Port Farrick for six months; Vane assassinated by Shadewalkers
+- period: '2280'
+  event: Pirate Lords ally with the Drakona in the Scaled Pact
+- period: '2595'
+  event: Privateer Accords grant legal status in exchange for fighting the Drakona
+- period: '3100'
+  event: Pirate Revival — development of Wave-Skimmers and cliff-launched gliders
+tags:
+- government
+- human
+- pirate
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Pirate Confederacy
 
 A lawless, anarcho-syndicalist confederation of pirate crews operating out of hidden coves in the southern [[Fractured Isles]], centered on the fortified island of [[Serpent's Tooth]].

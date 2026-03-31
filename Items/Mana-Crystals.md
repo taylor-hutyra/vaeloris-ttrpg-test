@@ -2,29 +2,66 @@
 wb-type: item
 wb-id: mana-crystals
 name: Mana-Crystals
-aliases: [Mana Gems, Crystallized Mana]
+aliases:
+- Mana Gems
+- Crystallized Mana
 type: resource
 owner: null
 creator: null
-location: "[[Vaeloris]]"
+location: '[[Vaeloris]]'
 properties:
-  - Crystallized ambient magical energy
-  - Serves as both fuel for arcane devices and medium of exchange
-  - Found naturally at ley-line intersections and geothermal vents
-  - Can be artificially grown in mana-saturated environments
-  - Quality varies from cloudy common crystals to flawless Singer-grade gems
+- Crystallized ambient magical energy
+- Serves as both fuel for arcane devices and medium of exchange
+- Found naturally at ley-line intersections and geothermal vents
+- Can be artificially grown in mana-saturated environments
+- Quality varies from cloudy common crystals to flawless Singer-grade gems
 magical: true
 relationships:
-  - { target: "[[Technomancy]]", type: "fuels", detail: "Mana-Crystals power technomantic devices and infrastructure" }
-  - { target: "[[Arcane Conduits]]", type: "raw-material-for", detail: "Refined crystals are shaped into conduits for energy transmission" }
-  - { target: "[[Mana-Pylon Systems]]", type: "powers", detail: "Pylon networks run on crystallized mana energy" }
-  - { target: "[[The Frayed Weave]]", type: "implicated-by", detail: "Crystal harvesting may contribute to Arcane Fraying" }
-  - { target: "[[Gearhaven]]", type: "stockpiled-by", detail: "The Technocracy maintains strategic crystal reserves" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: fuels
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: raw-material-for
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: powers
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: implicated-by
+- target: '[[Gearhaven]]'
+  type: custom
+  metadata:
+    description: stockpiled-by
+- target: '[[Red-Ink Crisis]]'
+  type: involved-in
+  period: SA:3220
+- target: '[[Magocracy]]'
+  type: custom
+  metadata:
+    description: regulated-by
+- target: '[[Shadewalkers]]'
+  type: custom
+  period: SA:3220
+  metadata:
+    description: manipulated-by
+- target: '[[Arcanology]]'
+  type: custom
+  metadata:
+    description: powered-by
+- target: '[[Arcane Conduits]]'
+  type: origin
+- target: '[[Arcane Conduits]]'
+  type: origin-of
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mana-Crystals
 
 Mana-Crystals are naturally occurring or artificially grown crystals that store concentrated magical energy. They serve a dual role in the Third Age economy of [[Vaeloris]]: as fuel for arcane devices, [[Technomancy|technomantic]] systems, and magical infrastructure, and as a universally accepted medium of exchange -- a currency backed not by a government's promise, but by measurable magical energy.
@@ -36,7 +73,7 @@ Mana-Crystals form naturally at locations where ambient magical energy concentra
 - **Ley-line intersections**: Points where underground channels of magical energy cross and pool
 - **Geothermal vents**: Volcanic activity seems to catalyze mana crystallization
 - **Ancient ritual sites**: Locations where powerful magic was performed repeatedly over centuries
-- **Scars of Dissonance**: Paradoxically, the sealed wounds from the [[Paroxysm]] sometimes produce mana crystals as residual energy slowly solidifies
+- **Scars of Dissonance**: Paradoxically, the sealed wounds from [[The Paroxysm]] sometimes produce mana crystals as residual energy slowly solidifies
 
 Natural crystals vary widely in quality. Common-grade crystals are cloudy, irregular, and hold modest energy charges. Rare "clear" crystals are more efficient conductors. The finest specimens -- flawless, deeply saturated gems -- are produced by the [[Crystal-Singers of M'ren'r']], who use harmonic resonance to grow perfect crystals in controlled environments.
 

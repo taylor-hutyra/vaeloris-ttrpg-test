@@ -24,7 +24,7 @@ Detect the vault root (the directory containing `_meta/`).
 Run the built-in validator:
 
 ```bash
-$WB --vault <vault_root> validate --pretty
+$WB --vault <vault_root> --pretty validate
 ```
 
 This checks each entity for:
@@ -40,7 +40,7 @@ Collect all reported issues.
 Verify all three data stores (SQLite, NetworkX graph, ChromaDB vectors) agree:
 
 ```bash
-$WB --vault <vault_root> sync --verify --pretty
+$WB --vault <vault_root> --pretty sync --verify
 ```
 
 If inconsistencies are found, note which entities are missing from which stores.
@@ -69,7 +69,7 @@ Report any wikilinks that do not resolve to an existing file. Categorize as:
 
 For each entity with relationships, verify the inverse exists:
 
-1. Query all entities: `$WB --vault <vault_root> query --pretty`
+1. Query all entities: `$WB --vault <vault_root> --pretty query`
 2. For each entity, read its file and extract `relationships` from frontmatter
 3. For each relationship `{target: "[[B]]", type: "allied-with"}` on entity A:
    - Find entity B's file
@@ -91,6 +91,18 @@ trade-partner  <-> trade-partner
 
 Report one-sided relationships.
 
+To fix all one-sided relationships in bulk, use:
+
+```bash
+$WB --vault <vault_root> --pretty ensure-inverses --all
+```
+
+Review the output, then apply:
+
+```bash
+$WB --vault <vault_root> --pretty ensure-inverses --all --apply
+```
+
 ### 5. Timeline Consistency
 
 For each person entity:
@@ -111,7 +123,7 @@ For entities referencing places:
 - `parent` fields in places should form a valid tree (no cycles, no orphaned references)
 
 ```bash
-$WB --vault <vault_root> spatial "<place_name>" --pretty
+$WB --vault <vault_root> --pretty spatial "<place_name>"
 ```
 
 Run for a sample of places to check hierarchy validity.
@@ -159,8 +171,19 @@ Check `_meta/wb-config.md` for autonomy mode:
 
 After applying fixes:
 ```bash
-$WB --vault <vault_root> sync --full --pretty
+$WB --vault <vault_root> --pretty sync --full
 ```
+
+## Query Strategy
+
+This skill requires all stores for cross-validation:
+
+1. **SQLite** (`validate`, `sync --verify`): Structural validation and cross-store consistency checks — run these first as the baseline.
+2. **SQLite** (`query --type`, `query`): Get full entity listings for relationship bidirectionality checks and timeline range validation.
+3. **Graph** (`spatial`): Verify spatial hierarchy integrity — no cycles, valid parent chains.
+4. **Grep tool**: Find all `[[wikilinks]]` across files to check for broken links. This is a file-level operation, not a store query.
+5. **File read**: Read individual entity files for logical consistency checks (step 7). Focus on the 10-15 most connected entities, identified via graph degree.
+6. **Anti-pattern**: Do not read all files upfront. Use SQLite/graph to identify problematic entities, then read only those for detailed inspection.
 
 ## Guidelines
 

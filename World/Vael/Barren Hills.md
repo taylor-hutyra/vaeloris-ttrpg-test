@@ -2,41 +2,100 @@
 wb-type: place
 wb-id: barren-hills
 name: Barren Hills
-aliases: [The Barrens]
-parent: "[[Vael]]"
+aliases:
+- The Barrens
+parent: '[[Vael]]'
 spatial-type: region
 contains: []
 population: null
 ruler: null
-faction: "[[Varr-Darg]]"
+faction: '[[Varr-Darg]]'
 climate: arid, harsh, rocky scrubland
-resources: [iron, coal, limited game]
+resources:
+- iron
+- coal
+- limited game
 status: fortified Orkin homeland, perpetually contested
 relationships:
-  - target: "[[Varnathi Highlands]]"
-    type: contested-border
-    period: "125-"
-  - target: "[[Castellum]]"
-    type: enemy
-    period: "410-"
+- target: '[[Varnathi Highlands]]'
+  type: custom
+  period: 125-
+  metadata:
+    description: contested-border
+- target: '[[Castellum]]'
+  type: enemy
+  period: 410-
+- target: '[[Orkin]]'
+  type: homeland
+  period: SA:210-
+  metadata:
+    description: Permanent, fortified homeland of the Varr-Darg Orkin
+- target: '[[Varr-Darg Diarchy]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Ruled by Varr-Darg war-clan diarchies
+- target: '[[Bloodied Fist Clans]]'
+  type: contains
+  period: SA
+  metadata:
+    description: Dominant faction occupying the Barren Hills
+- target: '[[March of Order]]'
+  type: involved-in
+  period: SA:410
+  metadata:
+    description: Caelius I's steel legions shattered Orkin warbands here
+- target: '[[War of the Barren Hills]]'
+  type: involved-in
+  period: SA:1210
+  metadata:
+    description: Republic used scorched earth tactics to seize iron and coal deposits
+- target: '[[Orkin Schism]]'
+  type: involved-in
+  period: SA:42
+  metadata:
+    description: Night of Severed Bonds between Gral and Skorn occurred here
+- target: '[[Emperor Caelius I]]'
+  type: related
+  period: SA:410
+  metadata:
+    description: Emperor who launched the March of Order through Orkin territory
+- target: '[[Drakona]]'
+  type: related
+  period: SA:2450
+  metadata:
+    description: Varr-Darg Orkin held the pass against Drakona ground invasion for a decade
+- target: '[[Orkin]]'
+  type: native
+  period: SA:210-
+  metadata:
+    description: Permanent, fortified homeland of the Varr-Darg after the Long March
+- target: '[[Castellum]]'
+  type: custom
+  period: SA:410-
+  metadata:
+    description: contested-border
 timeline:
-  - period: "SA:42"
-    event: The Orkin Schism; Night of Severed Bonds between Gral and Skorn
-  - period: "SA:210"
-    event: The Long March; Orkin retreat into the Barren Hills after defeat by the [[Wardens of the Wild]] and Varnathi armies
-  - period: "SA:210-"
-    event: The Barren Hills become the permanent, fortified homeland of the [[Varr-Darg]]
-  - period: "SA:410"
-    event: Emperor [[Caelius I]] launches the March of Order; Orkin warbands shattered by steel legions
-  - period: "SA:1210"
-    event: The War of the Barren Hills; Varnathi Republic uses scorched earth tactics to seize iron and coal
-  - period: "SA:2450"
-    event: Varr-Darg Orkin hold the pass against Drakona ground invasion for a decade, earning Allied recognition
-tags: [place, region, orkin, contested]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:42
+  event: The Orkin Schism; Night of Severed Bonds between Gral and Skorn
+- period: SA:210
+  event: The Long March; Orkin retreat into the Barren Hills after defeat by the [[Wardens of the Wild]] and Varnathi armies
+- period: SA:210-
+  event: The Barren Hills become the permanent, fortified homeland of the [[Varr-Darg]]
+- period: SA:410
+  event: Emperor [[Caelius I]] launches the March of Order; Orkin warbands shattered by steel legions
+- period: SA:1210
+  event: The War of the Barren Hills; Varnathi Republic uses scorched earth tactics to seize iron and coal
+- period: SA:2450
+  event: Varr-Darg Orkin hold the pass against Drakona ground invasion for a decade, earning Allied recognition
+tags:
+- place
+- region
+- orkin
+- contested
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Barren Hills
 
 The Barren Hills are the harsh, arid badlands that serve as the ancestral homeland of the [[Varr-Darg]] Orkin. Pushed into this inhospitable territory by centuries of human and Dwarven expansion, the Orkin forged a culture of perpetual siege mentality, viewing all other races as existential threats.

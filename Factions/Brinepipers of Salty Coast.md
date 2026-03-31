@@ -1,46 +1,48 @@
 ---
 wb-type: faction
-wb-id: "brinepipers-of-salty-coast"
-name: "Brinepipers of Salty Coast"
+wb-id: brinepipers-of-salty-coast
+name: Brinepipers of Salty Coast
 aliases:
-  - "Brinepipers"
-type: "cultural"
+- Brinepipers
+type: cultural
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Novaterra]]"
-influence: "local"
+- '[[Novaterra]]'
+influence: local
 goals:
-  - "Maintain the coastal Halfling way of life on Novaterra"
-  - "Sustain profitable trade relationships with the Pirate Confederacy"
-  - "Win the annual Brine-Tide Festival's largest-fish competition"
+- Maintain the coastal Halfling way of life on Novaterra
+- Sustain profitable trade relationships with the Pirate Confederacy
+- Win the annual Brine-Tide Festival's largest-fish competition
 relationships:
-  - target: "[[Halflings]]"
-    type: "coastal cultural group"
-    period: ""
-  - target: "[[Pirate Confederacy]]"
-    type: "food supplier in exchange for protection"
-    period: ""
-  - target: "[[Mirennian League]]"
-    type: "tense relationship (tax avoidance)"
-    period: ""
+- target: '[[Halflings]]'
+  type: custom
+  metadata:
+    description: coastal cultural group
+- target: '[[Pirate Confederacy]]'
+  type: custom
+  metadata:
+    description: food supplier in exchange for protection
+- target: '[[Mirennian League]]'
+  type: custom
+  metadata:
+    description: tense relationship (tax avoidance)
 timeline:
-  - period: ""
-    event: "Halfling settlers established a coastal community on Novaterra"
-  - period: ""
-    event: "Developed a profitable arrangement supplying food to the Pirate Confederacy"
+- period: ''
+  event: Halfling settlers established a coastal community on Novaterra
+- period: ''
+  event: Developed a profitable arrangement supplying food to the Pirate Confederacy
 tags:
-  - faction
-  - halfling
-  - cultural
-  - coastal
-  - novaterra
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- cultural
+- coastal
+- novaterra
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Brinepipers of Salty Coast
 
 The Brinepipers are a hardy community of [[Halflings]] who have adapted to coastal life on [[Novaterra]], becoming renowned fishers, salt-miners, and brewers of a famously potent seaweed grog. They represent the Halfling talent for making any environment feel like home---even a windswept, salt-crusted shoreline.

@@ -2,43 +2,90 @@
 wb-type: place
 wb-id: luminas
 name: Luminas
-aliases: [City of Light, The Neutral City]
-parent: "[[Varnathi Highlands]]"
+aliases:
+- City of Light
+- The Neutral City
+parent: '[[Varnathi Highlands]]'
 spatial-type: city
-contains: ["[[Orkin Quarter]]"]
+contains:
+- '[[Orkin Quarter]]'
 population: null
 ruler: null
-faction: "[[Varnathi Imperial Democracy]]"
+faction: '[[Varnathi Imperial Democracy]]'
 climate: highland, temperate
-resources: [trade goods, religious infrastructure]
+resources:
+- trade goods
+- religious infrastructure
 status: neutral ground for diplomacy, seat of the Church of the Celestial Word
 relationships:
-  - target: "[[Vernath]]"
-    type: sister-city
-    period: "SA:381-"
-  - target: "[[Church of the Celestial Word]]"
-    type: seat-of
-    period: "SA:2020-"
+- target: '[[Vernath]]'
+  type: related
+  period: SA:381-
+  metadata:
+    nature: sister city
+- target: '[[Church of the Celestial Word]]'
+  type: located-in
+  period: SA:2020-
+  metadata:
+    nature: headquarters
+- target: '[[Church of the Celestial Word]]'
+  type: located-in
+  metadata:
+    nature: headquarters
+- target: '[[Aetheris]]'
+  type: homeland
+  period: SA:2032-
+  metadata:
+    description: First Aetheris manifested outside Luminas; The Quiet Singer haunts the great cathedral
+- target: '[[Conclave of Luminas]]'
+  type: contains
+  period: SA:2685
+  metadata:
+    description: Site of the fateful debate
+- target: '[[Founding of the Church]]'
+  type: occurred-at
+  period: SA:2020
+  metadata:
+    description: Founded in the neutral city that would become the Church's spiritual center
+- target: '[[Luminas Conclave]]'
+  type: occurred-at
+  period: SA:2305
+  metadata:
+    description: Archmages met in secret in the neutral holy city
+- target: '[[Treaty of Survival]]'
+  type: contains
+  period: SA:2345
+  metadata:
+    description: Neutral city where the summit was held
+- target: '[[Church of the Celestial Word]]'
+  type: contains
+  metadata:
+    nature: headquarters
 timeline:
-  - period: "SA:381-"
-    event: Incorporated into the Varnathi Empire as a highland city-state
-  - period: "SA:2020"
-    event: Former soldier [[Iovan]] begins preaching the Celestial Word in Luminas during the Bleeding Years
-  - period: "SA:2032"
-    event: First [[Aetheris]] sighting; a winged figure of light protects refugees outside the city
-  - period: "SA:2130"
-    event: Orkin granted "Subject Status" under the Labor Integration Act; the [[Orkin Quarter]] established
-  - period: "SA:2305"
-    event: The Luminas Conclave; Archmages secretly form the [[Coalition of Mages]]
-  - period: "SA:2345"
-    event: Leaders sign the [[Treaty of Survival]] at Luminas, forming the [[Allied Command]]
-  - period: "SA:2685"
-    event: The Conclave of Luminas; Allied leadership debates the "Icarus Option" to ground the Drakona
-tags: [place, city, varnathi, human, religious, neutral]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:381-
+  event: Incorporated into the Varnathi Empire as a highland city-state
+- period: SA:2020
+  event: Former soldier [[Iovan]] begins preaching the Celestial Word in Luminas during the Bleeding Years
+- period: SA:2032
+  event: First [[Aetheris]] sighting; a winged figure of light protects refugees outside the city
+- period: SA:2130
+  event: Orkin granted "Subject Status" under the Labor Integration Act; the [[Orkin Quarter]] established
+- period: SA:2305
+  event: The Luminas Conclave; Archmages secretly form the [[Coalition of Mages]]
+- period: SA:2345
+  event: Leaders sign the [[Treaty of Survival]] at Luminas, forming the [[Allied Command]]
+- period: SA:2685
+  event: The Conclave of Luminas; Allied leadership debates the "Icarus Option" to ground the Drakona
+tags:
+- place
+- city
+- varnathi
+- human
+- religious
+- neutral
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Luminas
 
 Luminas is a major highland city in the [[Varnathi Highlands]], renowned as a site of diplomacy, religious significance, and political neutrality. It is the birthplace of the [[Church of the Celestial Word]] and has hosted some of the most consequential conclaves in Vaelorian history.

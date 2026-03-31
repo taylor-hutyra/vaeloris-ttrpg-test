@@ -2,33 +2,108 @@
 wb-type: magic
 wb-id: technomancy
 name: Technomancy
-aliases: [Magitech, Arcane-Mechanical Fusion]
+aliases:
+- Magitech
+- Arcane-Mechanical Fusion
 type: arcane-mechanical
-source: The synthesis of Dwarven craft, Gnomish clockwork, and human arcane theory, powered by geothermal energy and mana crystals
-practitioners: ["[[Gearhaven]]", "[[Elm-korin]]", "[[Rock Gnomes]]", "[[Chartered Kith]]"]
+source: The synthesis of Dwarven craft, Gnomish clockwork, and human arcane theory, powered by geothermal energy and mana
+  crystals
+practitioners:
+- '[[Gearhaven]]'
+- '[[Elm-korin]]'
+- '[[Rock Gnomes]]'
+- '[[Chartered Kith]]'
 limitations:
-  - Requires rare materials (mana crystals, focusing gems, refined metals)
-  - Complex systems prone to catastrophic failure if magical and mechanical components desynchronize
-  - Dependent on stable mana supply; vulnerable to arcane disruption or Fraying effects
-  - Ethical concerns around automation displacing mortal labor
-  - Knowledge concentrated in guild structures; difficult to learn without institutional access
+- Requires rare materials (mana crystals, focusing gems, refined metals)
+- Complex systems prone to catastrophic failure if magical and mechanical components desynchronize
+- Dependent on stable mana supply; vulnerable to arcane disruption or Fraying effects
+- Ethical concerns around automation displacing mortal labor
+- Knowledge concentrated in guild structures; difficult to learn without institutional access
 effects:
-  - Fusion of magical energy with mechanical systems
-  - Creation of autonomous constructs (Clank Servitors)
-  - Arcane-powered industrial processes and infrastructure
-  - Steam-and-rune hybrid propulsion systems
-  - Mana-pylon energy distribution networks
+- Fusion of magical energy with mechanical systems
+- Creation of autonomous constructs (Clank Servitors)
+- Arcane-powered industrial processes and infrastructure
+- Steam-and-rune hybrid propulsion systems
+- Mana-pylon energy distribution networks
 relationships:
-  - { target: "[[Elm-ur]]", type: "evolved-from", detail: "Technomancy grew from the Elm-korin philosophy of magical craft" }
-  - { target: "[[Gearhaven]]", type: "birthplace", detail: "The Great Collaboration of SA:1485 produced the first true technomantic systems" }
-  - { target: "[[Clank Servitors]]", type: "produces", detail: "Autonomous mechanical laborers are the signature creation of technomancy" }
-  - { target: "[[Mana-Pylon Systems]]", type: "enables", detail: "Technomantic principles underlie arcane energy infrastructure" }
-  - { target: "[[Clockwork Mechanisms]]", type: "incorporates", detail: "Gnomish clockwork provides the precision mechanical foundation" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Elm-ur]]'
+  type: custom
+  metadata:
+    description: evolved-from
+- target: '[[Gearhaven]]'
+  type: origin
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: produces
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: incorporates
+- target: '[[Archmage Elaruniel]]'
+  type: custom
+  period: SA:2360
+  metadata:
+    description: advanced-by
+- target: '[[Bronr''n Legacy]]'
+  type: created-by
+  period: SA:1485
+  metadata:
+    nature: collaborative
+- target: '[[Gnomes]]'
+  type: created-by
+  period: SA:1485
+  metadata:
+    nature: collaborative
+- target: '[[Mana-Crystals]]'
+  type: custom
+  metadata:
+    description: fuels
+- target: '[[Arcanology]]'
+  type: custom
+  metadata:
+    description: incorporated-into
+- target: '[[Elm-ur]]'
+  type: custom
+  metadata:
+    description: foundational-to
+- target: '[[Archmage Elaruniel]]'
+  type: related
+  period: SA:2360
+  metadata:
+    description: Her Mana-Combustion Drive fused arcane and mechanical principles
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: essential-to
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: product-of
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: foundational-to
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: application-of
+- target: '[[Gearhaven]]'
+  type: origin
+  period: SA:1485
+  metadata:
+    description: Birthplace of the fusion of magic and machine
+- target: '[[Gearhaven]]'
+  type: origin-of
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Technomancy
 
 Technomancy is the arcane-mechanical discipline born from the fusion of [[Elm-korin]] Dwarven craft, [[Rock Gnomes|Gnomish]] clockwork precision, and human arcane theory. It represents one of the most transformative developments of the Second Age, fundamentally altering the balance of power across [[Vaeloris]].

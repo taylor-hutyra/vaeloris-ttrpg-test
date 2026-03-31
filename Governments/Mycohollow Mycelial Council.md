@@ -2,31 +2,64 @@
 wb-type: government
 wb-id: mycohollow-mycelial-council
 name: Mycohollow Mycelial Council
-aliases: [Mycelial Collective, Symbiotic Council of Mycohollow]
+aliases:
+- Mycelial Collective
+- Symbiotic Council of Mycohollow
 type: council
 founded: null
-territory: ["[[Mycohollow]]", "[[Dreaming Grove]]"]
+territory:
+- '[[Mycohollow]]'
+- '[[The Dreaming Grove]]'
 leader: null
-capital: "[[Mycohollow]]"
+capital: '[[Mycohollow]]'
 laws:
-  - "Membership earned through symbiotic communion, not election"
-  - "Guidance by resonated intention through the grove's network"
+- Membership earned through symbiotic communion, not election
+- Guidance by resonated intention through the grove's network
 relationships:
-  - target: "[[Lithos Guild-Conclave]]"
-    type: cultural-kin
-    period: ""
-  - target: "[[Hearthfolk Commonwealth]]"
-    type: historic-alliance
-    period: ""
-  - target: "[[Gearhaven Cog-Council]]"
-    type: philosophical-exchange
-    period: ""
+- target: '[[Lithos Guild-Conclave]]'
+  type: custom
+  metadata:
+    description: cultural-kin
+- target: '[[Hearthfolk Commonwealth]]'
+  type: custom
+  metadata:
+    description: historic-alliance
+- target: '[[Gearhaven Cog-Council]]'
+  type: custom
+  metadata:
+    description: philosophical-exchange
+- target: '[[Forest Gnomes]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Symbiotic Council governing the Root-Tenders of Mycohollow
+- target: '[[Mycohollow]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Rules the fungal city of Mycohollow
+- target: '[[Halflings]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Historic alliance via the Declaration of Hollowkin Rights
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: custom
+  metadata:
+    description: gnomish-ties
+- target: '[[Gnomes]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Forest Gnomes governed by the Symbiotic Council of Mycohollow
 timeline: []
-tags: [government, gnome, forest-gnome]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- gnome
+- forest-gnome
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mycohollow Mycelial Council
 
 [[Mycohollow]] is the largest and most influential [[Gnomes|Gnomish]] settlement, a city woven into a gargantuan, semi-sentient fungal grove. Its government is as organic and interconnected as the city itself.

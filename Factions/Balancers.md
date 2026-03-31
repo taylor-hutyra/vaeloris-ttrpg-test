@@ -1,47 +1,50 @@
 ---
 wb-type: faction
-wb-id: "balancers"
-name: "Balancers"
+wb-id: balancers
+name: Balancers
 aliases: []
-type: "philosophical"
+type: philosophical
 founded: null
 dissolved: null
-headquarters: "[[Mycohollow]]"
+headquarters: '[[Mycohollow]]'
 leader: null
 territory:
-  - "[[Mycohollow]]"
-influence: "dominant"
+- '[[Mycohollow]]'
+influence: dominant
 goals:
-  - "Gently guide and mend the Syn-Koinos (Shared Pattern)"
-  - "Maintain balance between nature and artifice"
-  - "Favor diplomacy, patience, and subtle intervention"
+- Gently guide and mend the Syn-Koinos (Shared Pattern)
+- Maintain balance between nature and artifice
+- Favor diplomacy, patience, and subtle intervention
 relationships:
-  - target: "[[Forest Gnomes]]"
-    type: "ruling philosophy of"
-    period: ""
-  - target: "[[Purifiers]]"
-    type: "rival faction"
-    period: ""
-  - target: "[[Integrators]]"
-    type: "rival faction"
-    period: ""
-  - target: "[[Mycohollow]]"
-    type: "headquarters"
-    period: ""
+- target: '[[Forest Gnomes]]'
+  type: custom
+  metadata:
+    description: ruling philosophy of
+- target: '[[Purifiers]]'
+  type: rival
+- target: '[[Integrators]]'
+  type: rival
+- target: '[[Mycohollow]]'
+  type: located-in
+  metadata:
+    nature: headquarters
+- target: '[[Mycohollow]]'
+  type: contains
+  metadata:
+    nature: headquarters
 timeline:
-  - period: ""
-    event: "Emerged as the majority philosophical faction in Mycohollow"
-  - period: ""
-    event: "Maintained dominance over the Mycelial Council through moderate consensus"
+- period: ''
+  event: Emerged as the majority philosophical faction in Mycohollow
+- period: ''
+  event: Maintained dominance over the Mycelial Council through moderate consensus
 tags:
-  - faction
-  - gnomish
-  - forest-gnome
-  - philosophical
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- gnomish
+- forest-gnome
+- philosophical
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Balancers
 
 The Balancers are the current majority philosophical faction in [[Forest Gnomes|Forest Gnome]] politics, dominating the governance of [[Mycohollow]]. They represent the moderate position in the Great Philosophical Divide over the correct method for performing the [[Mori-Syna]] (the Quiet Work).

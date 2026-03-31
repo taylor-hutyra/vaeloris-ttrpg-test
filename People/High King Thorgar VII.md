@@ -1,46 +1,64 @@
 ---
 wb-type: person
 wb-id: high-king-thorgar-vii
-name: "High King Thorgar VII"
+name: High King Thorgar VII
 aliases: []
-species: "[[N'nm-Khazal'n]]"
+species: '[[N''nm-Khazal''n]]'
 born: null
 died: null
-birthplace: "[[Kharnzarak]]"
-residence: "[[Kharnzarak]]"
-faction: "[[Barazkor Clan]]"
-role: "Current High King of Kharnzarak"
-title: "High King of Kharnzarak"
+birthplace: '[[Kharnzarak]]'
+residence: '[[Kharnzarak]]'
+faction: '[[Barazkor Clan]]'
+role: Current High King of Kharnzarak
+title: High King of Kharnzarak
 gender: male
 relationships:
-  - target: "[[Kharnzarak]]"
-    type: ruler
-    period: "SA:3050-"
-    note: "Current High King, ruling from the Adamant Throne"
-  - target: "[[Barazkor Clan]]"
-    type: member
-    note: "Royal Clan, the Iron-Gavels"
-  - target: "[[Stone-Lay Council]]"
-    type: political-figure
-    note: "Advised by the nine clan-lords of the Stone-Lay Council"
-  - target: "[[High King Thorgar VI]]"
-    type: successor
-    note: "Distant successor who reversed the Sealing by opening a single trade gate"
-  - target: "[[Farraz'l Clan]]"
-    type: rival
-    note: "The wealthy Gem-Cutters push for more pragmatic trade policies"
+- target: '[[Kharnzarak]]'
+  type: ruler
+  period: SA:3050-
+  metadata:
+    description: Current High King, ruling from the Adamant Throne
+- target: '[[Barazkor Clan]]'
+  type: member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[Stone-Lay Council]]'
+  type: related
+  metadata:
+    description: Advised by the nine clan-lords of the Stone-Lay Council
+    nature: political figure
+- target: '[[High King Thorgar VI]]'
+  type: successor
+  metadata:
+    description: Distant successor who reversed the Sealing by opening a single trade gate
+- target: '[[Farraz''l Clan]]'
+  type: rival
+  metadata:
+    description: The wealthy Gem-Cutters push for more pragmatic trade policies
+- target: '[[Barazkor Clan]]'
+  type: has-member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[High King Thorgar VI]]'
+  type: predecessor
+  metadata:
+    description: Distant successor who reversed the Sealing by opening a single trade gate
 timeline:
-  - period: "SA:3050"
-    event: "Allowed a single trade gate of Kharnzarak to open, ending centuries of total isolation"
-  - period: "SA:3050-"
-    event: "Permitted the sale of high-quality Dwarven steel to the surface, fueling the industrial revolution in Gearhaven"
-  - period: "TA"
-    event: "Continues to rule from the Adamant Throne, balancing traditionalist pressures against the need for cautious engagement"
-tags: [person, dwarf, nnm-khazaln, king, current]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:3050
+  event: Allowed a single trade gate of Kharnzarak to open, ending centuries of total isolation
+- period: SA:3050-
+  event: Permitted the sale of high-quality Dwarven steel to the surface, fueling the industrial revolution in Gearhaven
+- period: TA
+  event: Continues to rule from the Adamant Throne, balancing traditionalist pressures against the need for cautious engagement
+tags:
+- person
+- dwarf
+- nnm-khazaln
+- king
+- current
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # High King Thorgar VII
 
 **High King Thorgar VII** is the current ruler of [[Kharnzarak]], seated upon the **Adamant Throne** and governing the [[N'nm-Khazal'n]] -- the Stone-Sworn [[Dwarves]] of the mainland mountains. He is the monarch who cracked open the Great Adamant Gates after centuries of isolation, allowing a single trade gate to resume contact with the surface world.

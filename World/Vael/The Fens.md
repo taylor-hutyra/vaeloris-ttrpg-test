@@ -2,33 +2,45 @@
 wb-type: place
 wb-id: the-fens
 name: The Fens
-aliases: [The Great Swamps]
-parent: "[[Vael]]"
+aliases:
+- The Great Swamps
+parent: '[[Vael]]'
 spatial-type: region
 contains: []
 population: null
-ruler: "[[Bog-Seer]]"
-faction: "[[Murk-Tenders]]"
+ruler: '[[Bog-Seer]]'
+faction: '[[Murk-Tenders]]'
 climate: humid, swampy, perpetual mist
-resources: [rare herbs, poisons, peat, medicinal fungi]
+resources:
+- rare herbs
+- poisons
+- peat
+- medicinal fungi
 status: reclusive Waldkyn territory, deeply territorial
 relationships:
-  - target: "[[Whispering Vales]]"
-    type: culturally-linked
-    period: "1-"
-  - target: "[[Varnathi Highlands]]"
-    type: distrustful
-    period: "1-"
+- target: '[[Whispering Vales]]'
+  type: related
+  period: 1-
+  metadata:
+    nature: culturally linked
+- target: '[[Varnathi Highlands]]'
+  type: rival
+  period: 1-
+  metadata:
+    nature: distrustful
 timeline:
-  - period: "SA:20-"
-    event: Ribbet and Fungril Waldkyn settle the swamps, adapting to a life of secrecy
-  - period: "SA:410"
-    event: Orkin warbands flee into the western marshes during Caelius I's March of Order
-tags: [place, region, swamp, waldkyn]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:20-
+  event: Ribbet and Fungril Waldkyn settle the swamps, adapting to a life of secrecy
+- period: SA:410
+  event: Orkin warbands flee into the western marshes during Caelius I's March of Order
+tags:
+- place
+- region
+- swamp
+- waldkyn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Fens
 
 The Fens are a vast swampland on the mainland of [[Vael]], home to the reclusive [[Murk-Tenders]] -- a culture of primarily [[Ribbet]] and [[Fungril]] [[Waldkyn]] who have adapted to a life of secrecy and subtle influence in the marshes.

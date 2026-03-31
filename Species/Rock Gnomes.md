@@ -2,30 +2,108 @@
 wb-type: species
 wb-id: rock-gnomes
 name: Rock Gnomes
-aliases: [Deep-Weavers, "N'mm-kith", Stone-kin, Mountain Gnomes]
-origin: Gnomish offshoot that migrated into deep mountain root systems, becoming tenders of stone, crystal, and geothermal patterns
+aliases:
+- Deep-Weavers
+- N'mm-kith
+- Stone-kin
+- Mountain Gnomes
+origin: Gnomish offshoot that migrated into deep mountain root systems, becoming tenders of stone, crystal, and geothermal
+  patterns
 lifespan: 350-500 years
-traits: [precise, structured, gem-cutting mastery, silent clockwork, phosphorescent cities, guild-organized]
-habitat: ["[[Lithos]]"]
+traits:
+- precise
+- structured
+- gem-cutting mastery
+- silent clockwork
+- phosphorescent cities
+- guild-organized
+habitat:
+- '[[Lithos]]'
 population: small
 relationships:
-  - target: "[[Gnomes]]"
-    type: child-of
-  - target: "[[Lithos]]"
-    type: controls
-  - target: "[[Forest Gnomes]]"
-    type: kindred-of
-  - target: "[[Sand Gnomes]]"
-    type: kindred-of
-  - target: "[[N'nm-Khazal'n]]"
-    type: ally-of
-  - target: "[[Elm-korin]]"
-    type: ally-of
-tags: [species, gnomish, rock-gnome, clockwork, subterranean, gem-craft]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Gnomes]]'
+  type: child
+- target: '[[Lithos]]'
+  type: controls
+- target: '[[Forest Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Sand Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[N''nm-Khazal''n]]'
+  type: ally
+- target: '[[Elm-korin]]'
+  type: ally
+- target: '[[Lithos Guild-Conclave]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Governed by the Technocratic Guild-Conclave of Lithos
+- target: '[[Hannan''r'']]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Secretly aided in stabilizing the Great Weaving with bronze lattice-work
+- target: '[[Cirhannim]]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Symbiotic relationship with Cirhannim Elves; hidden Gnomish Hollows in Hannan'r'
+- target: '[[Dwarves]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: N'nm-Khazal'n Dwarves call them N'mm-kith (Stone-kin); quiet mutual respect
+    nature: stone-kin
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Lithos is hidden deep within the Dragon's Tooth mountains
+- target: '[[Clockwork School]]'
+  type: custom
+  metadata:
+    description: dominant philosophy of
+- target: '[[Resonance School]]'
+  type: custom
+  metadata:
+    description: heretical minority within
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: aided-by
+- target: '[[The Twin Roots]]'
+  type: worships
+  metadata:
+    description: Emphasis on Ilys-Tekne and the mechanical aspects of creation
+    nature: practice
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: originated-by
+- target: '[[Hannan''r'']]'
+  type: located-in
+  period: SA:89-
+  metadata:
+    description: Hidden Gnomish Hollows house a symbiotic Rock Gnome population since SA:89
+- target: '[[Lithos]]'
+  type: native
+  period: SA
+  metadata:
+    description: Greatest city of the Rock Gnomes, hidden subterranean metropolis
+tags:
+- species
+- gnomish
+- rock-gnome
+- clockwork
+- subterranean
+- gem-craft
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Rock Gnomes
 
 The **Rock Gnomes**, or **Deep-Weavers**, are a [[Gnomes|Gnomish]] offshoot that migrated into the deep root systems of the world's mountains, becoming tenders of stone, crystal, and geothermal patterns. They live in breathtaking, silent cities carved into subterranean caverns, lit by phosphorescent fungi and powered by volcanic vents. The [[N'nm-Khazal'n]] [[Dwarves]] know them by the respectful name **N'mm-kith** ("Stone-kin"), recognizing them as fellow children of a Stone-based Pillar.

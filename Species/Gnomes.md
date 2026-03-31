@@ -2,28 +2,260 @@
 wb-type: species
 wb-id: gnomes
 name: Gnomes
-aliases: [The Quiet Tenders, Children of the Twin Roots, The Small-Folk]
-origin: "Grown from the deep magic of the forest floor by the Twin Roots — Ceryn-Maia (The Green Mother) and Ilys-Tekne (The Bright Artisan) — imbued with an artisan's soul to be the world's quiet tenders"
-lifespan: "350-500 years"
-traits: [meticulous, inventive, communal, subtle, nature-attuned, patient]
-habitat: ["[[Mycohollow]]", "[[Lithos]]", "[[Dreaming Grove]]", "[[M'ren'r']]"]
+aliases:
+- The Quiet Tenders
+- Children of the Twin Roots
+- The Small-Folk
+origin: Grown from the deep magic of the forest floor by the Twin Roots — Ceryn-Maia (The Green Mother) and Ilys-Tekne (The
+  Bright Artisan) — imbued with an artisan's soul to be the world's quiet tenders
+lifespan: 350-500 years
+traits:
+- meticulous
+- inventive
+- communal
+- subtle
+- nature-attuned
+- patient
+habitat:
+- '[[Mycohollow]]'
+- '[[Lithos]]'
+- '[[The Dreaming Grove]]'
+- '[[M''ren''r'']]'
 population: low
 relationships:
-  - target: "[[Ceryn-Maia]]"
-    type: creator
-  - target: "[[Ilys-Tekne]]"
-    type: creator
-  - target: "[[Dwarves]]"
-    type: stone-kin
-  - target: "[[Halflings]]"
-    type: allied
-  - target: "[[Waldkyn]]"
-    type: collaborative
-tags: [species, mortal, artisans, nature-keepers]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Ceridara]]'
+  type: creator
+  period: FA
+  metadata:
+    description: The Greenward (minor deity of Virandros) — known to Gnomes as Ceryn-Maia, the Green Mother
+    nature: collaborative
+- target: '[[Illysia]]'
+  type: creator
+  period: FA
+  metadata:
+    description: The Craftmother (minor deity of Myrasael) — known to Gnomes as Ilys-Tekne, the Bright Artisan
+    nature: collaborative
+- target: '[[Dwarves]]'
+  type: sibling
+  metadata:
+    nature: stone-kin
+- target: '[[Halflings]]'
+  type: ally
+- target: '[[Waldkyn]]'
+  type: ally
+  metadata:
+    nature: collaborative
+- target: '[[Mycohollow]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Largest Forest Gnome settlement, a city woven into a gargantuan fungal grove
+- target: '[[Lithos]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Greatest city of the Rock Gnomes, hidden subterranean metropolis
+- target: '[[Great Desert]]'
+  type: native
+  period: SA
+  metadata:
+    description: Sand Gnomes follow deep aquifers through the great deserts
+- target: '[[Mycohollow Mycelial Council]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Forest Gnomes governed by the Symbiotic Council of Mycohollow
+- target: '[[Lithos Guild-Conclave]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Rock Gnomes governed by the Technocratic Guild-Conclave of Lithos
+- target: '[[Hannan''r'']]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Rock Gnomes secretly stabilized the Great Weaving with bronze lattice-work
+- target: '[[Elm-korin]]'
+  type: ally
+  period: SA:1485-
+  metadata:
+    description: Gnomes co-founded Gearhaven; Symbiotic Weave faction is Gnomish-led
+    nature: collaborative
+- target: '[[Gearhaven]]'
+  type: native
+  period: SA:1485-
+  metadata:
+    description: Gnomes co-founded Gearhaven in the Great Collaboration
+- target: '[[M''ren''r'']]'
+  type: native
+  period: SA
+  metadata:
+    description: Crystal-Singers of M'ren'r' craft vital arcane conduits for Aen'valar scholars
+- target: '[[Elves]]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Rock Gnomes aided Cirhannim Elves; Crystal-Singers serve Aen'valar scholars
+    nature: collaborative
+- target: '[[Lothari]]'
+  type: related
+  period: SA
+  metadata:
+    description: Lothari call Sand Gnomes 'the little spirits of the cool sand'
+- target: '[[The Golden Age of Creation]]'
+  type: involved-in
+  metadata:
+    description: Secretly created during this period by Ceridara and Illysia
+- target: '[[Bronr''n Legacy]]'
+  type: ally
+  period: SA:1200-
+  metadata:
+    description: Studies Gnomish designs in hidden workshops
+- target: '[[Crystal-Singers of M''ren''r'']]'
+  type: custom
+  metadata:
+    description: Gnomish enclave
+- target: '[[Green-Root Accord]]'
+  type: ally
+- target: '[[Hollowkin Council]]'
+  type: member
+  period: SA:980-
+  metadata:
+    nature: founding
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Green-Root Accord faction has strong Gnomish ties championing bio-technology
+- target: '[[Gearhaven Cog-Council]]'
+  type: member
+  period: SA:1485-
+  metadata:
+    description: Gnomish engineers and bio-engineers serve in the Symbiotic Weave faction
+- target: '[[Technomancy]]'
+  type: creator
+  period: SA:1485
+  metadata:
+    nature: collaborative
+- target: '[[Ceridara]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Grew the Gnomes with Illysia in the Hollow Glade — the Twin Roots
+    nature: collaborative
+- target: '[[Illysia]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Grew the Gnomes with Ceridara in the Hollow Glade — the Twin Roots
+    nature: collaborative
+- target: '[[Tobin Willow-snap]]'
+  type: ally
+  period: SA:980
+  metadata:
+    description: Encountered and befriended the Forest Gnomes already living in the region
+- target: '[[The Twin Roots]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Aen''valar]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Crystal-Singers of M'ren'r' craft vital focusing crystals for Aen'valar scholars
+    nature: collaborative
+- target: '[[Forest Gnomes]]'
+  type: parent
+- target: '[[Humans]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Humans call Gnomes and similar folk 'Small-Folk'; Gnomes call Humans 'Loud-Walkers'
+    nature: coexistent
+- target: '[[N''nm-Khazal''n]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: Call Gnomes the N'mm-kith (Stone-kin), recognizing them as fellow children of a Stone-based Pillar
+    nature: stone-kin
+- target: '[[Rock Gnomes]]'
+  type: parent
+- target: '[[Sand Gnomes]]'
+  type: parent
+- target: '[[Thulkor''n]]'
+  type: related
+  period: SA
+  metadata:
+    description: Little to no contact with or knowledge of Gnomes
+- target: '[[The Dreaming Grove]]'
+  type: related
+  metadata:
+    description: Birthplace of the Gnomish people
+- target: '[[The Hollow Glade]]'
+  type: origin
+  period: FA
+  metadata:
+    description: The first Gnomes were grown here
+- target: '[[Hollowkin Settlement]]'
+  type: native
+  period: SA:900-
+- target: '[[Gearhaven]]'
+  type: founded-by
+  period: SA:1485
+  metadata:
+    nature: collaborative
+- target: '[[M''ren''r'']]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Crystal-Singers of M'ren'r' — wealthy Gnomish enclave crafting vital focusing crystals
+- target: '[[Nexus]]'
+  type: ally
+  period: SA:1510-
+- target: '[[Founding of Greenmeadow]]'
+  type: involved-in
+  period: SA:980
+  metadata:
+    description: Revealed themselves to the Halflings rather than fight
+- target: '[[Night of the Weeping Stone]]'
+  type: involved-in
+  period: SA:2780
+  metadata:
+    description: Gnomish medics successfully cured the outbreak
+- target: '[[Rise of the Plague-Wardens]]'
+  type: involved-in
+  period: SA:2710
+  metadata:
+    description: Became frontline medics; developed Spore-Masks and alchemical sprays
+- target: '[[Hollowkin Council]]'
+  type: has-member
+  period: SA:980-
+  metadata:
+    nature: founding
+- target: '[[The Hollow Glade]]'
+  type: origin-of
+  period: FA
+  metadata:
+    description: The first Gnomes were grown here
+- target: '[[Gearhaven]]'
+  type: founder
+  period: SA:1485
+  metadata:
+    nature: collaborative
+timeline:
+- period: FA
+  event: Secretly grown by Ceridara the Greenward and Illysia the Craftmother in the Hollow Glade within the Dreaming Grove
+    during the Golden Age
+- period: FA
+  event: Designed as quiet tenders of the natural world — unseen harmonizers and stewards
+tags:
+- species
+- mortal
+- artisans
+- nature-keepers
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Gnomes
 
 To the Gnomes, creation was neither a battle nor a performance; it was a quiet, meticulous act of **Germination**. They do not speak of a single grand creator, but of the **Twin Roots** — the two divine mothers who shaped them with patience and purpose. Gnomes believe their purpose is not to rule or conquer, but to be the Quiet Tenders of [[Vaeloris]] — the unseen mechanics, gardeners, and harmonizers who mend the world's intricate patterns. Their most sacred proverb: *"The deepest roots make no sound."*
@@ -59,7 +291,7 @@ Key cultural terms: **Fynora** — the soft, dappled green light filtering throu
 
 ### Forest Gnomes (The Root-Tenders)
 
-The [[Forest Gnomes]] are the original and most numerous Gnomish people, living in hidden **Hollows** beneath the great forests of the mainland, most notably in the hills surrounding the [[Dreaming Grove]]. Their largest settlement is [[Mycohollow]], a city built within a gargantuan, symbiotic fungal grove, governed by the **Mycelial Council** led by two co-equal figures: the **Myco-Whisperer** (spiritual leader representing [[Ceryn-Maia]]) and the **Geo-Weaver** (lead artisan representing [[Ilys-Tekne]]). They are master gardeners, animal-friends, and artisans of wood and living things. It was these Gnomes who signed the **Declaration of Hollowkin Rights** with the [[Halflings]].
+The [[Forest Gnomes]] are the original and most numerous Gnomish people, living in hidden **Hollows** beneath the great forests of the mainland, most notably in the hills surrounding [[The Dreaming Grove]]. Their largest settlement is [[Mycohollow]], a city built within a gargantuan, symbiotic fungal grove, governed by the **Mycelial Council** led by two co-equal figures: the **Myco-Whisperer** (spiritual leader representing [[Ceryn-Maia]]) and the **Geo-Weaver** (lead artisan representing [[Ilys-Tekne]]). They are master gardeners, animal-friends, and artisans of wood and living things. It was these Gnomes who signed the **Declaration of Hollowkin Rights** with the [[Halflings]].
 
 ### Rock Gnomes (The Deep-Weavers)
 

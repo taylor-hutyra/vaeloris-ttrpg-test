@@ -2,28 +2,74 @@
 wb-type: event
 wb-id: sealing-of-kharnzarak
 name: Sealing of Kharnzarak
-aliases: [The Great Adamant Gates]
-date: "SA:1400"
-duration: "Permanent — sealed for centuries"
-location: "[[Kharnzarak]]"
-participants: ["[[Thorgar VI]]", "[[Dwarves]]"]
-causes: ["[[Paranoia of High King]]", "Pure-Blood doctrine", "Civil war within the mountain"]
-consequences: ["Kharnzarak became a tomb of silence to the outside world", "Wandering Kin and Novaterran Free Holds became only visible Dwarves", "End of Epoch III", "Stage set for discovery of magic as old powers retreated"]
-affected-entities: ["[[Kharnzarak]]", "[[Dwarves]]", "[[Wandering Kin]]", "[[Free Holds]]"]
+aliases:
+- The Great Adamant Gates
+date: SA:1400
+period: SA:1400
+duration: Permanent — sealed for centuries
+location: '[[Kharnzarak]]'
+participants:
+- '[[Thorgar VI]]'
+- '[[Dwarves]]'
+causes:
+- '[[Paranoia of High King]]'
+- Pure-Blood doctrine
+- Civil war within the mountain
+consequences:
+- Kharnzarak became a tomb of silence to the outside world
+- Wandering Kin and Novaterran Free Holds became only visible Dwarves
+- End of Epoch III
+- Stage set for discovery of magic as old powers retreated
+affected-entities:
+- '[[Kharnzarak]]'
+- '[[Dwarves]]'
+- '[[Wandering Kin]]'
+- '[[Free Holds]]'
 status: historical
 relationships:
-  - target: "[[Paranoia of High King]]"
-    type: caused-by
-    period: "SA:1380"
-  - target: "[[Dwarven Isolation]]"
-    type: culmination-of
-    period: "SA:615"
+- target: '[[Paranoia of High King]]'
+  type: caused-by
+  period: SA:1380
+- target: '[[Dwarven Isolation]]'
+  type: caused-by
+  period: SA:615
+  metadata:
+    nature: culmination
+- target: '[[High King Thorgar VI]]'
+  type: involved
+  period: SA:1400
+  metadata:
+    description: Paranoid High King who ordered the Great Adamant Gates sealed
+- target: '[[Kharnzarak]]'
+  type: involved
+  period: SA:1400
+  metadata:
+    description: The Dwarven kingdom sealed behind runic wards for centuries
+- target: '[[Bronr''n Legacy]]'
+  type: related
+  period: SA:1200
+  metadata:
+    description: Bronr'n Clan exiled after Thorgar blamed them for the Earthwake
+- target: '[[Elm-korin]]'
+  type: related
+  period: SA:690
+  metadata:
+    description: Earlier exile of magic-smiths foreshadowed the complete sealing
+- target: '[[Dwarven Isolation]]'
+  type: followed
+  period: SA:1400
+- target: '[[Earthwake of Kharnzarak]]'
+  type: followed
+  period: SA:1400
+  metadata:
+    description: Earthwake accelerated the path toward total isolation
 timeline: []
-tags: [event, epoch-iii-expansion]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-iii-expansion
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sealing of Kharnzarak
 
 In the final year of Epoch III, High King [[Thorgar VI]] ordered the Great Adamant Gates of [[Kharnzarak]] sealed. The runes were hammered shut. For the next several centuries, the Dwarven Kingdom would be a tomb of silence to the outside world.

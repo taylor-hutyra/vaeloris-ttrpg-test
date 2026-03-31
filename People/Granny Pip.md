@@ -1,32 +1,41 @@
 ---
 wb-type: person
 wb-id: granny-pip
-name: "Granny Pip"
-aliases: [Old Pip, The Wisdom-Keeper]
-species: "[[Halflings]]"
+name: Granny Pip
+aliases:
+- Old Pip
+- The Wisdom-Keeper
+species: '[[Halflings]]'
 born: null
 died: null
-birthplace: "[[Greenmeadow]]"
-residence: "[[Greenmeadow]]"
-faction: "[[Hearthfolk Commonwealth]]"
-role: "Wisdom keeper, proverbial figure, cultural archetype"
+birthplace: '[[Greenmeadow]]'
+residence: '[[Greenmeadow]]'
+faction: '[[Hearthfolk Commonwealth]]'
+role: Wisdom keeper, proverbial figure, cultural archetype
 title: null
 gender: female
 relationships:
-  - target: "[[Halflings]]"
-    type: cultural-icon
-    note: "The archetypal Halfling grandmother; source of all practical proverbs"
-  - target: "[[Clever Jeni Pipkin]]"
-    type: cultural-complement
-    note: "Where Jeni is the trickster, Granny Pip is the sage"
+- target: '[[Halflings]]'
+  type: related
+  metadata:
+    description: The archetypal Halfling grandmother; source of all practical proverbs
+    nature: cultural icon
+- target: '[[Clever Jeni Pipkin]]'
+  type: custom
+  metadata:
+    description: 'cultural-complement: Where Jeni is the trickster, Granny Pip is the sage'
 timeline:
-  - period: "SA:1000-"
-    event: "Became the attributed source of an ever-growing collection of Halfling proverbs and garden-wisdom"
-tags: [person, halfling, hearthfolk, folklore, wisdom-keeper]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1000-
+  event: Became the attributed source of an ever-growing collection of Halfling proverbs and garden-wisdom
+tags:
+- person
+- halfling
+- hearthfolk
+- folklore
+- wisdom-keeper
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Granny Pip
 
 **Granny Pip** is the proverbial wisdom-keeper of [[Halflings|Halfling]] culture -- the archetypal grandmother whose name is attached to every piece of practical advice, common-sense observation, and gently devastating truth that one [[Halflings|Halfling]] has ever muttered to another while weeding a garden or stirring a pot. She is less a historical figure and more a living institution, the collective voice of [[Halflings|Halfling]] common sense distilled into a single, deeply formidable old woman.

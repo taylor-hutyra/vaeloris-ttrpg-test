@@ -1,43 +1,43 @@
 ---
 wb-type: faction
-wb-id: "whisper-shamans"
-name: "Whisper-Shamans"
+wb-id: whisper-shamans
+name: Whisper-Shamans
 aliases: []
 type: spiritual
 founded: null
 dissolved: null
-headquarters: "[[Barren Hills]]"
+headquarters: '[[Barren Hills]]'
 leader: null
 territory:
-  - "[[Barren Hills]]"
+- '[[Barren Hills]]'
 influence: minority
 goals:
-  - "Commune with the spirits of the land"
-  - "Guide the Varr-Darg through spiritual endurance, not just physical might"
-  - "Expose the Silent Blight as a perversion of Grom-Kain's true will"
+- Commune with the spirits of the land
+- Guide the Varr-Darg through spiritual endurance, not just physical might
+- Expose the Silent Blight as a perversion of Grom-Kain's true will
 relationships:
-  - target: "[[Bloodied Fist Clans]]"
-    type: rival
-    period: null
-  - target: "[[Council of Listeners]]"
-    type: sympathetic
-    period: null
-  - target: "[[Varr-Darg]]"
-    type: minority-faction
-    period: null
+- target: '[[Bloodied Fist Clans]]'
+  type: rival
+- target: '[[Council of Listeners]]'
+  type: ally
+  metadata:
+    nature: sympathetic
+- target: '[[Varr-Darg]]'
+  type: custom
+  metadata:
+    description: minority-faction
 timeline:
-  - period: null
-    event: "Formed as a spiritual counter-voice to the Bloodied Fist's militant majority"
+- period: null
+  event: Formed as a spiritual counter-voice to the Bloodied Fist's militant majority
 tags:
-  - faction
-  - orkin
-  - spiritual
-  - mainland
-  - varr-darg
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- spiritual
+- mainland
+- varr-darg
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Whisper-Shamans
 
 A smaller but influential faction of shamans among the [[Varr-Darg]] [[Orkin]] of the [[Barren Hills]]. The Whisper-Shamans commune with the spirits of the land and argue that the [[Varr-Darg]]'s suffering is a test of spiritual endurance, not merely physical might. They are wary of the "new voice" of [[Kael'Zorai]], sensing its "silent, unnatural order" as a perversion of [[Grom-Kain]]'s true will.

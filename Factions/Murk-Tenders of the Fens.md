@@ -1,41 +1,42 @@
 ---
 wb-type: faction
-wb-id: "murk-tenders-of-the-fens"
-name: "Murk-Tenders of the Fens"
+wb-id: murk-tenders-of-the-fens
+name: Murk-Tenders of the Fens
 aliases:
-  - "Murk-Tenders"
+- Murk-Tenders
 type: cultural
 founded: null
 dissolved: null
-headquarters: "[[The Fens]]"
-leader: "[[Bog-Seer]]"
+headquarters: '[[The Fens]]'
+leader: '[[Bog-Seer]]'
 territory:
-  - "[[The Fens]]"
+- '[[The Fens]]'
 influence: local
 goals:
-  - "Protect the swamplands from outsiders"
-  - "Preserve ancient knowledge of herbal remedies and poisons"
-  - "Divine the future through mist and marsh patterns"
+- Protect the swamplands from outsiders
+- Preserve ancient knowledge of herbal remedies and poisons
+- Divine the future through mist and marsh patterns
 relationships:
-  - target: "[[Quiet Vales Kith]]"
-    type: distant-kin
-    period: null
-  - target: "[[Whispering Vales]]"
-    type: distrustful
-    period: null
+- target: '[[Quiet Vales Kith]]'
+  type: sibling
+  metadata:
+    nature: distant
+- target: '[[Whispering Vales]]'
+  type: rival
+  metadata:
+    nature: distrustful
 timeline:
-  - period: null
-    event: "Established as a reclusive Waldkyn enclave in the great swamps of the mainland"
+- period: null
+  event: Established as a reclusive Waldkyn enclave in the great swamps of the mainland
 tags:
-  - faction
-  - waldkyn
-  - enclave
-  - mainland
-  - mystical
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- waldkyn
+- enclave
+- mainland
+- mystical
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Murk-Tenders of the Fens
 
 A reclusive and highly superstitious culture of [[Waldkyn]]—primarily [[Ribbet]] and [[Fungril]]—who inhabit the great swamps of [[The Fens]] on the mainland. They have adapted to a life of secrecy and subtle influence, guarding ancient knowledge found nowhere else in the world.

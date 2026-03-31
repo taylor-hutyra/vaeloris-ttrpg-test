@@ -2,44 +2,68 @@
 wb-type: place
 wb-id: zure
 name: Zure
-aliases: [The Floating Market, Zure's Grave]
-parent: "[[Novaterra]]"
+aliases:
+- The Floating Market
+- Zure's Grave
+parent: '[[Novaterra]]'
 spatial-type: city
 contains: []
 population: null
 ruler: null
 faction: null
 climate: high-altitude
-resources: [intelligence, contraband, pre-skyfall-tech]
+resources:
+- intelligence
+- contraband
+- pre-skyfall-tech
 status: destroyed
 relationships:
-  - target: "[[Cloudborn Corsairs]]"
-    type: frequented-by
-    period: "SA:2500-SA:2688"
-  - target: "[[Shadewalkers]]"
-    type: frequented-by
-    period: "SA:2500-SA:2688"
-  - target: "[[Allied Command]]"
-    type: used-by
-    period: "SA:2500-SA:2688"
-  - target: "[[Drakona]]"
-    type: used-by
-    period: "SA:2500-SA:2688"
+- target: '[[Cloudborn Corsairs]]'
+  type: custom
+  period: SA:2500-SA:2688
+  metadata:
+    description: frequented-by
+- target: '[[Shadewalkers]]'
+  type: custom
+  period: SA:2500-SA:2688
+  metadata:
+    description: frequented-by
+- target: '[[Allied Command]]'
+  type: custom
+  period: SA:2500-SA:2688
+  metadata:
+    description: used-by
+- target: '[[Drakona]]'
+  type: custom
+  period: SA:2500-SA:2688
+  metadata:
+    description: used-by
+- target: '[[Floating Market of Zure]]'
+  type: involved-in
+  period: SA:2500-2688
+  metadata:
+    description: The floating landmass that became the wartime neutral zone
 timeline:
-  - period: "SA:2500"
-    label: "Established as a neutral floating market on a Paroxysm-lifted sky-island"
-  - period: "SA:2500-SA:2688"
-    label: "Serves as the 'Casablanca' of the Dragonfall War -- spies, defectors, corsairs, and merchants meet"
-  - period: "SA:2688"
-    label: "Destroyed during the Skyfall when the Earth-Anchor Ritual grounded all flight magic"
-tags: [place, city, novaterra, destroyed, floating, wartime, espionage]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:2500
+  label: Established as a neutral floating market on a Paroxysm-lifted sky-island
+- period: SA:2500-SA:2688
+  label: Serves as the 'Casablanca' of the Dragonfall War -- spies, defectors, corsairs, and merchants meet
+- period: SA:2688
+  label: Destroyed during the Skyfall when the Earth-Anchor Ritual grounded all flight magic
+tags:
+- place
+- city
+- novaterra
+- destroyed
+- floating
+- wartime
+- espionage
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Zure
 
-**Zure** was a floating market built on a massive chunk of land ripped skyward by raw magic during the [[Paroxysm]] of the First Age. Suspended in the high atmosphere, it became the most notorious neutral zone of the [[Dragonfall]] era -- a place where [[Allied Command]] spies, [[Drakona]] defectors, [[Cloudborn Corsairs]], and [[Shadewalkers]] met to trade intelligence and goods far above the war raging below.
+**Zure** was a floating market built on a massive chunk of land ripped skyward by raw magic during [[The Paroxysm]] of the First Age. Suspended in the high atmosphere, it became the most notorious neutral zone of the [[Dragonfall]] era -- a place where [[Allied Command]] spies, [[Drakona]] defectors, [[Cloudborn Corsairs]], and [[Shadewalkers]] met to trade intelligence and goods far above the war raging below.
 
 ## History
 

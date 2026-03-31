@@ -2,28 +2,67 @@
 wb-type: event
 wb-id: broken-wing-insurgency
 name: Broken Wing Insurgency
-aliases: [The Broken Wing Campaign]
-date: "SA:2950-SA:3000"
-duration: "Decades of sustained terrorism and resistance"
-location: "[[District of Scales]]"
-participants: ["[[Drakona]]", "[[Broken Wing]]", "[[Magocracy]]"]
-causes: ["Drakona confinement in the District of Scales", "Forced labor as living batteries for anti-Rot wards", "Stripping of flight and dignity after the Skyfall"]
-consequences: ["Bombing of Mana-Pylons and assassination of Magisters", "Justified harsh Magocracy policing in public eyes", "Established Drakona as active internal threat complicating victim narrative"]
-affected-entities: ["[[Drakona]]", "[[Broken Wing]]", "[[Magocracy]]", "[[District of Scales]]"]
+aliases:
+- The Broken Wing Campaign
+date: SA:2950-SA:3000
+period: SA:2950-3000
+duration: Decades of sustained terrorism and resistance
+location: '[[District of Scales]]'
+participants:
+- '[[Drakona]]'
+- '[[Broken Wing]]'
+- '[[Magocracy]]'
+causes:
+- Drakona confinement in the District of Scales
+- Forced labor as living batteries for anti-Rot wards
+- Stripping of flight and dignity after the Skyfall
+consequences:
+- Bombing of Mana-Pylons and assassination of Magisters
+- Justified harsh Magocracy policing in public eyes
+- Established Drakona as active internal threat complicating victim narrative
+affected-entities:
+- '[[Drakona]]'
+- '[[Broken Wing]]'
+- '[[Magocracy]]'
+- '[[District of Scales]]'
 status: historical
 relationships:
-  - target: "[[Establishment of Drakona Protectorates]]"
-    type: related
-    period: "SA:2350"
-  - target: "[[Ashfall Secession]]"
-    type: contemporary
-    period: "SA:3100"
+- target: '[[Establishment of Drakona Protectorates]]'
+  type: related
+  period: SA:2350
+- target: '[[Ashfall Secession]]'
+  type: contemporary
+  period: SA:3100
+- target: '[[Drakona]]'
+  type: involved
+  period: SA:2950
+  metadata:
+    description: Flightless Drakona launched campaign of magical terrorism
+- target: '[[Magocracy]]'
+  type: involved
+  period: SA:2950
+  metadata:
+    description: Target of the insurgency; used attacks to justify harsh policing
+- target: '[[The Binding]]'
+  type: caused-by
+  period: SA:2688
+  metadata:
+    description: The stripping of Drakona flight was the root cause of the insurgency
+- target: '[[Establishment of Drakona Protectorates]]'
+  type: followed
+  period: SA:2950
+- target: '[[District of Scales]]'
+  type: caused-by
+  period: SA:2950
+  metadata:
+    description: Oppression in the District birthed the Broken Wing resistance
 timeline: []
-tags: [event, epoch-vii-mage-ascendancy]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-vii-mage-ascendancy
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Broken Wing Insurgency
 
 A radical faction of flightless [[Drakona]], the [[Broken Wing]], launched a decades-long campaign of magical terrorism against the [[Magocracy]]. They bombed Mana-Pylons and assassinated Magisters to protest their people's confinement in the [[District of Scales]].

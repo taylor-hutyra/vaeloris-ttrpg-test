@@ -78,7 +78,7 @@ Throughout the campaign, track the party's standing with each major faction. The
 | 1 | **Enemies** | Attacked on sight; bounties posted; faction actively works against party |
 
 **Starting Standings:**
-- Lux Aeterna: 4 (Trusted — they work for Rennick)
+- Lux Aeterna: 4 (Trusted — they work for Tajsh)
 - Legio Null: 1 (Enemies — the party are mages)
 - Azure Hand: 3 (Known — business relationship via passage)
 - Kharnzarak (Bronr'n Legacy): 2 (Distrusted — outsiders in a sealed kingdom)
@@ -122,7 +122,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Thulkor'n Exile** *(Thulkor'n Dwarf)*
 > *The Thulkor'n are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
 
-- **Starting Contact:** Rennick Thale — your current employer; pragmatic, no judgment, pays on time
+- **Starting Contact:** Tajsh Thale — your current employer; pragmatic, no judgment, pays on time
 - **Starting Bonus:** +1 rank in **Resilience**. Mercenary years and Dwarven constitution combine into a physical stubbornness that outlasts most things trying to kill you.
 
 ---
@@ -146,15 +146,15 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Orkin Outcast** *(Orkin)*
 > *The Varnathi cities tolerate Orkin as labor. You grew up in an Orkin Quarter — the cramped, underpoliced district of some mainland city where your people are permitted to exist as long as they're useful and invisible. You survived the Quarters on street knowledge, fast reading of people, and the habit of knowing exactly which exits are unlocked. When the purges came for someone you were protecting, you ran together. The underground network that moves persecuted mages also moves Orkin who've run out of options. That's how you found Lux Aeterna.*
 
-- **Starting Contact:** Sergeant Hrothgar in Gearhaven — a kindred spirit you haven't met yet; Rennick knows his name and says he's "the sort of Orkin who makes it"
+- **Starting Contact:** Sergeant Hrothgar in Gearhaven — a kindred spirit you haven't met yet; Tajsh knows his name and says he's "the sort of Orkin who makes it"
 - **Starting Bonus:** +1 rank in **Streetwise**. You learned the city's hidden geometry before you learned to read — where power sits, where money moves, and which strangers are safe.
 
 ---
 
 **Halfling Wayfinder** *(Halfling)*
-> *The Thistlewick family runs one of the great Halfling Wayfinder networks — cartographers, couriers, and quiet traders who move between communities that can't or won't deal with each other directly. You grew up reading maps before you could read words, and you know trade routes through the desert foothills that aren't on any official chart. The family connection to Lux Aeterna is business: the settlement buys supplies and sells relics through Thistlewick intermediaries. You came to manage a delivery run and stayed because the work was interesting. Or because you saw something in the desert that made you want answers. Or because Rennick offered you enough money to be worth the risk. All three, probably.*
+> *The Thistlewick family runs one of the great Halfling Wayfinder networks — cartographers, couriers, and quiet traders who move between communities that can't or won't deal with each other directly. You grew up reading maps before you could read words, and you know trade routes through the desert foothills that aren't on any official chart. The family connection to Lux Aeterna is business: the settlement buys supplies and sells relics through Thistlewick intermediaries. You came to manage a delivery run and stayed because the work was interesting. Or because you saw something in the desert that made you want answers. Or because Tajsh offered you enough money to be worth the risk. All three, probably.*
 
-- **Starting Contact:** Rennick Thale — your trade partner; he respects a Wayfinder's logistical mind and the fact that you know how to keep your mouth shut
+- **Starting Contact:** Tajsh Thale — your trade partner; he respects a Wayfinder's logistical mind and the fact that you know how to keep your mouth shut
 - **Starting Bonus:** +1 rank in **Geography**. Wayfinders are the best pathfinders alive. You read maps, cultures, and terrain as second nature.
 
 ---
@@ -191,7 +191,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Underworld Operative** *(any species)*
 > *You made your living in the grey spaces — finding people who didn't want to be found, moving goods that official channels wouldn't touch, gathering information that someone powerful needed to stay powerful. You were good at it. Bounty work, acquisitions, courier runs for clients who paid to not be named. You had a code — nothing personal, keep the collateral down, don't ask too many questions. Then a contract required you to find and deliver a mage-touched person, and the person turned out to be a child. You helped them instead. Now you're wanted by whoever hired you, and the underground network you used to exploit is the network moving you toward safety. You arrived in Lux Aeterna carrying two things: skills the settlement can use, and the knowledge that the line you thought you had was further back than you'd been telling yourself.*
 
-- **Starting Contact:** Rennick Thale — he appreciates flexible ethics and useful skills, and he may have hired you once before, under different circumstances
+- **Starting Contact:** Tajsh Thale — he appreciates flexible ethics and useful skills, and he may have hired you once before, under different circumstances
 - **Starting Bonus:** +1 rank in **Skullduggery**. The tools of the trade: picking locks, lifting items, reading security, and setting traps. You learned these before you learned to cook.
 
 ---
@@ -229,9 +229,9 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Ruined Merchant** *(any species)*
-> *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Aeterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them. Rennick recognized the type immediately. He offered you work the next morning.*
+> *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Aeterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them. Tajsh recognized the type immediately. He offered you work the next morning.*
 
-- **Starting Contact:** Rennick Thale — pragmatic respect between people who understand commerce; he's been waiting for someone who knows how supply chains actually work
+- **Starting Contact:** Tajsh Thale — pragmatic respect between people who understand commerce; he's been waiting for someone who knows how supply chains actually work
 - **Starting Bonus:** +1 rank in **Negotiation**. You learned to trade in survival, not just goods. You know how to find the number that closes the deal.
 
 ---
@@ -795,7 +795,7 @@ The commercial heart of Lux Aeterna, built into the widest part of the box canyo
 
 | Location | Description | Proprietor |
 |----------|-------------|------------|
-| **Rennick's Vault** | The relic broker's shop and office. Cluttered with artifacts, maps, and salvage equipment. A locked back room holds the most valuable finds. | Rennick Thale |
+| **Tajsh's Vault** | The relic broker's shop and office. Cluttered with artifacts, maps, and salvage equipment. A locked back room holds the most valuable finds. | Tajsh Thale |
 | **The Dusty Lantern** | The settlement's only tavern. Cramped, loud, warm. Three rooms upstairs for rent. Serves a bitter cactus-root ale and surprisingly good goat stew. | **Marta Dustborn** — a stout, sharp-tongued human woman who fled Argentum's Silver Lord purges. She runs the only neutral ground in town. |
 | **Cira's Corner** | A woven mat under a jutting rock shelf where Old Cira sits and reads fortunes. She accepts food, wine, or interesting stories as payment. | Old Cira |
 | **Needle & Thread** | A cramped tailor's shop that also serves as the Mage-Weave repair station. The silk is delicate and tears constantly. | **Selin "Needles" Voss** — a nervous, twitchy Gnomish woman who is the settlement's most valuable non-combatant. She alone understands the Mage-Weave's enchantment pattern. If she dies, Lux Aeterna's cover fails within weeks. |
@@ -818,14 +818,14 @@ The settlement's defensive perimeter — a series of camouflaged observation pos
 
 #### Key NPCs of Lux Aeterna
 
-**Rennick Thale** — *The Relic Broker*
+**Tajsh Thale** — *The Relic Broker*
 - Human male, mid-40s, lean and weathered
 - Sharp, pragmatic, morally flexible. Genuinely cares about Lux Aeterna's survival but will cut corners to ensure it
 - Former Shadewalker associate who "retired" to the desert after a deal went wrong in Port Farrick
 - Knows more than he lets on about First Age artifacts — enough to recognize the Band as extraordinary
 - **Personality:** Speaks fast, thinks faster. Uses humor to deflect serious questions. Drinks cactus-root ale like water. Has a habit of polishing whatever he's holding when he's nervous.
 - **Secret:** He still has Shadewalker contacts and uses them regularly. He also skims 10% off every relic sale — not out of greed, but to fund an emergency evacuation fund
-- **Quest Hook:** Rennick is the players' employer. He sends them to investigate a mining crew that hasn't reported back from a First Age ruin site three days' ride into the desert foothills
+- **Quest Hook:** Tajsh is the players' employer. He sends them to investigate a mining crew that hasn't reported back from a First Age ruin site three days' ride into the desert foothills
 
 **Warden Sabel** — *Head of Defense*
 - Human female, late 30s, muscular, close-cropped dark hair, burn scar on her left forearm
@@ -892,8 +892,8 @@ These optional quests establish the world, bond the players to the community, an
 **"The Missing Miner"**
 - **Hook:** A relic-hunter named **Goss** hasn't returned from a solo prospecting run. His partner asks the party to find him.
 - **Investigation:** Goss's trail leads to a collapsed mine entrance. Inside, he's trapped behind rubble with a broken leg — but the mine also contains a small Scar of Dissonance that has spawned 2 **Echo-Wisps** (tiny, semi-corporeal creatures that mimic voices and lure people deeper). Goss heard the wisps calling in his mother's voice and followed them into the collapse.
-- **Resolution:** Dig out Goss (Athletics [Brawn], **Hard (◆◆◆)** or creative magic), deal with the Echo-Wisps (fragile but unnerving), and decide whether to report the Scar to Rennick or keep it secret.
-- **Reward:** 10 XP each. If they report the Scar, Rennick pays a 20-Spark bonus and marks the area as off-limits. If they keep it secret, they can return later — but the Scar slowly grows.
+- **Resolution:** Dig out Goss (Athletics [Brawn], **Hard (◆◆◆)** or creative magic), deal with the Echo-Wisps (fragile but unnerving), and decide whether to report the Scar to Tajsh or keep it secret.
+- **Reward:** 10 XP each. If they report the Scar, Tajsh pays a 20-Spark bonus and marks the area as off-limits. If they keep it secret, they can return later — but the Scar slowly grows.
 - **Foreshadowing:** The Echo-Wisps are the smallest form of echo-entity — the same category as the campaign's BBEG. Their geometric, flickering light is a preview of the Architect's radiance.
 
 ---
@@ -943,7 +943,7 @@ She will not clarify. She will not acknowledge she said it. The player will spen
 
 ### Session 1: "The Desert Gives Nothing for Free"
 
-**Setup:** The players are a relic-hunting crew working for Rennick Thale. Three days ago, he sent a mining team to investigate a promising Mana-Crystal vein in the desert foothills — near a mapped but unexplored First Age ruin. The team hasn't checked in. Rennick sends the players to find them.
+**Setup:** The players are a relic-hunting crew working for Tajsh Thale. Three days ago, he sent a mining team to investigate a promising Mana-Crystal vein in the desert foothills — near a mapped but unexplored First Age ruin. The team hasn't checked in. Tajsh sends the players to find them.
 
 **The Journey (Day 1):**
 The ride from Lux Aeterna takes most of a day through scrub desert — rocky hills, dry washes, the occasional twisted acacia tree. The landscape is beautiful and hostile. Use this time for character introduction and roleplay.
@@ -999,7 +999,7 @@ Any character who touches the Band must make a **Discipline (Willpower) check, A
 The Band is cool to the touch and weighs almost nothing. Once held, the character notices that time near the Band is subtly warped — a dropped pebble falls slightly slower, flame flickers in slow motion, their own heartbeat seems to lag behind their breathing.
 
 **The Players' Choice:**
-- Take the Band back to Rennick (their job)
+- Take the Band back to Tajsh (their job)
 - Take the crystals, leave the Band
 - Investigate further (the First Age ruin is a quarter-mile east — see "The Ruin of Kel-Thar" below)
 
@@ -1030,15 +1030,15 @@ This is the first glimpse of the Echo-Lord's endgame.
 
 **Return to Lux Aeterna:**
 
-The players return with whatever they salvaged. Rennick is thrilled by the crystal vein and horrified by the Band. He can feel it — everyone with magical sensitivity can feel it. The Band sits on his desk like a hole in the world, quietly pulling at the ambient mana of the settlement.
+The players return with whatever they salvaged. Tajsh is thrilled by the crystal vein and horrified by the Band. He can feel it — everyone with magical sensitivity can feel it. The Band sits on his desk like a hole in the world, quietly pulling at the ambient mana of the settlement.
 
 **Immediate Effects:**
 - The mirror-charm array flickers. Selin Voss reports increased Mage-Weave degradation near the Vault where the Band is stored.
 - Hask's alchemical equipment near the Vault begins producing unstable results — potions that brew too slowly, or too fast, or not at all
 - Old Cira refuses to enter the Vault. She sits outside and hums tunelessly, louder than usual.
 
-**Rennick's Decision:**
-Rennick hires a Shadewalker contact to identify the artifact. The contact is **Ink** — a quiet, sharp-eyed human woman in her 30s who arrives via Lothari caravan two days later. She is a Shadewalker archivist specializing in pre-Paroxysm artifacts. She recognizes the script on the Band as the forbidden Ulzammar notation system — the sealed sections of the Dwarven Stone-Lays that are never spoken aloud.
+**Tajsh's Decision:**
+Tajsh hires a Shadewalker contact to identify the artifact. The contact is **Ink** — a quiet, sharp-eyed human woman in her 30s who arrives via Lothari caravan two days later. She is a Shadewalker archivist specializing in pre-Paroxysm artifacts. She recognizes the script on the Band as the forbidden Ulzammar notation system — the sealed sections of the Dwarven Stone-Lays that are never spoken aloud.
 
 Ink can't identify the artifact's function, but she can identify its provenance: this is older than the Paroxysm. Older than the Dwarven kingdoms. This was made by a god.
 
@@ -1086,7 +1086,7 @@ The next morning, the mirror-charms fail.
 | 2 | "A Mirennian ship was spotted in the coastal cove three days south. Azure Hand runners, probably." | True — Vesper Moraine's ship |
 | 3 | "The miners found something evil in that ruin. Goss says his partner went mad and walked into the desert." | Partially true — embellished version of the mining crew's fate |
 | 4 | "The Lothari caravans have been rerouting around the eastern foothills. Something about 'bad dreams' near the old stones." | True — the Silent Network is avoiding the Scar |
-| 5 | "I heard Rennick used to be a Shadewalker. Got kicked out for stealing from the Guild itself." | Partially true — he left on bad terms, but voluntarily |
+| 5 | "I heard Tajsh used to be a Shadewalker. Got kicked out for stealing from the Guild itself." | Partially true — he left on bad terms, but voluntarily |
 | 6 | "There's a hidden Dwarven waystation in the mountains north of here. Sealed for centuries. Might have tools inside." | True — but sealed by the Nûm-Khazal'n and warded against entry |
 | 7 | "Word from Argentum: they're burning mages in the Silver Square again. Three this month." | True |
 | 8 | "Something's wrong with the water in the Deep Well. Tastes like metal. Old Cira says it's 'remembering.'" | True — the Band's temporal field is affecting the groundwater |
@@ -1138,7 +1138,7 @@ These words should feel like relief. Like being seen after years of invisibility
 A single Perception check, **Hard (◆◆◆)**, lets a player notice: these words are perfectly tailored to each person, delivered without hesitation, with zero errors. A therapist would call this skill. A spy would call it targeting.
 
 **NPC Reactions:**
-- **Rennick:** Awed and skeptical in equal measure. "That's either a god or the best con I've ever seen. Either way, I'd listen."
+- **Tajsh:** Awed and skeptical in equal measure. "That's either a god or the best con I've ever seen. Either way, I'd listen."
 - **Sabel:** Silent. Watching. She doesn't trust anything that radiates certainty. She's seen what certainty does to people who carry swords.
 - **Cira:** Refuses to enter the room where the Architect appeared. Later, to the players: "It spoke truth. It spoke lies. I cannot tell which words were which. That is more frightening than a liar."
 - **Ink:** Leaves Lux Aeterna immediately after the Architect's appearance. She says she needs to "report to her superiors." In truth, the Shadewalkers want to know about the divine entity — it's the most valuable intelligence asset in a generation.
@@ -1977,7 +1977,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 
 | NPC | Role | Location | Personality in 3 Words |
 |-----|------|----------|----------------------|
-| Rennick Thale | Relic broker/employer | Lux Aeterna | Sharp, pragmatic, warm |
+| Tajsh Thale | Relic broker/employer | Lux Aeterna | Sharp, pragmatic, warm |
 | Warden Sabel | Head of defense | Lux Aeterna | Quiet, fierce, haunted |
 | Old Cira | Dream-mystic/prophet | Lux Aeterna (mobile) | Cryptic, kind, terrifying |
 | Ink | Shadewalker archivist | Mobile | Precise, quiet, dangerous |

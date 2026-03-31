@@ -2,27 +2,54 @@
 wb-type: faction
 wb-id: silent-network
 name: Silent Network
-aliases: [Council of Dreamers]
+aliases:
+- Council of Dreamers
 type: intelligence
-founded: "SA:1350"
+founded: SA:1350
 dissolved: null
-headquarters: "[[Great Desert]]"
+headquarters: '[[Great Desert]]'
 leader: null
-territory: ["[[Great Desert]]", "[[Desertborn Confederacy]]"]
+territory:
+- '[[Great Desert]]'
+- '[[Desertborn Confederacy]]'
 influence: moderate
 goals:
-  - Preserve the memory and history of the world
-  - Archive artifacts, myths, and knowledge in hidden desert vaults
-  - Guide the Lothari people through dream-interpretation
-relationships: []
+- Preserve the memory and history of the world
+- Archive artifacts, myths, and knowledge in hidden desert vaults
+- Guide the Lothari people through dream-interpretation
+relationships:
+- target: '[[Desertborn Confederacy]]'
+  type: involved-in
+  period: SA:1350-
+  metadata:
+    description: Spiritual and political leadership of the Lothari people
+    nature: part of
+- target: '[[Lothari]]'
+  type: serves
+  period: SA:1350-
+  metadata:
+    description: Council of Dreamers guides the Lothari through dream-interpretation
+- target: '[[Great Desert]]'
+  type: located-in
+  period: SA:1350-
+  metadata:
+    description: Hidden vaults scattered across the Great Desert
+- target: '[[Desertborn Confederacy Founded]]'
+  type: caused-by
+  period: SA:1300
+  metadata:
+    description: Formally organized after the Confederacy united the desert tribes
 timeline:
-  - period: "SA:1350"
-    label: Formally organized by Lothari mystics to preserve knowledge during the Age of Expansion
-tags: [faction, human, lothari, intelligence]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1350
+  label: Formally organized by Lothari mystics to preserve knowledge during the Age of Expansion
+tags:
+- faction
+- human
+- lothari
+- intelligence
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Silent Network
 
 The **Silent Network** is the spiritual and political leadership of the [[Lothari]] people, a council of the most respected mystics and visionaries from each of the major desert clans. They are the keepers of memories the rest of the world has forgotten.
@@ -45,4 +72,4 @@ Among the Lothari, the Silent Network is intertwined with the spiritual practice
 
 ## Archives
 
-The hidden desert vaults of the Silent Network contain preserved knowledge of the [[First Age]], the [[Paroxysm]], and forgotten histories that secular revisionism would have erased. These archives make the Network an invaluable -- and dangerous -- repository of truths that powerful nations would prefer to remain buried.
+The hidden desert vaults of the Silent Network contain preserved knowledge of the [[First Age]], [[The Paroxysm]], and forgotten histories that secular revisionism would have erased. These archives make the Network an invaluable -- and dangerous -- repository of truths that powerful nations would prefer to remain buried.

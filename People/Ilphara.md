@@ -2,46 +2,90 @@
 wb-type: person
 wb-id: ilphara
 name: Ilphara
-aliases: [The Star-Gazer, The First Walker]
-species: "[[Sael'anir]]"
+aliases:
+- The Star-Gazer
+- The First Walker
+species: '[[Sael''anir]]'
 born: null
 died: null
-birthplace: "[[Hannan'r']]"
+birthplace: '[[Hannan''r'']]'
 residence: null
-faction: "[[Sael'anir]]"
-role: "Founder of the Sael'anir branch, nomadic philosopher"
-title: "Star-Gazer"
+faction: '[[Sael''anir]]'
+role: Founder of the Sael'anir branch, nomadic philosopher
+title: Star-Gazer
 gender: female
 relationships:
-  - target: "[[Sael'anir]]"
-    type: founder
-    period: "SA:80"
-    note: "Led the first Elves to leave Hannan'r' and become nomadic wanderers"
-  - target: "[[Hannan'r']]"
-    type: departed
-    period: "SA:80"
-    note: "Rejected the isolationism of the Great Weaving"
-  - target: "[[Lelyariel]]"
-    type: philosophical-opponent
-    note: "Opposed the Queen's decision to wall off the Elven homeland"
-  - target: "[[Cirhannim]]"
-    type: former-member
-    note: "Born among the Wood-Spirit People before departing"
-  - target: "[[Aerin'r']]"
-    type: spiritual-connection
-    note: "The Sael'anir eventually settled on the pristine continent she sought"
+- target: '[[Sael''anir]]'
+  type: founder
+  period: SA:80
+  metadata:
+    description: Led the first Elves to leave Hannan'r' and become nomadic wanderers
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: SA:80
+  metadata:
+    description: 'departed: Rejected the isolationism of the Great Weaving'
+- target: '[[Lelyariel]]'
+  type: custom
+  metadata:
+    description: 'philosophical-opponent: Opposed the Queen''s decision to wall off the Elven homeland'
+- target: '[[Cirhannim]]'
+  type: member
+  metadata:
+    description: Born among the Wood-Spirit People before departing
+    nature: former
+- target: '[[Aerin''r'']]'
+  type: custom
+  metadata:
+    description: 'spiritual-connection: The Sael''anir eventually settled on the pristine continent she sought'
+- target: '[[Sael''anir Separation]]'
+  type: involved-in
+  period: SA:80
+  metadata:
+    description: Led the departure of dissident Elves from Hannan'r'
+- target: '[[Completion of the Great Weaving]]'
+  type: related
+  period: SA:55
+  metadata:
+    description: The Weaving's isolationism provoked her philosophical opposition
+- target: '[[Mirennians]]'
+  type: related
+  period: SA:80-
+  metadata:
+    description: Her celestial maps eventually guided Mirennian navigators across the ocean
+- target: '[[Completion of the Great Weaving]]'
+  type: caused-by
+  period: SA:80
+  metadata:
+    description: The Weaving's isolationism provoked Ilphara's departure and founding of the Sael'anir
+- target: '[[Lelyariel]]'
+  type: rival
+  period: SA:55-80
+  metadata:
+    description: Star-Gazer who opposed the Queen's decision to wall off the Elven homeland
+- target: '[[Sael''anir]]'
+  type: founder
+- target: '[[Cirhannim]]'
+  type: has-member
+  metadata:
+    description: Born among the Wood-Spirit People before departing
+    nature: former
 timeline:
-  - period: "SA:55-80"
-    event: "Grew increasingly vocal in opposing the Great Weaving's isolationism after its completion"
-  - period: "SA:80"
-    event: "Led a faction of Elves out of Hannan'r', founding the Sael'anir (Sky-Wanderers) as a permanent cultural split"
-  - period: "SA:80-"
-    event: "Began mapping the stars and winds with her followers, laying the groundwork for future celestial navigation"
-tags: [person, elf, saelanir, founder, philosopher]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:55-80
+  event: Grew increasingly vocal in opposing the Great Weaving's isolationism after its completion
+- period: SA:80
+  event: Led a faction of Elves out of Hannan'r', founding the Sael'anir (Sky-Wanderers) as a permanent cultural split
+- period: SA:80-
+  event: Began mapping the stars and winds with her followers, laying the groundwork for future celestial navigation
+tags:
+- person
+- elf
+- saelanir
+- founder
+- philosopher
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Ilphara
 
 **Ilphara**, known as the **Star-Gazer**, was the [[Elves|Elven]] visionary who, in **SA 80**, led a faction of dissidents out of the magically concealed forest of [[Hannan'r']] and founded the [[Sael'anir]] -- the Sky-Wanderers, the nomadic Elven branch whose philosophy of constant movement and open perception stands in deliberate contrast to the isolationism of the [[Cirhannim]].

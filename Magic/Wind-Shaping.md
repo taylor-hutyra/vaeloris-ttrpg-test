@@ -5,31 +5,69 @@ name: Wind-Shaping
 aliases: []
 type: elemental
 source: Residual elemental essence of Gwynfaer (The Windweaver), channeled through ritualistic communion with wind and sea
-practitioners: ["[[Sea-Whisperers' Guild]]", "[[Guild of Tides]]", "[[Mirennian League]]"]
+practitioners:
+- '[[Sea-Whisperers'' Guild]]'
+- '[[Guild of Tides]]'
+- '[[Mirennian League]]'
 limitations:
-  - Requires proximity to open air or sea; ineffective underground or in enclosed spaces
-  - Not true arcane magic; relies on ritualistic attunement to elemental remnants
-  - Prolonged use exhausts the practitioner physically
-  - Cannot create wind from nothing; amplifies and redirects existing currents
-  - Effectiveness diminishes far from large bodies of water
+- Requires proximity to open air or sea; ineffective underground or in enclosed spaces
+- Not true arcane magic; relies on ritualistic attunement to elemental remnants
+- Prolonged use exhausts the practitioner physically
+- Cannot create wind from nothing; amplifies and redirects existing currents
+- Effectiveness diminishes far from large bodies of water
 effects:
-  - Summon and redirect wind currents for sailing
-  - Generate localized gales and storms
-  - Calm rough seas or redirect dangerous weather
-  - Drive enemy ships onto rocks or into doldrums
-  - Amplify ship speed by sailing against the wind
+- Summon and redirect wind currents for sailing
+- Generate localized gales and storms
+- Calm rough seas or redirect dangerous weather
+- Drive enemy ships onto rocks or into doldrums
+- Amplify ship speed by sailing against the wind
 relationships:
-  - { target: "[[Deep-Hull Ships]]", type: "enhances", detail: "Wind-Shaping gave Mirennian deep-hull vessels absolute naval superiority" }
-  - { target: "[[Mirennian League]]", type: "practiced-by", detail: "Core military and commercial advantage of Mirennian culture" }
-  - { target: "[[Gwynfaer]]", type: "derived-from", detail: "Draws on the elemental remnants left behind by the departed wind deity" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Deep-Hull Ships]]'
+  type: custom
+  metadata:
+    description: enhances
+- target: '[[Mirennian League]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Gwynfaer]]'
+  type: origin
+- target: '[[Incident of the Burning Mast]]'
+  type: involved-in
+  period: SA:520
+- target: '[[Perfection of Wind-Shaping]]'
+  type: involved-in
+  period: SA:550
+- target: '[[Sundering of Mount Cinder]]'
+  type: related
+  period: SA:635
+- target: '[[Perfection of Wind-Shaping]]'
+  type: caused-by
+  period: SA:550
+  metadata:
+    description: The art of Wind-Shaping formally codified by the Guild of Tides
+- target: '[[Gwynfaer]]'
+  type: origin
+  metadata:
+    description: The magical tradition descended from Gwynfaer's teachings
+- target: '[[Deep-Hull Ships]]'
+  type: custom
+  metadata:
+    description: enhanced-by
+- target: '[[The Wind Paths]]'
+  type: related
+  metadata:
+    description: The magical tradition that harnesses these currents
+- target: '[[Gwynfaer]]'
+  type: origin-of
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Wind-Shaping
 
-Wind-Shaping is the signature elemental practice of the [[Mirennian League]], a ritualistic communion with the residual elemental essence of [[Gwynfaer]] (The Windweaver) that allows practitioners to command wind and weather. It is not considered true arcane magic in the academic sense, but rather a deep attunement to the divine remnants woven into the natural world after the [[Great Withdrawal]].
+Wind-Shaping is the signature elemental practice of the [[Mirennian League]], a ritualistic communion with the residual elemental essence of [[Gwynfaer]] (The Windweaver) that allows practitioners to command wind and weather. It is not considered true arcane magic in the academic sense, but rather a deep attunement to the divine remnants woven into the natural world after [[The Great Withdrawal]].
 
 ## Origins
 

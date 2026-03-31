@@ -2,34 +2,77 @@
 wb-type: government
 wb-id: kharnzarak-monarchy
 name: Kharnzarak Monarchy
-aliases: [Stone-Sworn Hegemony, Kingdom of Kharnzarak]
+aliases:
+- Stone-Sworn Hegemony
+- Kingdom of Kharnzarak
 type: monarchy
 founded: null
-territory: ["[[Kharnzarak]]", "[[Dwarven Mountains]]"]
-leader: "[[High King Thorgar VII]]"
-capital: "[[Kharnzarak]]"
+territory:
+- '[[Kharnzarak]]'
+- '[[Dwarven Mountains]]'
+leader: '[[High King Thorgar VII]]'
+capital: '[[Kharnzarak]]'
 laws:
-  - "The Stone-Lays — sacred laws carved in the D'om-G'ol"
-  - "Hereditary craft-and-clan caste system"
-  - "Unanimous Stone-Lay Council opposition can delay royal decrees"
+- The Stone-Lays — sacred laws carved in the D'om-G'ol
+- Hereditary craft-and-clan caste system
+- Unanimous Stone-Lay Council opposition can delay royal decrees
 relationships:
-  - target: "[[Gearhaven Cog-Council]]"
-    type: estranged
-    period: ""
-  - target: "[[Varnathi Pentarchy]]"
-    type: limited-trade
-    period: ""
-  - target: "[[Lithos Guild-Conclave]]"
-    type: respectful-distance
-    period: ""
+- target: '[[Gearhaven Cog-Council]]'
+  type: rival
+  metadata:
+    nature: estranged
+- target: '[[Varnathi Pentarchy]]'
+  type: custom
+  metadata:
+    description: limited-trade
+- target: '[[Lithos Guild-Conclave]]'
+  type: ally
+  metadata:
+    nature: distant respect
+- target: '[[N''nm-Khazal''n]]'
+  type: controls
+  period: SA:91-
+  metadata:
+    description: The government of the orthodox Stone-Sworn Dwarves
+- target: '[[Kharnzarak]]'
+  type: controls
+  period: SA:91-
+  metadata:
+    description: Rules from the Adamant Throne within the mountain kingdom
+- target: '[[Barazkor Clan]]'
+  type: ruled-by
+  period: SA:91-
+  metadata:
+    description: The Royal Clan holds the hereditary monarchy
+- target: '[[Barazkor Clan]]'
+  type: controlled-by
+  period: SA:91-
+  metadata:
+    description: Holds the hereditary monarchy and commands the military
+- target: '[[Varnathi Pentarchy]]'
+  type: trade
+  period: SA:62-
+  metadata:
+    description: First formal Human-Dwarf trade via the Ore-Grain Exchange
+- target: '[[Varr-Darg Diarchy]]'
+  type: custom
+  metadata:
+    description: territorial-conflict
+- target: '[[Dwarves]]'
+  type: controls
+  period: SA:91-
+  metadata:
+    description: N'nm-Khazal'n ruled by the hereditary Stone-Sworn monarchy
 timeline:
-  - period: "3100"
-    event: "N'om-Khazal'on opens a single trade gate for selling steel and gold"
-tags: [government, dwarf, nom-khazalon]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '3100'
+  event: N'om-Khazal'on opens a single trade gate for selling steel and gold
+tags:
+- government
+- dwarf
+- nom-khazalon
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Kharnzarak Monarchy
 
 The great mountain kingdom of [[Kharnzarak]] is the heart of [[Dwarves|Dwarven]] tradition and the seat of the [[N'om-Khazal'on]] ("The Stone-Sworn"), the most orthodox of all Dwarven peoples.

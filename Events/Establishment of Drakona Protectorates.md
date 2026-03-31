@@ -2,28 +2,65 @@
 wb-type: event
 wb-id: establishment-of-drakona-protectorates
 name: Establishment of Drakona Protectorates
-aliases: [Principality of the Scale]
-date: "SA:2350"
-duration: "Ongoing during the Dragonfall War"
-location: "[[Northern Varnathi Provinces]]"
-participants: ["[[Drakona]]", "[[Varnathi Empire]]"]
-causes: ["Drakona invasion of the north", "Offer of better governance than corrupt Senate"]
-consequences: ["Formation of the Principality of the Scale", "Permanent North-South divide in Varnathi culture", "Northerners branded as Dragon-Thralls", "Underground resistance cells formed"]
-affected-entities: ["[[Drakona]]", "[[Varnathi Empire]]", "[[Principality of the Scale]]"]
+aliases:
+- Principality of the Scale
+date: SA:2350
+period: SA:2350
+duration: Ongoing during the Dragonfall War
+location: '[[Northern Varnathi Provinces]]'
+participants:
+- '[[Drakona]]'
+- '[[Varnathi Empire]]'
+causes:
+- Drakona invasion of the north
+- Offer of better governance than corrupt Senate
+consequences:
+- Formation of the Principality of the Scale
+- Permanent North-South divide in Varnathi culture
+- Northerners branded as Dragon-Thralls
+- Underground resistance cells formed
+affected-entities:
+- '[[Drakona]]'
+- '[[Varnathi Empire]]'
+- '[[Principality of the Scale]]'
 status: historical
 relationships:
-  - target: "[[Broken Wing Insurgency]]"
-    type: precursor-to
-    period: "SA:2950"
-  - target: "[[Floating Market of Zure]]"
-    type: contemporary
-    period: "SA:2500"
+- target: '[[Broken Wing Insurgency]]'
+  type: preceded
+  period: SA:2950
+- target: '[[Floating Market of Zure]]'
+  type: contemporary
+  period: SA:2500
+- target: '[[Drakona]]'
+  type: involved
+  period: SA:2350
+  metadata:
+    description: Drakona offered governance superior to the corrupt Republic
+- target: '[[Principality of the Scale]]'
+  type: caused
+  period: SA:2350
+  metadata:
+    description: Human nation formed to collaborate with the Drakona
+- target: '[[Vernath]]'
+  type: related
+  period: SA:2350
+  metadata:
+    description: Northern provinces of the Varnathi Empire chose Drakona rule over corrupt Senate
+- target: '[[Broken Wing Insurgency]]'
+  type: related
+  period: SA:2350
+- target: '[[Eve of War]]'
+  type: followed
+  period: SA:2350
+  metadata:
+    description: The invasion led to Drakona occupation of northern provinces
 timeline: []
-tags: [event, epoch-vi-dragonfall]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-vi-dragonfall
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Establishment of Drakona Protectorates
 
 The [[Drakona]] did not simply bomb the northern [[Varnathi Empire|Varnathi]] provinces into submission. They offered an ultimatum: "Serve us, and live better than you did under the corrupt Senate." Many provinces accepted.

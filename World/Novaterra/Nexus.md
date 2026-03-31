@@ -2,39 +2,59 @@
 wb-type: place
 wb-id: nexus
 name: Nexus
-aliases: [The Living City, The Woven City]
-parent: "[[Novaterra]]"
+aliases:
+- The Living City
+- The Woven City
+parent: '[[Novaterra]]'
 spatial-type: city
 contains: []
 population: moderate
-ruler: "[[Chartered Kith Weaver's Synod]]"
-faction: "[[Chartered Kith]]"
+ruler: '[[Chartered Kith Weaver''s Synod]]'
+faction: '[[Chartered Kith]]'
 climate: temperate-forest
-resources: [bio-architecture, agricultural-research, living-steel]
+resources:
+- bio-architecture
+- agricultural-research
+- living-steel
 status: active
 relationships:
-  - target: "[[Chartered Kith]]"
-    type: founded-by
-    period: "SA:1510"
-  - target: "[[Waldkyn]]"
-    type: homeland-of
-    period: "SA:1510-"
-  - target: "[[Gearhaven]]"
-    type: allied-with
-    period: "SA:1510-"
-  - target: "[[Gnomes]]"
-    type: allied-with
-    period: "SA:1510-"
+- target: '[[Chartered Kith]]'
+  type: founded-by
+  period: SA:1510
+- target: '[[Waldkyn]]'
+  type: homeland
+  period: SA:1510-
+- target: '[[Gearhaven]]'
+  type: ally
+  period: SA:1510-
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA:1510-
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: controlled-by
+  period: SA:1510-
+  metadata:
+    description: Rules the magitech city of Nexus on Novaterra
+- target: '[[Waldkyn]]'
+  type: native
+  period: SA:1510-
+  metadata:
+    description: Capital of the Chartered Kith progressives on Novaterra
 timeline:
-  - period: "SA:925"
-    label: "Chartered Kith Waldkyn leave the Whispering Vales for urban life"
-  - period: "SA:1510"
-    label: "Founded by the Chartered Kith in the Great Forests of Novaterra"
-tags: [place, city, novaterra, waldkyn, bio-architecture, progressive]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:925
+  label: Chartered Kith Waldkyn leave the Whispering Vales for urban life
+- period: SA:1510
+  label: Founded by the Chartered Kith in the Great Forests of Novaterra
+tags:
+- place
+- city
+- novaterra
+- waldkyn
+- bio-architecture
+- progressive
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Nexus
 
 **Nexus** is a chartered [[Waldkyn]] city in the Great Forests of [[Novaterra]], founded in SA:1510 by the [[Chartered Kith]] -- progressive Waldkyn who believed that **The Synthesis** could encompass civilization, not just nature. It is a marvel of bio-architecture: buildings grown from genetically modified trees, reinforced with living steel, fusing nature-magic with technomancy.

@@ -2,29 +2,190 @@
 wb-type: species
 wb-id: orkin
 name: Orkin
-aliases: [Children of the Will-Forge, The Tempered, Grom-Kain's Masterwork]
-origin: "Forged by Grom-Kain (the Will-Forge, identified with Kael'Zorai) from the shadow of His forge-light and the unyielding iron in the world's heart — not an afterthought, but His masterwork of survival"
-lifespan: "60-80 years (Gral), 40-60 years (Skorn)"
-traits: [enduring, resilient, loyal, pragmatic, fierce, survivalist]
-habitat: ["[[Barren Hills]]", "[[Novaterra]]", "[[Aerin'r']]", "[[Luminas]]"]
+aliases:
+- Children of the Will-Forge
+- The Tempered
+- Grom-Kain's Masterwork
+origin: Forged by Grom-Kain (the Will-Forge, identified with Kael'Zorai) from the shadow of His forge-light and the unyielding
+  iron in the world's heart — not an afterthought, but His masterwork of survival
+lifespan: 60-80 years (Gral), 40-60 years (Skorn)
+traits:
+- enduring
+- resilient
+- loyal
+- pragmatic
+- fierce
+- survivalist
+habitat:
+- '[[Barren Hills]]'
+- '[[Novaterra]]'
+- '[[Aerin''r'']]'
+- '[[Luminas]]'
 population: moderate
 relationships:
-  - target: "[[Grom-Kain]]"
-    type: creator
-  - target: "[[Kael'Zorai]]"
-    type: divine-identity
-  - target: "[[Humans]]"
-    type: shared-origin
-  - target: "[[Varnathi]]"
-    type: conflict
-  - target: "[[Waldkyn]]"
-    type: coexistent
-    period: "TA"
-tags: [species, mortal, warrior, dualistic, misunderstood]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Kael''Zorai]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: True origin — created independently by Kael'Zorai as The Survivors, exceptionally resilient
+- target: '[[Grom-Kain]]'
+  type: creator
+  metadata:
+    description: Orkin cultural name for Kael'Zorai — the Will-Forge
+- target: '[[Humans]]'
+  type: related
+  period: FA
+  metadata:
+    description: Both created by Kael'Zorai — sibling races
+    nature: shared origin
+- target: '[[Varnathi]]'
+  type: enemy
+  metadata:
+    nature: conflict
+- target: '[[Waldkyn]]'
+  type: ally
+  period: TA
+  metadata:
+    nature: coexistent
+- target: '[[Barren Hills]]'
+  type: homeland
+  period: SA:210-
+  metadata:
+    description: Permanent, fortified homeland of the Varr-Darg after the Long March
+- target: '[[Varr-Darg Diarchy]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Mainland Varr-Darg clans led by diarchies of Gral-Kor and Skorn-Kli
+- target: '[[Bloodied Fist Clans]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: Majority faction among the Varr-Darg, believing in reclamation through war
+- target: '[[Novaterra]]'
+  type: native
+  period: SA
+  metadata:
+    description: Novaterran Holds organized as mercenary corporations on the new continent
+- target: '[[Aerin''r'']]'
+  type: native
+  period: SA
+  metadata:
+    description: Vorok-Varr pacifist clan settled on Aerin'r' alongside Waldkyn and Mirennians
+- target: '[[Gearhaven]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Iron-Grit Syndicate supplies raw materials to Gearhaven
+- target: '[[Mirennians]]'
+  type: related
+  period: SA
+  metadata:
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerin'r'
+- target: '[[Silent Blight]]'
+  type: related
+  period: SA
+  metadata:
+    description: Many Orkin see the Blight as their maker Grom-Kain's return — a homecoming
+- target: '[[Orkin Schism]]'
+  type: involved-in
+  period: SA:42
+  metadata:
+    description: Theological war between Gral and Skorn after the loss of Grom-Kain
+- target: '[[March of Order]]'
+  type: involved-in
+  period: SA:410
+  metadata:
+    description: Orkin warbands shattered by Caelius I's steel legions
+- target: '[[War of the Barren Hills]]'
+  type: involved-in
+  period: SA:1210
+  metadata:
+    description: Republic used scorched earth tactics against Orkin for iron and coal
+- target: '[[Rise of the Free Holds]]'
+  type: involved-in
+  period: SA:1250
+  metadata:
+    description: Displaced Orkin co-founded the Free Holds on Novaterra with Bronr'n Dwarves
+- target: '[[Emperor Caelius I]]'
+  type: enemy
+  period: SA:410
+  metadata:
+    description: The Emperor who drove the Orkin from the southern territories
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Orkin remember this as Kain's Fall — the Great Betrayal
+- target: '[[Varnathi Pentarchy]]'
+  type: enemy
+  period: SA:125-
+  metadata:
+    description: Centuries of conflict; Orkin Assimilated face systemic prejudice
+    nature: hostile
+- target: '[[Grom-Kain]]'
+  type: created-by
+- target: '[[Grom-Kain Worship]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Elves]]'
+  type: related
+  period: SA
+  metadata:
+    description: Elves view Orkin as diverging tones born from different intersections of harmony
+- target: '[[Mirennians]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra during the War of the Barren Hills
+- target: '[[Sael''anir]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Coexist with the peaceful Vorok-Varr Orkin on Aerin'r'
+    nature: coexistent
+- target: '[[Varnathi]]'
+  type: enemy
+  period: SA:125-
+  metadata:
+    description: Centuries of conflict with Orkin clans; systemic prejudice against Assimilated Orkin
+- target: '[[Vorok-Varr]]'
+  type: native
+  period: SA:700-
+- target: '[[Barren Hills]]'
+  type: native
+  period: SA:210-
+  metadata:
+    description: Permanent, fortified homeland of the Varr-Darg Orkin
+- target: '[[Castellum]]'
+  type: enemy
+  period: SA:410-
+  metadata:
+    description: Southern frontier facing perpetual Orkin conflict
+- target: '[[Varnathi Highlands]]'
+  type: custom
+  period: SA:125-
+  metadata:
+    description: 'contested-border: Centuries of conflict with Orkin clans on the border with the Barren Hills'
+- target: '[[First Council of Races]]'
+  type: related
+  period: SA:195
+  metadata:
+    description: Deliberately excluded, formally cast as the Common Enemy
+timeline:
+- period: FA
+  event: Created independently by Kael'Zorai as The Survivors — exceptionally resilient, survival-focused, forged to thrive
+    where other creations could not
+tags:
+- species
+- mortal
+- warrior
+- dualistic
+- misunderstood
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Orkin
 
 To the Orkin, creation was neither a song nor a structure, but a **tempering**. The world was forged in the mind of a single, purposeful entity they remember as [[Grom-Kain]] — the Will-Forge, the Shaper of What Must Be. He did not sing the world into being; He hammered it from the grit and dross left behind by the chaotic first moments, instilling in it the one principle that mattered: **endurance**. The Orkin were not an afterthought, but His masterwork of survival.

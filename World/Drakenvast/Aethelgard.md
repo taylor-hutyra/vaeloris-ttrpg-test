@@ -2,42 +2,65 @@
 wb-type: place
 wb-id: aethelgard
 name: Aethelgard
-aliases: [The Primary Cloud City, The Sky-Throne]
-parent: "[[Drakenvast]]"
+aliases:
+- The Primary Cloud City
+- The Sky-Throne
+parent: '[[Drakenvast]]'
 spatial-type: city
 contains: []
 population: null
-ruler: "[[Empress Valkiss]]"
-faction: "[[Khor'drak]]"
+ruler: '[[Empress Valkiss]]'
+faction: '[[Khor''drak]]'
 climate: high-altitude
-resources: [aeromancy, sky-stone, draconic-steel]
+resources:
+- aeromancy
+- sky-stone
+- draconic-steel
 status: destroyed
 relationships:
-  - target: "[[Drakona]]"
-    type: former-capital-of
-    period: "SA:1-SA:2688"
-  - target: "[[Allied Command]]"
-    type: infiltrated-by
-    period: "SA:2680"
-  - target: "[[Earth-Anchor Ritual]]"
-    type: destroyed-by
-    period: "SA:2688"
+- target: '[[Drakona]]'
+  type: custom
+  period: SA:1-SA:2688
+  metadata:
+    description: former-capital-of
+- target: '[[Allied Command]]'
+  type: custom
+  period: SA:2680
+  metadata:
+    description: infiltrated-by
+- target: '[[Earth-Anchor Ritual]]'
+  type: custom
+  period: SA:2688
+  metadata:
+    description: destroyed-by
+- target: '[[Drakona]]'
+  type: native
+  period: SA:2341-2688
+  metadata:
+    description: Primary Cloud City, target of Operation Icarus reconnaissance
 timeline:
-  - period: "SA:1-SA:2688"
-    label: "Primary Cloud City of the Drakona Empire, sustained by ancient aeromantic rituals"
-  - period: "SA:2341"
-    label: "Command center for the Scouring of the North invasion"
-  - period: "SA:2680"
-    label: "Operation Icarus -- Allied team infiltrates Aethelgard, discovers aeromancy secrets"
-  - period: "SA:2688"
-    label: "Falls during the Earth-Anchor Ritual; millions of Drakona perish in the impact"
-  - period: "SA:2700"
-    label: "Ruins designated as part of the District of Scales by the Magocracy"
-tags: [place, city, drakenvast, drakona, destroyed, floating, cloud-city, aerial]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-SA:2688
+  label: Primary Cloud City of the Drakona Empire, sustained by ancient aeromantic rituals
+- period: SA:2341
+  label: Command center for the Scouring of the North invasion
+- period: SA:2680
+  label: Operation Icarus -- Allied team infiltrates Aethelgard, discovers aeromancy secrets
+- period: SA:2688
+  label: Falls during the Earth-Anchor Ritual; millions of Drakona perish in the impact
+- period: SA:2700
+  label: Ruins designated as part of the District of Scales by the Magocracy
+tags:
+- place
+- city
+- drakenvast
+- drakona
+- destroyed
+- floating
+- cloud-city
+- aerial
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aethelgard
 
 **Aethelgard** was the primary Cloud City of the [[Drakona]] Empire -- a colossal floating city sustained above the peaks of [[Drakenvast]] by ancient aeromantic rituals. It served as the seat of [[Empress Valkiss]] and the supreme symbol of Drakona power, pride, and civilization. Only accessible by flight, Aethelgard embodied the fundamental divide in Drakona society: the winged aristocracy who lived above, and the flightless who labored below.

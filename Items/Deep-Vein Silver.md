@@ -2,27 +2,46 @@
 wb-type: item
 wb-id: deep-vein-silver
 name: Deep-Vein Silver
-aliases: [Pure Silver, Argentum Silver]
+aliases:
+- Pure Silver
+- Argentum Silver
 type: resource
 owner: null
 creator: null
-location: "[[Central Mountains]]"
+location: '[[Central Mountains]]'
 properties:
-  - Nearly pure silver requiring minimal refinement
-  - Found in a single massive deposit in the Central Mountains
-  - Basis for the standardized Vernathi Silver Mark currency
-  - Exceptionally high quality for coinage, jewelry, and magical applications
+- Nearly pure silver requiring minimal refinement
+- Found in a single massive deposit in the Central Mountains
+- Basis for the standardized Vernathi Silver Mark currency
+- Exceptionally high quality for coinage, jewelry, and magical applications
 magical: false
 relationships:
-  - { target: "[[Grogor the Eye]]", type: "discovered-by", detail: "Thulkor'an prospector who found the Deep-Vein in SA:485" }
-  - { target: "[[Argentum]]", type: "birthplace-of", detail: "The mining camp that became a metropolis due to the silver deposit" }
-  - { target: "[[Varnathi Empire]]", type: "annexed-by", detail: "The Empire seized the Central Mountains immediately upon discovery" }
-  - { target: "[[Kharnzarak]]", type: "refined-by", detail: "The Treaty of Coin granted Dwarves refining rights and a percentage" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Grogor the Eye]]'
+  type: custom
+  metadata:
+    description: discovered-by
+- target: '[[Argentum]]'
+  type: custom
+  metadata:
+    description: birthplace-of
+- target: '[[Varnathi Empire]]'
+  type: custom
+  metadata:
+    description: annexed-by
+- target: '[[Kharnzarak]]'
+  type: custom
+  metadata:
+    description: refined-by
+- target: '[[Grogor the Eye]]'
+  type: created-by
+  period: SA:485
+  metadata:
+    description: Discovered the Deep-Vein deposit of nearly pure silver
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Deep-Vein Silver
 
 Deep-Vein Silver is a massive deposit of nearly pure silver discovered in SA:485 in the [[Central Mountains]] by the [[Thulkor'an]] prospector [[Grogor the Eye]]. Its discovery triggered the Silver Boom that reshaped the economy and politics of the Second Age, birthing the city of [[Argentum]] and establishing silver as the standard currency of [[Vaeloris]].

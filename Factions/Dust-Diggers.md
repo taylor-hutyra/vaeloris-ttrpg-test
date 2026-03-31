@@ -1,40 +1,41 @@
 ---
 wb-type: faction
-wb-id: "dust-diggers"
-name: "Dust-Diggers"
+wb-id: dust-diggers
+name: Dust-Diggers
 aliases: []
 type: prospecting
 founded: null
 dissolved: null
-headquarters: "[[Novaterra]]"
+headquarters: '[[Novaterra]]'
 leader: null
 territory:
-  - "[[Novaterra]] (desert regions)"
+- '[[Novaterra]] (desert regions)'
 influence: moderate
 goals:
-  - "Discover new veins of ore and mineral wealth"
-  - "Plunder ancient ruins in the Novaterran interior"
-  - "Maintain independence from the larger Holds"
+- Discover new veins of ore and mineral wealth
+- Plunder ancient ruins in the Novaterran interior
+- Maintain independence from the larger Holds
 relationships:
-  - target: "[[Iron-Grit Syndicate]]"
-    type: competitor
-    period: null
-  - target: "[[Shattered-Spear Company]]"
-    type: occasional-client
-    period: null
+- target: '[[Iron-Grit Syndicate]]'
+  type: custom
+  metadata:
+    description: competitor
+- target: '[[Shattered-Spear Company]]'
+  type: custom
+  metadata:
+    description: occasional-client
 timeline:
-  - period: null
-    event: "Formed as a loose confederation of independent Orkin prospecting bands"
+- period: null
+  event: Formed as a loose confederation of independent Orkin prospecting bands
 tags:
-  - faction
-  - orkin
-  - prospecting
-  - novaterra
-  - desert
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- prospecting
+- novaterra
+- desert
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Dust-Diggers
 
 A loose confederation of smaller, independent [[Orkin]] prospecting Holds that roam the vast deserts of [[Novaterra]]. The Dust-Diggers are constantly seeking new veins of ore and ancient ruins to plunder, living a nomadic existence on the frontier of the new continent.

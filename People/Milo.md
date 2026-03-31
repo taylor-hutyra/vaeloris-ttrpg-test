@@ -3,39 +3,57 @@ wb-type: person
 wb-id: milo
 name: Milo
 aliases: []
-species: "[[Halflings]]"
+species: '[[Halflings]]'
 born: null
 died: null
-birthplace: "[[Greenmeadow]]"
+birthplace: '[[Greenmeadow]]'
 residence: null
-faction: "[[Thistlewick Family]]"
-role: "Financial advisor, courier, schemer, Wayfinder"
+faction: '[[Thistlewick Family]]'
+role: Financial advisor, courier, schemer, Wayfinder
 title: null
 gender: male
 relationships:
-  - target: "[[Thistlewick Family]]"
-    type: member
-    note: "Sprawling Halfling trading family known for shrewd business and extensive networks"
-  - target: "[[Spicers' Guild]]"
-    type: contact
-    note: "Likely has connections within the Wayfinder intelligence and mutual aid network"
-  - target: "[[Azure Hand]]"
-    type: contact
-    note: "Would have contacts within the secretive Mirennian smuggling house"
-  - target: "[[Greenmeadow]]"
-    type: origin
-    note: "Born in the Halfling heartland but drawn to the wider world by the Itchy-Foot"
-  - target: "[[Mirennian League]]"
-    type: operative
-    note: "Navigates the political currents of the Mirennian port cities"
+- target: '[[Thistlewick Family]]'
+  type: member
+  metadata:
+    description: Sprawling Halfling trading family known for shrewd business and extensive networks
+- target: '[[Spicers'' Guild]]'
+  type: related
+  metadata:
+    description: Likely has connections within the Wayfinder intelligence and mutual aid network
+    nature: contact
+- target: '[[Azure Hand]]'
+  type: related
+  metadata:
+    description: Would have contacts within the secretive Mirennian smuggling house
+    nature: contact
+- target: '[[Greenmeadow]]'
+  type: origin
+  metadata:
+    description: Born in the Halfling heartland but drawn to the wider world by the Itchy-Foot
+- target: '[[Mirennian League]]'
+  type: custom
+  metadata:
+    description: 'operative: Navigates the political currents of the Mirennian port cities'
+- target: '[[Thistlewick Family]]'
+  type: has-member
+  metadata:
+    description: Sprawling Halfling trading family known for shrewd business and extensive networks
+- target: '[[Greenmeadow]]'
+  type: origin-of
+  metadata:
+    description: Born in the Halfling heartland but drawn to the wider world by the Itchy-Foot
 timeline:
-  - period: "TA"
-    event: "Active as a Wayfinder, operating across the port cities and trade networks of the known world"
-tags: [person, halfling, wayfinder, schemer]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: TA
+  event: Active as a Wayfinder, operating across the port cities and trade networks of the known world
+tags:
+- person
+- halfling
+- wayfinder
+- schemer
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Milo
 
 **Milo** is a [[Halflings|Halfling]] of the [[Thistlewick Family]] -- the sprawling, influential trading clan known across the [[Hearthfolk Commonwealth]] for their shrewd business sense, extensive trade networks, and a reputation for being just a little too worldly for respectable Burrow-folk. Milo is a quintessential **Wayfinder**: a [[Halflings|Halfling]] driven by the "Itchy-Foot," the inexplicable urge to wander that sends a rare few of his people out of the comfortable Burrows and into the chaotic, dangerous, and endlessly interesting world of the Tallfolk.

@@ -1,45 +1,90 @@
 ---
 wb-type: religion
 wb-id: pantheon-of-the-ordained
-name: "Pantheon of the Ordained"
-aliases: [The Ordained, The Imperial Faith]
+name: Pantheon of the Ordained
+aliases:
+- The Ordained
+- The Imperial Faith
 type: organized-faith
-founded: "SA:455"
+founded: SA:455
 founder: null
 deities: []
 headquarters: null
 tenets:
-  - "The divine order manifests through Law, Harvest, and War"
-  - "Chaotic nature worship is primitive and dangerous"
-  - "The state and the divine are inseparable"
-  - "Religious unity is the foundation of imperial unity"
-followers: "Varnathi Empire — primarily Highland Humans"
+- The divine order manifests through Law, Harvest, and War
+- Chaotic nature worship is primitive and dangerous
+- The state and the divine are inseparable
+- Religious unity is the foundation of imperial unity
+followers: Varnathi Empire — primarily Highland Humans
 relationships:
-  - target: "[[Varnathi]]"
-    type: state-religion
-  - target: "[[Mirennians]]"
-    type: conflict
-    note: "Religious tension — Mirennians favored fluid, elemental deities"
-  - target: "[[Waldkyn]]"
-    type: conflict
-    note: "Waldkyn nature-worship deemed primitive"
-  - target: "[[Church of the Celestial Word]]"
-    type: predecessor
-    note: "The Church rose from the Ordained's ashes after secularization"
+- target: '[[Varnathi]]'
+  type: worshipped-by
+  metadata:
+    nature: state religion
+- target: '[[Mirennians]]'
+  type: enemy
+  metadata:
+    description: Religious tension — Mirennians favored fluid, elemental deities
+    nature: conflict
+- target: '[[Waldkyn]]'
+  type: enemy
+  metadata:
+    description: Waldkyn nature-worship deemed primitive
+    nature: conflict
+- target: '[[Church of the Celestial Word]]'
+  type: predecessor
+  metadata:
+    description: The Church rose from the Ordained's ashes after secularization
+- target: '[[Synod of the Ordained]]'
+  type: caused-by
+  period: SA:455
+  metadata:
+    description: Established through the imperial Synod to unify disparate cultures
+- target: '[[Vernath]]'
+  type: located-in
+  period: SA:455-805
+  metadata:
+    description: Headquartered in the imperial capital until secularization
+- target: '[[Whispering Vales]]'
+  type: enemy
+  period: SA:455-
+  metadata:
+    description: Deemed Waldkyn nature-worship primitive and dangerous
+    nature: hostile
+- target: '[[Church of the Celestial Word]]'
+  type: successor
+  metadata:
+    description: Rose from the ashes of the earlier state religion
+- target: '[[The Four Makers]]'
+  type: predecessor
+  metadata:
+    description: The Ordained formalized and politicized these older creation myths
+- target: '[[The Four Makers]]'
+  type: successor
+  metadata:
+    description: The Ordained formalized and politicized these older creation myths
+- target: '[[Varnathi]]'
+  type: worships
+  metadata:
+    nature: state religion
 timeline:
-  - period: "SA:455"
-    event: "The Synod of the Ordained — Imperial Priesthood establishes the Pantheon as state religion"
-  - period: "SA:455-800"
-    event: "Serves as the unifying faith of the expanding Varnathi Empire"
-  - period: "SA:800"
-    event: "The Secular Decrees strip the Priesthood of tax-exempt status and political veto power"
-  - period: "SA:800-2020"
-    event: "Survives only as a charitable organization, planting seeds for the Church of the Celestial Word"
-tags: [religion, organized-faith, varnathi, imperial, historical]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:455
+  event: The Synod of the Ordained — Imperial Priesthood establishes the Pantheon as state religion
+- period: SA:455-800
+  event: Serves as the unifying faith of the expanding Varnathi Empire
+- period: SA:800
+  event: The Secular Decrees strip the Priesthood of tax-exempt status and political veto power
+- period: SA:800-2020
+  event: Survives only as a charitable organization, planting seeds for the Church of the Celestial Word
+tags:
+- religion
+- organized-faith
+- varnathi
+- imperial
+- historical
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Pantheon of the Ordained
 
 The **Pantheon of the Ordained** was the state religion of the [[Varnathi]] Empire, established at the **Synod of the Ordained** in **SA 455** to unify the disparate cultures within the expanding imperial domain. It was a deliberate act of political theology — a syncretization of local beliefs into a structured hierarchy that emphasized gods of **Law, Harvest, and War** while suppressing forms of worship deemed chaotic or primitive.

@@ -35,15 +35,23 @@ _meta/.wb-venv/bin/python .claude/skills/world-builder/_lib/wb.py <command>
 _meta/.wb-venv/Scripts/python .claude/skills/world-builder/_lib/wb.py <command>
 ```
 
-Commands: `sync`, `query`, `resolve`, `validate`, `propagate`, `spatial`, `calendar`
+Commands: `sync`, `query`, `resolve`, `validate`, `propagate`, `spatial`, `calendar`, `ensure-inverses`
 
-## CRITICAL: Always sync after mutations
+## CRITICAL: Always sync and propagate after mutations
 
-After creating, editing, or deleting any entity `.md` file, **always** run:
+After creating, editing, or deleting any entity `.md` file, **always**:
+
+1. Sync the changed file:
 ```bash
 wb.py sync <path-to-changed-file>
 ```
-For bulk operations, use `wb.py sync --full`.
+
+2. Propagate inverse relationships to target entities:
+```bash
+wb.py ensure-inverses <path-to-changed-file> --apply
+```
+
+For bulk operations, use `wb.py sync --full` and `wb.py ensure-inverses --all --apply`.
 
 ## Entity Types
 
@@ -108,18 +116,35 @@ Use `[[Entity Name]]` for ALL cross-references. This enables:
 - Automatic relationship tracking in the graph store
 - Wikilink-based entity resolution
 
-## Relationships
+## Relationships — Canonical Types (26 + custom)
 
-Use the `relationships` array in frontmatter. Each relationship has:
-- `target`: wikilink to the related entity
-- `type`: relationship type (see inverse pairs below)
-- `period`: optional time period
-- `notes`: optional description
+Use ONLY these types. Specifics go in `metadata` dict. Be abstract: `sibling` not `brother`, `parent` not `father`.
 
-**Inverse pairs** (automatically tracked bidirectionally):
-parent-of/child-of, mentor-of/student-of, leader-of/led-by, member-of/has-member, controls/controlled-by, serves/served-by, worships/worshipped-by, created/created-by, vassal-of/overlord-of, successor-of/predecessor-of
+| Category | Types |
+|----------|-------|
+| **Kinship** | `parent`, `child`, `sibling`, `spouse`, `identity` |
+| **Creation** | `creator`, `created-by`, `founder`, `founded-by`, `origin`, `origin-of` |
+| **Authority** | `ruler`, `ruled-by`, `member`, `has-member`, `controls`, `controlled-by`, `serves`, `served-by`, `successor`, `predecessor` |
+| **Knowledge** | `teacher`, `student`, `worships`, `worshipped-by` |
+| **Diplomacy** | `ally`, `enemy`, `rival`, `trade` (all symmetric) |
+| **Spatial** | `located-in`, `contains`, `borders`, `homeland`, `native` |
+| **Temporal** | `caused`, `caused-by`, `involved`, `involved-in`, `preceded`, `followed`, `contemporary` |
+| **Catch-all** | `related`, `custom` |
 
-**Symmetric** (same in both directions): ally, enemy, spouse, sibling, rival, friend, trades-with
+### Schema
+
+```yaml
+relationships:
+  - target: "[[Entity Name]]"
+    type: member                # canonical type only
+    period: "SA:100-SA:500"     # start-end range
+    metadata:
+      description: "Served as Captain of the Eastern Watch"
+      rank: Captain
+      nature: covert            # optional qualifier
+```
+
+All inverse pairs are automatically propagated via `ensure-inverses`. Use `metadata.description` for context (legacy `note` field still readable).
 
 ## Autonomy Mode
 
@@ -135,3 +160,48 @@ Markdown files are the source of truth. Three derived stores stay in sync:
 3. **ChromaDB** (`_meta/chroma/`): Semantic vector search with metadata filtering
 
 Always sync after changes. Use `wb.py sync --verify` to check consistency.
+
+## Query Strategy
+
+Match the question type to the right store. Based on benchmarking (42 tests across 14 categories):
+
+### Which Store for Which Question
+
+| Question Type | Use | Example |
+|---------------|-----|---------|
+| **"Who/what is connected to X?"** | Graph | `query --related-to "Kael'Zorai" --hops 1` |
+| **"What would be affected if X changes?"** | Graph (depth 2-3) | `query --related-to "Kael'Zorai" --hops 2` |
+| **"How are X and Y connected?"** | Graph (depth 3-4) | `query --related-to "Halflings" --hops 4` |
+| **"Who are X's enemies/allies?"** | Graph (type filter) | `query --related-to "Varnathi"` then filter |
+| **"Find something about [theme]"** | Vector | `query --semantic "betrayal loyalty broken trust"` |
+| **"Suggest a scene about X"** | Vector | `query --semantic "Orkin theological schism"` |
+| **"Where do [topic A] and [topic B] intersect?"** | Vector | `query --semantic "magic politics power"` |
+| **"Find the passage about [specific term]"** | Vector | `query --semantic "Dur'k Thul dwarven fracture"` |
+| **"Find entities similar to X"** | Vector (thematic) or Graph (structural) | Either works depending on what "similar" means |
+| **"List all X" / "Count X"** | SQLite | `query --type person --tags divine` |
+| **"What's inside [place]?"** | SQLite | `query --within "Novaterra"` |
+| **"Find entity by name"** | SQLite | `query --name "Thorgar"` |
+| **"What does [exact phrase] say?"** | Grep tool | Exact phrase matching in body text |
+| **"Get full prose for writing"** | Read file | After identifying entities via other stores |
+
+### Decision Flowchart
+
+1. **Do I know which entity?** -> Graph (connections) or SQLite (metadata) or Read file (prose)
+2. **Am I looking for a theme/concept?** -> Vector semantic search
+3. **Am I listing/counting/filtering?** -> SQLite
+4. **Am I tracing cause-and-effect?** -> Graph depth 2-3
+5. **Am I writing a scene and need context?** -> Vector, then Read the top results
+6. **Do I need an exact phrase?** -> Grep tool on the vault
+
+### Anti-Patterns
+
+- **Do NOT read all files** — 314,000+ tokens wasted.
+- **Do NOT use SQLite FTS** for body-text search — use Grep or Vector instead.
+- **Do NOT use Vector for structural questions** ("who is connected to X") — Graph is faster and more accurate.
+- **Do NOT use Graph for thematic questions** ("find something about betrayal") — Graph has no semantic understanding.
+
+### Relationship Notes
+
+- Frontmatter uses `note` (singular) for relationship context. The graph stores this as `notes` on edges.
+- Every relationship should have: `target`, `type`, `period`, and `note` (describing why/how the relationship exists)
+- The graph automatically creates inverse edges (e.g., if A is "creator" of B, B gets "created-by" back to A)

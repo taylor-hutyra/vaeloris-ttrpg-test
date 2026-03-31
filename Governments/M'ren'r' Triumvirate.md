@@ -1,32 +1,46 @@
 ---
 wb-type: government
 wb-id: mrenr-triumvirate
-name: "M'ren'r' Triumvirate"
-aliases: [Triumvirate of M'ren'r', Free City of M'ren'r']
+name: M'ren'r' Triumvirate
+aliases:
+- Triumvirate of M'ren'r'
+- Free City of M'ren'r'
 type: republic
 founded: null
-territory: ["[[M'ren'r']]"]
+territory:
+- '[[M''ren''r'']]'
 leader: null
-capital: "[[M'ren'r']]"
+capital: '[[M''ren''r'']]'
 laws:
-  - "Power-sharing between three representative offices"
-  - "Academic freedom and intellectual collaboration guaranteed"
+- Power-sharing between three representative offices
+- Academic freedom and intellectual collaboration guaranteed
 relationships:
-  - target: "[[Aen'valar Council]]"
-    type: academic-alliance
-    period: ""
-  - target: "[[Varnathi Pentarchy]]"
-    type: diplomatic
-    period: ""
-  - target: "[[Chartered Kith Weaver's Synod]]"
-    type: cultural-exchange
-    period: ""
+- target: '[[Aen''valar Council]]'
+  type: custom
+  metadata:
+    description: academic-alliance
+- target: '[[Varnathi Pentarchy]]'
+  type: ally
+  metadata:
+    nature: diplomatic
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: custom
+  metadata:
+    description: cultural-exchange
+- target: '[[Cirhannim Hierarchy]]'
+  type: custom
+  metadata:
+    description: forbidden-contact
 timeline: []
-tags: [government, elf, human, waldkyn, multi-species]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- elf
+- human
+- waldkyn
+- multi-species
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # M'ren'r' Triumvirate
 
 The free city of [[M'ren'r']] ("Haven of Quiet Thought") is an independent city-state on the mainland renowned as a center for learning and collaboration between races. It is governed by a Triumvirate representing its [[Elves|Elven]], [[Humans|Human]], and [[Waldkyn]] populations, making its politics a constant and delicate balancing act.

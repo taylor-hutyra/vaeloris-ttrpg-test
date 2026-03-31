@@ -2,39 +2,94 @@
 wb-type: place
 wb-id: dragons-tooth-mountains
 name: Dragon's Tooth Mountains
-aliases: [Dragon's Tooth Range, Northern Peaks]
-parent: "[[Vael]]"
+aliases:
+- Dragon's Tooth Range
+- Northern Peaks
+parent: '[[Vael]]'
 spatial-type: mountain
-contains: ["[[Bjalmund's Spire]]"]
+contains:
+- '[[Bjalmund''s Spire]]'
 population: null
 ruler: null
 faction: null
 climate: arctic alpine, extreme cold, high winds
-resources: [titan-steel, star-metal, ancient Giant artifacts]
+resources:
+- titan-steel
+- star-metal
+- ancient Giant artifacts
 status: abandoned by Giants, scavenged by expeditions
 relationships:
-  - target: "[[Varnathi Highlands]]"
-    type: borders
-    period: "1-"
-  - target: "[[Kharnzarak]]"
-    type: trade-route
-    period: "62-"
+- target: '[[Varnathi Highlands]]'
+  type: borders
+  period: 1-
+- target: '[[Kharnzarak]]'
+  type: custom
+  period: 62-
+  metadata:
+    description: trade-route
+- target: '[[Primalkyn]]'
+  type: homeland
+  period: FA-
+  metadata:
+    description: Earthkin manifestations dwell here — including the Unslumbering Mountain that does not erode
+- target: '[[Rock Gnomes]]'
+  type: contains
+  period: SA
+  metadata:
+    description: Lithos, the greatest Rock Gnome city, is hidden deep within the range
+- target: '[[Lithos]]'
+  type: contains
+  period: SA
+  metadata:
+    description: Subterranean metropolis of silent clockwork within the Dragon's Tooth
+- target: '[[N''nm-Khazal''n]]'
+  type: contains
+  period: SA
+  metadata:
+    description: Zelg'l-Kharn (Echo-Clan) fortress-monastery at Bjalmund's Spire
+- target: '[[First Sighting of Giants]]'
+  type: involved-in
+  period: SA:75
+  metadata:
+    description: Giants found in a high-altitude valley in the northern peaks
+- target: '[[Lithos Guild-Conclave]]'
+  type: contains
+  period: SA
+  metadata:
+    description: Located deep within the Dragon's Tooth mountains
+- target: '[[Thane Korin Barazkor]]'
+  type: controlled-by
+  period: SA:91
+  metadata:
+    description: Star-Metal deposits in the upper peaks were under his clan's control
+- target: '[[N''nm-Khazal''n]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: The Zelg'l-Kharn (Echo-Clan) fortress-monastery at Bjalmund's Spire
+- target: '[[Bjalmund''s Spire]]'
+  type: contains
+  period: SA:380-
 timeline:
-  - period: "SA:62"
-    event: Vardas the Elder sends emissaries to the Dragon's Tooth foothills; first Ore-Grain Exchange with the [[Iron-Hand]] Dwarven clan
-  - period: "SA:75"
-    event: First Sighting of Giants by a Dwarven mining expedition in the northern peaks
-  - period: "SA:380"
-    event: Avatar of [[Bjalmund]] the Shieldbearer manifests to lead the battle against the [[Echo-Lord]]
-  - period: "SA:1775"
-    event: The Passing of the Giants; Gearhaven survey team finds cyclopean fortresses abandoned
-  - period: "SA:1775-"
-    event: The Scavenger Rush; nations loot Giant strongholds for Titan-Steel and ancient artifacts
-tags: [place, mountain, giants, northern]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:62
+  event: Vardas the Elder sends emissaries to the Dragon's Tooth foothills; first Ore-Grain Exchange with the [[Iron-Hand]]
+    Dwarven clan
+- period: SA:75
+  event: First Sighting of Giants by a Dwarven mining expedition in the northern peaks
+- period: SA:380
+  event: Avatar of [[Bjalmund]] the Shieldbearer manifests to lead the battle against the [[Echo-Lord]]
+- period: SA:1775
+  event: The Passing of the Giants; Gearhaven survey team finds cyclopean fortresses abandoned
+- period: SA:1775-
+  event: The Scavenger Rush; nations loot Giant strongholds for Titan-Steel and ancient artifacts
+tags:
+- place
+- mountain
+- giants
+- northern
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Dragon's Tooth Mountains
 
 The Dragon's Tooth Mountains are the northernmost peaks of [[Vael]], a range of towering, frost-bitten summits that once served as the territory of the Giants. Now abandoned, the mountains hold the ruins of cyclopean fortresses, the monastery of [[Bjalmund's Spire]], and untold treasures of Titan-Steel.

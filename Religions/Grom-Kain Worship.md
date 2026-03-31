@@ -1,56 +1,78 @@
 ---
 wb-type: religion
 wb-id: grom-kain-worship
-name: "Grom-Kain Worship"
-aliases: [The Will-Forge Tradition, The Unbroken Will, Trak]
+name: Grom-Kain Worship
+aliases:
+- The Will-Forge Tradition
+- The Unbroken Will
+- Trak
 type: spiritual
 founded: null
 founder: null
-deities: ["[[Grom-Kain]]"]
+deities:
+- '[[Grom-Kain]]'
 headquarters: null
 tenets:
-  - "Grom-Kain forged the Orkin as His masterwork of survival"
-  - "Endurance (Trak) is the supreme virtue — to endure what others cannot"
-  - "The Gral and Skorn are two fists of one will, meant to work in concert"
-  - "Kain's Fall was a betrayal by jealous gods, not a just punishment"
-  - "Grom-Kain is not a benevolent god but a demanding patriarch"
-followers: "All Orkin peoples — Varr-Darg, Novaterran Holds, Vorok-Varr, and Urban Orkin"
+- Grom-Kain forged the Orkin as His masterwork of survival
+- Endurance (Trak) is the supreme virtue — to endure what others cannot
+- The Gral and Skorn are two fists of one will, meant to work in concert
+- Kain's Fall was a betrayal by jealous gods, not a just punishment
+- Grom-Kain is not a benevolent god but a demanding patriarch
+followers: All Orkin peoples — Varr-Darg, Novaterran Holds, Vorok-Varr, and Urban Orkin
 relationships:
-  - target: "[[Grom-Kain]]"
-    type: deity
-  - target: "[[Kael'Zorai]]"
-    type: theological-identity
-    note: "Grom-Kain IS Kael'Zorai — the central controversy of Orkin theology"
-  - target: "[[Orkin]]"
-    type: practiced-by
-  - target: "[[Aenareth]]"
-    type: adversary
-    note: "One of the 'Soft Hands' who betrayed Grom-Kain"
-  - target: "[[Aen'r-Khadaz]]"
-    type: adversary
-    note: "One of the 'Soft Hands' who betrayed Grom-Kain"
-  - target: "[[The Four Pillars]]"
-    type: adversary
-    note: "Represents the gods who struck Grom-Kain down"
-  - target: "[[The Four Harmonies]]"
-    type: adversary
-    note: "Represents the gods who struck Grom-Kain down"
+- target: '[[Grom-Kain]]'
+  type: worshipped-by
+  metadata:
+    nature: deity
+- target: '[[Kael''Zorai]]'
+  type: custom
+  metadata:
+    description: 'theological-identity: Grom-Kain IS Kael''Zorai — the central controversy of Orkin theology'
+- target: '[[Orkin]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Aenareth]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who betrayed Grom-Kain
+- target: '[[Aen''r-Khadaz]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who betrayed Grom-Kain
+- target: '[[The Four Pillars]]'
+  type: enemy
+  metadata:
+    description: Represents the gods who struck Grom-Kain down
+- target: '[[The Four Harmonies]]'
+  type: enemy
+  metadata:
+    description: Represents the gods who struck Grom-Kain down
+- target: '[[Grom-Kain]]'
+  type: worships
+- target: '[[Kael''Zorai]]'
+  type: worships
 timeline:
-  - period: "FA"
-    event: "Grom-Kain forges the Orkin — both Gral and Skorn — from shadow and iron"
-  - period: "FA"
-    event: "Kain's Fall — the Soft Hands betray and seal Grom-Kain"
-  - period: "SA:42"
-    event: "The Orkin Schism — theological war between Gral and Skorn over how to respond to Grom-Kain's loss"
-  - period: "SA:210"
-    event: "The Long March — Orkin retreat to the Barren Hills"
-  - period: "TA"
-    event: "The Silent Blight divides Orkin — is Kael'Zorai's return a homecoming or a perversion?"
-tags: [religion, spiritual, orkin, controversial, grom-kain, kael-zorai]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Grom-Kain forges the Orkin — both Gral and Skorn — from shadow and iron
+- period: FA
+  event: Kain's Fall — the Soft Hands betray and seal Grom-Kain
+- period: SA:42
+  event: The Orkin Schism — theological war between Gral and Skorn over how to respond to Grom-Kain's loss
+- period: SA:210
+  event: The Long March — Orkin retreat to the Barren Hills
+- period: TA
+  event: The Silent Blight divides Orkin — is Kael'Zorai's return a homecoming or a perversion?
+tags:
+- religion
+- spiritual
+- orkin
+- controversial
+- grom-kain
+- kael-zorai
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Grom-Kain Worship
 
 **Grom-Kain Worship** is the spiritual tradition of the [[Orkin]] — a faith built not on devotion to a benevolent god, but on reverence for a **demanding patriarch** who forged His people for a single purpose: to **endure**. It is the most theologically controversial faith in [[Vaeloris]], because its central deity, [[Grom-Kain]] (the Will-Forge), is the same entity the rest of the world knows as **[[Kael'Zorai]]** — the Dissonant One, the source of the Paroxysm and the Silent Blight.

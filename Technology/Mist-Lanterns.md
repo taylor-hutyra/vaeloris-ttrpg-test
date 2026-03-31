@@ -2,25 +2,73 @@
 wb-type: technology
 wb-id: mist-lanterns
 name: Mist-Lanterns
-aliases: [Harmonic Beacons]
+aliases:
+- Harmonic Beacons
 type: arcane
 inventor: null
-invented: "SA:55"
-used-by: ["[[Cirhannim]]", "[[Sun-Leaf Conclave]]", "[[Rock Gnomes]]"]
+invented: SA:55
+used-by:
+- '[[Cirhannim]]'
+- '[[Sun-Leaf Conclave]]'
+- '[[Rock Gnomes]]'
 prerequisites:
-  - Elven crystal-shaping techniques
-  - Understanding of harmonic resonance frequencies
-  - "[[The Great Weaving]]"
+- Elven crystal-shaping techniques
+- Understanding of harmonic resonance frequencies
+- '[[The Great Weaving]]'
 relationships:
-  - { target: "[[The Great Weaving]]", type: "anchors", detail: "Mist-Lanterns project and sustain the Great Weaving's illusionary barrier" }
-  - { target: "[[Hannan'r']]", type: "protects", detail: "Placed along the forest border to conceal the Elven homeland" }
-  - { target: "[[Sun-Leaf Conclave]]", type: "maintained-by", detail: "The Conclave performs ritual attunement of the lanterns" }
-  - { target: "[[Tinbrel Quillroot]]", type: "stabilized-by", detail: "Gnomish bronze lattice-work insulated the lanterns from iron interference" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: anchors
+- target: '[[Hannan''r'']]'
+  type: custom
+  metadata:
+    description: protects
+- target: '[[Sun-Leaf Conclave]]'
+  type: custom
+  metadata:
+    description: maintained-by
+- target: '[[Tinbrel Quillroot]]'
+  type: custom
+  metadata:
+    description: stabilized-by
+- target: '[[Lelyariel]]'
+  type: created-by
+  period: SA:55
+- target: '[[Completion of the Great Weaving]]'
+  type: custom
+  period: SA:55
+  metadata:
+    description: created-during
+- target: '[[Pact of Bark and Bronze]]'
+  type: custom
+  period: SA:89
+  metadata:
+    description: stabilized-by
+- target: '[[Completion of the Great Weaving]]'
+  type: caused-by
+  period: SA:55
+  metadata:
+    description: Crystalline beacons created to anchor the Great Weaving along forest borders
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: anchored-by
+- target: '[[Tinbrel Quillroot]]'
+  type: related
+  period: SA:89
+  metadata:
+    description: His bronze lattice protected the Mist-Lanterns from destabilization
+- target: '[[Hannan''r'']]'
+  type: located-in
+  period: SA:55-
+  metadata:
+    description: Crystalline beacons anchoring the Great Weaving along the forest border
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mist-Lanterns
 
 Mist-Lanterns are crystalline beacons placed along the border of the Elven forest of [[Hannan'r']] that project and anchor [[The Great Weaving]] -- the permanent illusionary barrier that conceals the [[Cirhannim]] homeland from the outside world. Created in SA:55 as part of Queen [[Lelyariel]]'s great ritual, they represent a fusion of Elven crystal-shaping and harmonic magic.

@@ -2,26 +2,54 @@
 wb-type: technology
 wb-id: arcane-conduits
 name: Arcane Conduits
-aliases: [Focusing Crystals, Mana Channels]
+aliases:
+- Focusing Crystals
+- Mana Channels
 type: arcane
 inventor: null
-invented: "SA:1485-"
-used-by: ["[[Crystal-Singers of M'ren'r']]", "[[Gearhaven]]", "[[Magocracy]]"]
+invented: SA:1485-
+used-by:
+- '[[Crystal-Singers of M''ren''r'']]'
+- '[[Gearhaven]]'
+- '[[Magocracy]]'
 prerequisites:
-  - Crystal-shaping expertise
-  - Understanding of mana flow dynamics
-  - "[[Arcanology]]"
+- Crystal-shaping expertise
+- Understanding of mana flow dynamics
+- '[[Arcanology]]'
 relationships:
-  - { target: "[[Crystal-Singers of M'ren'r']]", type: "refined-by", detail: "Elven crystal artisans perfected the focusing technique" }
-  - { target: "[[Mana-Pylon Systems]]", type: "enables", detail: "Conduits are the channels through which pylon energy flows" }
-  - { target: "[[Technomancy]]", type: "essential-to", detail: "Conduits bridge the gap between raw magic and mechanical systems" }
-  - { target: "[[Clank Servitors]]", type: "powers", detail: "Arcane conduit cores provide motive energy to Clank constructs" }
-  - { target: "[[Mana-Crystals]]", type: "derived-from", detail: "Conduits are crafted from refined and shaped mana-reactive crystals" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Crystal-Singers of M''ren''r'']]'
+  type: custom
+  metadata:
+    description: refined-by
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: essential-to
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: powers
+- target: '[[Mana-Crystals]]'
+  type: origin
+- target: '[[Mana-Crystals]]'
+  type: custom
+  metadata:
+    description: raw-material-for
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: requires
+- target: '[[Mana-Crystals]]'
+  type: origin-of
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Arcane Conduits
 
 Arcane Conduits -- also known as Focusing Crystals -- are precisely shaped crystalline components that channel, regulate, and direct magical energy. They are the essential interface between raw arcane power and the mechanical systems of [[Technomancy]], enabling non-magical operators to safely use mana-powered devices. Without Arcane Conduits, the fusion of magic and machinery that defines the Third Age would be impossible.

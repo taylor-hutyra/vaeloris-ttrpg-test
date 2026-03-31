@@ -1,40 +1,40 @@
 ---
 wb-type: faction
-wb-id: "river-folk-of-silkenflow"
-name: "River-Folk of Silkenflow"
+wb-id: river-folk-of-silkenflow
+name: River-Folk of Silkenflow
 aliases:
-  - "River-Folk"
-type: "cultural"
+- River-Folk
+type: cultural
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Silkenflow River]]"
-influence: "regional"
+- '[[Silkenflow River]]'
+influence: regional
 goals:
-  - "Maintain freedom of the river and independence from land-based politics"
-  - "Trade goods and stories along the great rivers of the mainland"
-  - "Preserve the flotilla way of life"
+- Maintain freedom of the river and independence from land-based politics
+- Trade goods and stories along the great rivers of the mainland
+- Preserve the flotilla way of life
 relationships:
-  - target: "[[Halflings]]"
-    type: "semi-nomadic cultural group"
-    period: ""
+- target: '[[Halflings]]'
+  type: custom
+  metadata:
+    description: semi-nomadic cultural group
 timeline:
-  - period: ""
-    event: "Established a flotilla culture on the Silkenflow River"
-  - period: ""
-    event: "Became renowned river traders and masters of smuggling"
+- period: ''
+  event: Established a flotilla culture on the Silkenflow River
+- period: ''
+  event: Became renowned river traders and masters of smuggling
 tags:
-  - faction
-  - halfling
-  - cultural
-  - river
-  - nomadic
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- cultural
+- river
+- nomadic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # River-Folk of Silkenflow
 
 The River-Folk are a semi-nomadic culture of [[Halflings]] who live on flotillas of interconnected river barges along the [[Silkenflow River]]. They travel the great rivers of the mainland, trading goods, telling stories, and fiercely avoiding land-based politics. They are masters of river navigation and renowned smugglers.

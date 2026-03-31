@@ -2,32 +2,59 @@
 wb-type: magic
 wb-id: necro-industrialism
 name: Necro-Industrialism
-aliases: [Death Industry, The Gray Art]
+aliases:
+- Death Industry
+- The Gray Art
 type: necromantic
 source: Fusion of necromantic magic with industrial processes, animating the dead as a labor and military force
-practitioners: ["[[Ashfall]]"]
+practitioners:
+- '[[Ashfall]]'
 limitations:
-  - Universally reviled by other nations as an abomination
-  - Requires a steady supply of corpses to sustain operations
-  - Undead laborers degrade over time and require constant magical maintenance
-  - Prolonged exposure to necromantic energy corrupts living workers
-  - Ethically indefensible by mainstream magical theory; banned in most jurisdictions
+- Universally reviled by other nations as an abomination
+- Requires a steady supply of corpses to sustain operations
+- Undead laborers degrade over time and require constant magical maintenance
+- Prolonged exposure to necromantic energy corrupts living workers
+- Ethically indefensible by mainstream magical theory; banned in most jurisdictions
 effects:
-  - Animation of corpses as tireless industrial laborers
-  - Raising undead armies that replenish from battlefield casualties
-  - Death-powered factory operations that never stop
-  - Necromantic energy harvesting from decay and decomposition
-  - Creation of self-sustaining war machines fueled by death magic
+- Animation of corpses as tireless industrial laborers
+- Raising undead armies that replenish from battlefield casualties
+- Death-powered factory operations that never stop
+- Necromantic energy harvesting from decay and decomposition
+- Creation of self-sustaining war machines fueled by death magic
 relationships:
-  - { target: "[[Ashfall]]", type: "practiced-by", detail: "The industrial barony that seceded using necromantic power" }
-  - { target: "[[Magocracy]]", type: "opposed-by", detail: "Invaded Ashfall three times before recognizing its sovereignty" }
-  - { target: "[[Necro-Industrial Machinery]]", type: "enables", detail: "The technological application of necromantic principles" }
-  - { target: "[[Ashfall Compact]]", type: "legitimized-by", detail: "The treaty that recognized Ashfall's sovereignty and its forbidden practices" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Ashfall]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Magocracy]]'
+  type: custom
+  metadata:
+    description: opposed-by
+- target: '[[Necro-Industrial Machinery]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Ashfall Compact]]'
+  type: custom
+  metadata:
+    description: legitimized-by
+- target: '[[Ashfall Secession]]'
+  type: involved-in
+  period: SA:3100
+- target: '[[Federation of City-States]]'
+  type: custom
+  period: SA:3100
+  metadata:
+    description: seceded-from
+- target: '[[Necro-Industrial Machinery]]'
+  type: custom
+  metadata:
+    description: application-of
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Necro-Industrialism
 
 Necro-Industrialism is the fusion of necromantic magic with industrial processes, practiced exclusively in the sovereign barony of [[Ashfall]]. It is the most reviled magical discipline in [[Vaeloris]] -- a system that animates the dead as tireless factory workers and soldiers, powering an economy that never sleeps and an army that grows stronger with every casualty.

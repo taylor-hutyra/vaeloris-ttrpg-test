@@ -1,30 +1,57 @@
 ---
 wb-type: faction
 wb-id: sea-whisperers-guild
-name: "Sea-Whisperers' Guild"
-aliases: [Guild of Tides]
+name: Sea-Whisperers' Guild
+aliases:
+- Guild of Tides
 type: political
-founded: "SA:550"
+founded: SA:550
 dissolved: null
 headquarters: null
 leader: null
-territory: ["[[Mirennian League]]"]
+territory:
+- '[[Mirennian League]]'
 influence: strong
 goals:
-  - Maintain control over Wind-Shaping
-  - Preserve the guild's role as kingmaker in League politics
-  - Guard the secrets of elemental communion
-relationships: []
+- Maintain control over Wind-Shaping
+- Preserve the guild's role as kingmaker in League politics
+- Guard the secrets of elemental communion
+relationships:
+- target: '[[Incident of the Burning Mast]]'
+  type: involved-in
+  period: SA:520
+  metadata:
+    description: Early elementalist summoned a gale to drive the Imperial ship onto rocks
+- target: '[[Golden Compass Syndicate]]'
+  type: ally
+  period: SA:550-
+  metadata:
+    description: No house can launch major expeditions without Wind-Shaper blessing
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:550-
+  metadata:
+    description: Controls Wind-Shaping; no house can go to war without their blessing
+    nature: internal faction
+- target: '[[Mirennian League]]'
+  type: has-member
+  period: SA:550-
+  metadata:
+    description: Controls Wind-Shaping; no house can go to war without their blessing
+    nature: internal faction
 timeline:
-  - period: "SA:520"
-    label: First combat use of Wind-Shaping during the Incident of the Burning Mast
-  - period: "SA:550"
-    label: Art of Wind-Shaping codified by the Guild of Tides
-tags: [faction, human, mirennian, magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:520
+  label: First combat use of Wind-Shaping during the Incident of the Burning Mast
+- period: SA:550
+  label: Art of Wind-Shaping codified by the Guild of Tides
+tags:
+- faction
+- human
+- mirennian
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sea-Whisperers' Guild
 
 The **Sea-Whisperers' Guild**, originally known as the **Guild of Tides**, is the fraternity of practitioners who control the magical art of [[Wind-Shaping]] within the [[Mirennian League]]. While not a political faction in the traditional sense, their monopoly over the winds makes them the most powerful kingmaker in Mirennian politics.

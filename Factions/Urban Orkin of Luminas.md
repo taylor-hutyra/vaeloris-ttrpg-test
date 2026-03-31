@@ -1,44 +1,50 @@
 ---
 wb-type: faction
-wb-id: "urban-orkin-of-luminas"
-name: "Urban Orkin of Luminas"
+wb-id: urban-orkin-of-luminas
+name: Urban Orkin of Luminas
 aliases:
-  - "Orkin Quarter"
+- Orkin Quarter
 type: civic
 founded: null
 dissolved: null
-headquarters: "[[Luminas]] (Orkin Quarter)"
-leader: "Neighborhood Council"
+headquarters: '[[Luminas]] (Orkin Quarter)'
+leader: Neighborhood Council
 territory:
-  - "[[Luminas]] (Orkin Quarter)"
+- '[[Luminas]] (Orkin Quarter)'
 influence: local
 goals:
-  - "Govern and protect the Orkin Quarter community"
-  - "Mediate disputes and organize community defense"
-  - "Navigate the prejudices of Varnathi society"
+- Govern and protect the Orkin Quarter community
+- Mediate disputes and organize community defense
+- Navigate the prejudices of Varnathi society
 relationships:
-  - target: "[[Varnathi]]"
-    type: subject
-    period: null
-  - target: "[[Butchers' Guild]]"
-    type: power-broker
-    period: null
-  - target: "[[Masons' Guild]]"
-    type: power-broker
-    period: null
+- target: '[[Varnathi]]'
+  type: serves
+  metadata:
+    nature: subject
+- target: '[[Butchers'' Guild]]'
+  type: custom
+  metadata:
+    description: power-broker
+- target: '[[Masons'' Guild]]'
+  type: custom
+  metadata:
+    description: power-broker
+- target: '[[Varnathi]]'
+  type: served-by
+  metadata:
+    nature: subject
 timeline:
-  - period: null
-    event: "Orkin settled into segregated districts in Luminas under Varnathi law"
+- period: null
+  event: Orkin settled into segregated districts in Luminas under Varnathi law
 tags:
-  - faction
-  - orkin
-  - civic
-  - urban
-  - mainland
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- civic
+- urban
+- mainland
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Urban Orkin of Luminas
 
 The [[Orkin]] community of [[Luminas]], governing themselves through a Neighborhood Council within the segregated Orkin Quarter. Forced into this district by [[Varnathi]] law, they have built a nation-within-a-nation, navigating the prejudices of the outside world while maintaining their own internal structures for survival and governance.

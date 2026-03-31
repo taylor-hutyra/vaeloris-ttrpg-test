@@ -2,25 +2,71 @@
 wb-type: faction
 wb-id: gulgrym-clan
 name: Gulgrym Clan
-aliases: [The Deep-Miners]
+aliases:
+- The Deep-Miners
 type: clan
 founded: null
 dissolved: null
-headquarters: "[[Kharnzarak]]"
+headquarters: '[[Kharnzarak]]'
 leader: null
-territory: ["[[Kharnzarak]]"]
+territory:
+- '[[Kharnzarak]]'
 influence: moderate
 goals:
-  - Improve conditions for the Guild Clans
-  - Gain greater representation on the Stone-Lay Council
-  - Resist exploitation by the High Clans
-relationships: []
+- Improve conditions for the Guild Clans
+- Gain greater representation on the Stone-Lay Council
+- Resist exploitation by the High Clans
+relationships:
+- target: '[[N''nm-Khazal''n]]'
+  type: member
+  period: SA
+  metadata:
+    description: Most powerful Guild Clan within Kharnzarak
+- target: '[[Kharnzarak]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Based in the deep mining shafts of Kharnzarak
+- target: '[[Barazkor Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Resent the High Clans who profit from Gulgrym labor
+- target: '[[Farrazul Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Farrazul refines the raw materials the Gulgrym extract, benefiting disproportionately
+- target: '[[Bronr''n Legacy]]'
+  type: ally
+  period: SA:1200-
+  metadata:
+    description: Bronr'n Legacy quietly courts sympathetic Gulgrym leaders as muscle for reform
+- target: '[[Barazkor Clan]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Gulgrym miners subordinate in the caste system; potential populist threat
+- target: '[[Farrazül Clan]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Gulgrym miners extract raw materials that Farrazul refines and profits from
+- target: '[[Dwarves]]'
+  type: member
+  period: SA
+  metadata:
+    description: The Deep-Miners, most powerful Guild Clan forming the economic backbone
 timeline: []
-tags: [faction, dwarf, nom-khazalon, clan, labor]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- dwarf
+- nom-khazalon
+- clan
+- labor
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Gulgrym Clan
 
 The **Gulgrym Clan**, known as the **Deep-Miners**, is the most powerful of the Guild Clans within [[Kharnzarak]]. They represent the miners who form the backbone of the Dwarven economy, extracting the ore, gems, and stone that fuel the kingdom's industry and the [[Farraz'ul Clan]]'s wealth.

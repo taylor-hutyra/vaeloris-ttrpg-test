@@ -3,46 +3,68 @@ wb-type: place
 wb-id: central-mountains
 name: Central Mountains
 aliases: []
-parent: "[[Vael]]"
+parent: '[[Vael]]'
 spatial-type: mountain
-contains: ["[[Kharnzarak]]", "[[Argentum]]", "[[Lithos]]"]
+contains:
+- '[[Kharnzarak]]'
+- '[[Argentum]]'
+- '[[Lithos]]'
 population: null
 ruler: null
 faction: null
 climate: alpine, subterranean geothermal zones
-resources: [silver, iron, gold, coal, gems, star-metal]
+resources:
+- silver
+- iron
+- gold
+- coal
+- gems
+- star-metal
 status: major mining territory, politically divided between Dwarven and human claims
 relationships:
-  - target: "[[Varnathi Highlands]]"
-    type: bordered-by
-    period: "1-"
-  - target: "[[Kharnzarak]]"
-    type: contains
-    period: "91-"
-  - target: "[[Argentum]]"
-    type: contains
-    period: "485-"
-  - target: "[[Lithos]]"
-    type: contains
-    period: "1-"
+- target: '[[Varnathi Highlands]]'
+  type: borders
+  period: 1-
+- target: '[[Kharnzarak]]'
+  type: contains
+  period: 91-
+- target: '[[Argentum]]'
+  type: contains
+  period: 485-
+- target: '[[Lithos]]'
+  type: contains
+  period: 1-
+- target: '[[Silver Boom]]'
+  type: involved-in
+  period: SA:485
+  metadata:
+    description: Location of the massive silver deposit
+- target: '[[Grogor the Eye]]'
+  type: contains
+  period: SA:485
+  metadata:
+    description: Discovered the massive silver deposit in the Central Mountains
 timeline:
-  - period: "SA:12"
-    event: Dwarven clans begin reclaiming the deep halls from Skitter-Gloom infestations
-  - period: "SA:91"
-    event: Thane Korin Barazkor unifies the Dwarven clans; [[Kharnzarak]] is declared
-  - period: "SA:230"
-    event: Imperial prospectors discover massive silver veins; Treaty of Coin signed
-  - period: "SA:485"
-    event: The Deep-Vein discovered; [[Argentum]] founded as a mining camp that explodes into a metropolis
-  - period: "SA:1200"
-    event: The Earthwake of Kharnzarak; catastrophic seismic event collapses major clan halls
-  - period: "SA:1400"
-    event: High King Thorgar VI seals the Great Adamant Gates of [[Kharnzarak]]
-tags: [place, mountain, dwarven, mining]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:12
+  event: Dwarven clans begin reclaiming the deep halls from Skitter-Gloom infestations
+- period: SA:91
+  event: Thane Korin Barazkor unifies the Dwarven clans; [[Kharnzarak]] is declared
+- period: SA:230
+  event: Imperial prospectors discover massive silver veins; Treaty of Coin signed
+- period: SA:485
+  event: The Deep-Vein discovered; [[Argentum]] founded as a mining camp that explodes into a metropolis
+- period: SA:1200
+  event: The Earthwake of Kharnzarak; catastrophic seismic event collapses major clan halls
+- period: SA:1400
+  event: High King Thorgar VI seals the Great Adamant Gates of [[Kharnzarak]]
+tags:
+- place
+- mountain
+- dwarven
+- mining
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Central Mountains
 
 The Central Mountains are the mineral-rich spine of [[Vael]], home to the greatest concentration of underground wealth on the continent. Beneath their peaks lie the sealed Dwarven kingdom of [[Kharnzarak]], the silver metropolis of [[Argentum]], and the silent Rock Gnome city of [[Lithos]].

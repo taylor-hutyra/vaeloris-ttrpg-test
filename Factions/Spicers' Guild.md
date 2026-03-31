@@ -1,44 +1,54 @@
 ---
 wb-type: faction
-wb-id: "spicers-guild"
-name: "Spicers' Guild"
+wb-id: spicers-guild
+name: Spicers' Guild
 aliases: []
-type: "intelligence/trade"
+type: intelligence/trade
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Aurumport]]"
-  - "[[M'ren'r']]"
-  - various cities
-influence: "covert but extensive"
+- '[[Aurumport]]'
+- '[[M''ren''r'']]'
+- various cities
+influence: covert but extensive
 goals:
-  - "Control the flow of information across major cities"
-  - "Protect and support the Wayfinder Halfling community"
-  - "Maintain the guild's legendary discretion and neutrality"
+- Control the flow of information across major cities
+- Protect and support the Wayfinder Halfling community
+- Maintain the guild's legendary discretion and neutrality
 relationships:
-  - target: "[[Halflings]]"
-    type: "Wayfinder network"
-    period: ""
-  - target: "[[Thistlewick Family]]"
-    type: "connected to"
-    period: ""
+- target: '[[Halflings]]'
+  type: custom
+  metadata:
+    description: Wayfinder network
+- target: '[[Thistlewick Family]]'
+  type: custom
+  metadata:
+    description: connected to
+- target: '[[Milo]]'
+  type: related
+  metadata:
+    description: Likely has connections within the Wayfinder intelligence and mutual aid network
+    nature: contact
+- target: '[[Thistlewick Family]]'
+  type: ally
+  metadata:
+    description: Connected to the Wayfinder intelligence and mutual aid network
 timeline:
-  - period: ""
-    event: "Founded as a legitimate spice merchant guild in major Tallfolk cities"
-  - period: ""
-    event: "Evolved into a vast intelligence network and mutual aid society for Wayfinders"
+- period: ''
+  event: Founded as a legitimate spice merchant guild in major Tallfolk cities
+- period: ''
+  event: Evolved into a vast intelligence network and mutual aid society for Wayfinders
 tags:
-  - faction
-  - halfling
-  - wayfinder
-  - intelligence
-  - trade
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- wayfinder
+- intelligence
+- trade
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Spicers' Guild
 
 The Spicers' Guild is the closest thing [[Halflings|Halfling]] Wayfinders have to a government. On the surface, it operates as a legitimate merchant guild controlling the import of exotic spices and luxury goods in cities like [[Aurumport]] and [[M'ren'r']]. In reality, it is a vast intelligence network, information brokerage, and mutual aid society for the Wayfinder community.

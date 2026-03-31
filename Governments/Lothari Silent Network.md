@@ -2,30 +2,56 @@
 wb-type: government
 wb-id: lothari-silent-network
 name: Lothari Silent Network
-aliases: [Council of Dreamers, Desertborn Confederacy]
+aliases:
+- Council of Dreamers
+- Desertborn Confederacy
 type: theocracy
-founded: "1300"
-territory: ["[[Great Desert]]", "[[Southern Sands]]"]
+founded: '1300'
+territory:
+- '[[Great Desert]]'
+- '[[Southern Sands]]'
 leader: null
 capital: null
 laws:
-  - "Guidance through dream-interpretation and celestial patterns"
-  - "The Toll of Sand — tribute on overland trade routes"
+- Guidance through dream-interpretation and celestial patterns
+- The Toll of Sand — tribute on overland trade routes
 relationships:
-  - target: "[[Varnathi Pentarchy]]"
-    type: neutral
-    period: ""
-  - target: "[[Mirennian League]]"
-    type: trade-partner
-    period: ""
+- target: '[[Varnathi Pentarchy]]'
+  type: custom
+  metadata:
+    description: neutral
+- target: '[[Mirennian League]]'
+  type: trade
+- target: '[[Lothari]]'
+  type: controls
+  period: SA:1300-
+  metadata:
+    description: Council of Dreamers guiding the desert people through spiritual authority
+- target: '[[Great Desert]]'
+  type: controls
+  period: SA:1300-
+  metadata:
+    description: Controls the overland Silk Road through the desert
+- target: '[[Sand Gnomes]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Share the desert in mutual respect; meet at remote oases
+- target: '[[Humans]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Lothari guided by the Council of Dreamers
 timeline:
-  - period: "1300"
-    event: "Lothari Mystics unite the Southern Sand tribes and seize control of the overland Silk Road"
-tags: [government, human, lothari]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '1300'
+  event: Lothari Mystics unite the Southern Sand tribes and seize control of the overland Silk Road
+tags:
+- government
+- human
+- lothari
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Lothari Silent Network
 
 The [[Lothari]] have no formal state. They are a semi-nomadic people bound by ancient rituals, a shared mystical tradition, and a network of hidden oases and secret routes across the [[Great Desert]].
@@ -36,7 +62,7 @@ The Lothari are led by the Silent Network, a council of the most respected mysti
 
 ## Culture and Philosophy
 
-The Lothari speak of The Breathless Dream — a sleeping god whose thoughts became reality. They believe humans were the first waking thought, born from curiosity. The [[Paroxysm]] was a failed dream trying to reshape the world, but was forgotten.
+The Lothari speak of The Breathless Dream — a sleeping god whose thoughts became reality. They believe humans were the first waking thought, born from curiosity. The [[The Paroxysm]] was a failed dream trying to reshape the world, but was forgotten.
 
 Their view of the [[Four Makers]]:
 - The Mason as **the Pillar**

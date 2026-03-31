@@ -2,30 +2,48 @@
 wb-type: magic
 wb-id: elm-ur
 name: Elm-ur
-aliases: [Truth-Flame, Elm-al]
+aliases:
+- Truth-Flame
+- Elm-al
 type: philosophical
 source: The belief that mortal magic (Elm-al) is a tool to achieve the perfect logical order envisioned by the Ulzammar
-practitioners: ["[[Elm-korin]]", "[[Gearhaven]]"]
+practitioners:
+- '[[Elm-korin]]'
+- '[[Gearhaven]]'
 limitations:
-  - Considered heretical by traditionalist N'am-Khazal'an Dwarves
-  - Requires deep understanding of both arcane theory and Dwarven craft principles
-  - Risk of obsessive pursuit of perfection leading to madness or zealotry
-  - Draws on the forbidden concept of the Ulzammar, whose very name is discouraged in orthodox halls
+- Considered heretical by traditionalist N'am-Khazal'an Dwarves
+- Requires deep understanding of both arcane theory and Dwarven craft principles
+- Risk of obsessive pursuit of perfection leading to madness or zealotry
+- Draws on the forbidden concept of the Ulzammar, whose very name is discouraged in orthodox halls
 effects:
-  - Infusion of arcane fire into crafted objects
-  - Creation of ensouled tools and weapons through the Soul-Forge ritual
-  - Enhancement of mechanical precision through magical calibration
-  - Perception of fundamental structural truths in materials and systems
+- Infusion of arcane fire into crafted objects
+- Creation of ensouled tools and weapons through the Soul-Forge ritual
+- Enhancement of mechanical precision through magical calibration
+- Perception of fundamental structural truths in materials and systems
 relationships:
-  - { target: "[[Elm-korin]]", type: "practiced-by", detail: "The exiled Flame-Struck Dwarves who were banished for embracing this philosophy" }
-  - { target: "[[Technomancy]]", type: "foundational-to", detail: "Elm-ur philosophy laid the groundwork for the fusion of magic and machinery" }
-  - { target: "[[Kharnzarak]]", type: "rejected-by", detail: "The Stone-Sworn declared Elm-ur a corruption of the Stone" }
-  - { target: "[[Ulzammar]]", type: "derived-from", detail: "Draws philosophical inspiration from the sealed concept of perfect order" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Elm-korin]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: foundational-to
+- target: '[[Kharnzarak]]'
+  type: custom
+  metadata:
+    description: rejected-by
+- target: '[[Ulzammar]]'
+  type: origin
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: evolved-from
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Elm-ur (The Truth-Flame)
 
 Elm-ur, known in Common as the Truth-Flame, is the philosophical and magical practice of the [[Elm-korin]] Dwarves. It represents the heretical belief that mortal magic -- called Elm-al in Dwarvish -- is not a chaotic, unreliable force, but a divine tool meant to achieve the perfect, logical order that the [[Ulzammar]] once envisioned.

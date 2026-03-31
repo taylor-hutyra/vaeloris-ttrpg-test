@@ -2,28 +2,105 @@
 wb-type: species
 wb-id: primalkyn
 name: Primalkyn
-aliases: [The Unraveled, World's Immune System, Elemental Echoes]
-origin: "Spontaneously unraveled from the fabric of Vaeloris itself during the Elemental Unraveling — the cataclysmic release of raw cosmic energy when Kael'Zorai was forcibly contained"
-lifespan: "Indefinite — tied to elemental cycles rather than biological aging"
-traits: [elemental, instinctual, amoral, primal, compelled, immensely powerful]
-habitat: ["[[Dragon's Tooth Mountains]]", "[[The Southern Plains]]", "[[The Sorrowful Coast]]", "[[The Open Skies]]"]
+aliases:
+- The Unraveled
+- World's Immune System
+- Elemental Echoes
+origin: Spontaneously unraveled from the fabric of Vaeloris itself during the Elemental Unraveling — the cataclysmic release
+  of raw cosmic energy when Kael'Zorai was forcibly contained
+lifespan: Indefinite — tied to elemental cycles rather than biological aging
+traits:
+- elemental
+- instinctual
+- amoral
+- primal
+- compelled
+- immensely powerful
+habitat:
+- '[[Dragon''s Tooth Mountains]]'
+- '[[The Southern Plains]]'
+- '[[The Sorrowful Coast]]'
+- '[[The Open Skies]]'
 population: rare
 relationships:
-  - target: "[[Kael'Zorai]]"
-    type: existential-enemy
-  - target: "[[Silent Blight]]"
-    type: antithesis
-  - target: "[[Waldkyn]]"
-    type: philosophical-parallel
-  - target: "[[Dwarves]]"
-    type: observed
-  - target: "[[Humans]]"
-    type: curious-frustration
-tags: [species, elemental, primordial, guardian, non-mortal]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    nature: existential
+- target: '[[Silent Blight]]'
+  type: enemy
+  metadata:
+    nature: antithesis
+- target: '[[Waldkyn]]'
+  type: related
+  metadata:
+    description: Where Waldkyn are a symphony, Primalkyn are a feedback loop
+    nature: philosophical parallel
+- target: '[[The Elemental Unraveling]]'
+  type: origin
+  period: FA
+  metadata:
+    description: Born from the cosmic backlash when Kael'Zorai was sealed
+- target: '[[Primalkyn Convergences]]'
+  type: related
+  period: FA
+  metadata:
+    description: Earlier, smaller manifestations during Kael'Zorai's corruption period
+- target: '[[Dwarves]]'
+  type: related
+  metadata:
+    nature: observed
+- target: '[[Humans]]'
+  type: related
+  metadata:
+    nature: curious frustration
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: native
+  period: FA-
+  metadata:
+    description: The Unslumbering Mountain — an Earthkin of such patience it has become geography
+- target: '[[Mirennians]]'
+  type: related
+  period: SA
+  metadata:
+    description: Mirennian sailors tell of the Sorrowful Coast — a Tidekin's grief made physical
+- target: '[[Elves]]'
+  type: related
+  period: SA
+  metadata:
+    description: Elves and Primalkyn share an awareness of the world's deeper harmonics
+- target: '[[Primalkyn Convergences]]'
+  type: involved-in
+  metadata:
+    description: Early manifestations of elemental beings before the full Elemental Unraveling
+- target: '[[The Binding]]'
+  type: caused-by
+  period: FA
+  metadata:
+    description: The cosmic imbalance from the Binding gave spontaneous birth to the Primalkyn
+- target: '[[The Elemental Unraveling]]'
+  type: created-by
+  metadata:
+    description: The Primalkyn were spontaneously unraveled from the fabric of Vaeloris
+- target: '[[The Elemental Unraveling]]'
+  type: origin-of
+  period: FA
+  metadata:
+    description: Born from the cosmic backlash when Kael'Zorai was sealed
+timeline:
+- period: FA
+  event: Primalkyn Convergences — early manifestations of elemental beings as Kael'Zorai's corruption strained reality
+- period: FA
+  event: The Elemental Unraveling — full-scale spontaneous birth from the cosmic imbalance after Kael'Zorai's containment
+tags:
+- species
+- elemental
+- primordial
+- guardian
+- non-mortal
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Primalkyn
 
 The Primalkyn do not have a view of creation; they **are** a view of it — a physical, often violent, echo of the moment it was nearly unmade. They are the result of the **Elemental Unraveling**, the cataclysmic event when the forced containment of [[Kael'Zorai]] released a shockwave of raw, untamed cosmic energy. They were not born of divine will or collaborative harmony, but were spontaneously unraveled from the fabric of [[Vaeloris]] itself.

@@ -40,49 +40,84 @@ TYPE_FOLDERS: dict[str, str] = {
     "narrative": "Narratives/",
 }
 
-# Relationship inverse pairs.  Symmetric relationships map to themselves.
+# Canonical relationship types (26 + custom).
+# Every relationship in the system should use one of these types.
+# Specifics go in the `metadata` dict on the relationship, not the type.
+CANONICAL_TYPES: set[str] = {
+    # Kinship & Identity
+    "parent", "child", "sibling", "spouse", "identity",
+    # Creation & Origin
+    "creator", "created-by", "founder", "founded-by", "origin", "origin-of",
+    # Authority & Structure
+    "ruler", "ruled-by", "member", "has-member", "controls", "controlled-by",
+    "serves", "served-by", "successor", "predecessor",
+    # Knowledge & Belief
+    "teacher", "student", "worships", "worshipped-by",
+    # Diplomacy & Conflict (symmetric)
+    "ally", "enemy", "rival", "trade",
+    # Spatial
+    "located-in", "contains", "borders", "homeland", "native",
+    # Temporal & Causal
+    "caused", "caused-by", "involved", "involved-in",
+    "preceded", "followed", "contemporary",
+    # Catch-all
+    "related", "custom",
+}
+
+# Inverse pairs for automatic bidirectional edge creation.
+# Symmetric types map to themselves. Unknown types treated as symmetric.
 RELATIONSHIP_INVERSES: dict[str, str] = {
-    # Asymmetric pairs
-    "parent-of": "child-of",
-    "child-of": "parent-of",
-    "mentor-of": "student-of",
-    "student-of": "mentor-of",
-    "leader-of": "led-by",
-    "led-by": "leader-of",
-    "member-of": "has-member",
-    "has-member": "member-of",
+    # Kinship & Identity
+    "parent": "child",
+    "child": "parent",
+    "sibling": "sibling",
+    "spouse": "spouse",
+    "identity": "identity",
+    # Creation & Origin
+    "creator": "created-by",
+    "created-by": "creator",
+    "founder": "founded-by",
+    "founded-by": "founder",
+    "origin": "origin-of",
+    "origin-of": "origin",
+    # Authority & Structure
+    "ruler": "ruled-by",
+    "ruled-by": "ruler",
+    "member": "has-member",
+    "has-member": "member",
     "controls": "controlled-by",
     "controlled-by": "controls",
     "serves": "served-by",
     "served-by": "serves",
+    "successor": "predecessor",
+    "predecessor": "successor",
+    # Knowledge & Belief
+    "teacher": "student",
+    "student": "teacher",
     "worships": "worshipped-by",
     "worshipped-by": "worships",
-    "created": "created-by",
-    "created-by": "created",
-    "vassal-of": "overlord-of",
-    "overlord-of": "vassal-of",
-    "successor-of": "predecessor-of",
-    "predecessor-of": "successor-of",
-    "rules": "ruled-by",
-    "ruled-by": "rules",
-    "founded": "founded-by",
-    "founded-by": "founded",
-    "employs": "employed-by",
-    "employed-by": "employs",
-    "owns": "owned-by",
-    "owned-by": "owns",
-    "protects": "protected-by",
-    "protected-by": "protects",
-    "teaches": "taught-by",
-    "taught-by": "teaches",
-    # Symmetric
+    # Diplomacy & Conflict (symmetric)
     "ally": "ally",
     "enemy": "enemy",
-    "spouse": "spouse",
-    "sibling": "sibling",
     "rival": "rival",
-    "friend": "friend",
-    "trades-with": "trades-with",
+    "trade": "trade",
+    # Spatial
+    "located-in": "contains",
+    "contains": "located-in",
+    "borders": "borders",
+    "homeland": "native",
+    "native": "homeland",
+    # Temporal & Causal
+    "caused": "caused-by",
+    "caused-by": "caused",
+    "involved": "involved-in",
+    "involved-in": "involved",
+    "preceded": "followed",
+    "followed": "preceded",
+    "contemporary": "contemporary",
+    # Catch-all (symmetric)
+    "related": "related",
+    "custom": "custom",
 }
 
 

@@ -1,59 +1,143 @@
 ---
 wb-type: religion
 wb-id: the-four-pillars
-name: "The Four Pillars"
-aliases: [The Four Pillars of Craft, The Deep Foundation]
+name: The Four Pillars
+aliases:
+- The Four Pillars of Craft
+- The Deep Foundation
 type: philosophical
 founded: null
 founder: null
-deities: ["[[Aen'r-Khadaz]]"]
-headquarters: "[[Kharnzarak]]"
+deities:
+- '[[Aen''r-Khadaz]]'
+headquarters: '[[Kharnzarak]]'
 tenets:
-  - "Tharn'm (Stone/Endurance) — the foundation of all things"
-  - "Bronr'n (Flame/Innovation) — growth and the drive to shape"
-  - "Farrazul (Gem/Craft) — hidden beauty refined through labor"
-  - "Elmura (Metal/Will) — firelight, vision, and the spark of purpose"
-  - "The Pillars are not gods but Fundamentals — primal truths"
-  - "To build is to worship; to endure is to pray"
-followers: "All Dwarven cultures — N'nm-Khazal'n, Elm-korin, and Thulkor'n"
+- Tharn'm (Stone/Endurance) — the foundation of all things
+- Bronr'n (Flame/Innovation) — growth and the drive to shape
+- Farrazul (Gem/Craft) — hidden beauty refined through labor
+- Elmura (Metal/Will) — firelight, vision, and the spark of purpose
+- The Pillars are not gods but Fundamentals — primal truths
+- To build is to worship; to endure is to pray
+followers: All Dwarven cultures — N'nm-Khazal'n, Elm-korin, and Thulkor'n
 relationships:
-  - target: "[[Dwarves]]"
-    type: practiced-by
-  - target: "[[Aen'r-Khadaz]]"
-    type: deity
-    note: "The Deep Shaper who initiated the First Rhythm"
-  - target: "[[N'nm-Khazal'n]]"
-    type: practiced-by
-    note: "The most orthodox practitioners"
-  - target: "[[Elm-korin]]"
-    type: practiced-by
-    note: "Reinterpreted through the lens of technomancy"
-  - target: "[[Thulkor'n]]"
-    type: practiced-by
-    note: "Carry the tradition in exile"
-  - target: "[[Kael'Zorai]]"
-    type: adversary
-    note: "Known as Ulzammar — the Sealed Concept"
-  - target: "[[The Four Makers]]"
-    type: parallel
-    note: "Human tradition names the same forces differently"
-  - target: "[[The Four Harmonies]]"
-    type: parallel
-    note: "Elven tradition names the same forces differently"
+- target: '[[Dwarves]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Aen''r-Khadaz]]'
+  type: worshipped-by
+  metadata:
+    description: The Deep Shaper who initiated the First Rhythm
+    nature: deity
+- target: '[[N''nm-Khazal''n]]'
+  type: worshipped-by
+  metadata:
+    description: The most orthodox practitioners
+    nature: practice
+- target: '[[Elm-korin]]'
+  type: worshipped-by
+  metadata:
+    description: Reinterpreted through the lens of technomancy
+    nature: practice
+- target: '[[Thulkor''n]]'
+  type: worshipped-by
+  metadata:
+    description: Carry the tradition in exile
+    nature: practice
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: Known as Ulzammar — the Sealed Concept
+- target: '[[A''rastheon]]'
+  type: worshipped-by
+  metadata:
+    description: The prime creator — known to Dwarves as Aen'r-Khadaz
+    nature: deity
+- target: '[[Tham''dran]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Stability — known to Dwarves as Tharn'm
+    nature: deity
+- target: '[[Myrasael]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Refinement — known to Dwarves as Farrazul
+    nature: deity
+- target: '[[Virandros]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Growth — known to Dwarves as Bronr'n
+    nature: deity
+- target: '[[Elaraieth]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Inspiration — known to Dwarves as Elmura
+    nature: deity
+- target: '[[The Four Makers]]'
+  type: related
+  metadata:
+    description: Human tradition names the same First Hands differently
+    nature: parallel
+- target: '[[The Four Harmonies]]'
+  type: related
+  metadata:
+    description: Elven tradition names the same First Hands differently
+    nature: parallel
+- target: '[[Aen''r-Khadaz]]'
+  type: worships
+  metadata:
+    description: Central figure in Dwarven cosmology
+- target: '[[Aenareth]]'
+  type: worships
+  metadata:
+    description: Paralleled as Aen'r-Khadaz in Dwarven tradition
+- target: '[[Elaraieth]]'
+  type: worships
+  metadata:
+    description: Known as Elmura (Firelight/Vision) in Dwarven tradition
+- target: '[[Myrasael]]'
+  type: worships
+  metadata:
+    description: Known as Farrazul (Depth/Gem) in Dwarven tradition
+- target: '[[Tham''dran]]'
+  type: worships
+  metadata:
+    description: Known as Tharn'm (Stone) in Dwarven tradition
+- target: '[[Virandros]]'
+  type: worships
+  metadata:
+    description: Known as Bronr'n (Growth/Timber) in Dwarven tradition
+- target: '[[Grom-Kain Worship]]'
+  type: enemy
+  metadata:
+    description: Represents the gods who struck Grom-Kain down
+- target: '[[The Synthesis]]'
+  type: related
+  metadata:
+    description: Tham'dran=Tharn'm, Virandros=Bronr'n, Myrasael=Farrazul, Elaraieth=Elmura
+    nature: parallel
+- target: '[[The Twin Roots]]'
+  type: related
+  metadata:
+    description: Farrazul (Gem/Craft) is Myrasael — parent of Ilys-Tekne/Illysia
+    nature: parallel
 timeline:
-  - period: "FA"
-    event: "Aen'r-Khadaz strikes the First Rhythm; the Four Pillars emerge from its echoes"
-  - period: "FA"
-    event: "Tharn'm and Farrazul shape the Dwarves from stone and soul-deep ore"
-  - period: "FA"
-    event: "Dur'k Thul — the Fracture of Law — when Ulzammar (Kael'Zorai) is sealed"
-  - period: "SA:1"
-    event: "The Great Withdrawal — the Pillars fold back into the stone"
-tags: [religion, philosophical, dwarven, four-pillars]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Aen'r-Khadaz strikes the First Rhythm; the Four Pillars emerge from its echoes
+- period: FA
+  event: Tharn'm and Farrazul shape the Dwarves from stone and soul-deep ore
+- period: FA
+  event: Dur'k Thul — the Fracture of Law — when Ulzammar (Kael'Zorai) is sealed
+- period: SA:1
+  event: The Great Withdrawal — the Pillars fold back into the stone
+tags:
+- religion
+- philosophical
+- dwarven
+- four-pillars
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Four Pillars
 
 **The Four Pillars** — known in full as the **Four Pillars of Craft** — are the foundational spiritual and philosophical system of all [[Dwarves|Dwarven]] civilization. They are not gods to be worshipped but **Fundamentals**: primal truths reflected in Dwarven life, architecture, clan, and law. To the Dwarves, the Pillars are as real and as impersonal as gravity — forces that shaped the world and continue to echo in every strike of the hammer, every vein of ore, every hall carved from living stone.

@@ -2,28 +2,116 @@
 wb-type: species
 wb-id: cirhannim
 name: Cirhannim
-aliases: [Wood-Spirit People, Forest Elves, Keepers of the First Song]
-origin: The most traditionalist Elven branch, remaining on the original continent as guardians of the world-song's original composition
+aliases:
+- Wood-Spirit People
+- Forest Elves
+- Keepers of the First Song
+origin: The most traditionalist Elven branch, remaining on the original continent as guardians of the world-song's original
+  composition
 lifespan: 800-1200 years
-traits: [isolationist, ritualistic, hierarchical, archaic speech, preservationist, deeply magical]
-habitat: ["[[Hannan'r']]"]
+traits:
+- isolationist
+- ritualistic
+- hierarchical
+- archaic speech
+- preservationist
+- deeply magical
+habitat:
+- '[[Hannan''r'']]'
 population: moderate
 relationships:
-  - target: "[[Elves]]"
-    type: child-of
-  - target: "[[Hannan'r']]"
-    type: controls
-  - target: "[[The Great Weaving]]"
-    type: created
-  - target: "[[Aen'valar]]"
-    type: rival-of
-  - target: "[[Sael'anir]]"
-    type: kindred-of
-tags: [species, elven, cirhannim, celtic, druidic, isolationist]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Elves]]'
+  type: child
+- target: '[[Hannan''r'']]'
+  type: controls
+- target: '[[The Great Weaving]]'
+  type: creator
+- target: '[[Aen''valar]]'
+  type: rival
+- target: '[[Sael''anir]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Cirhannim Hierarchy]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Theocratic monarchy under Queen Elara III and the Talanvar' Council
+- target: '[[Rock Gnomes]]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Rock Gnomes secretly aided in stabilizing the Great Weaving with bronze lattice-work
+- target: '[[Mirelarim]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: Acknowledge Sea-Elves as kin but unable to bridge the gulf of divergent evolution
+    nature: estranged
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA:20-
+  metadata:
+    description: Hannan'r' and the Whispering Vales maintain an alliance
+- target: '[[Completion of the Great Weaving]]'
+  type: involved-in
+  period: SA:55
+  metadata:
+    description: Wood Elves who chose to wall themselves off in Hannan'r'
+- target: '[[Exiled Blades]]'
+  type: custom
+  metadata:
+    description: exiled from
+- target: '[[Sun-Leaf Conclave]]'
+  type: custom
+  metadata:
+    description: governing body
+- target: '[[Ilphara]]'
+  type: member
+  metadata:
+    description: Born among the Wood-Spirit People before departing
+    nature: former
+- target: '[[Tinbrel Quillroot]]'
+  type: custom
+  metadata:
+    description: 'symbiont: Established the first Gnomish Hollows beneath Elven great-trees'
+- target: '[[The Four Harmonies]]'
+  type: worships
+  metadata:
+    description: The most traditional practitioners in Hannan'r'
+    nature: practice
+- target: '[[M''ren''r'']]'
+  type: related
+  period: SA
+  metadata:
+    description: House Silvanus maintains forbidden contact with scholars here
+- target: '[[Hannan''r'']]'
+  type: native
+  period: SA:55-
+  metadata:
+    description: Sacred homeland of the Wood-Spirit People
+- target: '[[The Great Weaving]]'
+  type: creator
+- target: '[[Warning of the Silent Canopy]]'
+  type: involved-in
+  period: SA:250
+  metadata:
+    description: Sent a white-robed emissary to deliver the prophecy
+- target: '[[Ilphara]]'
+  type: has-member
+  metadata:
+    description: Born among the Wood-Spirit People before departing
+    nature: former
+tags:
+- species
+- elven
+- cirhannim
+- celtic
+- druidic
+- isolationist
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Cirhannim
 
 The **Cirhannim**, or **Wood-Spirit People**, are the most traditionalist and isolationist of the [[Elves|Elven]] peoples. They remain on the original continent, primarily within the magically concealed forest of [[Hannan'r']], where they serve as guardians of the world-song's original composition. They created [[The Great Weaving]] -- the vast magical ward that shields their homeland from the outside world. Their cultural analog is Celtic/Druidic.

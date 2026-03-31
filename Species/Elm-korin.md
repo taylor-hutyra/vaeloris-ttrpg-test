@@ -2,28 +2,132 @@
 wb-type: species
 wb-id: elm-korin
 name: Elm-korin
-aliases: [Flame-Struck, Technomancers, Magical Purists, Heretic Dwarves]
-origin: Reformist faction exiled from Kharnzarak during the Second Age for their belief that mortal magic was a tool to achieve perfect logical order
+aliases:
+- Flame-Struck
+- Technomancers
+- Magical Purists
+- Heretic Dwarves
+origin: Reformist faction exiled from Kharnzarak during the Second Age for their belief that mortal magic was a tool to achieve
+  perfect logical order
 lifespan: 300-400 years
-traits: [innovative, meritocratic, perfectionist, technomantic, heretical, logic-driven]
-habitat: ["[[Gearhaven]]"]
+traits:
+- innovative
+- meritocratic
+- perfectionist
+- technomantic
+- heretical
+- logic-driven
+habitat:
+- '[[Gearhaven]]'
 population: moderate
 relationships:
-  - target: "[[Dwarves]]"
-    type: child-of
-  - target: "[[Gearhaven]]"
-    type: controls
-  - target: "[[N'nm-Khazal'n]]"
-    type: exiled-from
-  - target: "[[Kharnzarak]]"
-    type: exiled-from
-  - target: "[[Rock Gnomes]]"
-    type: ally-of
-tags: [species, dwarven, elm-korin, industrial-revolution, technomancy, magitech]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Dwarves]]'
+  type: child
+- target: '[[Gearhaven]]'
+  type: controls
+- target: '[[N''nm-Khazal''n]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Kharnzarak]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Rock Gnomes]]'
+  type: ally
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA:1485-
+  metadata:
+    description: Fascinated by Gnomish intricate work; the Symbiotic Weave faction has deepest ties to Gnomish innovation
+    nature: collaborative
+- target: '[[Humans]]'
+  type: ally
+  period: SA:1485-
+  metadata:
+    description: Founded Gearhaven alongside human mages; human scholars integral to city's economy and intellectual culture
+- target: '[[Gearhaven Cog-Council]]'
+  type: controlled-by
+  period: SA:1485-
+  metadata:
+    description: Governed by the technocratic Cog-Council of nine Guild-Masters
+- target: '[[Lithos]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Symbiotic Weave faction exchanges ideas with Rock Gnomes through carefully guarded channels
+- target: '[[Magocracy]]'
+  type: rival
+  period: SA:2750-
+  metadata:
+    description: Complex relations; Magocracy's arcane regulation clashes with Gearhaven's unrestricted innovation
+- target: '[[Sealing of Kharnzarak]]'
+  type: related
+  period: SA:690
+  metadata:
+    description: Earlier exile of magic-smiths foreshadowed the complete sealing
+- target: '[[Barazkor Clan]]'
+  type: enemy
+  period: SA:690-
+  metadata:
+    description: View Elm-korin with contempt as dangerous heretics
+    nature: hostile
+- target: '[[Bronr''n Legacy]]'
+  type: ally
+  period: SA:1200-
+  metadata:
+    description: Studies forbidden Elm-korin schematics in secret
+- target: '[[Elm-ur]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[High King Thorgar VI]]'
+  type: enemy
+  period: SA:690
+  metadata:
+    description: Earlier exile of magic-smiths reflected the same isolationist tendencies
+- target: '[[The Four Pillars]]'
+  type: worships
+  metadata:
+    description: Reinterpreted through the lens of technomancy
+    nature: practice
+- target: '[[N''nm-Khazal''n]]'
+  type: custom
+  metadata:
+    description: exiled
+- target: '[[Thulkor''n]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: Will work for Gearhaven Elm-korin if the pay is right; Brenna is Thulkor'n by law but Elm-korin in spirit
+    nature: kindred
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: designed-by
+- target: '[[Gearhaven]]'
+  type: founder
+  period: SA:1485
+- target: '[[Kharnzarak]]'
+  type: related
+  period: SA:690-
+  metadata:
+    description: Exiled magic-smith faction driven out for magical experimentation
+- target: '[[Lithos]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Rock Gnomes fascinate and are fascinated by Elm-korin technomancy
+tags:
+- species
+- dwarven
+- elm-korin
+- industrial-revolution
+- technomancy
+- magitech
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Elm-korin
 
 The **Elm-korin**, or **Flame-Struck**, are the descendants of a reformist [[Dwarves|Dwarven]] faction exiled from [[Kharnzarak]] during the Second Age for their heretical belief that mortal magic -- **Elm-'l**, the "Truth-Flame" -- was not chaos but a tool to achieve the perfect, logical order espoused by the [[Ulzammar]]. They founded the city of [[Gearhaven]] alongside human mages, creating what stands as the premier center of **technomancy** and magitech innovation in [[Vaeloris]]. Their cultural analog is the Industrial Revolution.

@@ -34,7 +34,7 @@ Examples:
 ### 2. Run Deterministic Propagation
 
 ```bash
-$WB --vault <vault_root> propagate "<entity_name>" --pretty
+$WB --vault <vault_root> --pretty propagate "<entity_name>"
 ```
 
 This returns rule-based suggestions from the propagation engine (e.g., relationship inverse updates, spatial hierarchy effects). Collect these as the baseline change set.
@@ -42,9 +42,9 @@ This returns rule-based suggestions from the propagation engine (e.g., relations
 ### 3. Load Context for Deeper Analysis
 
 ```bash
-$WB --vault <vault_root> query --related-to "<entity_name>" --hops 2 --pretty
-$WB --vault <vault_root> query --type faction --pretty
-$WB --vault <vault_root> query --type event --pretty
+$WB --vault <vault_root> --pretty query --related-to "<entity_name>" --hops 2
+$WB --vault <vault_root> --pretty query --type faction
+$WB --vault <vault_root> --pretty query --type event
 ```
 
 Read the full Markdown files of the changed entity and its closest connections using the Read tool. Focus on:
@@ -53,29 +53,35 @@ Read the full Markdown files of the changed entity and its closest connections u
 - Spatial hierarchy (for places)
 - Timeline entries (for temporal context)
 
-### 4. Analyze Ripple Effects
+### 4. Recursive Ripple Analysis
 
-Trace effects across seven dimensions, organized by order:
+Trace consequences recursively, gated by severity — only recurse into significant changes.
 
-**First-order effects** (direct, immediate):
-- Entities with direct relationships to the changed entity
-- Spatial children/parents of a changed place
-- Members of a dissolved/changed faction
+```
+Severity levels:
+  🔴 Critical — canon breaks if not updated
+  🟡 Important — significant narrative impact
+  🟢 Minor — flavor/polish
 
-**Second-order effects** (indirect, near-term):
-- Allies of affected entities react
-- Economic networks disrupted
-- Power vacuums created
+Recursion rule:
+  🔴 Critical → RECURSE (trace what this change causes downstream)
+  🟡 Important → RECURSE (trace what this change causes downstream)
+  🟢 Minor → STOP (record it, but don't trace its downstream effects)
 
-**Third-order effects** (speculative, long-term):
-- Cultural shifts
-- New alliances forming
-- Historical narratives changing
+Depth 1 (Direct): Entities with relationships to the changed entity
+  → Assign severity. Recurse into 🔴 and 🟡 only.
 
-For each effect, specify:
-- **Target entity**: Which entity is affected (use `[[wikilinks]]`)
+Depth 2 (Cascade): For each 🔴/🟡 from Depth 1, check ITS neighbors
+  → Assign severity. Recurse into 🔴 and 🟡 only.
+
+Depth 3+ (Recursive): Continue until all remaining changes are 🟢 Minor
+```
+
+For each effect at every depth, specify:
+- **Target entity**: `[[wikilink]]`
+- **Depth**: How many hops from the original change
 - **Change type**: What field(s) to modify
-- **Severity**: Critical (world breaks without this) / Important (strongly implied) / Optional (interesting but speculative)
+- **Severity**: 🔴 Critical (canon breaks without this) / 🟡 Important (strong narrative impact) / 🟢 Minor (flavor/polish)
 - **Dimension**: Political / Social / Economic / Military / Religious / Geographic / Temporal
 - **Proposed modification**: The specific edit to make
 
@@ -120,6 +126,16 @@ For each approved change:
    $WB --vault <vault_root> sync "<entity_path>"
    ```
 
+### 7.5. Propagate Inverse Relationships
+
+After syncing all modified entities, propagate inverse relationships:
+
+```bash
+$WB --vault <vault_root> --pretty ensure-inverses --all --apply
+```
+
+This ensures any new relationships added as consequences are reflected bidirectionally on target entities.
+
 ### 8. Report
 
 Present a summary:
@@ -128,18 +144,41 @@ Present a summary:
 - Any new entities that should be created (suggest using `/wb-create`)
 - Suggest running `/wb-consistency` to verify no contradictions were introduced
 
-## Changelog Format
+## Changelog
 
-When logging to `_meta/changelog.md` (autonomous mode), append:
+Save a structured changelog for every consequence analysis to `_meta/changelogs/YYYY-MM-DD-consequences-<entity>.md`:
 
 ```markdown
-## <date> - Consequences of <change description>
+---
+date: YYYY-MM-DD
+change: "Description of the triggering change"
+status: approved | executed
+---
 
-- **<Entity>**: <what changed> (severity)
-- **<Entity>**: <what changed> (severity)
+# Consequences of: <change description>
 
-Triggered by: <original change description>
+## 🔴 Critical Changes
+| File | Action | Change | Depth | Reason |
+|------|--------|--------|-------|--------|
+
+## 🟡 Important Changes
+| File | Action | Change | Depth | Reason |
+|------|--------|--------|-------|--------|
+
+## 🟢 Minor Changes
+| File | Action | Change | Depth | Reason |
+|------|--------|--------|-------|--------|
+
+## Execution Log
+- [x] File — done
+- [ ] File — pending
 ```
+
+## Query Strategy
+
+1. **Graph** (`query --related-to --hops 2-3`): Primary — find all entities connected to the changed entity. Depth 2 for important effects, depth 3 for speculative/third-order.
+2. **Vector** (`query --semantic`): Search for thematically related entities that might not be directly linked in the graph.
+3. **File read**: Read the changed entity + depth-1 neighbors for full context (goals, personality, prose).
 
 ## Guidelines
 

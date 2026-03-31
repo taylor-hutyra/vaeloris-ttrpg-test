@@ -2,29 +2,202 @@
 wb-type: species
 wb-id: elves
 name: Elves
-aliases: [The Attuned, Children of Harmony, The Song-Born]
-origin: "Emerged from the harmonious intertwining of C'rhanna (Forest) and Lelyari' (Color/Dream), whom they honor as the Evendari' — the Archetypal Parents — attuned to the music of existence through Aenareth's world-song"
-lifespan: "700-1200 years"
-traits: [harmonious, contemplative, artistic, long-lived, tradition-bound, perceptive]
-habitat: ["[[Hannan'r']]", "[[Aethelas]]", "[[M'ren'r']]", "[[Aerin'r']]"]
+aliases:
+- The Attuned
+- Children of Harmony
+- The Song-Born
+origin: Emerged from the harmonious intertwining of C'rhanna (Forest) and Lelyari' (Color/Dream), whom they honor as the Evendari'
+  — the Archetypal Parents — attuned to the music of existence through Aenareth's world-song
+lifespan: 700-1200 years
+traits:
+- harmonious
+- contemplative
+- artistic
+- long-lived
+- tradition-bound
+- perceptive
+habitat:
+- '[[Hannan''r'']]'
+- '[[Aethelas]]'
+- '[[M''ren''r'']]'
+- '[[Aerin''r'']]'
 population: moderate-low
 relationships:
-  - target: "[[Aenareth]]"
-    type: creator
-  - target: "[[Humans]]"
-    type: diplomatic
-  - target: "[[Dwarves]]"
-    type: respectful-distance
-  - target: "[[Waldkyn]]"
-    type: allied
-  - target: "[[Kael'Zorai]]"
-    type: ancient-enemy
-    period: "SA"
-tags: [species, mortal, harmonists, long-lived]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Virandros]]'
+  type: creator
+  period: FA
+  metadata:
+    description: First Hand of Growth — true divine parent alongside Elaraieth
+    nature: collaborative
+- target: '[[Elaraieth]]'
+  type: creator
+  period: FA
+  metadata:
+    description: First Hand of Inspiration — true divine parent alongside Virandros
+    nature: collaborative
+- target: '[[Aenareth]]'
+  type: creator
+  metadata:
+    description: Elven cultural name for A'rastheon, the prime creator
+- target: '[[Humans]]'
+  type: ally
+  metadata:
+    nature: diplomatic
+- target: '[[Dwarves]]'
+  type: ally
+  metadata:
+    nature: distant respect
+- target: '[[Waldkyn]]'
+  type: ally
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  period: SA
+  metadata:
+    nature: ancient
+- target: '[[Hannan''r'']]'
+  type: homeland
+  period: SA:55-
+  metadata:
+    description: Sacred homeland forest of the Cirhannim, concealed by the Great Weaving
+- target: '[[Aethelas]]'
+  type: homeland
+  period: SA:2175-
+  metadata:
+    description: Library-observatory city founded by the Aen'valar on Novaterra
+- target: '[[Aerin''r'']]'
+  type: native
+  period: SA:80-
+  metadata:
+    description: Pristine continent where the Sael'anir wander in traveling bands
+- target: '[[M''ren''r'']]'
+  type: native
+  period: SA:900-
+  metadata:
+    description: Free city co-governed by Aen'valar, Humans, and Waldkyn
+- target: '[[Cirhannim Hierarchy]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Theocratic monarchy governing the Cirhannim of Hannan'r'
+- target: '[[Aen''valar Council]]'
+  type: controlled-by
+  period: SA:2175-
+  metadata:
+    description: Scholastic meritocracy governing Aethelas
+- target: '[[Sael''anir Star-Moot]]'
+  type: controlled-by
+  period: SA:80-
+  metadata:
+    description: Consensus-based governance of the Sky-Wanderers
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Rock Gnomes secretly aided in weaving the wards around Hannan'r'
+    nature: collaborative
+- target: '[[Orkin]]'
+  type: related
+  period: SA
+  metadata:
+    description: Elves view Orkin as diverging tones born from different intersections of harmony
+- target: '[[The Golden Age of Creation]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Created forest cities and mastered natural magic
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Elven groves maintained pockets of natural stability
+- target: '[[Mirelarim]]'
+  type: parent
+- target: '[[Aenareth]]'
+  type: created-by
+  metadata:
+    description: Set the resonance from which the Elves emerged
+- target: '[[Bjalmund]]'
+  type: ally
+  period: SA:380
+  metadata:
+    description: Elven weavers helped seal the Scar after the Echo-Lord's defeat
+- target: '[[Ceridara]]'
+  type: student
+  period: FA
+  metadata:
+    description: Taught principles of working with nature; elven groves maintained by her teachings
+- target: '[[Elaraieth]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Created with Virandros — Elves embody harmony and transcendent artistic expression
+    nature: collaborative
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: Known to them as Elaru'n, the Fifth Tone
+- target: '[[Lelyariel]]'
+  type: related
+  metadata:
+    description: Legendary figure revered across all Elven branches
+    nature: cultural icon
+- target: '[[Virandros]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Created with Elaraieth — Elves embody harmony with living systems and transcendent expression
+    nature: collaborative
+- target: '[[Church of the Celestial Word]]'
+  type: worships
+  period: SA
+  metadata:
+    description: Cross-species faith; Aetheris are kindred-observers of Elves
+    nature: practice
+- target: '[[The Four Harmonies]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Aen''valar]]'
+  type: parent
+- target: '[[Aetheris]]'
+  type: custom
+  metadata:
+    description: kindred-observers
+- target: '[[Cirhannim]]'
+  type: parent
+- target: '[[Primalkyn]]'
+  type: related
+  period: SA
+  metadata:
+    description: Elves and Primalkyn share an awareness of the world's deeper harmonics
+- target: '[[Sael''anir]]'
+  type: parent
+- target: '[[The Divine Workshop]]'
+  type: related
+  period: FA
+  metadata:
+    description: Elves learned divine craftsmanship here
+- target: '[[The Dreaming Grove]]'
+  type: related
+  period: FA
+  metadata:
+    description: Elven groves maintained pockets of natural stability during the Paroxysm
+timeline:
+- period: FA
+  event: Born from the combined essences of Virandros (Growth) and Elaraieth (Inspiration) — long-lived, spiritually attuned,
+    harmonious
+- period: FA
+  event: Created forest cities and mastered natural magic with direct divine instruction during the Golden Age
+- period: FA
+  event: Elven groves maintained pockets of natural stability during the Paroxysm
+tags:
+- species
+- mortal
+- harmonists
+- long-lived
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Elves
 
 The Elves of [[Vaeloris]] do not speak of creation as a single act, but as an unfolding song — a resonance that shaped the world from formlessness into beauty. They trace their essence to the harmonious intertwining of **C'rhanna** (Forest) and **Lelyari'** (Color/Dream), whom they honor as the **Evendari'** — the Archetypal Parents. Their union formed a resonance that awoke awareness in the natural world, and from this song, Elves emerged — not made or placed, but attuned to the music of existence.

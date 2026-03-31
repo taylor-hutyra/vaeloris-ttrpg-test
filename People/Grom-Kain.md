@@ -2,47 +2,106 @@
 wb-type: person
 wb-id: grom-kain
 name: Grom-Kain
-aliases: [The Will-Forge, The Shaper of What Must Be]
+aliases:
+- The Will-Forge
+- The Shaper of What Must Be
 species: divine
 born: null
 died: null
 birthplace: null
 residence: null
 faction: null
-role: "Creator deity of the Orkin — identified with Kael'Zorai"
-title: "The Will-Forge"
+role: Creator deity of the Orkin — identified with Kael'Zorai
+title: The Will-Forge
 gender: null
 relationships:
-  - target: "[[Kael'Zorai]]"
-    type: identity
-    note: "The Orkin name for the entity other races call Kael'Zorai"
-  - target: "[[Orkin]]"
-    type: creator
-  - target: "[[Grom-Kain Worship]]"
-    type: venerated-by
-  - target: "[[Aenareth]]"
-    type: adversary
-    note: "One of the 'Soft Hands' who struck Grom-Kain down, in Orkin tradition"
-  - target: "[[Aen'r-Khadaz]]"
-    type: adversary
-    note: "One of the 'Soft Hands' in Orkin tradition"
+- target: '[[Kael''Zorai]]'
+  type: identity
+  metadata:
+    description: The Orkin name for the entity other races call Kael'Zorai
+- target: '[[Orkin]]'
+  type: creator
+- target: '[[Grom-Kain Worship]]'
+  type: worshipped-by
+- target: '[[Aenareth]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who struck Grom-Kain down, in Orkin tradition
+- target: '[[Aen''r-Khadaz]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' in Orkin tradition
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Kain's Fall — struck down by the Soft Hands in the Great Betrayal
+- target: '[[The Binding]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Sealed away by the united First Hands
+- target: '[[The Circles Below]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Created as a separate dimension for unconstrained experimentation
+- target: '[[Humans]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Created independently — Children of Potential
+- target: '[[Dragons]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Created beasts and dragons as forces of raw power
+- target: '[[A''rastheon]]'
+  type: identity
+  metadata:
+    description: Orkin cultural name for A'rastheon filtered through Kael'Zorai identification — the Soft Hands tradition
+- target: '[[Aen''r-Khadaz]]'
+  type: created-by
+  metadata:
+    description: Fellow First Hand (Kael'Zorai in Orkin tradition)
+    nature: collaborative
+- target: '[[Aenareth]]'
+  type: created-by
+  metadata:
+    description: Fellow First Hand (Kael'Zorai in Orkin tradition)
+    nature: collaborative
+- target: '[[Vorok the Listener]]'
+  type: custom
+  metadata:
+    description: 'theologian: Reinterpreted Grom-Kain''s mandate as endurance of spirit rather than endurance through violence'
+- target: '[[Grom-Kain Worship]]'
+  type: worships
+- target: '[[Orkin]]'
+  type: created-by
+  metadata:
+    description: Orkin cultural name for Kael'Zorai — the Will-Forge
 timeline:
-  - period: "FA"
-    event: "Hammered the world from the grit and dross of chaotic first moments"
-  - period: "FA"
-    event: "Forged the Orkin — both Gral and Skorn — as His masterwork of survival"
-  - period: "FA"
-    event: "Struck down by the 'Soft Hands' in Kain's Fall (the Paroxysm)"
-  - period: "TA"
-    event: "Influence returns through the Silent Blight — many Orkin see this as a homecoming"
-tags: [person, divine, first-hand, creator, orkin-cosmology, controversial]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Hammered the world from the grit and dross of chaotic first moments
+- period: FA
+  event: Forged the Orkin — both Gral and Skorn — as His masterwork of survival
+- period: FA
+  event: Struck down by the 'Soft Hands' in Kain's Fall (the Paroxysm)
+- period: TA
+  event: Influence returns through the Silent Blight — many Orkin see this as a homecoming
+tags:
+- person
+- divine
+- first-hand
+- creator
+- orkin-cosmology
+- controversial
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Grom-Kain
 
-**Grom-Kain** — the **Will-Forge**, the Shaper of What Must Be — is the Orkin name for their creator deity. He is the central figure of [[Grom-Kain Worship]] and the most theologically controversial divine entity in [[Vaeloris]], because Grom-Kain is the same being that other races call **[[Kael'Zorai]]** — the Dissonant One, the Sixth First Hand, the source of the Paroxysm and the Silent Blight.
+**Grom-Kain** — the **Will-Forge**, the Shaper of What Must Be — is the Orkin name for their creator deity. He is the central figure of [[Grom-Kain Worship]] and the most theologically controversial divine entity in [[Vaeloris]], because Grom-Kain is the same being that other races call **[[Kael'Zorai]]** — the Dissonant One, the Fifth First Hand, the source of the Paroxysm and the Silent Blight.
 
 This identification is not a misunderstanding. It is the foundational truth of [[Orkin]] identity, and it reframes the entire history of Vaeloris depending on who is telling the story.
 
@@ -73,10 +132,10 @@ This is why Grom-Kain's identification with [[Kael'Zorai]] is the most dangerous
 
 ## The Question That Haunts Vaeloris
 
-Every race must eventually confront the question the Orkin have always known: **was Kael'Zorai truly evil, or was the Sixth First Hand a creator whose methods the other gods could not tolerate?** The [[Elves]] grieve the Dissonance but do not hate it. The [[Dwarves]] sealed the name Ulzammar but the [[Elm-korin]] seek to complete His work. The [[Gnomes]] see a flawed gear, not a malicious one.
+Every race must eventually confront the question the Orkin have always known: **was Kael'Zorai truly evil, or was the Fifth First Hand a creator whose methods the other gods could not tolerate?** The [[Elves]] grieve the Dissonance but do not hate it. The [[Dwarves]] sealed the name Ulzammar but the [[Elm-korin]] seek to complete His work. The [[Gnomes]] see a flawed gear, not a malicious one.
 
 Only the Orkin have the courage — or the blindness — to look directly at this question and answer: **He was our father. Whatever He was to you, He made us, and we will not be ashamed of that.**
 
 ## Legacy
 
-Grom-Kain is not a separate deity from [[Kael'Zorai]]; He is Kael'Zorai seen through the eyes of His children. The difference between the Will-Forge and the Dissonant One is not a matter of fact but of **perspective** — and that perspective may determine the fate of Vaeloris when the Sixth stirs again.
+Grom-Kain is not a separate deity from [[Kael'Zorai]]; He is Kael'Zorai seen through the eyes of His children. The difference between the Will-Forge and the Dissonant One is not a matter of fact but of **perspective** — and that perspective may determine the fate of Vaeloris when the Fifth stirs again.

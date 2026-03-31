@@ -2,31 +2,130 @@
 wb-type: species
 wb-id: forest-gnomes
 name: Forest Gnomes
-aliases: [Root-Tenders, Hollowkin, Children of the Green Mother]
+aliases:
+- Root-Tenders
+- Hollowkin
+- Children of the Green Mother
 origin: The original and most numerous Gnomish branch, living in hidden Hollows beneath the great forests of the mainland
 lifespan: 350-500 years
-traits: [communal, pastoral, diplomatic, bio-magical, mycological symbiosis, nature-craft mastery]
-habitat: ["[[Mycohollow]]"]
+traits:
+- communal
+- pastoral
+- diplomatic
+- bio-magical
+- mycological symbiosis
+- nature-craft mastery
+habitat:
+- '[[Mycohollow]]'
 population: moderate
 relationships:
-  - target: "[[Gnomes]]"
-    type: child-of
-  - target: "[[Mycohollow]]"
-    type: controls
-  - target: "[[Rock Gnomes]]"
-    type: kindred-of
-  - target: "[[Sand Gnomes]]"
-    type: kindred-of
-  - target: "[[Halflings]]"
-    type: ally-of
-tags: [species, gnomish, forest-gnome, nature, mycological]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Gnomes]]'
+  type: child
+- target: '[[Mycohollow]]'
+  type: controls
+- target: '[[Rock Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Sand Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Halflings]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Signed the Declaration of Hollowkin Rights with Halflings at Greenmeadow
+- target: '[[Mycohollow Mycelial Council]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Governed by the Symbiotic Council of Mycohollow
+- target: '[[Magocracy]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Forest Gnomes brokered a treaty with the Magocracy
+- target: '[[Greenmeadow]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Gnomish Unveiling led to shared Burrows and Hollows community
+- target: '[[Gnomish Root-Hack]]'
+  type: involved-in
+  period: SA:2100
+  metadata:
+    description: Forest Gnomes modified the mycelial network as a defense strategy
+- target: '[[Invention of Printing Press]]'
+  type: involved-in
+  period: SA:1360
+  metadata:
+    description: Gnomish tinkering culture produced this revolutionary invention
+- target: '[[Pact of Bark and Bronze]]'
+  type: involved-in
+  period: SA:89
+  metadata:
+    description: Gnomish race established symbiotic relationship with Elves through this pact
+- target: '[[Balancers]]'
+  type: custom
+  metadata:
+    description: ruling philosophy of
+- target: '[[Integrators]]'
+  type: custom
+  metadata:
+    description: innovative minority within
+- target: '[[Purifiers]]'
+  type: custom
+  metadata:
+    description: zealous minority within
+- target: '[[Hearthfolk Commonwealth]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Declaration of Hollowkin Rights; shared Burrows and Hollows community
+- target: '[[Myco-Whispering]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Bimble Pockets]]'
+  type: has-member
+  period: SA:1360
+  metadata:
+    description: Quintessential Forest Gnome artisan embodying the Mori-Syna (Quiet Work)
+- target: '[[The Twin Roots]]'
+  type: worships
+  metadata:
+    description: The most balanced practitioners — synthesis of naturalism and craft
+    nature: practice
+- target: '[[Printing Press]]'
+  type: creator
+  period: SA:1360
+- target: '[[The Dreaming Grove]]'
+  type: related
+  metadata:
+    description: Listed as a habitat for Forest Gnomes
+- target: '[[Greenmeadow]]'
+  type: located-in
+  period: SA:980-
+  metadata:
+    description: Gnomish Hollows established during the Gnomish Unveiling
+- target: '[[Mycohollow]]'
+  type: native
+  period: SA
+  metadata:
+    description: Largest and most influential Forest Gnome settlement
+tags:
+- species
+- gnomish
+- forest-gnome
+- nature
+- mycological
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Forest Gnomes
 
-The **Forest Gnomes**, or **Root-Tenders**, are the original and most numerous of the [[Gnomes|Gnomish]] people. They live in hidden **Hollows** beneath the great forests of the mainland, most notably in the hills surrounding the [[Dreaming Grove]]. Their culture is a perfect reflection of their creation story: a synthesis of naturalism and intricate craft, where tending to living systems and building delicate mechanisms are seen as two expressions of the same sacred work.
+The **Forest Gnomes**, or **Root-Tenders**, are the original and most numerous of the [[Gnomes|Gnomish]] people. They live in hidden **Hollows** beneath the great forests of the mainland, most notably in the hills surrounding [[The Dreaming Grove]]. Their culture is a perfect reflection of their creation story: a synthesis of naturalism and intricate craft, where tending to living systems and building delicate mechanisms are seen as two expressions of the same sacred work.
 
 ## Origin and Creation
 
@@ -41,7 +140,7 @@ In the Gnomish telling, the world was a vast, beautiful, but slightly imperfect 
 
 The Forest Gnomes believe the work of the Twin Roots is a delicate dance between nature and artifice. Their sacred duty -- the **Mori-Syna** (the Quiet Work) -- is to maintain that balance, serving as the unseen mechanics, gardeners, and harmonizers who mend the world's intricate patterns. Their most sacred proverb captures this perfectly: *"The deepest roots make no sound."*
 
-The cataclysm others call the [[Paroxysm]] is known to the Gnomes as **Syn-Thalos** -- the Unraveling of the Pattern. They view [[Kael'Zorai]] not as an evil entity but as a flawed design, a gear that ground against the others until the entire machine threatened to shatter.
+The cataclysm others call [[The Paroxysm]] is known to the Gnomes as **Syn-Thalos** -- the Unraveling of the Pattern. They view [[Kael'Zorai]] not as an evil entity but as a flawed design, a gear that ground against the others until the entire machine threatened to shatter.
 
 ## Mycohollow: The Fungal City
 

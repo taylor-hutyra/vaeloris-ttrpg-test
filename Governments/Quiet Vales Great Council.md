@@ -2,31 +2,73 @@
 wb-type: government
 wb-id: quiet-vales-great-council
 name: Quiet Vales Great Council
-aliases: [Great Council of the Vales, Waldkyn Tribal Council]
+aliases:
+- Great Council of the Vales
+- Waldkyn Tribal Council
 type: council
 founded: null
-territory: ["[[Whispering Vales]]"]
+territory:
+- '[[Whispering Vales]]'
 leader: null
 capital: null
 laws:
-  - "Eight Speakers represent each Waldkyn variant"
-  - "Triumvirate of Seasons holds executive authority"
+- Eight Speakers represent each Waldkyn variant
+- Triumvirate of Seasons holds executive authority
 relationships:
-  - target: "[[Chartered Kith Weaver's Synod]]"
-    type: philosophical-tension
-    period: ""
-  - target: "[[Aerin'r' Path of Consensus]]"
-    type: spiritual-kinship
-    period: ""
-  - target: "[[Varnathi Pentarchy]]"
-    type: suspicious
-    period: ""
-timeline: []
-tags: [government, waldkyn, quiet-vales]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: custom
+  metadata:
+    description: philosophical-tension
+- target: '[[Aerin''r'' Path of Consensus]]'
+  type: custom
+  metadata:
+    description: spiritual-kinship
+- target: '[[Varnathi Pentarchy]]'
+  type: custom
+  metadata:
+    description: suspicious
+- target: '[[Waldkyn]]'
+  type: controls
+  period: SA:20-
+  metadata:
+    description: Governs the Quiet Vales Kith traditionalist Waldkyn
+- target: '[[Whispering Vales]]'
+  type: controls
+  period: SA:20-
+  metadata:
+    description: Rules the ancestral Waldkyn homeland
+- target: '[[Kyn-Clans]]'
+  type: enemy
+  period: SA
+  metadata:
+    description: Kyn-Clans operate outside Council authority as dangerous extremists
+    nature: hostile
+- target: '[[Hannan''r'']]'
+  type: ally
+  period: SA:20-
+  metadata:
+    description: Alliance between the Whispering Vales and the Cirhannim forest
+- target: '[[Kyn-Clans]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Reject both isolationism and diplomacy as weak; operate outside Council authority
+timeline:
+- period: SA:20
+  event: Established as the governing body of the Whispering Vales after the Root-Taking
+- period: SA:195
+  event: Waldkyn mediate the First Council of Races at the Stone-Circle of Oth
+- period: SA:925
+  event: Chartered Kith faction departs the Vales, reducing the Council's jurisdiction
+- period: SA:2315
+  event: Kyn-Clan extremists launch terrorist campaigns from the Vales' fringes, destabilizing border relations
+tags:
+- government
+- waldkyn
+- quiet-vales
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Quiet Vales Great Council
 
 The ancestral home of the [[Waldkyn]] in the [[Whispering Vales]] is governed by a complex, ancient system designed to give voice to every aspect of their diverse people. The Quiet Vales Kith are the keepers of the original Synthesis and believe that true balance comes from harmony with the natural world.

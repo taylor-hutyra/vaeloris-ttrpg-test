@@ -1,46 +1,56 @@
 ---
 wb-type: faction
-wb-id: "rumblkin-family"
-name: "Rumblkin Family"
+wb-id: rumblkin-family
+name: Rumblkin Family
 aliases:
-  - "The Rumblkins"
-  - "The Miners"
-type: "mining"
+- The Rumblkins
+- The Miners
+type: mining
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Burrows]]"
-influence: "moderate"
+- '[[Burrows]]'
+influence: moderate
 goals:
-  - "Extract stone, iron, and underground resources"
-  - "Gain proper respect and fair trade prices for mining output"
-  - "Provide the literal foundations upon which Halfling homes are built"
+- Extract stone, iron, and underground resources
+- Gain proper respect and fair trade prices for mining output
+- Provide the literal foundations upon which Halfling homes are built
 relationships:
-  - target: "[[Halflings]]"
-    type: "major family within"
-    period: ""
-  - target: "[[Thistlewick Family]]"
-    type: "trade friction"
-    period: ""
-  - target: "[[Appledown Family]]"
-    type: "status friction"
-    period: ""
+- target: '[[Halflings]]'
+  type: member
+  metadata:
+    nature: major family
+- target: '[[Thistlewick Family]]'
+  type: rival
+  metadata:
+    description: Constant low-grade friction over trade prices — Rumblkins feel undercompensated
+- target: '[[Appledown Family]]'
+  type: rival
+  metadata:
+    description: Status friction — Rumblkins feel underappreciated by the farming establishment
+- target: '[[Thistlewick Family]]'
+  type: trade
+  metadata:
+    description: Rumblkin stone and iron traded through Thistlewick networks
+- target: '[[Halflings]]'
+  type: has-member
+  metadata:
+    nature: major family
 timeline:
-  - period: ""
-    event: "Established mining operations in the foothills near the Burrows"
-  - period: ""
-    event: "Ongoing low-grade friction with farmers and traders over fair compensation"
+- period: SA:980-
+  event: Established mining operations in the foothills near the Burrows
+- period: SA:980-
+  event: Ongoing low-grade friction with farmers and traders over fair compensation
 tags:
-  - faction
-  - halfling
-  - hearthfolk
-  - mining
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- hearthfolk
+- mining
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Rumblkin Family
 
 The Rumblkins are an offshoot [[Halflings|Halfling]] clan that lives in the foothills near the [[Burrows]], mining for stone and iron. They are gruff, pragmatic, and perpetually frustrated that the "dirt-scratchers" ([[Appledown Family|Appledowns]]) and "coin-counters" ([[Thistlewick Family|Thistlewicks]]) do not give them enough respect for providing the very foundations of Halfling homes.

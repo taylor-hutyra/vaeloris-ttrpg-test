@@ -246,7 +246,9 @@ def sync_entity(
                 continue
             rel_type = rel.get("type", "")
             period = str(rel.get("period", ""))
-            notes = rel.get("notes", "")
+            # Support both legacy (note) and new schema (metadata.description)
+            metadata = rel.get("metadata") or {}
+            notes = metadata.get("description", "") or rel.get("note", "") or rel.get("notes", "")
             # Resolve target name to entity ID:
             # 1. Check the name→ID cache (populated during sync_full)
             # 2. Fall back to SQLite query
@@ -272,10 +274,21 @@ def sync_entity(
 
     # 3. ChromaDB vector store
     from wb_stores.vector_store import build_embedding_text, _build_metadata
+    from wb_core.chunking import chunk_entity
     vector = get_vector(vault_root, config)
+
+    # Legacy flat embedding (backward compat)
     embed_text = build_embedding_text(fm, body)
     metadata = _build_metadata(fm)
     vector.upsert_entity(entity_id, embed_text, metadata)
+
+    # Hierarchical chunks (new)
+    name = fm.get("name", os.path.splitext(os.path.basename(file_path))[0])
+    wb_type = fm.get("wb-type", "")
+    chunks = chunk_entity(entity_id, name, wb_type, fm, body)
+    if chunks:
+        vector.upsert_chunks(entity_id, chunks)
+
     sqlite.log_sync(entity_id, "vector", action, content_hash)
 
     # Re-embed related entities (bidirectionality: when A->B added, re-embed B)
@@ -682,6 +695,34 @@ def cmd_spatial(args, vault_root: str, config: dict) -> dict:
     }
 
 
+def cmd_ensure_inverses(args, vault_root: str, config: dict) -> dict:
+    """Ensure bidirectional relationship consistency."""
+    from wb_core.relationship_sync import (
+        ensure_inverses_for_entity,
+        ensure_inverses_all,
+    )
+
+    do_apply = getattr(args, "apply", False)
+    do_all = getattr(args, "all", False)
+
+    if do_all:
+        result = ensure_inverses_all(vault_root, apply=do_apply)
+        # If we applied changes, sync modified files
+        if do_apply and result["total_applied"] > 0:
+            sync_full(vault_root, config)
+        return result
+
+    path = getattr(args, "path", None)
+    if not path:
+        return {"error": "Provide a file path or use --all"}
+
+    result = ensure_inverses_for_entity(path, vault_root, apply=do_apply)
+    # If we applied changes, sync modified targets
+    if do_apply and result["applied"] > 0:
+        sync_full(vault_root, config)
+    return result
+
+
 def cmd_calendar(args, vault_root: str, config: dict) -> dict:
     calendar_path = os.path.join(vault_root, "_meta", "calendar.md")
     if not os.path.exists(calendar_path):
@@ -756,6 +797,24 @@ def build_parser() -> argparse.ArgumentParser:
     # calendar
     subparsers.add_parser("calendar", help="Display calendar info")
 
+    # ensure-inverses
+    inv_parser = subparsers.add_parser(
+        "ensure-inverses",
+        help="Ensure bidirectional relationship consistency",
+    )
+    inv_parser.add_argument(
+        "path", nargs="?",
+        help="Path to a single .md file (omit for --all)",
+    )
+    inv_parser.add_argument(
+        "--all", action="store_true",
+        help="Check all entities in the vault",
+    )
+    inv_parser.add_argument(
+        "--apply", action="store_true",
+        help="Apply missing inverses (default is dry-run)",
+    )
+
     return parser
 
 
@@ -782,6 +841,7 @@ def main():
         "propagate": cmd_propagate,
         "spatial": cmd_spatial,
         "calendar": cmd_calendar,
+        "ensure-inverses": cmd_ensure_inverses,
     }
 
     handler = command_map.get(args.command)

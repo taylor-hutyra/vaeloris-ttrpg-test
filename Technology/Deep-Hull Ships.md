@@ -2,23 +2,43 @@
 wb-type: technology
 wb-id: deep-hull-ships
 name: Deep-Hull Ships
-aliases: [Mirennian Deep-Hulls]
+aliases:
+- Mirennian Deep-Hulls
 type: maritime
 inventor: null
-invented: "SA:35"
-used-by: ["[[Mirennian League]]"]
+invented: SA:35
+used-by:
+- '[[Mirennian League]]'
 prerequisites:
-  - Advanced timber-working and shipbuilding techniques
-  - Knowledge of post-divine ocean currents and weather patterns
+- Advanced timber-working and shipbuilding techniques
+- Knowledge of post-divine ocean currents and weather patterns
 relationships:
-  - { target: "[[Mirennian League]]", type: "used-by", detail: "Foundation of Mirennian maritime culture and naval power" }
-  - { target: "[[Wind-Shaping]]", type: "enhanced-by", detail: "Wind-Shaping gave deep-hull vessels absolute naval superiority" }
-  - { target: "[[Novaterra]]", type: "enabled-discovery-of", detail: "Deep-hulls made the trans-oceanic voyage to Novaterra possible" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Mirennian League]]'
+  type: custom
+  metadata:
+    description: used-by
+- target: '[[Wind-Shaping]]'
+  type: custom
+  metadata:
+    description: enhanced-by
+- target: '[[Novaterra]]'
+  type: custom
+  metadata:
+    description: enabled-discovery-of
+- target: '[[Keel-Laying of First Wave]]'
+  type: caused-by
+  period: SA:35
+  metadata:
+    description: First Deep-Hull ships constructed for the rougher post-divine oceans
+- target: '[[Wind-Shaping]]'
+  type: custom
+  metadata:
+    description: enhances
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Deep-Hull Ships
 
 Deep-Hull Ships are the signature maritime innovation of the [[Mirennian League]], first constructed around SA:35 on the eastern coast of the mainland. Designed to withstand the rougher, unregulated oceans of the post-divine world, they transformed the Mirennians from coastal subsistence fishers into the dominant naval power of [[Vaeloris]].

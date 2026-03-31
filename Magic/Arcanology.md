@@ -2,41 +2,67 @@
 wb-type: magic
 wb-id: arcanology
 name: Arcanology
-aliases: [Arcane Magic, The Arcane Arts, Academic Magic]
+aliases:
+- Arcane Magic
+- The Arcane Arts
+- Academic Magic
 type: general-arcane
 source: The ambient arcane field left behind by the departed gods, accessed through study and disciplined channeling
-practitioners: ["[[Grand University]]", "[[Magister's Council]]", "[[Aen'valar]]", "[[Gearhaven]]"]
+practitioners:
+- '[[Grand University]]'
+- '[[Magister''s Council]]'
+- '[[Aen''valar]]'
+- '[[Gearhaven]]'
 limitations:
-  - Overuse depletes the ambient mana field (Arcane Fraying)
-  - Raw channeling without training causes madness and death (the Fraying)
-  - Requires years of formal education to practice safely
-  - Effectiveness varies by region based on local mana density
-  - Subject to political regulation and suppression
+- Overuse depletes the ambient mana field (Arcane Fraying)
+- Raw channeling without training causes madness and death (the Fraying)
+- Requires years of formal education to practice safely
+- Effectiveness varies by region based on local mana density
+- Subject to political regulation and suppression
 effects:
-  - Elemental manipulation (fire, earth, water, air)
-  - Transmutation of materials
-  - Telekinesis and levitation
-  - Divination and scrying
-  - Creation of wards, barriers, and enchantments
-  - Enhancement of weapons, armor, and structures
+- Elemental manipulation (fire, earth, water, air)
+- Transmutation of materials
+- Telekinesis and levitation
+- Divination and scrying
+- Creation of wards, barriers, and enchantments
+- Enhancement of weapons, armor, and structures
 relationships:
-  - { target: "[[Grand University]]", type: "codified-by", detail: "The University standardized magical education in SA:1750" }
-  - { target: "[[The Frayed Weave]]", type: "critiqued-by", detail: "Elaruniel's treatise warned of the consequences of unchecked arcane usage" }
-  - { target: "[[Mage-Purge Wars]]", type: "persecuted-during", detail: "The Republic attempted to eradicate arcane practice in SA:1450-1700" }
-  - { target: "[[Technomancy]]", type: "incorporated-into", detail: "Arcane theory became a key component of magitech systems" }
-  - { target: "[[Mana-Crystals]]", type: "powered-by", detail: "Crystallized mana serves as fuel and currency for arcane practitioners" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Grand University]]'
+  type: custom
+  metadata:
+    description: codified-by
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: critiqued-by
+- target: '[[Mage-Purge Wars]]'
+  type: custom
+  metadata:
+    description: persecuted-during
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: incorporated-into
+- target: '[[Mana-Crystals]]'
+  type: custom
+  metadata:
+    description: powered-by
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: challenges
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Arcanology
 
 Arcanology is the formal study and practice of arcane magic -- the manipulation of the ambient mana field left behind by the departed gods. It is the dominant magical tradition of the Third Age, practiced across [[Vaeloris]] by trained mages, battle-casters, and academic scholars. Unlike the elder magics of the Elves or the elemental attunements of the Mirennians, Arcanology treats magic as a science: measurable, reproducible, and teachable.
 
 ## Discovery
 
-For over a thousand years after the [[Great Withdrawal]], magic was the exclusive domain of gods, spirits, and the elder races. Humanity's relationship with the arcane began in SA:1401, when a Varnathi archaeological team excavated a pre-Paroxysm ruin near [[Argentum]] and breached a sealed vault containing texts from the First Age "Divine Workshop."
+For over a thousand years after [[The Great Withdrawal]], magic was the exclusive domain of gods, spirits, and the elder races. Humanity's relationship with the arcane began in SA:1401, when a Varnathi archaeological team excavated a pre-Paroxysm ruin near [[Argentum]] and breached a sealed vault containing texts from the First Age "Divine Workshop."
 
 The lead scholar, Melek the Grey, was exposed to raw arcane residue. His mind was forcibly opened to the ambient field, and after six years of seclusion, he demonstrated his abilities publicly in Argentum's central market -- levitating the city's massive stone obelisk and transmuting lead into silver. His proclamation, "The gods have left the keys in the lock," marked the birth of mortal arcane practice.
 

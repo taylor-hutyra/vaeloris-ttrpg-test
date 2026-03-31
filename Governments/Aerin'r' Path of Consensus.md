@@ -1,33 +1,41 @@
 ---
 wb-type: government
 wb-id: aerinr-path-of-consensus
-name: "Aerin'r' Path of Consensus"
-aliases: [Gentle Concordance, Aerin're Kith Government]
+name: Aerin'r' Path of Consensus
+aliases:
+- Gentle Concordance
+- Aerin're Kith Government
 type: anarchy
 founded: null
-territory: ["[[Aerin'r']]"]
+territory:
+- '[[Aerin''r'']]'
 leader: null
 capital: null
 laws:
-  - "No rulers or formal councils"
-  - "Decisions require unanimous consensus among all kith elders"
-  - "Weeks of discussion permitted before any binding agreement"
+- No rulers or formal councils
+- Decisions require unanimous consensus among all kith elders
+- Weeks of discussion permitted before any binding agreement
 relationships:
-  - target: "[[Quiet Vales Great Council]]"
-    type: spiritual-kinship
-    period: ""
-  - target: "[[Chartered Kith Weaver's Synod]]"
-    type: gentle-sorrow
-    period: ""
-  - target: "[[Sael'anir Star-Moot]]"
-    type: peaceful-coexistence
-    period: ""
+- target: '[[Quiet Vales Great Council]]'
+  type: custom
+  metadata:
+    description: spiritual-kinship
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: custom
+  metadata:
+    description: gentle-sorrow
+- target: '[[Sael''anir Star-Moot]]'
+  type: custom
+  metadata:
+    description: peaceful-coexistence
 timeline: []
-tags: [government, waldkyn, aerinre-kith]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- waldkyn
+- aerinre-kith
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aerin'r' Path of Consensus
 
 The contemplative [[Waldkyn]] of [[Aerin'r']] reject formal government entirely, opting for a society based on empathy and consensus. The Aerin're Kith are descendants of Waldkyn who traveled to the pristine northern continent seeking a "purer" expression of the Synthesis.

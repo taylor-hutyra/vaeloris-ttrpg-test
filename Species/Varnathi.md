@@ -2,35 +2,126 @@
 wb-type: species
 wb-id: varnathi
 name: Varnathi
-aliases: [Highland Theorists, Philosopher-Guardians]
+aliases:
+- Highland Theorists
+- Philosopher-Guardians
 origin: Cultural divergence from common humanity; believe they carry shards of divine will from Valaneth's fractured purpose
 lifespan: 70-90 years
-traits: [scholarly, aristocratic, disciplined, honor-bound, formal speech, architectural metaphor]
-habitat: ["[[Vernath]]", "[[Varnathi Highlands]]"]
+traits:
+- scholarly
+- aristocratic
+- disciplined
+- honor-bound
+- formal speech
+- architectural metaphor
+habitat:
+- '[[Vernath]]'
+- '[[Varnathi Highlands]]'
 population: large
 relationships:
-  - target: "[[Humans]]"
-    type: child-of
-  - target: "[[Vernath]]"
-    type: controls
-  - target: "[[Varnathi Pentarchy]]"
-    type: governed-by
-  - target: "[[Mirennians]]"
-    type: rival-of
-  - target: "[[Lothari]]"
-    type: rival-of
-tags: [species, human, varnathi, greco-roman]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Humans]]'
+  type: child
+- target: '[[Vernath]]'
+  type: controls
+- target: '[[Varnathi Pentarchy]]'
+  type: controlled-by
+- target: '[[Mirennians]]'
+  type: rival
+- target: '[[Lothari]]'
+  type: rival
+- target: '[[Varnathi Highlands]]'
+  type: homeland
+  period: SA:28-
+  metadata:
+    description: Occupy the windswept northern plateau of Vael
+- target: '[[Orkin]]'
+  type: enemy
+  period: SA:125-
+  metadata:
+    description: Centuries of conflict with Orkin clans; systemic prejudice against Assimilated Orkin
+- target: '[[Kharnzarak]]'
+  type: trade
+  period: SA:62-
+  metadata:
+    description: Ore-Grain Exchange established first formal Human-Dwarf trade
+- target: '[[Waldkyn]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Kyn-Clans hostile to Varnathi expansion; uneasy border relations
+- target: '[[Magocracy]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Consul of Scrolls serves as official liaison; Laws of Accord maintain peace
+- target: '[[Founding of Vernath]]'
+  type: caused-by
+  period: SA:28
+  metadata:
+    description: Birth of the Varnathi cultural identity, distinct from lowland tribes
+- target: '[[Bloodied Fist Clans]]'
+  type: enemy
+- target: '[[Kyn-Clans]]'
+  type: enemy
+- target: '[[Magocracy]]'
+  type: controls
+- target: '[[Urban Orkin of Luminas]]'
+  type: serves
+  metadata:
+    nature: subject
+- target: '[[Pantheon of the Ordained]]'
+  type: worshipped-by
+  metadata:
+    nature: state religion
+- target: '[[The Four Makers]]'
+  type: worships
+  metadata:
+    description: View the Makers as aspects of divine logic — Mason as Lawgiver, Carpenter as Worldbinder
+    nature: practice
+- target: '[[Lothari]]'
+  type: rival
+  period: SA
+  metadata:
+    description: View Varnathi as trapped in rigid thought
+- target: '[[Orkin]]'
+  type: enemy
+  metadata:
+    nature: conflict
+- target: '[[Varnathi Highlands]]'
+  type: native
+  period: SA:28-
+  metadata:
+    description: Windswept plateau home to the oldest human civilization on Vael
+- target: '[[Vernath]]'
+  type: native
+  period: SA:28-
+  metadata:
+    description: Capital city of the Varnathi people
+- target: '[[Magocracy]]'
+  type: controlled-by
+- target: '[[Urban Orkin of Luminas]]'
+  type: served-by
+  metadata:
+    nature: subject
+- target: '[[Pantheon of the Ordained]]'
+  type: worships
+  metadata:
+    nature: state religion
+tags:
+- species
+- human
+- varnathi
+- greco-roman
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Varnathi
 
 The **Varnathi** are the highland [[Humans]] of [[Vernath]], a people defined by philosophy, discipline, and the conviction that they are the world's rightful guardians of order. Often called the **Highland Theorists**, their civilization draws upon a deep tradition of scholarship, aristocratic governance, and an unwavering belief in legacy and self-discipline. Their cultural analog is broadly Greco-Roman in character.
 
 ## Origin and Creation Belief
 
-The Varnathi believe in a godlike force called **Valaneth**, who attempted to shape the world through balance and logic. The [[Paroxysm]] came when Valaneth's will fractured into mortals, each one carrying a shard of divine purpose. In this telling, [[Humans]] are born with fragments of divine will, and the Varnathi consider it their sacred duty to refine and fulfill those fragments through disciplined action.
+The Varnathi believe in a godlike force called **Valaneth**, who attempted to shape the world through balance and logic. The [[The Paroxysm]] came when Valaneth's will fractured into mortals, each one carrying a shard of divine purpose. In this telling, [[Humans]] are born with fragments of divine will, and the Varnathi consider it their sacred duty to refine and fulfill those fragments through disciplined action.
 
 ## View of the Four Makers
 

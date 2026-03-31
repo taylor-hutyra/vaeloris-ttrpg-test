@@ -2,24 +2,58 @@
 wb-type: technology
 wb-id: printing-press
 name: Printing Press
-aliases: [Movable Type Press, Gnomish Press]
+aliases:
+- Movable Type Press
+- Gnomish Press
 type: mechanical
-inventor: "[[Bimble Pockets]]"
-invented: "SA:1360"
-used-by: ["[[Gear-Hollow]]", "[[Halflings]]", "[[Forest Gnomes]]"]
+inventor: '[[Bimble Pockets]]'
+invented: SA:1360
+used-by:
+- '[[Gear-Hollow]]'
+- '[[Halflings]]'
+- '[[Forest Gnomes]]'
 prerequisites:
-  - Gnomish precision metalwork for movable type
-  - Paper or parchment production at scale
-  - Ink formulation
+- Gnomish precision metalwork for movable type
+- Paper or parchment production at scale
+- Ink formulation
 relationships:
-  - { target: "[[Bimble Pockets]]", type: "invented-by", detail: "Gnome tinkerer of Gear-Hollow who created movable type" }
-  - { target: "[[Gear-Hollow]]", type: "birthplace", detail: "The mixed Halfling/Gnome burrow-city where the press was invented" }
-  - { target: "[[Shadewalkers]]", type: "threatened", detail: "The press undermined the espionage guild's monopoly on information" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Bimble Pockets]]'
+  type: custom
+  metadata:
+    description: invented-by
+- target: '[[Gear-Hollow]]'
+  type: origin
+- target: '[[Shadewalkers]]'
+  type: custom
+  metadata:
+    description: threatened
+- target: '[[Invention of Printing Press]]'
+  type: involved-in
+  period: SA:1360
+- target: '[[Halflings]]'
+  type: custom
+  period: SA:1360
+  metadata:
+    description: co-developed-by
+- target: '[[Forest Gnomes]]'
+  type: created-by
+  period: SA:1360
+- target: '[[Bimble Pockets]]'
+  type: created-by
+  period: SA:1360
+  metadata:
+    description: Designed and built the first movable type printing press
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Gear-Hollow]]'
+  type: origin-of
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Printing Press
 
 The Printing Press is a mechanical device for mass-producing written text using movable type, invented in SA:1360 by the Gnome tinkerer [[Bimble Pockets]] in the mixed Halfling/Gnome burrow-city of [[Gear-Hollow]]. Its invention triggered an explosion of literacy and information-sharing that fundamentally altered the power structures of [[Vaeloris]].

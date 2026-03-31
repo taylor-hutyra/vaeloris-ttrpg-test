@@ -1,29 +1,143 @@
 ---
 wb-type: species
 wb-id: aenvalar
-name: "Aen'valar"
-aliases: [Forward-Singers, Scholar-Elves, Progressives, Composers of the Unwritten Song]
+name: Aen'valar
+aliases:
+- Forward-Singers
+- Scholar-Elves
+- Progressives
+- Composers of the Unwritten Song
 origin: Elven diaspora that sought intellectual freedom on Novaterra, believing the world-song is an ongoing composition
 lifespan: 800-1200 years
-traits: [progressive, scholarly, meritocratic, analytical speech, innovative, collaborative]
-habitat: ["[[Aethelas]]", "[[M'ren'r']]"]
+traits:
+- progressive
+- scholarly
+- meritocratic
+- analytical speech
+- innovative
+- collaborative
+habitat:
+- '[[Aethelas]]'
+- '[[M''ren''r'']]'
 population: moderate
 relationships:
-  - target: "[[Elves]]"
-    type: child-of
-  - target: "[[Aethelas]]"
-    type: controls
-  - target: "[[M'ren'r']]"
-    type: inhabits
-  - target: "[[Cirhannim]]"
-    type: rival-of
-  - target: "[[Sael'anir]]"
-    type: kindred-of
-tags: [species, elven, aenvalar, alexandrian, renaissance, scholar]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Elves]]'
+  type: child
+- target: '[[Aethelas]]'
+  type: controls
+- target: '[[M''ren''r'']]'
+  type: located-in
+- target: '[[Cirhannim]]'
+  type: rival
+- target: '[[Sael''anir]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Aen''valar Council]]'
+  type: controlled-by
+  period: SA:2175-
+  metadata:
+    description: Governed by the Conclave of Masters at Aethelas
+- target: '[[Humans]]'
+  type: ally
+  period: SA:900-
+  metadata:
+    description: Cross-racial collaboration actively encouraged; humans study and teach alongside Elves
+    nature: collaborative
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA:900-
+  metadata:
+    description: Waldkyn Speaker sits on the Triumvirate governing M'ren'r'
+    nature: collaborative
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Crystal-Singers of M'ren'r' craft vital focusing crystals for Aen'valar scholars
+    nature: collaborative
+- target: '[[Magocracy]]'
+  type: rival
+  period: SA:2715-
+  metadata:
+    description: Magocracy denounced and suppressed Elaruniel's Theory of Arcane Scarcity
+- target: '[[Mirelarim]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: No formal diplomatic ties with the Sea-Elves
+    nature: estranged
+- target: '[[Novaterra]]'
+  type: native
+  period: SA
+  metadata:
+    description: Primary population settled on Novaterra at Aethelas
+- target: '[[Sael''anir Separation]]'
+  type: followed
+  period: SA:80
+  metadata:
+    description: The Sael'anir's descendants became the cosmopolitan Aen'valar
+- target: '[[Crystal-Singers of M''ren''r'']]'
+  type: custom
+  metadata:
+    description: essential supplier
+- target: '[[Shadow-Singers]]'
+  type: custom
+  metadata:
+    description: descended from
+- target: '[[The Four Harmonies]]'
+  type: worships
+  metadata:
+    description: Innovative, analytical interpretation
+    nature: practice
+- target: '[[Aethelas]]'
+  type: founder
+  period: SA:2175
+- target: '[[Aethelas]]'
+  type: native
+  period: SA:2175-
+  metadata:
+    description: Intellectual heart of the Elven progressive tradition
+- target: '[[M''ren''r'']]'
+  type: founder
+  period: SA:900
+- target: '[[Founding of Aethelas]]'
+  type: involved-in
+  period: SA:2175
+  metadata:
+    description: Founded the city-sized library and observatory
+- target: '[[Founding of Morenore]]'
+  type: involved-in
+  period: SA:900
+  metadata:
+    description: Progressive Elves who rejected Hannanore's isolationism
+- target: '[[Morenore Accords]]'
+  type: involved-in
+  period: SA:665
+  metadata:
+    description: Elven diplomats mediated the ceasefire
+- target: '[[Publication of The Frayed Weave]]'
+  type: related
+  period: SA:2715
+  metadata:
+    description: The text became the intellectual foundation of the Aen'valar
+- target: '[[Star-Veiled Passage]]'
+  type: involved-in
+  period: SA:1460
+  metadata:
+    description: Established and coordinated the underground railroad
+- target: '[[M''ren''r'']]'
+  type: contains
+tags:
+- species
+- elven
+- aenvalar
+- alexandrian
+- renaissance
+- scholar
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Aen'valar
 
 The **Aen'valar**, or **Forward-Singers**, represent the [[Elves|Elven]] diaspora that sought refuge and intellectual freedom on [[Novaterra]]. They are progressives, scholars, and explorers who believe the world-song is not finished but is an ongoing composition. Their sacred duty, the **Aen'valan** ("The Unwritten Song"), is to seek new knowledge, discover new harmonies, and add new verses to creation's epic. Their cultural analog is Alexandrian/Renaissance.

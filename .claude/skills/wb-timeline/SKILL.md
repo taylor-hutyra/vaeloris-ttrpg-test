@@ -35,33 +35,33 @@ Parse `$ARGUMENTS` or user request to determine the timeline scope:
 
 **For entity/faction scope:**
 ```bash
-$WB --vault <vault_root> query --name "<entity>" --pretty
-$WB --vault <vault_root> query --related-to "<entity>" --hops 1 --pretty
-$WB --vault <vault_root> query --type event --pretty
+$WB --vault <vault_root> --pretty query --name "<entity>"
+$WB --vault <vault_root> --pretty query --related-to "<entity>" --hops 1
+$WB --vault <vault_root> --pretty query --type event
 ```
 Read the entity's full Markdown file to get its `timeline` array and `relationships`. Also read files for directly related entities to find their timeline entries that reference this entity.
 
 **For location scope:**
 ```bash
-$WB --vault <vault_root> spatial "<place>" --pretty
-$WB --vault <vault_root> query --within "<place>" --pretty
-$WB --vault <vault_root> query --type event --pretty
+$WB --vault <vault_root> --pretty spatial "<place>"
+$WB --vault <vault_root> --pretty query --within "<place>"
+$WB --vault <vault_root> --pretty query --type event
 ```
 Read the place file and all contained entities. Gather events whose `location` matches.
 
 **For era scope:**
 ```bash
-$WB --vault <vault_root> calendar --pretty
-$WB --vault <vault_root> query --type event --pretty
-$WB --vault <vault_root> query --type person --pretty
-$WB --vault <vault_root> query --type faction --pretty
+$WB --vault <vault_root> --pretty calendar
+$WB --vault <vault_root> --pretty query --type event
+$WB --vault <vault_root> --pretty query --type person
+$WB --vault <vault_root> --pretty query --type faction
 ```
 Read `_meta/calendar.md` for era boundaries. Filter all entities and events to those active within the era's period range.
 
 **For world scope:**
 ```bash
-$WB --vault <vault_root> query --type event --pretty
-$WB --vault <vault_root> calendar --pretty
+$WB --vault <vault_root> --pretty query --type event
+$WB --vault <vault_root> --pretty calendar
 ```
 Read all event files. Also scan person, faction, and place files for their `timeline` arrays.
 
@@ -150,6 +150,12 @@ After the timeline, provide:
 - **Key turning points**: the 3-5 most consequential events
 - **Suggested additions**: events that would fill important gaps or explain unexplained transitions
 - Offer to create missing events via `/wb-create` or write era narratives via `/wb-write era`
+
+## Query Strategy
+
+1. **SQLite** (`query --type event`, `resolve --at`): Primary for temporal queries — event type + period filtering.
+2. **Graph** (`query --related-to`): Trace cause-effect chains between events.
+3. **Vector** (`query --semantic`): Find thematically related events that might not be directly linked.
 
 ## Guidelines
 

@@ -1,48 +1,74 @@
 ---
 wb-type: faction
-wb-id: "sun-leaf-conclave"
-name: "Sun-Leaf Conclave"
+wb-id: sun-leaf-conclave
+name: Sun-Leaf Conclave
 aliases:
-  - "Talanvarë Council"
-type: "magical/political"
+- Talanvarë Council
+type: magical/political
 founded: null
 dissolved: null
-headquarters: "[[Hannan'r']]"
+headquarters: '[[Hannan''r'']]'
 leader: null
 territory:
-  - "[[Hannan'r']]"
-influence: "dominant"
+- '[[Hannan''r'']]'
+influence: dominant
 goals:
-  - "Preserve the First Song of creation unchanged"
-  - "Maintain [[The Great Weaving]] that conceals and protects Hannan'r'"
-  - "Guard against dissonance and outside corruption"
+- Preserve the First Song of creation unchanged
+- Maintain [[The Great Weaving]] that conceals and protects Hannan'r'
+- Guard against dissonance and outside corruption
 relationships:
-  - target: "[[Cirhannim]]"
-    type: "governing body"
-    period: ""
-  - target: "[[House Valerion]]"
-    type: "dominant faction within"
-    period: ""
-  - target: "[[House Silvanus]]"
-    type: "dissenting faction within"
-    period: ""
-  - target: "[[Exiled Blades]]"
-    type: "exiled former members"
-    period: ""
+- target: '[[Cirhannim]]'
+  type: custom
+  metadata:
+    description: governing body
+- target: '[[House Valerion]]'
+  type: custom
+  metadata:
+    description: dominant faction within
+- target: '[[House Silvanus]]'
+  type: custom
+  metadata:
+    description: dissenting faction within
+- target: '[[Exiled Blades]]'
+  type: custom
+  metadata:
+    description: exiled former members
+- target: '[[Exiled Blades]]'
+  type: enemy
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: maintained-by
+- target: '[[Lelyariel]]'
+  type: ruler
+  metadata:
+    description: Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual
+- target: '[[Mist-Lanterns]]'
+  type: custom
+  metadata:
+    description: maintained-by
+- target: '[[Hannan''r'']]'
+  type: located-in
+  period: SA:55-
+  metadata:
+    description: Mages who created and maintain the Great Weaving
+- target: '[[Lelyariel]]'
+  type: ruled-by
+  metadata:
+    description: Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual
 timeline:
-  - period: ""
-    event: "Established as the theocratic governing council of Hannan'r'"
-  - period: ""
-    event: "Maintained magical wards concealing the forest from outsiders"
+- period: ''
+  event: Established as the theocratic governing council of Hannan'r'
+- period: ''
+  event: Maintained magical wards concealing the forest from outsiders
 tags:
-  - faction
-  - elven
-  - cirhannim
-  - mainland
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- elven
+- cirhannim
+- mainland
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sun-Leaf Conclave
 
 The Sun-Leaf Conclave is the supreme governing body of [[Hannan'r']], the sacred homeland of the [[Cirhannim]]. Composed of the eldest and most powerful mystics from the three great houses, the Conclave interprets the will of the forest, divines the meaning of the seasons, and maintains [[The Great Weaving]]---the intricate magical ward that conceals and protects the ancient woodland.

@@ -2,29 +2,121 @@
 wb-type: faction
 wb-id: barazkor-clan
 name: Barazkor Clan
-aliases: [The Iron-Gavels, The Royal Clan]
+aliases:
+- The Iron-Gavels
+- The Royal Clan
 type: clan
-founded: "SA:91"
+founded: SA:91
 dissolved: null
-headquarters: "[[Kharnzarak]]"
-leader: "[[High King Thorgar VII]]"
-territory: ["[[Kharnzarak]]"]
+headquarters: '[[Kharnzarak]]'
+leader: '[[High King Thorgar VII]]'
+territory:
+- '[[Kharnzarak]]'
 influence: dominant
 goals:
-  - Preserve the Stone-Lays and traditional Dwarven law
-  - Maintain the supremacy of the High Clans
-  - Enforce orthodoxy and punish deviation
-relationships: []
+- Preserve the Stone-Lays and traditional Dwarven law
+- Maintain the supremacy of the High Clans
+- Enforce orthodoxy and punish deviation
+relationships:
+- target: '[[N''nm-Khazal''n]]'
+  type: member
+  period: SA:91-
+  metadata:
+    description: The Royal Clan of the Stone-Sworn Dwarves
+- target: '[[Kharnzarak]]'
+  type: located-in
+  period: SA:91-
+  metadata:
+    description: Headquartered in and ruling from the Adamant Throne of Kharnzarak
+- target: '[[Kharnzarak Monarchy]]'
+  type: controls
+  period: SA:91-
+  metadata:
+    description: Holds the hereditary monarchy and commands the military
+- target: '[[Farrazul Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Primary internal rivals; Farrazul wealth challenges Barazkor military authority
+- target: '[[Gulgrym Clan]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Gulgrym miners subordinate in the caste system; potential populist threat
+- target: '[[Bronr''n Legacy]]'
+  type: enemy
+  period: SA:1200-
+  metadata:
+    description: Actively hunts for signs of reformist activity; considers them treasonous
+- target: '[[Thulkor''n]]'
+  type: enemy
+  period: SA:365-
+  metadata:
+    description: View Thulkor'n as criminals who broke their oaths, a source of shame
+    nature: hostile
+- target: '[[Elm-korin]]'
+  type: enemy
+  period: SA:690-
+  metadata:
+    description: View Elm-korin with contempt as dangerous heretics
+    nature: hostile
+- target: '[[Farrazül Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Constant restrained competition; gold outlasts iron
+- target: '[[Gulgrym Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Resent the High Clans who profit from Gulgrym labor
+- target: '[[Kharnzarak Monarchy]]'
+  type: ruler
+  period: SA:91-
+  metadata:
+    description: The Royal Clan holds the hereditary monarchy
+- target: '[[High King Thorgar VI]]'
+  type: member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[High King Thorgar VII]]'
+  type: member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[Thane Korin Barazkor]]'
+  type: ruler
+  metadata:
+    description: Iron-Hand clan, later known as the Iron-Gavels; the Royal Clan
+- target: '[[Dwarves]]'
+  type: member
+  period: SA:91-
+  metadata:
+    description: The Royal Clan and ruling family of Kharnzarak
+- target: '[[High King Thorgar VI]]'
+  type: has-member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[High King Thorgar VII]]'
+  type: has-member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[Thane Korin Barazkor]]'
+  type: ruled-by
+  metadata:
+    description: Iron-Hand clan, later known as the Iron-Gavels; the Royal Clan
 timeline:
-  - period: "SA:91"
-    label: "Thane Korin Barazkor declared first High King of unified Kharnzarak"
-  - period: "SA:1400"
-    label: "High King Thorgar VI ordered the Great Adamant Gates sealed"
-tags: [faction, dwarf, nom-khazalon, clan]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:91
+  label: Thane Korin Barazkor declared first High King of unified Kharnzarak
+- period: SA:1400
+  label: High King Thorgar VI ordered the Great Adamant Gates sealed
+tags:
+- faction
+- dwarf
+- nom-khazalon
+- clan
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Barazkor Clan
 
 The **Barazkor Clan**, known as the **Iron-Gavels**, is the royal clan of [[Kharnzarak]] and the most powerful political entity in the [[N'om-Khazal'on]] (Stone-Sworn) Dwarven hegemony. They rule from the [[Adamant Throne]], their authority absolute but bound by the sacred laws carved into the [[D'om-G'ol]].

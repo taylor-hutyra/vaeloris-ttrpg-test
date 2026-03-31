@@ -2,39 +2,66 @@
 wb-type: magic
 wb-id: song-wards
 name: Song-Wards
-aliases: [Sung Barriers, Waldkyn Wards]
+aliases:
+- Sung Barriers
+- Waldkyn Wards
 type: protective
 source: The Waldkyn philosophy of The Synthesis, channeled through communal vocal harmonics to create protective barriers
-practitioners: ["[[Quiet Vales Kith]]", "[[Waldkyn]]", "[[Whispering Vales]]"]
+practitioners:
+- '[[Quiet Vales Kith]]'
+- '[[Waldkyn]]'
+- '[[Whispering Vales]]'
 limitations:
-  - Requires multiple Waldkyn singing in harmony; a single voice cannot sustain a ward
-  - Effectiveness depends on the unity and emotional state of the singers
-  - Wards deteriorate if not regularly renewed through communal song
-  - Primarily defensive; cannot be weaponized without violating the Synthesis
-  - Less effective against purely physical threats; strongest against magical and aberrant intrusions
+- Requires multiple Waldkyn singing in harmony; a single voice cannot sustain a ward
+- Effectiveness depends on the unity and emotional state of the singers
+- Wards deteriorate if not regularly renewed through communal song
+- Primarily defensive; cannot be weaponized without violating the Synthesis
+- Less effective against purely physical threats; strongest against magical and aberrant intrusions
 effects:
-  - Creation of invisible barriers that repel unnatural creatures and aberrations
-  - Harmonic resonance that disrupts hostile magic within the warded area
-  - Calming influence on natural wildlife, encouraging ecological health
-  - Warning system that alerts singers when the barrier is tested or breached
-  - Purification of land corrupted by residual Paroxysm energy
+- Creation of invisible barriers that repel unnatural creatures and aberrations
+- Harmonic resonance that disrupts hostile magic within the warded area
+- Calming influence on natural wildlife, encouraging ecological health
+- Warning system that alerts singers when the barrier is tested or breached
+- Purification of land corrupted by residual Paroxysm energy
 relationships:
-  - { target: "[[Waldkyn]]", type: "practiced-by", detail: "All Waldkyn variants contribute to the Song-Wards, each adding their unique harmonic" }
-  - { target: "[[Whispering Vales]]", type: "protects", detail: "The ancestral Waldkyn homeland is shielded by the oldest Song-Wards" }
-  - { target: "[[The Synthesis]]", type: "expression-of", detail: "Song-Wards embody the Waldkyn belief in collaborative harmony" }
-  - { target: "[[The Great Weaving]]", type: "parallel-to", detail: "Both are large-scale protective magics born from communal ritual" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Waldkyn]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Whispering Vales]]'
+  type: custom
+  metadata:
+    description: protects
+- target: '[[The Synthesis]]'
+  type: custom
+  metadata:
+    description: expression-of
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: parallel-to
+- target: '[[Root-Taking of the Vales]]'
+  type: caused-by
+  period: SA:20
+  metadata:
+    description: First Song-Wards created to repel unnatural creatures from the Vales
+- target: '[[Whispering Vales]]'
+  type: located-in
+  period: SA:20-
+  metadata:
+    description: First Song-Wards created here to repel unnatural creatures
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Song-Wards
 
 Song-Wards are the protective magical barriers created and maintained by the [[Waldkyn]] through communal vocal harmonics. First established in SA:20 during the Root-Taking of the [[Whispering Vales]], they are the oldest continuously maintained magical defense in [[Vaeloris]] and a living embodiment of the Waldkyn philosophy of [[The Synthesis]].
 
 ## Origins
 
-In the immediate aftermath of the [[Paroxysm]], the world was scarred and dangerous. Lingering horrors -- aberrations, echo-beasts, and remnants of [[Kael'Zorai]]'s twisted experiments -- prowled the wilderness. When the Waldkyn formally settled the Whispering Vales in SA:20, they needed protection. But the Waldkyn way is not the way of walls and weapons; it is the way of harmony.
+In the immediate aftermath of [[The Paroxysm]], the world was scarred and dangerous. Lingering horrors -- aberrations, echo-beasts, and remnants of [[Kael'Zorai]]'s twisted experiments -- prowled the wilderness. When the Waldkyn formally settled the Whispering Vales in SA:20, they needed protection. But the Waldkyn way is not the way of walls and weapons; it is the way of harmony.
 
 Drawing on their unique nature as the last collaborative creation of the [[Four Voices]], the Waldkyn discovered that when they sang together -- not in unison, but in structured harmony, each of the eight variants contributing their distinct tone -- the sound created a resonance that pushed back against the unnatural. The aberrations of the Paroxysm recoiled from it. The corrupted land within the sung perimeter began to heal.
 

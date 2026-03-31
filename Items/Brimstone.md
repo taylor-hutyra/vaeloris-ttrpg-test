@@ -2,26 +2,34 @@
 wb-type: item
 wb-id: brimstone
 name: Brimstone
-aliases: [High-Grade Fuel]
+aliases:
+- High-Grade Fuel
 type: resource
 owner: null
 creator: null
-location: "[[Novaterra]]"
+location: '[[Novaterra]]'
 properties:
-  - High-grade industrial fuel
-  - Essential for technomantic furnaces and steam-turbine systems
-  - Found primarily in the volcanic regions of Novaterra
-  - Burns hotter and longer than conventional coal or charcoal
+- High-grade industrial fuel
+- Essential for technomantic furnaces and steam-turbine systems
+- Found primarily in the volcanic regions of Novaterra
+- Burns hotter and longer than conventional coal or charcoal
 magical: false
 relationships:
-  - { target: "[[Gearhaven]]", type: "consumed-by", detail: "The Technocracy's industrial economy depends on Brimstone supply" }
-  - { target: "[[Federation of City-States]]", type: "traded-by", detail: "The Federation controls mainland Brimstone deposits" }
-  - { target: "[[Iron Pact]]", type: "caused-by", detail: "Gearhaven's Brimstone shortage triggered the Technocratic Blockade and the retaliatory alliance" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Gearhaven]]'
+  type: custom
+  metadata:
+    description: consumed-by
+- target: '[[Federation of City-States]]'
+  type: custom
+  metadata:
+    description: traded-by
+- target: '[[Iron Pact]]'
+  type: caused-by
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Brimstone
 
 Brimstone is a high-grade mineral fuel essential to the industrial economies of the Third Age, found primarily in the volcanic regions of [[Novaterra]]. Its exceptional energy density makes it the preferred fuel for technomantic furnaces, steam-turbine systems, and heavy industrial processes. Control of Brimstone deposits has been a flashpoint for geopolitical conflict since the industrialization of the Second Age.

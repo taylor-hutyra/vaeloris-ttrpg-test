@@ -1,41 +1,42 @@
 ---
 wb-type: faction
-wb-id: "masons-guild"
-name: "Masons' Guild"
+wb-id: masons-guild
+name: Masons' Guild
 aliases: []
 type: economic
 founded: null
 dissolved: null
-headquarters: "[[Luminas]]"
+headquarters: '[[Luminas]]'
 leader: null
 territory:
-  - "[[Luminas]] (Orkin Quarter)"
+- '[[Luminas]] (Orkin Quarter)'
 influence: significant
 goals:
-  - "Control construction and repair within the Orkin Quarter"
-  - "Maintain economic leverage over the Neighborhood Council"
-  - "Expand building contracts into the wider city"
+- Control construction and repair within the Orkin Quarter
+- Maintain economic leverage over the Neighborhood Council
+- Expand building contracts into the wider city
 relationships:
-  - target: "[[Urban Orkin of Luminas]]"
-    type: power-broker
-    period: null
-  - target: "[[Butchers' Guild]]"
-    type: co-equal-rival
-    period: null
+- target: '[[Urban Orkin of Luminas]]'
+  type: custom
+  metadata:
+    description: power-broker
+- target: '[[Butchers'' Guild]]'
+  type: rival
+  metadata:
+    nature: co-equal
 timeline:
-  - period: null
-    event: "Established as the primary construction guild within the Orkin Quarter of Luminas"
+- period: null
+  event: Established as the primary construction guild within the Orkin Quarter of Luminas
 tags:
-  - faction
-  - orkin
-  - economic
-  - guild
-  - urban
-  - mainland
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- economic
+- guild
+- urban
+- mainland
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Masons' Guild
 
 An [[Orkin]] trade guild operating within the Orkin Quarter of [[Luminas]], controlling all construction and repair work in the community. Alongside the [[Butchers' Guild]], the Masons' Guild is one of the true economic and political power brokers of the [[Urban Orkin of Luminas|Orkin Quarter]], its leaders often holding more influence than the elders on the Neighborhood Council.

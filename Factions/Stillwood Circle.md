@@ -1,43 +1,43 @@
 ---
 wb-type: faction
-wb-id: "stillwood-circle"
-name: "Stillwood Circle"
+wb-id: stillwood-circle
+name: Stillwood Circle
 aliases:
-  - "The Isolationists"
+- The Isolationists
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Whispering Vales]]"
-leader: "[[Root-Speaker]]"
+headquarters: '[[Whispering Vales]]'
+leader: '[[Root-Speaker]]'
 territory:
-  - "[[Whispering Vales]]"
+- '[[Whispering Vales]]'
 influence: dominant
 goals:
-  - "Magically seal the Vales from the outside world"
-  - "Preserve the ancient traditions of The Synthesis"
-  - "Reject the Song-Wrong of Single-Form civilizations"
+- Magically seal the Vales from the outside world
+- Preserve the ancient traditions of The Synthesis
+- Reject the Song-Wrong of Single-Form civilizations
 relationships:
-  - target: "[[Flowing River School]]"
-    type: rival
-    period: null
-  - target: "[[Kyn-Clans]]"
-    type: uneasy-neighbor
-    period: null
-  - target: "[[Quiet Vales Kith]]"
-    type: dominant-faction
-    period: null
+- target: '[[Flowing River School]]'
+  type: rival
+- target: '[[Kyn-Clans]]'
+  type: custom
+  metadata:
+    description: uneasy-neighbor
+- target: '[[Quiet Vales Kith]]'
+  type: member
+  metadata:
+    nature: dominant
 timeline:
-  - period: null
-    event: "Emerged as the dominant political voice within the Great Council of the Vales"
+- period: null
+  event: Emerged as the dominant political voice within the Great Council of the Vales
 tags:
-  - faction
-  - waldkyn
-  - isolationist
-  - mainland
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- waldkyn
+- isolationist
+- mainland
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Stillwood Circle
 
 The dominant political faction within the [[Waldkyn]] of the [[Whispering Vales]], the Stillwood Circle advocates total isolation from the outside world. Led by the [[Root-Speaker]]—keeper of laws, history, and traditions—they believe that true harmony can only be preserved by sealing the Vales from the dissonance of [[Single-Forms]] and their ambitions.

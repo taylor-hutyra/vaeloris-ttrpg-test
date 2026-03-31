@@ -108,6 +108,18 @@ After presenting results, suggest 2-3 follow-up queries the user might find usef
 - "To see how this changes over time, try `/wb-query [Entity] at SA:300`"
 - "For a deeper network view, try `/wb-query connections of [Entity] within 3 hops`"
 
+## Query Strategy
+
+Each flag maps to a specific store:
+
+- `--name`, `--type`, `--tags`, `--within` -> **SQLite**. Fastest path to known entities and structured filters.
+- `--related-to`, `--hops` -> **Graph**. Path-finding and neighbor traversal.
+- `--semantic` -> **Vector** (OpenAI text-embedding-3-large with hierarchical chunking). Best for thematic, creative, cross-type, and section-precision queries.
+- `resolve --at` -> **SQLite**. Timeline data lives in frontmatter, indexed in SQLite.
+- `spatial` -> **Graph**. Parent/child containment is a graph operation.
+- For best results on open-ended questions, use `--semantic` first, then `--related-to` on the top results.
+- **Complex questions**: Chain stores. Vector for discovery, SQLite to filter, graph for connections, file read for detail.
+
 ## Tips
 
 - If a query returns no results, try broader terms or semantic search as fallback.

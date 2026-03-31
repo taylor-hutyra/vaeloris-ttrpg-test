@@ -36,10 +36,10 @@ Trigger phrases: "suggest a character", "who could fill this role", "I need a vi
 
 2. **Load world context**:
    ```bash
-   $WB --vault <vault_root> query --type person --pretty    # existing characters
-   $WB --vault <vault_root> query --type faction --pretty   # factions for affiliation
-   $WB --vault <vault_root> query --type place --pretty     # places for origin/location
-   $WB --vault <vault_root> calendar --pretty               # era info
+   $WB --vault <vault_root> --pretty query --type person     # existing characters
+   $WB --vault <vault_root> --pretty query --type faction   # factions for affiliation
+   $WB --vault <vault_root> --pretty query --type place     # places for origin/location
+   $WB --vault <vault_root> --pretty calendar               # era info
    ```
    Read specific entity files with the Read tool if the user mentions them or if they are central to the constraints.
 
@@ -68,8 +68,8 @@ Trigger phrases: "how would X respond to Y", "what would X do if", "faction resp
 
 2. **Load deep context**:
    ```bash
-   $WB --vault <vault_root> query --name "<entity>" --pretty
-   $WB --vault <vault_root> query --related-to "<entity>" --hops 2 --pretty
+   $WB --vault <vault_root> --pretty query --name "<entity>"
+   $WB --vault <vault_root> --pretty query --related-to "<entity>" --hops 2
    ```
    Read the entity's full Markdown file for goals, personality, history, and relationships. If the stimulus is an existing event, read that file too.
 
@@ -93,6 +93,13 @@ Trigger phrases: "how would X respond to Y", "what would X do if", "faction resp
    - Create an event entity for the response
    - Propagate consequences via `/wb-consequences`
    - Analyze how other factions react to THIS response (chain reaction)
+
+## Query Strategy
+
+1. **Vector** (`query --semantic`): Primary tool — search for thematic gaps, similar entities, mood-based discovery.
+2. **Graph** (`query --related-to --hops 2`): Explore the neighborhood of the entity being discussed to find network gaps.
+3. **SQLite** (`query --type`): Get entity counts by type to identify underrepresented areas.
+4. **File read**: Read 3-5 entity files central to the suggestion for personality, goals, and prose style.
 
 ## Guidelines
 

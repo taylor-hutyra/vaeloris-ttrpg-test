@@ -8,21 +8,77 @@ founded: null
 dissolved: null
 headquarters: null
 leader: null
-territory: ["[[Mirennian League]]"]
+territory:
+- '[[Mirennian League]]'
 influence: moderate
 goals:
-  - Profit from smuggling and gray-market trade
-  - Undermine the Golden Compass Syndicate's monopoly
-  - Control the flow of magical artifacts
-relationships: []
+- Profit from smuggling and gray-market trade
+- Undermine the Golden Compass Syndicate's monopoly
+- Control the flow of magical artifacts
+relationships:
+- target: '[[Golden Compass Syndicate]]'
+  type: rival
+  period: SA:1100-
+  metadata:
+    description: Exposed embezzlement to shatter the Syndicate's monopoly
+- target: '[[Pirate Confederacy]]'
+  type: ally
+  period: SA:1100-
+  metadata:
+    description: Uses pirate lords to destabilize Golden Compass rivals
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:1100-
+  metadata:
+    description: Secretive merchant house within the League
+- target: '[[Port Farrick]]'
+  type: located-in
+  period: SA:1100-
+  metadata:
+    description: Network of informants and operations in the major port
+- target: '[[Mirennian Civil War]]'
+  type: involved-in
+  period: SA:1550
+  metadata:
+    description: New Money faction that embraced magical artifact trade
+- target: '[[Pirate Confederacy]]'
+  type: ally
+  metadata:
+    nature: covert
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:1100-
+  metadata:
+    description: Secretive house profiting from smuggling and gray-market trade
+    nature: internal faction
+- target: '[[Milo]]'
+  type: related
+  metadata:
+    description: Would have contacts within the secretive Mirennian smuggling house
+    nature: contact
+- target: '[[Mirennian Guild Wars]]'
+  type: involved-in
+  period: SA:1100
+  metadata:
+    description: Rival house that exposed the Syndicate
+- target: '[[Mirennian League]]'
+  type: has-member
+  period: SA:1100-
+  metadata:
+    description: Secretive house profiting from smuggling and gray-market trade
+    nature: internal faction
 timeline:
-  - period: "SA:1100"
-    label: Exposed Golden Compass embezzlement, triggering the Guild Wars
-tags: [faction, human, mirennian, criminal, espionage]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1100
+  label: Exposed Golden Compass embezzlement, triggering the Guild Wars
+tags:
+- faction
+- human
+- mirennian
+- criminal
+- espionage
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Azure Hand
 
 The **Azure Hand** is a secretive and influential [[Merchant House]] within the [[Mirennian League]] that profits from smuggling, espionage, and the "gray market" trade of magical artifacts. Operating from the shadows of Mirennian territory, they are the hidden hand that shapes events the [[Golden Compass Syndicate]] cannot see coming.

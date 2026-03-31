@@ -2,49 +2,70 @@
 wb-type: place
 wb-id: drakenvast
 name: Drakenvast
-aliases: [The Dragon Homeland, The Volcanic Highlands, The Cloud Empire's Root]
-parent: "[[Vaeloris]]"
+aliases:
+- The Dragon Homeland
+- The Volcanic Highlands
+- The Cloud Empire's Root
+parent: '[[Vaeloris]]'
 spatial-type: continent
-contains: ["[[Drakograd]]", "[[Aethelgard]]"]
+contains:
+- '[[Drakograd]]'
+- '[[Aethelgard]]'
 population: null
-ruler: "[[The Vozhdate]]"
-faction: "[[Drakona]]"
-climate: "volcanic highlands, harsh winters, geothermal valleys"
-resources: ["draconic steel", "sky-stone", "sulfur", "titan-steel", "mana crystals"]
-status: "Drakona reservation — severely diminished since the Skyfall"
+ruler: '[[The Vozhdate]]'
+faction: '[[Drakona]]'
+climate: volcanic highlands, harsh winters, geothermal valleys
+resources:
+- draconic steel
+- sky-stone
+- sulfur
+- titan-steel
+- mana crystals
+status: Drakona reservation — severely diminished since the Skyfall
 relationships:
-  - target: "[[Drakona]]"
-    type: homeland-of
-    period: ""
-  - target: "[[The Magocracy]]"
-    type: subjugated-by
-    period: "2700-"
-  - target: "[[Allied Command]]"
-    type: defeated-by
-    period: "2688"
-  - target: "[[Vael]]"
-    type: invaded
-    period: "2341-2700"
+- target: '[[Drakona]]'
+  type: homeland
+- target: '[[The Magocracy]]'
+  type: controlled-by
+  period: 2700-
+  metadata:
+    nature: subjugated
+- target: '[[Allied Command]]'
+  type: custom
+  period: '2688'
+  metadata:
+    description: defeated-by
+- target: '[[Vael]]'
+  type: custom
+  period: 2341-2700
+  metadata:
+    description: invaded
+- target: '[[Vael]]'
+  type: enemy
+  period: 2341-2700
+  metadata:
+    nature: hostile
 timeline:
-  - period: "SA:1805"
-    event: "The Beast of Black Rock — first confirmed contact with organized Drakona military"
-  - period: "SA:2250"
-    event: "The Dragon's Tithe — Drakona begin systematic resource extraction from surface settlements"
-  - period: "SA:2341"
-    event: "The Scouring of the North — full-scale Drakona invasion of Vael"
-  - period: "SA:2680"
-    event: "Operation Icarus — Allied infiltration of the Cloud City of Aethelgard"
-  - period: "SA:2688"
-    event: "The Skyfall — Earth-Anchor Ritual grounds the Cloud Cities; millions perish"
-  - period: "SA:2700"
-    event: "Treaty of the Broken Peaks — Drakona Empress Valkiss surrenders"
-  - period: "SA:2725"
-    event: "District of Scales established — Drakona confined to grounded ruins"
-tags: [place, continent]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1805
+  event: The Beast of Black Rock — first confirmed contact with organized Drakona military
+- period: SA:2250
+  event: The Dragon's Tithe — Drakona begin systematic resource extraction from surface settlements
+- period: SA:2341
+  event: The Scouring of the North — full-scale Drakona invasion of Vael
+- period: SA:2680
+  event: Operation Icarus — Allied infiltration of the Cloud City of Aethelgard
+- period: SA:2688
+  event: The Skyfall — Earth-Anchor Ritual grounds the Cloud Cities; millions perish
+- period: SA:2700
+  event: Treaty of the Broken Peaks — Drakona Empress Valkiss surrenders
+- period: SA:2725
+  event: District of Scales established — Drakona confined to grounded ruins
+tags:
+- place
+- continent
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Drakenvast
 
 Drakenvast is the ancestral homeland of the [[Drakona]], a vast expanse of volcanic highlands, jagged mountain ranges, and geothermal valleys in the far north of [[Vaeloris]]. For millennia it was hidden above the clouds, its people ruling from floating cities sustained by ancient aeromancy. Since the catastrophe of the Skyfall in 2688 S.A., it is a land of ruins and bitter endurance — the grounded heart of a once-skyborne empire.

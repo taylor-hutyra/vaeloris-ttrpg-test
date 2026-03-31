@@ -2,35 +2,52 @@
 wb-type: item
 wb-id: first-compact
 name: First Compact
-aliases: [The Compact, Vardas's Constitution]
+aliases:
+- The Compact
+- Vardas's Constitution
 type: document
 owner: null
-creator: "[[Vardas the Elder]]"
-location: "[[Vernath]]"
+creator: '[[Vardas the Elder]]'
+location: '[[Vernath]]'
 properties:
-  - Founding legal code of the city-state of Vernath
-  - Emphasizes duty, order, and stoicism
-  - Mandates citizen contribution to defense and maintenance
-  - Classifies idleness as a crime against the state
-  - Later amended to include loyalty to the Imperial Throne
+- Founding legal code of the city-state of Vernath
+- Emphasizes duty, order, and stoicism
+- Mandates citizen contribution to defense and maintenance
+- Classifies idleness as a crime against the state
+- Later amended to include loyalty to the Imperial Throne
 magical: false
 relationships:
-  - { target: "[[Vardas the Elder]]", type: "authored-by", detail: "The philosopher-warrior who united seven tribes and founded Vernath" }
-  - { target: "[[Vernath]]", type: "governs", detail: "The foundational legal document of the city-state and later the Empire" }
-  - { target: "[[Varnathi Empire]]", type: "defines", detail: "The Compact established the cultural identity that became the Varnathi civilization" }
-  - { target: "[[Caelius I]]", type: "amended-by", detail: "The first Emperor amended the Compact to include loyalty to the Throne" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Vardas the Elder]]'
+  type: custom
+  metadata:
+    description: authored-by
+- target: '[[Vernath]]'
+  type: controls
+- target: '[[Varnathi Empire]]'
+  type: custom
+  metadata:
+    description: defines
+- target: '[[Caelius I]]'
+  type: custom
+  metadata:
+    description: amended-by
+- target: '[[Founding of Vernath]]'
+  type: caused-by
+  period: SA:28
+  metadata:
+    description: Constitution emphasizing duty, order, and stoicism established at founding
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # First Compact
 
 The First Compact is the founding legal code of [[Vernath]], drafted by the philosopher-warrior [[Vardas the Elder]] in SA:28. Part constitution, part moral philosophy, and part military doctrine, it established the principles of duty, order, and stoicism that would define [[Varnathi Empire|Varnathi]] civilization for millennia. It remains the most influential legal document in the history of [[Vaeloris]].
 
 ## Creation
 
-In the windswept northern highlands, seven warring human tribes struggled to survive in the aftermath of the [[Paroxysm]] and the [[Great Withdrawal]]. Tribal superstition held that the gods had abandoned humanity as punishment for sin. Vardas the Elder rejected this interpretation. He preached that the gods had left because mortals were ready to stand on their own -- that divine absence was not punishment, but a graduation.
+In the windswept northern highlands, seven warring human tribes struggled to survive in the aftermath of [[The Paroxysm]] and [[The Great Withdrawal]]. Tribal superstition held that the gods had abandoned humanity as punishment for sin. Vardas the Elder rejected this interpretation. He preached that the gods had left because mortals were ready to stand on their own -- that divine absence was not punishment, but a graduation.
 
 Vardas united the seven tribes not through conquest alone, but through a revolutionary idea: that survival required collective obligation. He laid the foundation stone of [[Vernath]] on a high plateau, utilizing the ruins of a First Age fortification, and carved the First Compact into the wall of the city's central hall.
 

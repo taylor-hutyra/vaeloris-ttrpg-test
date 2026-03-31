@@ -2,26 +2,121 @@
 wb-type: species
 wb-id: mirennians
 name: Mirennians
-aliases: [Coastal Traders, Poets of the Sea, Flame-Chosen]
+aliases:
+- Coastal Traders
+- Poets of the Sea
+- Flame-Chosen
 origin: Cultural divergence from common humanity; believe souls are celestial flames that chose flesh
 lifespan: 70-90 years
-traits: [mercantile, cosmopolitan, expressive, risk-taking, musical speech, wind and light idioms]
-habitat: ["[[Port Farrick]]", "[[Vol]]"]
+traits:
+- mercantile
+- cosmopolitan
+- expressive
+- risk-taking
+- musical speech
+- wind and light idioms
+habitat:
+- '[[Port Farrick]]'
+- '[[Vol]]'
 population: large
 relationships:
-  - target: "[[Humans]]"
-    type: child-of
-  - target: "[[Mirennian League]]"
-    type: governed-by
-  - target: "[[Varnathi]]"
-    type: rival-of
-  - target: "[[Pirate Confederacy]]"
-    type: enemy-of
-tags: [species, human, mirennian, venetian, phoenician]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Humans]]'
+  type: child
+- target: '[[Mirennian League]]'
+  type: controlled-by
+- target: '[[Varnathi]]'
+  type: rival
+- target: '[[Pirate Confederacy]]'
+  type: enemy
+- target: '[[Coastal Regions]]'
+  type: homeland
+  period: SA:35-
+  metadata:
+    description: Dominate the eastern coastal port cities of Vael
+- target: '[[Halflings]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Wayfinder Halflings operate intelligence networks in Mirennian cities
+- target: '[[Dwarves]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Bronze-Crest Dwarven clans of southern coasts maintain cordial relations
+- target: '[[Mirelarim]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Sea-Elves view ship-faring Mirennians with especial suspicion
+- target: '[[Orkin]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra during the War of the Barren Hills
+- target: '[[Keel-Laying of First Wave]]'
+  type: involved-in
+  period: SA:35
+  metadata:
+    description: Ancestors of the Mirennians turned to the sea for survival
+- target: '[[Mirelarim]]'
+  type: custom
+  period: SA
+  metadata:
+    description: 'suspicious-of: View ship-faring Mirennians with especial suspicion due to ocean pollution'
+- target: '[[Ilphara]]'
+  type: related
+  period: SA:80-
+  metadata:
+    description: Her celestial maps eventually guided Mirennian navigators across the ocean
+- target: '[[Pantheon of the Ordained]]'
+  type: enemy
+  metadata:
+    description: Religious tension — Mirennians favored fluid, elemental deities
+    nature: conflict
+- target: '[[The Four Makers]]'
+  type: worships
+  metadata:
+    description: View the Makers as elemental muses — Mason as Old Flame Beneath, Painter as the Dancing One
+    nature: practice
+- target: '[[Lothari]]'
+  type: rival
+  period: SA
+  metadata:
+    description: View Mirennians as 'too loud to hear the wind'
+- target: '[[Orkin]]'
+  type: related
+  period: SA
+  metadata:
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerin'r'
+- target: '[[Primalkyn]]'
+  type: related
+  period: SA
+  metadata:
+    description: Mirennian sailors tell of the Sorrowful Coast — a Tidekin's grief made physical
+- target: '[[Coastal Regions]]'
+  type: native
+  period: SA:35-
+  metadata:
+    description: Mercantile heartland of the coastal trading people
+- target: '[[Pact of the Northern Sanctuary]]'
+  type: involved-in
+  period: SA:761
+  metadata:
+    description: Captains swore pact of non-interference
+- target: '[[Rise of the Merchant Houses]]'
+  type: involved-in
+  period: SA:275
+  metadata:
+    description: Ship captains consolidated into governing merchant houses
+tags:
+- species
+- human
+- mirennian
+- venetian
+- phoenician
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Mirennians
 
 The **Mirennians** are the coastal [[Humans]] of the maritime free ports, a people defined by commerce, expression, and an unshakable belief in personal freedom. Often called the **Coastal Traders and Poets**, their civilization is a cosmopolitan thalassocracy -- a Venetian and Phoenician analog where coin and charisma determine standing.

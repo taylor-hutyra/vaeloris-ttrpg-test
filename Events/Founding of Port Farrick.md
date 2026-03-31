@@ -2,28 +2,69 @@
 wb-type: event
 wb-id: founding-of-port-farrick
 name: Founding of Port Farrick
-aliases: [Coastal Expansion]
-date: "SA:440"
-duration: "Rapid growth from military outpost to city"
-location: "[[Port Farrick]]"
-participants: ["[[Varnathi Empire]]", "[[Mirennians]]"]
-causes: ["Imperial desire to control maritime trade", "Strategic location at the mouth of the Great River"]
-consequences: ["Beginning of the Cold War between Empire and Mirennian League", "Mirennians formalized the Mirennian League for mutual defense", "Establishment of a critical trade gateway"]
-affected-entities: ["[[Port Farrick]]", "[[Varnathi Empire]]", "[[Mirennian League]]"]
+aliases:
+- Coastal Expansion
+date: SA:440
+period: SA:440
+duration: Rapid growth from military outpost to city
+location: '[[Port Farrick]]'
+participants:
+- '[[Varnathi Empire]]'
+- '[[Mirennians]]'
+causes:
+- Imperial desire to control maritime trade
+- Strategic location at the mouth of the Great River
+consequences:
+- Beginning of the Cold War between Empire and Mirennian League
+- Mirennians formalized the Mirennian League for mutual defense
+- Establishment of a critical trade gateway
+affected-entities:
+- '[[Port Farrick]]'
+- '[[Varnathi Empire]]'
+- '[[Mirennian League]]'
 status: historical
 relationships:
-  - target: "[[Codex of the Road]]"
-    type: related
-    period: "SA:425"
-  - target: "[[Incident of the Burning Mast]]"
-    type: precursor-to
-    period: "SA:520"
+- target: '[[Codex of the Road]]'
+  type: related
+  period: SA:425
+- target: '[[Incident of the Burning Mast]]'
+  type: preceded
+  period: SA:520
+- target: '[[Emperor Caelius I]]'
+  type: involved
+  period: SA:440
+  metadata:
+    description: Emperor whose coastal expansion founded the port
+- target: '[[Mirennian League]]'
+  type: caused
+  period: SA:440
+  metadata:
+    description: Mirennians formalized their League for mutual defense against imperial expansion
+- target: '[[Port Farrick]]'
+  type: involved
+  period: SA:440
+  metadata:
+    description: The city founded at the mouth of the Great River
+- target: '[[Incident of the Burning Mast]]'
+  type: related
+  period: SA:440
+- target: '[[Charting of the Broken Coast]]'
+  type: followed
+  period: SA:440
+  metadata:
+    description: Trade posts from this charting grew into the great Port Cities
+- target: '[[Coastal Expansion]]'
+  type: related
+  period: SA:440
+  metadata:
+    description: The Empire founded Port Farrick during this expansion
 timeline: []
-tags: [event, epoch-ii-ascendant-empires]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-ii-ascendant-empires
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Founding of Port Farrick
 
 Seeking to control maritime trade, the [[Varnathi Empire]] marched east to the coast and founded [[Port Farrick]] at the mouth of the Great River.

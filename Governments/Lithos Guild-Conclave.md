@@ -2,31 +2,65 @@
 wb-type: government
 wb-id: lithos-guild-conclave
 name: Lithos Guild-Conclave
-aliases: [Silent Gyre of Lithos, Rock Gnome Conclave]
+aliases:
+- Silent Gyre of Lithos
+- Rock Gnome Conclave
 type: meritocracy
 founded: null
-territory: ["[[Lithos]]", "[[Dragon's Tooth Mountains]]"]
-leader: "[[Deep Warden]]"
-capital: "[[Lithos]]"
+territory:
+- '[[Lithos]]'
+- '[[Dragon''s Tooth Mountains]]'
+leader: '[[Deep Warden]]'
+capital: '[[Lithos]]'
 laws:
-  - "Guild seats held for life or until demonstrably surpassed in skill"
-  - "Precision and quiet perfection as the measure of worth"
+- Guild seats held for life or until demonstrably surpassed in skill
+- Precision and quiet perfection as the measure of worth
 relationships:
-  - target: "[[Mycohollow Mycelial Council]]"
-    type: cultural-kin
-    period: ""
-  - target: "[[Kharnzarak Monarchy]]"
-    type: respectful-distance
-    period: ""
-  - target: "[[Gearhaven Cog-Council]]"
-    type: intellectual-interest
-    period: ""
+- target: '[[Mycohollow Mycelial Council]]'
+  type: custom
+  metadata:
+    description: cultural-kin
+- target: '[[Kharnzarak Monarchy]]'
+  type: ally
+  metadata:
+    nature: distant respect
+- target: '[[Gearhaven Cog-Council]]'
+  type: custom
+  metadata:
+    description: intellectual-interest
+- target: '[[Rock Gnomes]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Technocratic Guild-Conclave governing the Deep-Weavers of Lithos
+- target: '[[Lithos]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Rules the subterranean city of Lithos
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Located deep within the Dragon's Tooth mountains
+- target: '[[Hannan''r'']]'
+  type: ally
+  period: SA:89-
+  metadata:
+    description: Rock Gnomes secretly aided in stabilizing the wards around Hannan'r'
+- target: '[[Gnomes]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Rock Gnomes governed by the Technocratic Guild-Conclave of Lithos
 timeline: []
-tags: [government, gnome, rock-gnome]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- gnome
+- rock-gnome
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Lithos Guild-Conclave
 
 Deep within the [[Dragon's Tooth Mountains]] lies [[Lithos]], the greatest city of the [[Rock Gnomes]], a breathtaking subterranean metropolis of silent clockwork, glowing crystals, and geothermal vents.

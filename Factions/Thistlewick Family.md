@@ -1,49 +1,70 @@
 ---
 wb-type: faction
-wb-id: "thistlewick-family"
-name: "Thistlewick Family"
+wb-id: thistlewick-family
+name: Thistlewick Family
 aliases:
-  - "The Thistlewicks"
-  - "The Traders"
-type: "trade/political"
+- The Thistlewicks
+- The Traders
+type: trade/political
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Burrows]]"
-influence: "major"
+- '[[Burrows]]'
+influence: major
 goals:
-  - "Expand trade networks connecting the Burrows to the outside world"
-  - "Import exotic goods, spices, and news from foreign lands"
-  - "Maintain the family's mercantile influence"
+- Expand trade networks connecting the Burrows to the outside world
+- Import exotic goods, spices, and news from foreign lands
+- Maintain the family's mercantile influence
 relationships:
-  - target: "[[Halflings]]"
-    type: "major family within"
-    period: ""
-  - target: "[[Appledown Family]]"
-    type: "rival"
-    period: ""
-  - target: "[[Rumblkin Family]]"
-    type: "trade partner"
-    period: ""
-  - target: "[[Spicers' Guild]]"
-    type: "connected to"
-    period: ""
+- target: '[[Halflings]]'
+  type: member
+  metadata:
+    nature: major family
+- target: '[[Appledown Family]]'
+  type: rival
+- target: '[[Rumblkin Family]]'
+  type: trade
+  metadata:
+    description: Trade partner for stone and iron, though with ongoing friction over prices
+- target: '[[Spicers'' Guild]]'
+  type: ally
+  metadata:
+    description: Connected to the Wayfinder intelligence and mutual aid network
+- target: '[[Milo]]'
+  type: member
+  metadata:
+    description: Sprawling Halfling trading family known for shrewd business and extensive networks
+- target: '[[Rumblkin Family]]'
+  type: rival
+  metadata:
+    description: Constant low-grade friction over trade prices — Rumblkins feel undercompensated
+- target: '[[Spicers'' Guild]]'
+  type: custom
+  metadata:
+    description: connected to
+- target: '[[Milo]]'
+  type: has-member
+  metadata:
+    description: Sprawling Halfling trading family known for shrewd business and extensive networks
+- target: '[[Halflings]]'
+  type: has-member
+  metadata:
+    nature: major family
 timeline:
-  - period: ""
-    event: "Rose to prominence through extensive trade networks"
-  - period: ""
-    event: "Established connections to major Tallfolk markets and ports"
+- period: SA:980-
+  event: Rose to prominence through extensive trade networks
+- period: SA:980-
+  event: Established connections to major Tallfolk markets and ports
 tags:
-  - faction
-  - halfling
-  - hearthfolk
-  - trade
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- hearthfolk
+- trade
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Thistlewick Family
 
 The Thistlewicks are a sprawling, influential [[Halflings|Halfling]] merchant family known for their shrewd business sense and extensive trade networks that connect the [[Burrows]] to the outside world. They are seen as worldly and a bit too ambitious by other Halflings, but their imports of spices, fine fabrics, and news are indispensable to Commonwealth life.

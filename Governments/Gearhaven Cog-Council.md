@@ -2,31 +2,82 @@
 wb-type: government
 wb-id: gearhaven-cog-council
 name: Gearhaven Cog-Council
-aliases: [Technocracy of Gearhaven, Elm-korin Government]
+aliases:
+- Technocracy of Gearhaven
+- Elm-korin Government
 type: meritocracy
 founded: null
-territory: ["[[Gearhaven]]"]
-leader: "[[Arch-Artisan]]"
-capital: "[[Gearhaven]]"
+territory:
+- '[[Gearhaven]]'
+leader: '[[Arch-Artisan]]'
+capital: '[[Gearhaven]]'
 laws:
-  - "Guild-Master positions earned through proven contributions"
-  - "Leadership by challenge — any subordinate may present superior designs"
+- Guild-Master positions earned through proven contributions
+- Leadership by challenge — any subordinate may present superior designs
 relationships:
-  - target: "[[Kharnzarak Monarchy]]"
-    type: estranged
-    period: ""
-  - target: "[[Mycohollow Mycelial Council]]"
-    type: philosophical-exchange
-    period: ""
-  - target: "[[Chartered Kith Weaver's Synod]]"
-    type: trade-partner
-    period: ""
+- target: '[[Kharnzarak Monarchy]]'
+  type: rival
+  metadata:
+    nature: estranged
+- target: '[[Mycohollow Mycelial Council]]'
+  type: custom
+  metadata:
+    description: philosophical-exchange
+- target: '[[Chartered Kith Weaver''s Synod]]'
+  type: trade
+- target: '[[Elm-korin]]'
+  type: controls
+  period: SA:1485-
+  metadata:
+    description: Governs the Elm-korin Dwarves and the city of Gearhaven
+- target: '[[Gearhaven]]'
+  type: controls
+  period: SA:1485-
+  metadata:
+    description: Rules the technomantic city-state from the Cog-Council chambers
+- target: '[[Humans]]'
+  type: has-member
+  period: SA:1485-
+  metadata:
+    description: Human mages and scholars integral to Gearhaven's governance and economy
+- target: '[[Gnomes]]'
+  type: has-member
+  period: SA:1485-
+  metadata:
+    description: Gnomish engineers and bio-engineers serve in the Symbiotic Weave faction
+- target: '[[Magocracy]]'
+  type: rival
+  period: SA:2750-
+  metadata:
+    description: Arcane regulation clashes with Gearhaven's unrestricted magical innovation
+- target: '[[Technocratic Blockade]]'
+  type: involved-in
+  period: SA:1880
+  metadata:
+    description: The Cog-Council authorized the blockade due to Brimstone shortages
+- target: '[[Aen''valar Council]]'
+  type: custom
+  metadata:
+    description: intellectual-exchange
+- target: '[[Lithos Guild-Conclave]]'
+  type: custom
+  metadata:
+    description: intellectual-interest
+- target: '[[Novaterran Hold System]]'
+  type: trade
+- target: '[[Dwarves]]'
+  type: controls
+  period: SA:1485-
+  metadata:
+    description: Elm-korin governed by the technocratic Cog-Council of Gearhaven
 timeline: []
-tags: [government, dwarf, elm-korin]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- dwarf
+- elm-korin
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Gearhaven Cog-Council
 
 [[Gearhaven]] is the antithesis of [[Kharnzarak Monarchy|Kharnzarak]]: a city-state driven by progress, logic, and the heretical belief in perfecting creation through magical technology. It is home to the [[Elm-korin]] ("The Flame-Struck"), [[Dwarves]] exiled during the Second Age for their belief that mortal magic was a tool to achieve perfect logical order.

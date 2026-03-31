@@ -2,33 +2,70 @@
 wb-type: faction
 wb-id: pirate-confederacy
 name: Pirate Confederacy
-aliases: [Freebooter Nation]
+aliases:
+- Freebooter Nation
 type: military
-founded: "SA:1020"
+founded: SA:1020
 dissolved: null
-headquarters: "[[Fractured Isles]]"
+headquarters: '[[Fractured Isles]]'
 leader: null
-territory: ["[[Fractured Isles]]", "[[Serpent's Tooth]]"]
+territory:
+- '[[Fractured Isles]]'
+- '[[Serpent''s Tooth]]'
 influence: moderate
 goals:
-  - Maintain independence from all mainland powers
-  - Raid Mirennian and Varnathi shipping
-  - Enforce the Code of the Coast among pirate crews
-relationships: []
+- Maintain independence from all mainland powers
+- Raid Mirennian and Varnathi shipping
+- Enforce the Code of the Coast among pirate crews
+relationships:
+- target: '[[Golden Compass Syndicate]]'
+  type: enemy
+  period: SA:1020-
+  metadata:
+    description: Primary target of pirate raids on merchant shipping
+- target: '[[Mirennian League]]'
+  type: enemy
+  period: SA:1020-
+  metadata:
+    description: League navies hunt pirate fleets relentlessly
+- target: '[[Drakona]]'
+  type: ally
+  period: SA:2280-2595
+  metadata:
+    description: 'Scaled Pact: pirates served as Drakona scouts in exchange for air cover'
+- target: '[[Azure Hand]]'
+  type: ally
+  period: SA:1100-
+  metadata:
+    description: Complex collaborative relationship to destabilize Golden Compass rivals
+- target: '[[Port Farrick]]'
+  type: enemy
+  period: SA:1070
+  metadata:
+    description: Captain Vane blockaded the port for six months
+- target: '[[Floating Market of Zure]]'
+  type: involved-in
+  period: SA:2500-2688
+  metadata:
+    description: Cloudborn Corsairs traded at the floating wartime market
 timeline:
-  - period: "SA:1020"
-    label: Captain Vane united pirate crews and established the Code of the Coast
-  - period: "SA:1070"
-    label: Blockaded Port Farrick for six months
-  - period: "SA:2280"
-    label: Entered the Scaled Pact with the Drakona
-  - period: "SA:2595"
-    label: Granted legal status via the Privateer Accords during the Dragonfall
-tags: [faction, human, pirate, military, criminal]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1020
+  label: Captain Vane united pirate crews and established the Code of the Coast
+- period: SA:1070
+  label: Blockaded Port Farrick for six months
+- period: SA:2280
+  label: Entered the Scaled Pact with the Drakona
+- period: SA:2595
+  label: Granted legal status via the Privateer Accords during the Dragonfall
+tags:
+- faction
+- human
+- pirate
+- military
+- criminal
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Pirate Confederacy
 
 The **Pirate Confederacy of the [[Fractured Isles]]** is a lawless, anarcho-syndicalist confederation of pirate crews operating out of hidden coves in the southern archipelago. United by their hatred of the [[Mirennian League]] and the [[Varnathi]] navy, they are a persistent thorn in the side of every maritime power.

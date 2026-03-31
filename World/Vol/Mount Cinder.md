@@ -2,35 +2,53 @@
 wb-type: place
 wb-id: mount-cinder
 name: Mount Cinder
-aliases: [The Sundering Volcano]
-parent: "[[Vol]]"
+aliases:
+- The Sundering Volcano
+parent: '[[Vol]]'
 spatial-type: volcano
 contains: []
 population: null
 ruler: null
 faction: null
 climate: volcanic
-resources: [geothermal-energy, volcanic-minerals]
+resources:
+- geothermal-energy
+- volcanic-minerals
 status: active
 relationships:
-  - target: "[[Mirennian League]]"
-    type: devastated
-    period: "SA:635"
-  - target: "[[Bronr'n]]"
-    type: caused-exodus-of
-    period: "SA:1200"
+- target: '[[Mirennian League]]'
+  type: custom
+  period: SA:635
+  metadata:
+    description: devastated
+- target: '[[Bronr''n]]'
+  type: custom
+  period: SA:1200
+  metadata:
+    description: caused-exodus-of
+- target: '[[Sundering of Mount Cinder]]'
+  type: involved-in
+  period: SA:635
+  metadata:
+    description: The dormant volcano that erupted with cataclysmic force
+- target: '[[Vol]]'
+  type: located-in
 timeline:
-  - period: "SA:635"
-    label: "Catastrophic eruption -- the Sundering of Mount Cinder; ash chokes skies for three years"
-  - period: "SA:635"
-    label: "Tsunami of Tears destroys 40% of the Mirennian fleet and harbor infrastructure"
-  - period: "SA:635-SA:638"
-    label: "The Gloom Famine caused by atmospheric ash"
-tags: [place, volcano, vol, natural-disaster, mirennian]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:635
+  label: Catastrophic eruption -- the Sundering of Mount Cinder; ash chokes skies for three years
+- period: SA:635
+  label: Tsunami of Tears destroys 40% of the Mirennian fleet and harbor infrastructure
+- period: SA:635-SA:638
+  label: The Gloom Famine caused by atmospheric ash
+tags:
+- place
+- volcano
+- vol
+- natural-disaster
+- mirennian
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mount Cinder
 
 **Mount Cinder** is an active volcano on **[[Vol]]**, a [[Mirennian League]] outpost island. Its catastrophic eruption in SA:635 was one of the defining disasters of the Second Age, reshaping the political and economic landscape of [[Vaeloris]] for centuries.

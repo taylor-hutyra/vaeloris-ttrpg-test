@@ -2,26 +2,45 @@
 wb-type: item
 wb-id: star-metal
 name: Star-Metal
-aliases: [Meteorite Iron, Sky-Steel]
+aliases:
+- Meteorite Iron
+- Sky-Steel
 type: resource
 owner: null
 creator: null
-location: "[[Kharnzarak]]"
+location: '[[Kharnzarak]]'
 properties:
-  - Meteorite iron of extraordinary hardness and durability
-  - Found only in the upper peaks of the Dragon's Tooth range
-  - Extremely rare and difficult to work
-  - Holds enchantments better than any other known metal
+- Meteorite iron of extraordinary hardness and durability
+- Found only in the upper peaks of the Dragon's Tooth range
+- Extremely rare and difficult to work
+- Holds enchantments better than any other known metal
 magical: true
 relationships:
-  - { target: "[[Kharnzarak]]", type: "controlled-by", detail: "The unified Dwarven kingdom controls all known Star-Metal deposits" }
-  - { target: "[[Korin Barazkor]]", type: "leveraged-by", detail: "Control of Star-Metal supply enabled unification of the Dwarven clans" }
-  - { target: "[[Crown of the Mountain]]", type: "component-of", detail: "The regalia of the Dwarven High King incorporates Star-Metal" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Kharnzarak]]'
+  type: controlled-by
+- target: '[[Korin Barazkor]]'
+  type: custom
+  metadata:
+    description: leveraged-by
+- target: '[[Crown of the Mountain]]'
+  type: custom
+  metadata:
+    description: component-of
+- target: '[[Unification of Dwarven Clans]]'
+  type: involved-in
+  period: SA:91
+  metadata:
+    description: Meteorite iron monopoly was key to Korin Barazkor's political leverage
+- target: '[[Thane Korin Barazkor]]'
+  type: controlled-by
+  period: SA:91
+  metadata:
+    description: Monopoly on meteorite iron was key to his political leverage
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Star-Metal
 
 Star-Metal is an exceptionally rare meteorite iron found in the upper peaks of the Dragon's Tooth mountain range, within the territory of [[Kharnzarak]]. Prized for its extraordinary hardness, durability, and unmatched capacity to hold magical enchantments, it is the most coveted metal in [[Vaeloris]] -- and its control has shaped the course of Dwarven history.

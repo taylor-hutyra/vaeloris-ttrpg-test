@@ -1,52 +1,127 @@
 ---
 wb-type: religion
 wb-id: church-of-the-celestial-word
-name: "Church of the Celestial Word"
-aliases: [Veridia Caelus, The Church]
+name: Church of the Celestial Word
+aliases:
+- Veridia Caelus
+- The Church
 type: organized-faith
-founded: "SA:2020"
-founder: "[[Iovan]]"
+founded: SA:2020
+founder: '[[Iovan]]'
 deities: []
-headquarters: "[[Luminas]]"
+headquarters: '[[Luminas]]'
 tenets:
-  - "The universe responds to moral resonance"
-  - "Faith is not a petition to absent gods but a force that shapes reality"
-  - "Clarity, not force (Claritas, non vis)"
-  - "Service to the suffering is the highest act of faith"
-  - "The cosmos listens — what matters is what we say"
-followers: "Cross-species; predominantly Human but open to all races"
+- The universe responds to moral resonance
+- Faith is not a petition to absent gods but a force that shapes reality
+- Clarity, not force (Claritas, non vis)
+- Service to the suffering is the highest act of faith
+- The cosmos listens — what matters is what we say
+followers: Cross-species; predominantly Human but open to all races
 relationships:
-  - target: "[[Aetheris]]"
-    type: origin
-    note: "The collective faith of the Church gave birth to the Aetheris"
-  - target: "[[Iovan]]"
-    type: founder
-  - target: "[[Luminas]]"
-    type: headquarters
-  - target: "[[Pantheon of the Ordained]]"
-    type: successor
-    note: "Rose from the ashes of the earlier state religion"
-  - target: "[[Kael'Zorai]]"
-    type: adversary
-    note: "The Silent Blight threatens everything the Church represents"
+- target: '[[Aetheris]]'
+  type: origin
+  metadata:
+    description: The collective faith of the Church gave birth to the Aetheris
+- target: '[[Iovan]]'
+  type: founder
+- target: '[[Luminas]]'
+  type: located-in
+  metadata:
+    nature: headquarters
+- target: '[[Pantheon of the Ordained]]'
+  type: successor
+  metadata:
+    description: Rose from the ashes of the earlier state religion
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: The Silent Blight threatens everything the Church represents
+- target: '[[Humans]]'
+  type: worshipped-by
+  period: SA:2020-
+  metadata:
+    description: Predominantly Human faith, though open to all races
+    nature: practice
+- target: '[[Magocracy]]'
+  type: related
+  period: SA:2685
+  metadata:
+    description: Church pleaded for mercy at the Conclave of Luminas before the Skyfall
+- target: '[[Drakona]]'
+  type: related
+  period: SA:2685
+  metadata:
+    description: Church leaders advocated against genocide at the Conclave of Luminas
+- target: '[[Elves]]'
+  type: worshipped-by
+  period: SA
+  metadata:
+    description: Cross-species faith; Aetheris are kindred-observers of Elves
+    nature: practice
+- target: '[[Magocracy]]'
+  type: related
+  period: SA
+  metadata:
+    description: Church leaders pleaded for mercy at the Conclave of Luminas before the Skyfall
+- target: '[[Silent Blight]]'
+  type: enemy
+  period: SA
+  metadata:
+    description: The Blight threatens everything the Church represents — its greatest theological test
+- target: '[[Aenareth]]'
+  type: worships
+  metadata:
+    description: Counted among the Primi Caelus
+- target: '[[Pantheon of the Ordained]]'
+  type: predecessor
+  metadata:
+    description: The Church rose from the Ordained's ashes after secularization
+- target: '[[Aetheris]]'
+  type: creator
+  period: SA:2032
+  metadata:
+    description: Born from the collective faith of the Church; first appeared defending refugees outside Luminas
+- target: '[[Humans]]'
+  type: worshipped-by
+  period: SA:2020-
+  metadata:
+    description: The most significant cross-species faith, predominantly Human
+- target: '[[Luminas]]'
+  type: located-in
+  period: SA:2020-
+  metadata:
+    nature: headquarters
+- target: '[[Aetheris]]'
+  type: origin-of
+- target: '[[Luminas]]'
+  type: contains
+  period: SA:2020-
+  metadata:
+    nature: headquarters
 timeline:
-  - period: "SA:455"
-    event: "The Pantheon of the Ordained is established as Varnathi state religion"
-  - period: "SA:800"
-    event: "Secular Decrees strip the old Priesthood of power; the Church survives as a charitable organization"
-  - period: "SA:1960-2020"
-    event: "The Bleeding Years — forty years of war and famine make secular promises ring hollow"
-  - period: "SA:2020"
-    event: "Iovan begins preaching the Celestial Word in Luminas"
-  - period: "SA:2032"
-    event: "The Herald in Flame — first Aetheris appears, defending refugees outside Luminas"
-  - period: "SA:2685"
-    event: "Church leaders plead for mercy at the Conclave of Luminas before the Skyfall"
-tags: [religion, organized-faith, cross-species, aetheris]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:455
+  event: The Pantheon of the Ordained is established as Varnathi state religion
+- period: SA:800
+  event: Secular Decrees strip the old Priesthood of power; the Church survives as a charitable organization
+- period: SA:1960-2020
+  event: The Bleeding Years — forty years of war and famine make secular promises ring hollow
+- period: SA:2020
+  event: Iovan begins preaching the Celestial Word in Luminas
+- period: SA:2032
+  event: The Herald in Flame — first Aetheris appears, defending refugees outside Luminas
+- period: SA:2188
+  event: The Hymn of the Hidden Star — blind musician Sylla in M'ren'r' reveals herself as an Aetheris, validating the Velo
+    Aspectus doctrine; Sylla's Hymn becomes the anthem of the Church
+- period: SA:2685
+  event: Church leaders plead for mercy at the Conclave of Luminas before the Skyfall
+tags:
+- religion
+- organized-faith
+- cross-species
+- aetheris
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Church of the Celestial Word
 
 The **Church of the Celestial Word** — known in the sacred tongue of the [[Aetheris]] as **Veridia Caelus** — is the most significant cross-species organized faith in [[Vaeloris]]. It was founded not on the return of old gods, but on a radical proposition: that the universe itself responds to **moral resonance**, and that the collective hope of mortals is not a cry into emptiness but a force that shapes reality.
@@ -86,6 +161,10 @@ Core tenets:
 The [[Aetheris]] are the Church's living validation. They are the **Kyria Solanis** — the Response of Faith — born from the collective hope and desperate prayer of mortals in an age of divine silence. They are not angels, not spirits of the dead, but sentient vessels of light and will, conduits for the belief that shaped them.
 
 The Aetheris themselves call the Church **Veridia Caelus** — the Celestial Word — and count its founding among the most significant events in the history of Vaeloris. They perceive the original First Hands as the **Primi Caelus** (the First Harmonies) and see themselves as the final, quiet chord — a coda played in the ensuing silence.
+
+## The Hymn of the Hidden Star (SA:2188)
+
+In [[M'ren'r']], a blind musician named **Sylla** gained fame for her haunting compositions. Upon her deathbed, she revealed herself as an [[Aetheris]] who had lived a mortal life to understand human suffering. The revelation that Aetheris could walk among mortals in disguise -- the **Velo Aspectus** -- caused a religious fervor. "Sylla's Hymn" became the anthem of the Church, and conversion rates soared.
 
 ## Historical Role
 

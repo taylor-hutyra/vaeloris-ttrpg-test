@@ -1,40 +1,45 @@
 ---
 wb-type: faction
-wb-id: "shattered-spear-company"
-name: "Shattered-Spear Company"
+wb-id: shattered-spear-company
+name: Shattered-Spear Company
 aliases: []
 type: mercenary
 founded: null
 dissolved: null
-headquarters: "[[Novaterra]]"
-leader: "Hold-Thane"
+headquarters: '[[Novaterra]]'
+leader: Hold-Thane
 territory:
-  - "[[Novaterra]]"
+- '[[Novaterra]]'
 influence: significant
 goals:
-  - "Maintain legendary discipline and martial reputation"
-  - "Secure profitable contracts from any of the Free Peoples"
-  - "Expand the Company's influence through mercenary excellence"
+- Maintain legendary discipline and martial reputation
+- Secure profitable contracts from any of the Free Peoples
+- Expand the Company's influence through mercenary excellence
 relationships:
-  - target: "[[Iron-Grit Syndicate]]"
-    type: business-associate
-    period: null
-  - target: "[[Free Peoples]]"
-    type: contractor
-    period: null
+- target: '[[Iron-Grit Syndicate]]'
+  type: custom
+  metadata:
+    description: business-associate
+- target: '[[Free Peoples]]'
+  type: custom
+  metadata:
+    description: contractor
+- target: '[[Dust-Diggers]]'
+  type: custom
+  metadata:
+    description: occasional-client
 timeline:
-  - period: null
-    event: "Established as an elite mercenary Hold on Novaterra"
+- period: null
+  event: Established as an elite mercenary Hold on Novaterra
 tags:
-  - faction
-  - orkin
-  - mercenary
-  - novaterra
-  - military
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- mercenary
+- novaterra
+- military
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Shattered-Spear Company
 
 A legendary [[Orkin]] mercenary Hold on [[Novaterra]], known for its discipline and effectiveness. The Shattered-Spear Company takes contracts from any of the [[Free Peoples]], their loyalty sold to the highest bidder. They have earned a reputation as the finest professional soldiers in the new continent.

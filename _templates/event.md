@@ -4,6 +4,7 @@ wb-id: "{{name | lower | replace(' ', '-')}}"
 name: "{{name}}"
 aliases: []
 date: null
+period: null
 duration: null
 location: null
 participants: []

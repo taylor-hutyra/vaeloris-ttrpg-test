@@ -1,51 +1,70 @@
 ---
 wb-type: faction
-wb-id: "ashfall"
-name: "Ashfall"
+wb-id: ashfall
+name: Ashfall
 aliases:
-  - "Barony of Ashfall"
-  - "The Gray Market"
+- Barony of Ashfall
+- The Gray Market
 type: political
-founded: "SA:3100"
+founded: SA:3100
 dissolved: null
-headquarters: "Ashfall region"
+headquarters: Ashfall region
 leader: null
 territory:
-  - "Ashfall region"
+- Ashfall region
 influence: major
 goals:
-  - "Maintain sovereignty through necro-industrial military power"
-  - "Supply the world with forbidden and unethical technology"
-  - "Expand industrial capacity using undead labor"
+- Maintain sovereignty through necro-industrial military power
+- Supply the world with forbidden and unethical technology
+- Expand industrial capacity using undead labor
 relationships:
-  - target: "[[Magocracy]]"
-    type: former-enemy
-    period: "SA:3100-SA:3250"
-  - target: "[[Magocracy]]"
-    type: covert-supplier
-    period: "SA:3250-"
-  - target: "[[Federation of City-States]]"
-    type: former-member
-    period: null
+- target: '[[Magocracy]]'
+  type: enemy
+  period: SA:3100-SA:3250
+  metadata:
+    nature: former
+- target: '[[Magocracy]]'
+  type: trade
+  period: SA:3250-
+  metadata:
+    nature: covert
+- target: '[[Federation of City-States]]'
+  type: member
+  metadata:
+    nature: former
+- target: '[[Necro-Industrialism]]'
+  type: worships
+  period: SA:3100-
+  metadata:
+    description: Unveiled Necro-Industrialism as ultimate deterrent against invasion
+    nature: practice
+- target: '[[Ashfall Secession]]'
+  type: involved-in
+  period: SA:3100
+  metadata:
+    description: Declared independence from the Federation; repelled three Magocracy invasions
+- target: '[[Necro-Industrial Machinery]]'
+  type: custom
+  metadata:
+    description: used-by
 timeline:
-  - period: "SA:3100"
-    event: "The Ashfall Secession—declared independence from the Federation, unveiled Necro-Industrialism"
-  - period: "SA:3100-SA:3250"
-    event: "Repelled three Magocracy invasions; the dead rose to fight each time"
-  - period: "SA:3250"
-    event: "The Ashfall Compact—Magocracy recognized Ashfall's sovereignty"
-  - period: "SA:3250-"
-    event: "Became the world's dark laboratory, supplying forbidden weapons to fight the Grey Rot"
+- period: SA:3100
+  event: The Ashfall Secession—declared independence from the Federation, unveiled Necro-Industrialism
+- period: SA:3100-SA:3250
+  event: Repelled three Magocracy invasions; the dead rose to fight each time
+- period: SA:3250
+  event: The Ashfall Compact—Magocracy recognized Ashfall's sovereignty
+- period: SA:3250-
+  event: Became the world's dark laboratory, supplying forbidden weapons to fight the Grey Rot
 tags:
-  - faction
-  - political
-  - necro-industrial
-  - secessionist
-  - undead
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- political
+- necro-industrial
+- secessionist
+- undead
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Ashfall
 
 A sovereign industrial barony that declared independence from the [[Federation of City-States]] in SA:3100, unveiling [[Necro-Industrialism]]—factories and armies powered by the undead. After repelling three [[Magocracy]] invasions (the dead simply rose to fight again), Ashfall won formal recognition of its sovereignty in the [[Ashfall Compact]] of SA:3250.

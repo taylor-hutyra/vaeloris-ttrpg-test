@@ -1,41 +1,42 @@
 ---
 wb-type: faction
-wb-id: "butchers-guild"
-name: "Butchers' Guild"
+wb-id: butchers-guild
+name: Butchers' Guild
 aliases: []
 type: economic
 founded: null
 dissolved: null
-headquarters: "[[Luminas]]"
+headquarters: '[[Luminas]]'
 leader: null
 territory:
-  - "[[Luminas]] (Orkin Quarter)"
+- '[[Luminas]] (Orkin Quarter)'
 influence: significant
 goals:
-  - "Control the food supply within the Orkin Quarter"
-  - "Maintain economic leverage over the Neighborhood Council"
-  - "Expand trade connections beyond the Quarter"
+- Control the food supply within the Orkin Quarter
+- Maintain economic leverage over the Neighborhood Council
+- Expand trade connections beyond the Quarter
 relationships:
-  - target: "[[Urban Orkin of Luminas]]"
-    type: power-broker
-    period: null
-  - target: "[[Masons' Guild]]"
-    type: co-equal-rival
-    period: null
+- target: '[[Urban Orkin of Luminas]]'
+  type: custom
+  metadata:
+    description: power-broker
+- target: '[[Masons'' Guild]]'
+  type: rival
+  metadata:
+    nature: co-equal
 timeline:
-  - period: null
-    event: "Established as the primary food trade guild within the Orkin Quarter of Luminas"
+- period: null
+  event: Established as the primary food trade guild within the Orkin Quarter of Luminas
 tags:
-  - faction
-  - orkin
-  - economic
-  - guild
-  - urban
-  - mainland
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- economic
+- guild
+- urban
+- mainland
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Butchers' Guild
 
 An [[Orkin]] trade guild operating within the Orkin Quarter of [[Luminas]], controlling the community's food supply. Alongside the [[Masons' Guild]], the Butchers' Guild is one of the true economic and political power brokers of the [[Urban Orkin of Luminas|Orkin Quarter]], its leaders often holding more influence than the elders on the Neighborhood Council.

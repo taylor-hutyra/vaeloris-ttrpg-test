@@ -1,38 +1,38 @@
 ---
 wb-type: faction
-wb-id: "crag-striders-of-grey-peaks"
-name: "Crag-Striders of Grey Peaks"
+wb-id: crag-striders-of-grey-peaks
+name: Crag-Striders of Grey Peaks
 aliases:
-  - "Crag-Striders"
+- Crag-Striders
 type: cultural
 founded: null
 dissolved: null
-headquarters: "[[Grey Peaks]]"
-leader: "Council of Elders"
+headquarters: '[[Grey Peaks]]'
+leader: Council of Elders
 territory:
-  - "[[Grey Peaks]]"
+- '[[Grey Peaks]]'
 influence: local
 goals:
-  - "Practice Still-Growth in harmony with the mountains"
-  - "Preserve the wisdom of age and lived experience"
-  - "Maintain patient, deliberate progress"
+- Practice Still-Growth in harmony with the mountains
+- Preserve the wisdom of age and lived experience
+- Maintain patient, deliberate progress
 relationships:
-  - target: "[[Quiet Vales Kith]]"
-    type: distant-kin
-    period: null
+- target: '[[Quiet Vales Kith]]'
+  type: sibling
+  metadata:
+    nature: distant
 timeline:
-  - period: null
-    event: "Established as an isolated Waldkyn enclave in the high mountain valleys"
+- period: null
+  event: Established as an isolated Waldkyn enclave in the high mountain valleys
 tags:
-  - faction
-  - waldkyn
-  - enclave
-  - mainland
-  - mountain
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- waldkyn
+- enclave
+- mainland
+- mountain
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Crag-Striders of Grey Peaks
 
 An isolated enclave of primarily [[Firbolg]] and [[Galapa]] [[Waldkyn]] who live in high, inaccessible mountain valleys of the [[Grey Peaks]]. They have adapted their philosophy of balance to the unforgiving nature of stone, embodying the concept of [[Still-Growth]]—patient, deliberate progress.

@@ -1,32 +1,65 @@
 ---
 wb-type: government
 wb-id: aenvalar-council
-name: "Aen'valar Council"
-aliases: [Conclave of Aethelas, Scholarly Republic of Aethelas]
+name: Aen'valar Council
+aliases:
+- Conclave of Aethelas
+- Scholarly Republic of Aethelas
 type: meritocracy
 founded: null
-territory: ["[[Aethelas]]", "[[Novaterra]]"]
-leader: "[[Loremaster Prime]]"
-capital: "[[Aethelas]]"
+territory:
+- '[[Aethelas]]'
+- '[[Novaterra]]'
+leader: '[[Loremaster Prime]]'
+capital: '[[Aethelas]]'
 laws:
-  - "Leadership earned through groundbreaking research and peer-reviewed discovery"
-  - "Twenty-year terms for the Loremaster Prime"
+- Leadership earned through groundbreaking research and peer-reviewed discovery
+- Twenty-year terms for the Loremaster Prime
 relationships:
-  - target: "[[Cirhannim Hierarchy]]"
-    type: strained
-    period: ""
-  - target: "[[M'ren'r' Triumvirate]]"
-    type: academic-alliance
-    period: ""
-  - target: "[[Gearhaven Cog-Council]]"
-    type: intellectual-exchange
-    period: ""
+- target: '[[Cirhannim Hierarchy]]'
+  type: custom
+  metadata:
+    description: strained
+- target: '[[M''ren''r'' Triumvirate]]'
+  type: custom
+  metadata:
+    description: academic-alliance
+- target: '[[Gearhaven Cog-Council]]'
+  type: custom
+  metadata:
+    description: intellectual-exchange
+- target: '[[Aen''valar]]'
+  type: controls
+  period: SA:2175-
+  metadata:
+    description: Scholastic meritocracy governing the Forward-Singers
+- target: '[[Aethelas]]'
+  type: controls
+  period: SA:2175-
+  metadata:
+    description: Rules the sovereign city-state of Aethelas
+- target: '[[Magocracy]]'
+  type: rival
+  period: SA:2715-
+  metadata:
+    description: Magocracy suppressed Elaruniel's research on Arcane Scarcity
+- target: '[[Sael''anir Star-Moot]]'
+  type: custom
+  metadata:
+    description: philosophical-difference
+- target: '[[Elves]]'
+  type: controls
+  period: SA:2175-
+  metadata:
+    description: Scholastic meritocracy governing Aethelas
 timeline: []
-tags: [government, elf, aenvalar]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- elf
+- aenvalar
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aen'valar Council
 
 The [[Aen'valar]] ("The Forward-Singers") reject monarchy and tradition, building their society around the pursuit of knowledge and the composition of the "Unwritten Song" (*Aen'valan*). Their capital, the great library-observatory of [[Aethelas]] ("Star-Sight") on [[Novaterra]], is a sovereign city-state governed by scholarship.

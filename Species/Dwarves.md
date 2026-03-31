@@ -2,29 +2,241 @@
 wb-type: species
 wb-id: dwarves
 name: Dwarves
-aliases: [Kharnfolk, The Deep-Shaped, Children of Stone]
-origin: "Formed by the enduring alliance of Tharn'm and Farrazul, shaped from stone and soul-deep ore beneath the world's crust, imbued with rhythm, purpose, and permanence by Aen'r-Khadaz the Deep Shaper"
-lifespan: "350-500 years"
-traits: [enduring, structured, craft-devoted, traditionalist, resilient, oath-bound]
-habitat: ["[[Kharnzarak]]", "[[Gearhaven]]", "[[Novaterra]]", "[[Dragon's Tooth Mountains]]"]
+aliases:
+- Kharnfolk
+- The Deep-Shaped
+- Children of Stone
+origin: Formed by the enduring alliance of Tharn'm and Farrazul, shaped from stone and soul-deep ore beneath the world's crust,
+  imbued with rhythm, purpose, and permanence by Aen'r-Khadaz the Deep Shaper
+lifespan: 350-500 years
+traits:
+- enduring
+- structured
+- craft-devoted
+- traditionalist
+- resilient
+- oath-bound
+habitat:
+- '[[Kharnzarak]]'
+- '[[Gearhaven]]'
+- '[[Novaterra]]'
+- '[[Dragon''s Tooth Mountains]]'
 population: moderate
 relationships:
-  - target: "[[Aen'r-Khadaz]]"
-    type: creator
-  - target: "[[Gnomes]]"
-    type: stone-kin
-  - target: "[[Elves]]"
-    type: respectful-distance
-  - target: "[[Humans]]"
-    type: trade
-  - target: "[[Kael'Zorai]]"
-    type: forbidden-knowledge
-    period: "SA"
-tags: [species, mortal, craftsmen, mountain-dwelling]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Tham''dran]]'
+  type: creator
+  period: FA
+  metadata:
+    description: First Hand of Stability — true divine parent alongside Myrasael
+    nature: collaborative
+- target: '[[Myrasael]]'
+  type: creator
+  period: FA
+  metadata:
+    description: First Hand of Refinement — true divine parent alongside Tham'dran
+    nature: collaborative
+- target: '[[Aen''r-Khadaz]]'
+  type: creator
+  metadata:
+    description: Dwarven cultural name for A'rastheon, the prime creator
+- target: '[[Korthak]]'
+  type: teacher
+  period: FA
+  metadata:
+    description: The Stonefather — taught fundamental techniques of metalworking and stone-shaping
+- target: '[[Gnomes]]'
+  type: sibling
+  metadata:
+    nature: stone-kin
+- target: '[[Elves]]'
+  type: ally
+  metadata:
+    nature: distant respect
+- target: '[[Humans]]'
+  type: trade
+- target: '[[Kael''Zorai]]'
+  type: related
+  period: SA
+  metadata:
+    nature: forbidden knowledge
+- target: '[[Kharnzarak]]'
+  type: homeland
+  period: SA:91-
+  metadata:
+    description: Primary homeland of the N'nm-Khazal'n, the orthodox Stone-Sworn clans
+- target: '[[Gearhaven]]'
+  type: homeland
+  period: SA:1485-
+  metadata:
+    description: Founded by Elm-korin and Bronr'n exiles alongside human mages and Gnomes
+- target: '[[Novaterra]]'
+  type: native
+  period: SA:365-
+  metadata:
+    description: Thulkor'n diaspora settled across Novaterra after exile from Kharnzarak
+- target: '[[Kharnzarak Monarchy]]'
+  type: controlled-by
+  period: SA:91-
+  metadata:
+    description: N'nm-Khazal'n ruled by the hereditary Stone-Sworn monarchy
+- target: '[[Gearhaven Cog-Council]]'
+  type: controlled-by
+  period: SA:1485-
+  metadata:
+    description: Elm-korin governed by the technocratic Cog-Council of Gearhaven
+- target: '[[Bronr''n Legacy]]'
+  type: has-member
+  period: SA:1200-
+  metadata:
+    description: Secret reformist society operating within Kharnzarak, revering the Pillar of Growth
+- target: '[[Barazkor Clan]]'
+  type: has-member
+  period: SA:91-
+  metadata:
+    description: The Royal Clan and ruling family of Kharnzarak
+- target: '[[Gulgrym Clan]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: The Deep-Miners, most powerful Guild Clan forming the economic backbone
+- target: '[[Farrazul Clan]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: The Gem-Cutters, wealthiest High Clan controlling gem and metal mines
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Distant but peaceful coexistence; Waldkyn see Dwarves as 'Single-Forms'
+    nature: coexistent
+- target: '[[Mirennian League]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Bronze-Crest Clans of the southern coasts maintain cordial trade relations
+- target: '[[Stone-Road Projects]]'
+  type: involved-in
+  period: SA:110
+  metadata:
+    description: Dwarven consulting engineers provided expertise in stone-cutting
+- target: '[[The Golden Age of Creation]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Developed legendary techniques under divine guidance
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Dwarven strongholds became refuges protected by divine stonework
+- target: '[[Clockwork School]]'
+  type: custom
+  metadata:
+    description: respectful but critical
+- target: '[[Aen''r-Khadaz]]'
+  type: created-by
+  metadata:
+    description: His Pulse awakened the bedrock from which the Four Pillars shaped the Dwarves
+- target: '[[Bjalmund]]'
+  type: student
+  period: FA
+  metadata:
+    description: Taught that the greatest warriors fight to protect rather than conquer
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: Known to them as Ulzammar, the Sealed Concept
+- target: '[[Korthak]]'
+  type: student
+  period: FA
+  metadata:
+    description: Taught fundamental techniques of metalworking and stone-shaping
+- target: '[[Myrasael]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Created with Tham'dran — Dwarves embody methodical endurance and perfection-seeking
+    nature: collaborative
+- target: '[[Tham''dran]]'
+  type: created-by
+  period: FA
+  metadata:
+    description: Created with Myrasael — Dwarves embody methodical endurance and perfection-seeking
+    nature: collaborative
+- target: '[[Vardas the Elder]]'
+  type: trade
+  period: SA:62
+  metadata:
+    description: Negotiated the first Human-Dwarf trade treaty with the Iron-Hand clan
+- target: '[[The Four Pillars]]'
+  type: worships
+  metadata:
+    nature: practice
+- target: '[[Elm-korin]]'
+  type: parent
+- target: '[[Giants]]'
+  type: custom
+  period: SA:75-SA:1775
+  metadata:
+    description: territorial-neighbors
+- target: '[[Mirennians]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Bronze-Crest Dwarven clans of southern coasts maintain cordial relations
+- target: '[[N''nm-Khazal''n]]'
+  type: parent
+- target: '[[Primalkyn]]'
+  type: related
+  metadata:
+    nature: observed
+- target: '[[Rock Gnomes]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: N'nm-Khazal'n Dwarves call them N'mm-kith (Stone-kin); quiet mutual respect
+    nature: stone-kin
+- target: '[[Skitter-Gloom]]'
+  type: enemy
+  period: SA:12-
+- target: '[[Thulkor''n]]'
+  type: parent
+- target: '[[Ironheart Citadel]]'
+  type: related
+  period: FA
+  metadata:
+    description: Model for dwarven defensive architecture; strongholds became refuges during the Paroxysm
+- target: '[[The Divine Workshop]]'
+  type: related
+  period: FA
+  metadata:
+    description: Dwarves learned divine craftsmanship here
+- target: '[[The First Forge]]'
+  type: related
+  metadata:
+    description: Where dwarven crafting arts were born
+- target: '[[Korthak]]'
+  type: teacher
+  period: FA
+  metadata:
+    description: The Stonefather — taught fundamental techniques of metalworking and stone-shaping
+timeline:
+- period: FA
+  event: Born from the combined essences of Tham'dran (Stability) and Myrasael (Refinement) — methodical, enduring, seekers
+    of perfection
+- period: FA
+  event: Developed legendary techniques in stone, metal, and gem work under direct divine guidance during the Golden Age
+- period: FA
+  event: Dwarven strongholds became refuges during the Paroxysm, protected by Bjalmund's divine stonework
+tags:
+- species
+- mortal
+- craftsmen
+- mountain-dwelling
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Dwarves
 
 To the Dwarves of [[Vaeloris]], creation was not a song but a strike, a structure, and a weight. They are a people defined by rhythm, purpose, and permanence — shaped from stone and soul-deep ore beneath the world's crust by the Pulse of [[Aen'r-Khadaz]], the Deep Shaper. They do not worship their divine Pillars as gods, but honor them as **Fundamentals** — primal truths reflected in Dwarven life, architecture, clan, and law.

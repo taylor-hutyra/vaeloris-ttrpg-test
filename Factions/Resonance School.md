@@ -1,43 +1,42 @@
 ---
 wb-type: faction
-wb-id: "resonance-school"
-name: "Resonance School"
+wb-id: resonance-school
+name: Resonance School
 aliases:
-  - "Heretical School"
-type: "philosophical"
+- Heretical School
+type: philosophical
 founded: null
 dissolved: null
-headquarters: "[[Lithos]]"
+headquarters: '[[Lithos]]'
 leader: null
 territory:
-  - "[[Lithos]]"
-influence: "minority"
+- '[[Lithos]]'
+influence: minority
 goals:
-  - "Study harmonic properties of crystals and metals"
-  - "Create perfectly tuned resonances that influence magic and reality"
-  - "Prove that true perfection lies in harmony, not silent mechanics"
+- Study harmonic properties of crystals and metals
+- Create perfectly tuned resonances that influence magic and reality
+- Prove that true perfection lies in harmony, not silent mechanics
 relationships:
-  - target: "[[Rock Gnomes]]"
-    type: "heretical minority within"
-    period: ""
-  - target: "[[Clockwork School]]"
-    type: "rival faction"
-    period: ""
+- target: '[[Rock Gnomes]]'
+  type: custom
+  metadata:
+    description: heretical minority within
+- target: '[[Clockwork School]]'
+  type: rival
 timeline:
-  - period: ""
-    event: "Emerged as a heterodox school of thought within Lithos"
-  - period: ""
-    event: "Branded as heretics by the orthodox Clockwork School"
+- period: ''
+  event: Emerged as a heterodox school of thought within Lithos
+- period: ''
+  event: Branded as heretics by the orthodox Clockwork School
 tags:
-  - faction
-  - gnomish
-  - rock-gnome
-  - philosophical
-  - heretical
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- gnomish
+- rock-gnome
+- philosophical
+- heretical
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Resonance School
 
 The Resonance School is a smaller, heterodox faction within [[Rock Gnomes|Rock Gnome]] society at [[Lithos]]. Considered heretics by the orthodox [[Clockwork School]], they study the harmonic properties of crystals and metals, believing that true perfection lies not in silent mechanics but in creating perfectly tuned resonances that can influence magic and reality itself.

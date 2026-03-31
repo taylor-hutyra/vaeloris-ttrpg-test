@@ -3,27 +3,79 @@ wb-type: event
 wb-id: completion-of-the-great-weaving
 name: Completion of the Great Weaving
 aliases: []
-date: "SA:55"
-duration: "Two decades of labor culminating in a month-long ritual"
-location: "[[Hannan'r']]"
-participants: ["[[Lelyariel]]", "[[Sun-Leaf Conclave]]"]
-causes: ["Fear of the chaotic ambition of younger races", "Desire to protect Elven civilization"]
-consequences: ["Hannan'r' vanished from mortal maps", "Beginning of the Long Silence between Elves and Humans", "Creation of the Mist-Lanterns"]
-affected-entities: ["[[Elves]]", "[[Hannan'r']]", "[[Cirhannim]]"]
+date: SA:55
+period: SA:55
+duration: Two decades of labor culminating in a month-long ritual
+location: '[[Hannan''r'']]'
+participants:
+- '[[Lelyariel]]'
+- '[[Sun-Leaf Conclave]]'
+causes:
+- Fear of the chaotic ambition of younger races
+- Desire to protect Elven civilization
+consequences:
+- Hannan'r' vanished from mortal maps
+- Beginning of the Long Silence between Elves and Humans
+- Creation of the Mist-Lanterns
+affected-entities:
+- '[[Elves]]'
+- '[[Hannan''r'']]'
+- '[[Cirhannim]]'
 status: historical
 relationships:
-  - target: "[[Pact of Bark and Bronze]]"
-    type: related
-    period: "SA:89"
-  - target: "[[Sael'anir Separation]]"
-    type: caused
-    period: "SA:80"
+- target: '[[Pact of Bark and Bronze]]'
+  type: related
+  period: SA:89
+- target: '[[Sael''anir Separation]]'
+  type: caused
+  period: SA:80
+- target: '[[Lelyariel]]'
+  type: involved
+  period: SA:55
+  metadata:
+    description: Elven Queen who directed the two-decade ritual
+- target: '[[Mist-Lanterns]]'
+  type: caused
+  period: SA:55
+  metadata:
+    description: Crystalline beacons created to anchor the Great Weaving along forest borders
+- target: '[[Ilphara]]'
+  type: caused
+  period: SA:80
+  metadata:
+    description: The Weaving's isolationism provoked Ilphara's departure and founding of the Sael'anir
+- target: '[[Cirhannim]]'
+  type: involved
+  period: SA:55
+  metadata:
+    description: Wood Elves who chose to wall themselves off in Hannan'r'
+- target: '[[Ilphara]]'
+  type: related
+  period: SA:55
+  metadata:
+    description: The Weaving's isolationism provoked her philosophical opposition
+- target: '[[Mist-Lanterns]]'
+  type: custom
+  period: SA:55
+  metadata:
+    description: created-during
+- target: '[[Hannan''r'']]'
+  type: involved
+  period: SA:55
+  metadata:
+    description: The Great Weaving concealed the forest behind permanent illusionary mist
+- target: '[[Warning of the Silent Canopy]]'
+  type: caused
+  period: SA:55
+  metadata:
+    description: Elven isolationism made the border warning significant
 timeline: []
-tags: [event, epoch-i-echoes-of-dawn]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-i-echoes-of-dawn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Completion of the Great Weaving
 
 After two decades of labor, Elven Queen [[Lelyariel]] and the Mages of the [[Sun-Leaf Conclave]] completed the Great Weaving. Fearing the chaotic ambition of the younger races, they engaged in a month-long ritual drawing magic from moonlight.

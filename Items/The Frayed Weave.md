@@ -2,29 +2,76 @@
 wb-type: item
 wb-id: the-frayed-weave
 name: The Frayed Weave
-aliases: [Theory of Arcane Scarcity]
+aliases:
+- Theory of Arcane Scarcity
 type: document
 owner: null
-creator: "[[Archmage Elaruniel]]"
-location: "[[Aethelas]]"
+creator: '[[Archmage Elaruniel]]'
+location: '[[Aethelas]]'
 properties:
-  - Dense theoretical treatise on the depletion of ambient magical energy
-  - Argues that the Magocracy's wards and Mana-Pylon systems are destabilizing the arcane field
-  - Banned by the Magocracy upon publication
-  - Foundational text for the academic underground of Novaterra
+- Dense theoretical treatise on the depletion of ambient magical energy
+- Argues that the Magocracy's wards and Mana-Pylon systems are destabilizing the arcane field
+- Banned by the Magocracy upon publication
+- Foundational text for the academic underground of Novaterra
 magical: false
 relationships:
-  - { target: "[[Archmage Elaruniel]]", type: "authored-by", detail: "Aen'valar scholar who published the text in SA:2715" }
-  - { target: "[[Aethelas]]", type: "written-in", detail: "The Elven library-observatory where Elaruniel conducted her research" }
-  - { target: "[[Magocracy]]", type: "banned-by", detail: "The Magocracy denounced and suppressed the text as alarmist heresy" }
-  - { target: "[[Grand University]]", type: "debated-at", detail: "Elaruniel collaborated with University scholars before the ban" }
-  - { target: "[[Mana-Pylon Systems]]", type: "critiques", detail: "Identifies pylon networks as a primary contributor to Arcane Fraying" }
-  - { target: "[[Arcanology]]", type: "challenges", detail: "Fundamentally questions the sustainability of modern arcane practice" }
-tags: [item]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Archmage Elaruniel]]'
+  type: custom
+  metadata:
+    description: authored-by
+- target: '[[Aethelas]]'
+  type: custom
+  metadata:
+    description: written-in
+- target: '[[Magocracy]]'
+  type: custom
+  metadata:
+    description: banned-by
+- target: '[[Grand University]]'
+  type: custom
+  metadata:
+    description: debated-at
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: critiques
+- target: '[[Arcanology]]'
+  type: custom
+  metadata:
+    description: challenges
+- target: '[[Drakona]]'
+  type: related
+  period: SA:2715
+- target: '[[The Binding]]'
+  type: related
+  period: SA:2688
+- target: '[[Mana-Crystals]]'
+  type: custom
+  metadata:
+    description: implicated-by
+- target: '[[Arcanology]]'
+  type: custom
+  metadata:
+    description: critiqued-by
+- target: '[[Archmage Elaruniel]]'
+  type: created-by
+  period: SA:2715
+  metadata:
+    description: Published the foundational text arguing the Skyfall broke the universe's magical immune system
+- target: '[[Mana-Pylon Systems]]'
+  type: custom
+  metadata:
+    description: implicated-by
+- target: '[[Aethelas]]'
+  type: related
+  period: SA:2715
+  metadata:
+    description: Elaruniel published her foundational text from Aethelas
+tags:
+- item
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Frayed Weave
 
 *The Frayed Weave* is a theoretical treatise authored by [[Archmage Elaruniel]] of the [[Aen'valar]] Elves, published in SA:2715 from the library-observatory of [[Aethelas]]. It argues that the unchecked use of arcane magic -- particularly the [[Magocracy]]'s [[Mana-Pylon Systems|Mana-Pylon networks]] and industrial-scale wards -- is depleting the ambient magical field of [[Vaeloris]], a process Elaruniel called the "Arcane Fraying." The text is the foundational document for what the wider world would come to call the Theory of Arcane Scarcity.

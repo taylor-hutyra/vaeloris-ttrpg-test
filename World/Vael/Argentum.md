@@ -2,48 +2,132 @@
 wb-type: place
 wb-id: argentum
 name: Argentum
-aliases: [City of Silver, The New Money]
-parent: "[[Central Mountains]]"
+aliases:
+- City of Silver
+- The New Money
+parent: '[[Central Mountains]]'
 spatial-type: city
 contains: []
 population: null
 ruler: null
-faction: "[[Varnathi Imperial Democracy]]"
+faction: '[[Varnathi Imperial Democracy]]'
 climate: mountain valley, cold
-resources: [silver, precious metals, mining infrastructure]
+resources:
+- silver
+- precious metals
+- mining infrastructure
 status: industrial and financial powerhouse
 relationships:
-  - target: "[[Vernath]]"
-    type: political-rival
-    period: "SA:485-"
-  - target: "[[Kharnzarak]]"
-    type: trade-partner
-    period: "SA:230-"
-  - target: "[[Castellum]]"
-    type: allied
-    period: "SA:581-"
+- target: '[[Vernath]]'
+  type: rival
+  period: SA:485-
+  metadata:
+    nature: political
+- target: '[[Kharnzarak]]'
+  type: trade
+  period: SA:230-
+- target: '[[Castellum]]'
+  type: ally
+  period: SA:581-
+- target: '[[Grogor the Eye]]'
+  type: founded-by
+  period: SA:485
+  metadata:
+    description: Thulkor'n prospector whose discovery of the Deep-Vein led to the city's founding
+- target: '[[Silver Boom]]'
+  type: involved-in
+  period: SA:485
+  metadata:
+    description: The Silver Boom transformed a mining camp into a metropolis
+- target: '[[Bloodless Coup]]'
+  type: involved-in
+  period: SA:581
+  metadata:
+    description: Silver Lords cut off silver supply, forcing Titus II's abdication
+- target: '[[Emperor Titus II]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: Attempted seizure of Silver Lords' assets triggered the coup
+- target: '[[Thulkor''n]]'
+  type: related
+  period: SA:485-
+  metadata:
+    description: Thulkor'n prospectors and engineers key to the silver mining industry
+- target: '[[Silver Boom]]'
+  type: caused-by
+  period: SA:485
+  metadata:
+    description: Mining camp that exploded into a metropolis of stone and coin
+- target: '[[Varnathi Pentarchy]]'
+  type: located-in
+  period: SA:485-
+  metadata:
+    description: Financial center within the Pentarchy's territory
+- target: '[[Deep-Vein Silver]]'
+  type: custom
+  metadata:
+    description: birthplace-of
+- target: '[[Grogor the Eye]]'
+  type: custom
+  period: SA:485
+  metadata:
+    description: 'catalyst: His discovery led directly to the founding of the city'
+- target: '[[Central Mountains]]'
+  type: located-in
+  period: 485-
+- target: '[[Kharnzarak]]'
+  type: custom
+  period: SA:230-
+  metadata:
+    description: territorial-dispute
+- target: '[[Discovery of the Silver Veins]]'
+  type: caused-by
+  period: SA:230
+  metadata:
+    description: The silver deposits led to the eventual founding of Argentum
+- target: '[[Excavation of the Whispering Tomb]]'
+  type: occurred-at
+  period: SA:1401
+  metadata:
+    description: Pre-Paroxysm ruin excavated near the city
+- target: '[[First Revelation of Melek]]'
+  type: occurred-at
+  period: SA:1407
+  metadata:
+    description: Melek demonstrated magic in the central market
+- target: '[[Great Betrayal]]'
+  type: involved-in
+  period: SA:1950
+  metadata:
+    description: Hired mercenaries to besiege Vernath
 timeline:
-  - period: "SA:230"
-    event: Imperial prospectors discover massive silver veins; [[Treaty of Coin]] signed with [[Kharnzarak]]
-  - period: "SA:485"
-    event: "[[Grogor the Eye]], a Thulkor'n prospector, discovers the Deep-Vein; Argentum founded"
-  - period: "SA:485-"
-    event: Rise of the Silver Lords, a new class of merchant-nobility rivaling the Emperor
-  - period: "SA:581"
-    event: Argentum joins the Bloodless Coup against Emperor [[Titus II]], cutting off silver supply
-  - period: "SA:600"
-    event: Emerges as the city-state of Finance and Industry -- the New Money
-  - period: "SA:1401"
-    event: Excavation of the Whispering Tomb near Argentum uncovers First Age arcane texts
-  - period: "SA:1407"
-    event: "[[Melek the Grey]] demonstrates magic in Argentum's central market, sparking the Arcane Revolution"
-  - period: "SA:1950"
-    event: Argentum hires mercenaries to besiege [[Vernath]] during the Succession Wars
-tags: [place, city, mining, finance, varnathi, human]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:230
+  event: Imperial prospectors discover massive silver veins; [[Treaty of Coin]] signed with [[Kharnzarak]]
+- period: SA:485
+  event: '[[Grogor the Eye]], a Thulkor''n prospector, discovers the Deep-Vein; Argentum founded'
+- period: SA:485-
+  event: Rise of the Silver Lords, a new class of merchant-nobility rivaling the Emperor
+- period: SA:581
+  event: Argentum joins the Bloodless Coup against Emperor [[Titus II]], cutting off silver supply
+- period: SA:600
+  event: Emerges as the city-state of Finance and Industry -- the New Money
+- period: SA:1401
+  event: Excavation of the Whispering Tomb near Argentum uncovers First Age arcane texts
+- period: SA:1407
+  event: '[[Melek the Grey]] demonstrates magic in Argentum''s central market, sparking the Arcane Revolution'
+- period: SA:1950
+  event: Argentum hires mercenaries to besiege [[Vernath]] during the Succession Wars
+tags:
+- place
+- city
+- mining
+- finance
+- varnathi
+- human
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Argentum
 
 Argentum is a silver mining metropolis in the [[Central Mountains]] of [[Vael]], founded in SA:485. What began as a mining camp exploded into a city of stone and coin, becoming the financial and industrial heart of the Varnathi world -- and eventually a political rival to [[Vernath]] itself.

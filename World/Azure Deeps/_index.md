@@ -2,40 +2,54 @@
 wb-type: place
 wb-id: azure-deeps
 name: Azure Deeps
-aliases: [The Deep Kingdom, The Sunless Realm, The Undersea]
-parent: "[[Vaeloris]]"
+aliases:
+- The Deep Kingdom
+- The Sunless Realm
+- The Undersea
+parent: '[[Vaeloris]]'
 spatial-type: undersea
 contains: []
 population: null
 ruler: null
-faction: "[[Mirelarim]]"
-climate: "abyssal to twilight zone, deep ocean currents"
-resources: ["deep-sea coral", "bioluminescent flora", "sunken artifacts", "pearl", "kelp forests"]
-status: "Sovereign — Mirelarim Sea-Elf territory, largely independent of surface politics"
+faction: '[[Mirelarim]]'
+climate: abyssal to twilight zone, deep ocean currents
+resources:
+- deep-sea coral
+- bioluminescent flora
+- sunken artifacts
+- pearl
+- kelp forests
+status: Sovereign — Mirelarim Sea-Elf territory, largely independent of surface politics
 relationships:
-  - target: "[[Mirelarim]]"
-    type: governed-by
-    period: ""
-  - target: "[[Mirennian League]]"
-    type: trade-partner
-    period: "500-"
-  - target: "[[Sael'anir]]"
-    type: cultural-affinity
-    period: ""
+- target: '[[Mirelarim]]'
+  type: controlled-by
+- target: '[[Mirennian League]]'
+  type: trade
+  period: 500-
+- target: '[[Sael''anir]]'
+  type: custom
+  metadata:
+    description: cultural-affinity
+- target: '[[Mirelarim]]'
+  type: native
+  period: SA
+  metadata:
+    description: Inhabit magnificent cities of magically-sculpted coral in the ocean's abyss
 timeline:
-  - period: "80"
-    event: "Mirelarim diverge from surface Elven society, choosing the deep waters"
-  - period: "635"
-    event: "The Tsunami of Tears devastates coastal Mirelarim settlements"
-  - period: "2688"
-    event: "The Skyfall — wreckage of Cloud Cities and Zure crashes into the ocean"
-  - period: "3280"
-    event: "Convention of Accord — Mirelarim sovereignty acknowledged but not codified"
-tags: [place, undersea]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '80'
+  event: Mirelarim diverge from surface Elven society, choosing the deep waters
+- period: '635'
+  event: The Tsunami of Tears devastates coastal Mirelarim settlements
+- period: '2688'
+  event: The Skyfall — wreckage of Cloud Cities and Zure crashes into the ocean
+- period: '3280'
+  event: Convention of Accord — Mirelarim sovereignty acknowledged but not codified
+tags:
+- place
+- undersea
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Azure Deeps
 
 The Azure Deeps are the vast undersea territories of [[Vaeloris]], a domain of crushing pressure, bioluminescent wonder, and ancient silence that stretches beneath every ocean and sea. This is the realm of the [[Mirelarim]] — the Sea-Elves — who chose the deep waters over the forests and plains, building a civilization that most surface dwellers can scarcely imagine, let alone visit.

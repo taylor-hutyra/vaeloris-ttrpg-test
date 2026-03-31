@@ -2,28 +2,63 @@
 wb-type: species
 wb-id: sand-gnomes
 name: Sand Gnomes
-aliases: [Dune-Whisperers, Desert Gnomes, Little Spirits of the Cool Sand]
-origin: Rarest Gnomish branch, those who followed deep aquifers into the great deserts and adapted to a life of extreme conservation and subtlety
+aliases:
+- Dune-Whisperers
+- Desert Gnomes
+- Little Spirits of the Cool Sand
+origin: Rarest Gnomish branch, those who followed deep aquifers into the great deserts and adapted to a life of extreme conservation
+  and subtlety
 lifespan: 350-500 years
-traits: [reclusive, nomadic, illusionist, mirage-craft mastery, water-finding, sand-pattern communication]
-habitat: ["[[Great Desert]]"]
+traits:
+- reclusive
+- nomadic
+- illusionist
+- mirage-craft mastery
+- water-finding
+- sand-pattern communication
+habitat:
+- '[[Great Desert]]'
 population: very small
 relationships:
-  - target: "[[Gnomes]]"
-    type: child-of
-  - target: "[[Great Desert]]"
-    type: inhabits
-  - target: "[[Forest Gnomes]]"
-    type: kindred-of
-  - target: "[[Rock Gnomes]]"
-    type: kindred-of
-  - target: "[[Lothari]]"
-    type: ally-of
-tags: [species, gnomish, sand-gnome, desert, illusionist, nomadic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Gnomes]]'
+  type: child
+- target: '[[Great Desert]]'
+  type: located-in
+- target: '[[Forest Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Rock Gnomes]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Lothari]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Share the desert in mutual respect; Lothari call them 'little spirits of the cool sand'
+- target: '[[Lothari Silent Network]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Share the desert in mutual respect; meet at remote oases
+- target: '[[The Twin Roots]]'
+  type: worships
+  metadata:
+    description: Adapted to the austere beauty of the deep desert
+    nature: practice
+- target: '[[Great Desert]]'
+  type: contains
+tags:
+- species
+- gnomish
+- sand-gnome
+- desert
+- illusionist
+- nomadic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sand Gnomes
 
 The **Sand Gnomes**, or **Dune-Whisperers**, are the rarest and most reclusive of the [[Gnomes|Gnomish]] peoples. They are those who followed the deep aquifers into the great deserts, adapting to a life of extreme conservation and subtlety. They do not build cities but live in small, nomadic family units, tending to the hidden life of the desert: the deep-blooming cacti, the nocturnal insects, the precious oases. The [[Lothari]] mystics sometimes speak of them in hushed tones as "the little spirits of the cool sand."
@@ -32,7 +67,7 @@ The **Sand Gnomes**, or **Dune-Whisperers**, are the rarest and most reclusive o
 
 Like all [[Gnomes]], the Sand Gnomes trace their creation to the **Twin Roots** -- [[Ceryn-Maia]] (The Green Mother) and [[Ilys-Tekne]] (The Bright Artisan). But where the [[Forest Gnomes]] stayed in the green hollows and the [[Rock Gnomes]] descended into mountain depths, the Sand Gnomes followed the water.
 
-In the ancient days, when the Gnomish people first began to spread from the [[Dreaming Grove]], some families traced the underground aquifers outward, following the water's path through stone and sand until they emerged in the vast deserts. Rather than turning back, they saw a world that needed them -- a harsh landscape where life clung on by the thinnest of threads, where every drop of water and every patch of shade was a miracle worth protecting.
+In the ancient days, when the Gnomish people first began to spread from [[The Dreaming Grove]], some families traced the underground aquifers outward, following the water's path through stone and sand until they emerged in the vast deserts. Rather than turning back, they saw a world that needed them -- a harsh landscape where life clung on by the thinnest of threads, where every drop of water and every patch of shade was a miracle worth protecting.
 
 They chose to stay. And in staying, they became something entirely their own.
 

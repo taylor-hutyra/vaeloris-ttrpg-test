@@ -2,48 +2,70 @@
 wb-type: place
 wb-id: drakograd
 name: Drakograd
-aliases: [The Hearth of Scales, The Ancestral Capital]
-parent: "[[Drakenvast]]"
+aliases:
+- The Hearth of Scales
+- The Ancestral Capital
+parent: '[[Drakenvast]]'
 spatial-type: city
 contains: []
 population: large
-ruler: "[[Vozhd]]"
-faction: "[[Khor'drak]]"
+ruler: '[[Vozhd]]'
+faction: '[[Khor''drak]]'
 climate: volcanic-highland
-resources: [ember-crystal, volcanic-minerals, fire-forged-metals, draconic-steel]
+resources:
+- ember-crystal
+- volcanic-minerals
+- fire-forged-metals
+- draconic-steel
 status: active
 relationships:
-  - target: "[[Drakona]]"
-    type: capital-of
-    period: "SA:1-"
-  - target: "[[Vozhdate]]"
-    type: seat-of
-    period: "SA:2700-"
-  - target: "[[Council of Scales]]"
-    type: hosts
-    period: "SA:2700-"
-  - target: "[[Khor'drak]]"
-    type: dominated-by
-    period: "SA:2700-"
-  - target: "[[Zhar'kov]]"
-    type: headquarters-of
-    period: "SA:2700-"
+- target: '[[Drakona]]'
+  type: custom
+  period: SA:1-
+  metadata:
+    description: capital-of
+- target: '[[Vozhdate]]'
+  type: located-in
+  period: SA:2700-
+  metadata:
+    nature: headquarters
+- target: '[[Council of Scales]]'
+  type: custom
+  period: SA:2700-
+  metadata:
+    description: hosts
+- target: '[[Khor''drak]]'
+  type: custom
+  period: SA:2700-
+  metadata:
+    description: dominated-by
+- target: '[[Zhar''kov]]'
+  type: custom
+  period: SA:2700-
+  metadata:
+    description: headquarters-of
 timeline:
-  - period: "SA:1-"
-    label: "Ancestral ground-city of the Drakona, carved into a dormant volcano"
-  - period: "SA:2341"
-    label: "Staging ground for the Scouring of the North"
-  - period: "SA:2688"
-    label: "Survives the Skyfall as the sole intact Drakona city"
-  - period: "SA:2700"
-    label: "Becomes the sole seat of the Vozhdate after Treaty of the Broken Peaks"
-  - period: "SA:2950"
-    label: "Broken Wing Insurgency erupts; bombings and assassinations within the city"
-tags: [place, city, drakenvast, drakona, fortress, volcanic, capital]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-
+  label: Ancestral ground-city of the Drakona, carved into a dormant volcano
+- period: SA:2341
+  label: Staging ground for the Scouring of the North
+- period: SA:2688
+  label: Survives the Skyfall as the sole intact Drakona city
+- period: SA:2700
+  label: Becomes the sole seat of the Vozhdate after Treaty of the Broken Peaks
+- period: SA:2950
+  label: Broken Wing Insurgency erupts; bombings and assassinations within the city
+tags:
+- place
+- city
+- drakenvast
+- drakona
+- fortress
+- volcanic
+- capital
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Drakograd
 
 **Drakograd** ("The Hearth of Scales") is the ancestral capital of the [[Drakona]], a fortress-city carved into the heart of a dormant volcano in [[Drakenvast]]. It is the seat of the **[[Vozhd]]**, the supreme autocratic leader of the Drakona people, and the political, military, and religious center of the **[[Vozhdate]]**.

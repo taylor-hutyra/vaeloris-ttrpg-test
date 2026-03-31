@@ -2,31 +2,54 @@
 wb-type: government
 wb-id: cirhannim-hierarchy
 name: Cirhannim Hierarchy
-aliases: [Theocracy of Hannan'r', Verdant Throne]
+aliases:
+- Theocracy of Hannan'r'
+- Verdant Throne
 type: monarchy
 founded: null
-territory: ["[[Hannan'r']]"]
-leader: "[[Queen Elara III]]"
-capital: "[[Hannan'r']]"
+territory:
+- '[[Hannan''r'']]'
+leader: '[[Queen Elara III]]'
+capital: '[[Hannan''r'']]'
 laws:
-  - "Song-Wrong — a decree of profound disharmony can veto any royal action"
-  - "Talanvar'e cycle governs all ritual and governance"
+- Song-Wrong — a decree of profound disharmony can veto any royal action
+- Talanvar'e cycle governs all ritual and governance
 relationships:
-  - target: "[[Aen'valar Council]]"
-    type: strained
-    period: ""
-  - target: "[[Sael'anir Star-Moot]]"
-    type: sorrowful-distance
-    period: ""
-  - target: "[[M'ren'r' Triumvirate]]"
-    type: forbidden-contact
-    period: ""
+- target: '[[Aen''valar Council]]'
+  type: custom
+  metadata:
+    description: strained
+- target: '[[Sael''anir Star-Moot]]'
+  type: custom
+  metadata:
+    description: sorrowful-distance
+- target: '[[M''ren''r'' Triumvirate]]'
+  type: custom
+  metadata:
+    description: forbidden-contact
+- target: '[[Cirhannim]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Theocratic monarchy governing the Wood-Spirit People
+- target: '[[Hannan''r'']]'
+  type: controls
+  period: SA
+  metadata:
+    description: Rules the magically concealed forest of Hannan'r'
+- target: '[[Elves]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Theocratic monarchy governing the Cirhannim of Hannan'r'
 timeline: []
-tags: [government, elf, cirhannim]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- elf
+- cirhannim
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Cirhannim Hierarchy
 
 The ancient, magically concealed forest of [[Hannan'r']] ("Spirit-Haven") is ruled by the [[Cirhannim]] ("The Wood-Spirit People"), the most traditionalist and isolationist of the [[Elves|Elven]] peoples. Their government seeks to perfectly preserve the "First Song" of creation, viewing change as a corruption of its sacred melody.

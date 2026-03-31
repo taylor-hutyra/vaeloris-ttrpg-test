@@ -6,21 +6,36 @@ aliases: []
 type: military
 founded: null
 dissolved: null
-headquarters: "[[Vernath]]"
-leader: "[[General Valerius]]"
-territory: ["[[Vernath]]", "[[Castellum]]"]
+headquarters: '[[Vernath]]'
+leader: '[[General Valerius]]'
+territory:
+- '[[Vernath]]'
+- '[[Castellum]]'
 influence: strong
 goals:
-  - Defend the borders of the Varnathi state
-  - Maintain military supremacy on the mainland
-  - Protect Vernath from external threats
-relationships: []
+- Defend the borders of the Varnathi state
+- Maintain military supremacy on the mainland
+- Protect Vernath from external threats
+relationships:
+- target: '[[General Valerius]]'
+  type: custom
+  period: TA:400-
+  metadata:
+    description: 'commander: Supreme commander of Vernath''s elite military'
+- target: '[[Castellum]]'
+  type: located-in
+  period: SA:410-
+  metadata:
+    description: Elite military corps originated from Castellum's founding legions
 timeline: []
-tags: [faction, human, varnathi, military]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- human
+- varnathi
+- military
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Crimson Guard
 
 The **Crimson Guard** is the elite military force of [[Vernath]] and the armed pillar upon which the Varnathi state rests. Answering to the [[Consul of Blades]], they are tasked with defending [[Vernath]]'s borders from external threats including the [[Kyn-Clans]], pirates, and hostile nations.

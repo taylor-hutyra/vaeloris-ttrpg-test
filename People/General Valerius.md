@@ -1,47 +1,61 @@
 ---
 wb-type: person
 wb-id: general-valerius
-name: "General Valerius"
+name: General Valerius
 aliases: []
-species: "[[Varnathi]]"
+species: '[[Varnathi]]'
 born: null
 died: null
-birthplace: "[[Vernath]]"
-residence: "[[Vernath]]"
-faction: "[[Crimson Banner]]"
-role: "Military commander, Consul of Blades, political hawk"
-title: "General, Consul of Blades"
+birthplace: '[[Vernath]]'
+residence: '[[Vernath]]'
+faction: '[[Crimson Banner]]'
+role: Military commander, Consul of Blades, political hawk
+title: General, Consul of Blades
 gender: male
 relationships:
-  - target: "[[Crimson Guard]]"
-    type: commander
-    period: "TA:400-"
-    note: "Supreme commander of Vernath's elite military"
-  - target: "[[Crimson Banner]]"
-    type: leader
-    note: "Political arm of the military hawks pushing for aggressive expansion"
-  - target: "[[Marble Hand]]"
-    type: adversary
-    note: "Constantly blocked by the traditionalist Senate faction"
-  - target: "[[Magocracy]]"
-    type: adversary
-    note: "Views the Laws of Accord as chains weakening Vernath"
-  - target: "[[Vernath]]"
-    type: political-figure
-    period: "TA:412"
-    note: "Immensely popular with the public, driving political deadlock in the Pentarchy"
+- target: '[[Crimson Guard]]'
+  type: custom
+  period: TA:400-
+  metadata:
+    description: 'commander: Supreme commander of Vernath''s elite military'
+- target: '[[Crimson Banner]]'
+  type: ruler
+  metadata:
+    description: Political arm of the military hawks pushing for aggressive expansion
+- target: '[[Marble Hand]]'
+  type: enemy
+  metadata:
+    description: Constantly blocked by the traditionalist Senate faction
+- target: '[[Magocracy]]'
+  type: enemy
+  metadata:
+    description: Views the Laws of Accord as chains weakening Vernath
+- target: '[[Vernath]]'
+  type: related
+  period: TA:412
+  metadata:
+    description: Immensely popular with the public, driving political deadlock in the Pentarchy
+    nature: political figure
+- target: '[[Crimson Banner]]'
+  type: ruled-by
+  metadata:
+    description: Political arm of the military hawks pushing for aggressive expansion
 timeline:
-  - period: "TA:400-"
-    event: "Rose to prominence through celebrated military campaigns along the northern and western borders"
-  - period: "TA:410"
-    event: "Began pushing for increased military funding and aggressive border security measures in the Pentarchy"
-  - period: "TA:412"
-    event: "Holds the Consulship of Blades; immensely popular with the public but consistently blocked by the Marble Hand faction"
-tags: [person, human, varnathi, military, political]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: TA:400-
+  event: Rose to prominence through celebrated military campaigns along the northern and western borders
+- period: TA:410
+  event: Began pushing for increased military funding and aggressive border security measures in the Pentarchy
+- period: TA:412
+  event: Holds the Consulship of Blades; immensely popular with the public but consistently blocked by the Marble Hand faction
+tags:
+- person
+- human
+- varnathi
+- military
+- political
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # General Valerius
 
 **General Valerius** is a celebrated [[Varnathi]] military commander and the current **Consul of Blades** in the Pentarchy of [[Vernath]], active as of **TA 412**. Immensely popular with the public and fiercely ambitious, he represents the sharp edge of a political faction that believes the [[Laws of Accord]] have made the [[Varnathi]] weak -- and that only military strength can secure humanity's future in an increasingly dangerous world.

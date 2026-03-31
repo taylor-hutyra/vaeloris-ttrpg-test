@@ -2,25 +2,58 @@
 wb-type: technology
 wb-id: mana-pylon-systems
 name: Mana-Pylon Systems
-aliases: [Mana Grid, Arcane Infrastructure]
+aliases:
+- Mana Grid
+- Arcane Infrastructure
 type: arcane
 inventor: null
-invented: "SA:1485-"
-used-by: ["[[Gearhaven]]", "[[Magocracy]]", "[[Nexus]]"]
+invented: SA:1485-
+used-by:
+- '[[Gearhaven]]'
+- '[[Magocracy]]'
+- '[[Nexus]]'
 prerequisites:
-  - "[[Technomancy]]"
-  - "[[Arcane Conduits]]"
-  - "[[Mana-Crystals]]"
+- '[[Technomancy]]'
+- '[[Arcane Conduits]]'
+- '[[Mana-Crystals]]'
 relationships:
-  - { target: "[[Technomancy]]", type: "application-of", detail: "Mana-Pylons are the infrastructure backbone of technomantic civilization" }
-  - { target: "[[Arcane Conduits]]", type: "requires", detail: "Focusing crystals channel energy through the pylon network" }
-  - { target: "[[Broken Wing]]", type: "targeted-by", detail: "Drakona insurgents bombed Mana-Pylons to protest their confinement" }
-  - { target: "[[The Frayed Weave]]", type: "implicated-by", detail: "Elaruniel argued that pylon networks contribute to Arcane Fraying" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: application-of
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: requires
+- target: '[[Broken Wing]]'
+  type: custom
+  metadata:
+    description: targeted-by
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: implicated-by
+- target: '[[Mana-Crystals]]'
+  type: custom
+  metadata:
+    description: powers
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: critiques
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: enables
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mana-Pylon Systems
 
 Mana-Pylon Systems are the arcane energy infrastructure of the Third Age, a network of crystalline towers and conduits that channel magical energy from sources to consumers across cities, regions, and eventually continents. They are the backbone of [[Technomancy|technomantic]] civilization and one of the most ambitious engineering projects in the history of [[Vaeloris]].

@@ -1,37 +1,74 @@
 ---
 wb-type: person
 wb-id: bimble-pockets
-name: "Bimble Pockets"
-aliases: [The Press-Maker, The Ink-Gnome]
-species: "[[Gnomes]]"
+name: Bimble Pockets
+aliases:
+- The Press-Maker
+- The Ink-Gnome
+species: '[[Gnomes]]'
 born: null
 died: null
-birthplace: "[[Gear-Hollow]]"
-residence: "[[Gear-Hollow]]"
-faction: "[[Forest Gnomes]]"
-role: "Inventor of the movable type printing press"
+birthplace: '[[Gear-Hollow]]'
+residence: '[[Gear-Hollow]]'
+faction: '[[Forest Gnomes]]'
+role: Inventor of the movable type printing press
 title: null
 gender: male
 relationships:
-  - target: "[[Gear-Hollow]]"
-    type: resident
-    note: "Lived and worked in the mixed Halfling/Gnome burrow-city"
-  - target: "[[Halflings]]"
-    type: neighbor
-    note: "Gear-Hollow was a shared Halfling/Gnome settlement"
-  - target: "[[Shadewalkers]]"
-    type: adversary
-    note: "The printing press threatened the Shadewalkers' monopoly on information"
+- target: '[[Gear-Hollow]]'
+  type: located-in
+  metadata:
+    description: Lived and worked in the mixed Halfling/Gnome burrow-city
+- target: '[[Halflings]]'
+  type: related
+  metadata:
+    description: Gear-Hollow was a shared Halfling/Gnome settlement
+    nature: neighbor
+- target: '[[Shadewalkers]]'
+  type: enemy
+  metadata:
+    description: The printing press threatened the Shadewalkers' monopoly on information
+- target: '[[Invention of Printing Press]]'
+  type: involved-in
+  period: SA:1360
+  metadata:
+    description: Invented the movable type printing press
+- target: '[[Printing Press]]'
+  type: creator
+  period: SA:1360
+  metadata:
+    description: Designed and built the first movable type printing press
+- target: '[[Forest Gnomes]]'
+  type: member
+  period: SA:1360
+  metadata:
+    description: Quintessential Forest Gnome artisan embodying the Mori-Syna (Quiet Work)
+- target: '[[Printing Press]]'
+  type: custom
+  metadata:
+    description: invented-by
+- target: '[[Greenmeadow]]'
+  type: related
+  period: SA:1360
+  metadata:
+    description: Nearby Gear-Hollow produced the inventor of the printing press
+- target: '[[Gear-Hollow]]'
+  type: contains
+  metadata:
+    description: Lived and worked in the mixed Halfling/Gnome burrow-city
 timeline:
-  - period: "SA:1360"
-    event: "Invented the movable type printing press in the burrow-city of Gear-Hollow"
-  - period: "SA:1360-"
-    event: "His invention triggered an explosion of literacy and the leaking of guild secrets to the common public"
-tags: [person, gnome, forest-gnome, inventor]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1360
+  event: Invented the movable type printing press in the burrow-city of Gear-Hollow
+- period: SA:1360-
+  event: His invention triggered an explosion of literacy and the leaking of guild secrets to the common public
+tags:
+- person
+- gnome
+- forest-gnome
+- inventor
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Bimble Pockets
 
 **Bimble Pockets** was a [[Gnomes|Gnome]] tinkerer from the mixed [[Halflings|Halfling]]/[[Gnomes|Gnome]] burrow-city of **Gear-Hollow** who, in **SA 1360**, invented the **movable type printing press** -- a device that would democratize knowledge, shatter information monopolies, and quietly reshape the political landscape of [[Vaeloris]] more profoundly than any army or empire.

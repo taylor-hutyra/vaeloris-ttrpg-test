@@ -2,54 +2,118 @@
 wb-type: place
 wb-id: novaterra
 name: Novaterra
-aliases: [The New World, The Free Continent]
-parent: "[[Vaeloris]]"
+aliases:
+- The New World
+- The Free Continent
+parent: '[[Vaeloris]]'
 spatial-type: continent
-contains: ["[[M'ren'r']]", "[[Aethelas]]", "[[Gearhaven]]", "[[Nexus]]", "[[Zure]]", "[[Windsail]]", "[[Iron-Beach]]", "[[Free Holds]]"]
+contains:
+- '[[M''ren''r'']]'
+- '[[Aethelas]]'
+- '[[Gearhaven]]'
+- '[[Nexus]]'
+- '[[Zure]]'
+- '[[Windsail]]'
+- '[[Iron-Beach]]'
+- '[[Free Holds]]'
 population: null
 ruler: null
-faction: "[[Free Peoples Alliance]]"
-climate: "temperate western coast, rugged central highlands, dense interior forests"
-resources: ["geothermal energy", "exotic timber", "spices", "brimstone", "mana crystals"]
-status: "Independent — Technocracy of Gearhaven and Free Peoples Alliance"
+faction: '[[Free Peoples Alliance]]'
+climate: temperate western coast, rugged central highlands, dense interior forests
+resources:
+- geothermal energy
+- exotic timber
+- spices
+- brimstone
+- mana crystals
+status: Independent — Technocracy of Gearhaven and Free Peoples Alliance
 relationships:
-  - target: "[[Vael]]"
-    type: rival
-    period: "1115-"
-  - target: "[[Mirennian League]]"
-    type: founded-by
-    period: "752"
-  - target: "[[Free Holds]]"
-    type: contains
-    period: "1250-"
+- target: '[[Vael]]'
+  type: rival
+  period: 1115-
+- target: '[[Mirennian League]]'
+  type: founded-by
+  period: '752'
+- target: '[[Free Holds]]'
+  type: contains
+  period: 1250-
+- target: '[[Rise of the Free Holds]]'
+  type: involved-in
+  period: SA:1250
+  metadata:
+    description: Free Holds established in the rugged central highlands of Novaterra
+- target: '[[Technocratic Blockade]]'
+  type: involved-in
+  period: SA:1880
+  metadata:
+    description: Novaterran technocracy blockaded mainland ports
+- target: '[[War of the Barren Hills]]'
+  type: related
+  period: SA:1210
+  metadata:
+    description: Displaced Orkin emigrated to Novaterra, reshaping its demographics
+- target: '[[Mirennian League]]'
+  type: controlled-by
+  period: SA:835-
+  metadata:
+    description: Established secret colony at Windsail on Novaterra's western coast
+- target: '[[Aen''valar]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Primary population settled on Novaterra at Aethelas
+- target: '[[Dwarves]]'
+  type: homeland
+  period: SA:365-
+  metadata:
+    description: Thulkor'n diaspora settled across Novaterra after exile from Kharnzarak
+- target: '[[Orkin]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Novaterran Holds organized as mercenary corporations on the new continent
+- target: '[[Thulkor''n]]'
+  type: located-in
+- target: '[[Deep-Hull Ships]]'
+  type: custom
+  metadata:
+    description: enabled-discovery-of
+- target: '[[Landing at Rust-Water]]'
+  type: occurred-at
+  period: SA:1475
+  metadata:
+    description: Massive flotilla landed in a desolate bay rich in geothermal vents
+- target: '[[Thulkor''n]]'
+  type: contains
 timeline:
-  - period: "752"
-    event: "Discovery by Mirennian Navigator Tynna Swift-Tide"
-  - period: "835"
-    event: "Founding of Windsail — first permanent settlement"
-  - period: "850"
-    event: "First non-human settlers arrive — Thulkor'n Dwarves at Iron-Beach"
-  - period: "1115"
-    event: "The Secret is Sold — Republic learns of Novaterra"
-  - period: "1150"
-    event: "Skirmish of Red Clay — first colonial battle"
-  - period: "1250"
-    event: "Rise of the Free Holds — Orkin and Bronr'n Dwarves claim the central highlands"
-  - period: "1475"
-    event: "Refugee flotilla lands at Rust-Water Bay"
-  - period: "1485"
-    event: "Founding of Gearhaven — birth of technomancy"
-  - period: "1510"
-    event: "Founding of Nexus — Waldkyn bio-architecture city"
-  - period: "2175"
-    event: "Founding of Aethelas — Aen'valar Elven library-city"
-  - period: "2110"
-    event: "Declaration of Sovereignty — Free Peoples Alliance formed"
-tags: [place, continent]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '752'
+  event: Discovery by Mirennian Navigator Tynna Swift-Tide
+- period: '835'
+  event: Founding of Windsail — first permanent settlement
+- period: '850'
+  event: First non-human settlers arrive — Thulkor'n Dwarves at Iron-Beach
+- period: '1115'
+  event: The Secret is Sold — Republic learns of Novaterra
+- period: '1150'
+  event: Skirmish of Red Clay — first colonial battle
+- period: '1250'
+  event: Rise of the Free Holds — Orkin and Bronr'n Dwarves claim the central highlands
+- period: '1475'
+  event: Refugee flotilla lands at Rust-Water Bay
+- period: '1485'
+  event: Founding of Gearhaven — birth of technomancy
+- period: '1510'
+  event: Founding of Nexus — Waldkyn bio-architecture city
+- period: '2175'
+  event: Founding of Aethelas — Aen'valar Elven library-city
+- period: '2110'
+  event: Declaration of Sovereignty — Free Peoples Alliance formed
+tags:
+- place
+- continent
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Novaterra
 
 Novaterra is the continent of second chances — discovered in 752 S.A. by the [[Mirennian League|Mirennian]] navigator [[Tynna Swift-Tide]], it became the destination for every exile, refugee, and visionary fleeing the corruption and persecution of the Old World. Where [[Vael]] is defined by ancient grudges and rigid hierarchies, Novaterra is defined by innovation, meritocracy, and the volatile energy of peoples who have nothing left to lose.

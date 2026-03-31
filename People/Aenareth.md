@@ -2,55 +2,118 @@
 wb-type: person
 wb-id: aenareth
 name: Aenareth
-aliases: [The Prime Voice, The Great Smith, The First Striker]
+aliases:
+- The Prime Voice
+- The Great Smith
+- The First Striker
+- A'rastheon
 species: divine
 born: null
 died: null
 birthplace: null
 residence: null
 faction: null
-role: "First Hand — the Prime Voice who initiated creation"
-title: "The Prime Voice"
+role: First Hand — the Prime Voice who initiated creation
+title: The Prime Voice
 gender: null
 relationships:
-  - target: "[[Elves]]"
-    type: creator
-    note: "Set the resonance from which the Elves emerged"
-  - target: "[[Kael'Zorai]]"
-    type: co-creator
-    note: "Fellow First Hand, later adversary in the Paroxysm"
-  - target: "[[Aen'r-Khadaz]]"
-    type: co-creator
-    note: "Fellow First Hand"
-  - target: "[[Grom-Kain]]"
-    type: co-creator
-    note: "Fellow First Hand (Kael'Zorai in Orkin tradition)"
-  - target: "[[The Four Harmonies]]"
-    type: venerated-by
-    note: "Recognized as the Prime Voice in Elven cosmology"
-  - target: "[[The Four Makers]]"
-    type: venerated-by
-    note: "Known as the Great Smith in Human tradition"
-  - target: "[[The Four Pillars]]"
-    type: venerated-by
-    note: "Paralleled as Aen'r-Khadaz in Dwarven tradition"
-  - target: "[[Church of the Celestial Word]]"
-    type: venerated-by
-    note: "Counted among the Primi Caelus"
+- target: '[[Elves]]'
+  type: creator
+  metadata:
+    description: Set the resonance from which the Elves emerged
+- target: '[[A''rastheon]]'
+  type: identity
+  metadata:
+    description: Aenareth is the Elven cultural name for A'rastheon, the prime pre-existent creator
+- target: '[[Kael''Zorai]]'
+  type: creator
+  metadata:
+    description: Fellow First Hand, later adversary in the Paroxysm
+    nature: collaborative
+- target: '[[Aen''r-Khadaz]]'
+  type: identity
+  metadata:
+    description: Dwarven cultural name for the same prime creator
+- target: '[[Grom-Kain]]'
+  type: creator
+  metadata:
+    description: Fellow First Hand (Kael'Zorai in Orkin tradition)
+    nature: collaborative
+- target: '[[The Four Harmonies]]'
+  type: worshipped-by
+  metadata:
+    description: Recognized as the Prime Voice in Elven cosmology
+- target: '[[The Four Makers]]'
+  type: worshipped-by
+  metadata:
+    description: Known as the Great Smith in Human tradition
+- target: '[[The Four Pillars]]'
+  type: worshipped-by
+  metadata:
+    description: Paralleled as Aen'r-Khadaz in Dwarven tradition
+- target: '[[Church of the Celestial Word]]'
+  type: worshipped-by
+  metadata:
+    description: Counted among the Primi Caelus
+- target: '[[The Paroxysm]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: United with other First Hands to stop Kael'Zorai — the Alatirn' (Dissonance)
+- target: '[[The Binding]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Participated in sealing Kael'Zorai
+- target: '[[The Great Withdrawal]]'
+  type: involved-in
+  period: FA
+  metadata:
+    description: Withdrew from the physical plane after the Paroxysm
+- target: '[[Grom-Kain]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who struck Grom-Kain down, in Orkin tradition
+- target: '[[Kael''Zorai]]'
+  type: created-by
+  metadata:
+    description: Fellow First Hand (cultural name for A'rastheon)
+    nature: collaborative
+- target: '[[Grom-Kain Worship]]'
+  type: enemy
+  metadata:
+    description: One of the 'Soft Hands' who betrayed Grom-Kain
+- target: '[[The Four Harmonies]]'
+  type: worships
+  metadata:
+    description: The Prime Voice who set the resonance in motion
+- target: '[[The Four Makers]]'
+  type: related
+  metadata:
+    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for A'rastheon
+    nature: parallel
+- target: '[[Elves]]'
+  type: created-by
+  metadata:
+    description: Elven cultural name for A'rastheon, the prime creator
 timeline:
-  - period: "FA"
-    event: "Strummed the Heartwood of Silence, initiating the resonance of creation"
-  - period: "FA"
-    event: "The Four Harmonies emerged from the canvas Aenareth created"
-  - period: "FA"
-    event: "Participated in the war against Kael'Zorai during the Paroxysm"
-  - period: "SA:1"
-    event: "Withdrew from the physical plane in the Great Withdrawal"
-tags: [person, divine, first-hand, creator, elven-cosmology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Strummed the Heartwood of Silence, initiating the resonance of creation
+- period: FA
+  event: The Four Harmonies emerged from the canvas Aenareth created
+- period: FA
+  event: Participated in the war against Kael'Zorai during the Paroxysm
+- period: SA:1
+  event: Withdrew from the physical plane in the Great Withdrawal
+tags:
+- person
+- divine
+- first-hand
+- creator
+- elven-cosmology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aenareth
 
 **Aenareth** is the **Prime Voice** — the initiating force of creation in Elven cosmology and one of the five original First Hands who shaped [[Vaeloris]]. Where other cultures remember a Great Smith who struck an anvil or a Deep Shaper who pulsed through bedrock, the [[Elves]] understand Aenareth as the being who **strummed the Heartwood of Silence**, setting the resonance of existence in motion like wind through the first hollow tree.
@@ -82,9 +145,9 @@ Whether the Great Smith, the Prime Voice, and the Deep Shaper are truly the same
 
 ## The Paroxysm and Withdrawal
 
-When [[Kael'Zorai]] — the Fifth Tone, the Dissonant One — attempted to overwrite the symphony of creation with a single note of absolute order, Aenareth and the other First Hands united to stop the Sixth. The resulting **Paroxysm** (known to the Elves as the **Alatirn'**, the Dissonance) shattered the harmony of the world.
+When [[Kael'Zorai]] — the Fifth Tone, the Dissonant One — attempted to overwrite the symphony of creation with a single note of absolute order, Aenareth and the other First Hands united to stop the Fifth. The resulting **Paroxysm** (known to the Elves as the **Alatirn'**, the Dissonance) shattered the harmony of the world.
 
-After the Sixth was sealed, Aenareth and the remaining First Hands withdrew from the physical plane entirely. The Elves hold that the Harmonies did not vanish but **folded back into the world** — into tree, stone, gem, and dream. They were never truly separate from creation, only quieter now. It is through artistry, song, and seasonal rite that Elves maintain their connection with them.
+After the Fifth was sealed, Aenareth and the remaining First Hands withdrew from the physical plane entirely. The Elves hold that the Harmonies did not vanish but **folded back into the world** — into tree, stone, gem, and dream. They were never truly separate from creation, only quieter now. It is through artistry, song, and seasonal rite that Elves maintain their connection with them.
 
 ## Legacy
 

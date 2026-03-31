@@ -2,25 +2,50 @@
 wb-type: technology
 wb-id: clockwork-mechanisms
 name: Clockwork Mechanisms
-aliases: [Gnomish Clockwork, Silent Gearwork]
+aliases:
+- Gnomish Clockwork
+- Silent Gearwork
 type: mechanical
 inventor: null
-invented: "ancient"
-used-by: ["[[Rock Gnomes]]", "[[Forest Gnomes]]", "[[Gearhaven]]"]
+invented: ancient
+used-by:
+- '[[Rock Gnomes]]'
+- '[[Forest Gnomes]]'
+- '[[Gearhaven]]'
 prerequisites:
-  - Gnomish precision metalwork and gem-cutting
-  - Understanding of mechanical advantage and gear ratios
-  - Access to refined metals and precision tools
+- Gnomish precision metalwork and gem-cutting
+- Understanding of mechanical advantage and gear ratios
+- Access to refined metals and precision tools
 relationships:
-  - { target: "[[Rock Gnomes]]", type: "originated-by", detail: "Rock Gnome Deep-Weavers developed the foundational techniques" }
-  - { target: "[[Technomancy]]", type: "foundational-to", detail: "Gnomish clockwork provided the mechanical basis for technomantic systems" }
-  - { target: "[[Clank Servitors]]", type: "enables", detail: "Clockwork articulation systems power Clank movement and precision" }
-  - { target: "[[Printing Press]]", type: "enables", detail: "Precision metalwork made movable type possible" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Rock Gnomes]]'
+  type: custom
+  metadata:
+    description: originated-by
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: foundational-to
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Printing Press]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: incorporates
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: built-on
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Clockwork Mechanisms
 
 Clockwork Mechanisms are the intricate, precision-engineered gear systems developed by the [[Rock Gnomes]] of [[Vaeloris]]. They represent the foundation of Gnomish mechanical engineering and one of the oldest continuous technological traditions in the world -- predating human civilization and serving as the essential mechanical basis for later innovations including the [[Printing Press]], [[Clank Servitors]], and [[Technomancy]] itself.

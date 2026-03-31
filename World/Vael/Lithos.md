@@ -2,33 +2,86 @@
 wb-type: place
 wb-id: lithos
 name: Lithos
-aliases: [The Silent Gyre]
-parent: "[[Central Mountains]]"
+aliases:
+- The Silent Gyre
+parent: '[[Central Mountains]]'
 spatial-type: city
 contains: []
 population: null
-ruler: "[[Deep Warden]]"
-faction: "[[Rock Gnomes]]"
+ruler: '[[Deep Warden]]'
+faction: '[[Rock Gnomes]]'
 climate: subterranean, geothermally heated, phosphorescent lighting
-resources: [gems, crystals, clockwork mechanisms, harmonic instruments]
+resources:
+- gems
+- crystals
+- clockwork mechanisms
+- harmonic instruments
 status: hidden Rock Gnome underground city, nearly unknown to surface-dwellers
 relationships:
-  - target: "[[Kharnzarak]]"
-    type: coexistence
-    period: "SA:1-"
-  - target: "[[Hannan'r']]"
-    type: secret-alliance
-    period: "SA:89-"
+- target: '[[Kharnzarak]]'
+  type: custom
+  period: SA:1-
+  metadata:
+    description: coexistence
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: SA:89-
+  metadata:
+    description: secret-alliance
+- target: '[[Rock Gnomes]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Greatest city of the Rock Gnomes, hidden subterranean metropolis
+- target: '[[Lithos Guild-Conclave]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Governed by the Technocratic Guild-Conclave of nine craft masters
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Hidden deep within the Dragon's Tooth range
+- target: '[[Gearhaven]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Symbiotic Weave faction exchanges ideas with Rock Gnomes
+- target: '[[Elm-korin]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Rock Gnomes fascinate and are fascinated by Elm-korin technomancy
+- target: '[[Elm-korin]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Symbiotic Weave faction exchanges ideas with Rock Gnomes through carefully guarded channels
+- target: '[[Gnomes]]'
+  type: native
+  period: SA
+  metadata:
+    description: Greatest city of the Rock Gnomes, hidden subterranean metropolis
+- target: '[[Rock Gnomes]]'
+  type: controlled-by
+- target: '[[Central Mountains]]'
+  type: located-in
+  period: 1-
 timeline:
-  - period: "SA:1-"
-    event: Rock Gnomes inhabit the deep root systems of the Central Mountains, tending stone and crystal
-  - period: "SA:89"
-    event: Rock Gnomes secretly aid in stabilizing the wards around [[Hannan'r']] with bronze lattice-work
-tags: [place, city, gnomish, underground, hidden]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-
+  event: Rock Gnomes inhabit the deep root systems of the Central Mountains, tending stone and crystal
+- period: SA:89
+  event: Rock Gnomes secretly aid in stabilizing the wards around [[Hannan'r']] with bronze lattice-work
+tags:
+- place
+- city
+- gnomish
+- underground
+- hidden
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Lithos
 
 Lithos, known as the Silent Gyre, is the greatest city of the [[Rock Gnomes]] -- a breathtaking subterranean metropolis of silent clockwork, glowing crystals, and geothermal vents, hidden deep within the [[Central Mountains]]. Its existence is virtually unknown to surface-dwellers.

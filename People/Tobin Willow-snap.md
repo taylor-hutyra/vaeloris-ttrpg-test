@@ -1,44 +1,59 @@
 ---
 wb-type: person
 wb-id: tobin-willow-snap
-name: "Tobin Willow-snap"
-aliases: [Old Man Willow-snap]
-species: "[[Halflings]]"
+name: Tobin Willow-snap
+aliases:
+- Old Man Willow-snap
+species: '[[Halflings]]'
 born: null
 died: null
 birthplace: null
-residence: "[[Greenmeadow]]"
-faction: "[[Hearthfolk Commonwealth]]"
-role: "First settler and founder of Greenmeadow"
+residence: '[[Greenmeadow]]'
+faction: '[[Hearthfolk Commonwealth]]'
+role: First settler and founder of Greenmeadow
 title: null
 gender: male
 relationships:
-  - target: "[[Greenmeadow]]"
-    type: founder
-    period: "SA:980"
-    note: "Led the first Halfling families to settle the fertile western river valleys"
-  - target: "[[Halflings]]"
-    type: cultural-icon
-    note: "Central figure in the Halfling founding story, 'The Tale of Old Man Willow-snap'"
-  - target: "[[Gnomes]]"
-    type: ally
-    period: "SA:980"
-    note: "Encountered and befriended the Forest Gnomes already living in the region"
-  - target: "[[Declaration of Hollowkin Rights]]"
-    type: catalyst
-    note: "His settlement led to the historic Halfling-Gnome treaty"
+- target: '[[Greenmeadow]]'
+  type: founder
+  period: SA:980
+  metadata:
+    description: Led the first Halfling families to settle the fertile western river valleys
+- target: '[[Halflings]]'
+  type: related
+  metadata:
+    description: Central figure in the Halfling founding story, 'The Tale of Old Man Willow-snap'
+    nature: cultural icon
+- target: '[[Gnomes]]'
+  type: ally
+  period: SA:980
+  metadata:
+    description: Encountered and befriended the Forest Gnomes already living in the region
+- target: '[[Declaration of Hollowkin Rights]]'
+  type: custom
+  metadata:
+    description: 'catalyst: His settlement led to the historic Halfling-Gnome treaty'
+- target: '[[Greenmeadow]]'
+  type: founder
+  period: SA:980
+  metadata:
+    description: Led the first Halfling families to settle the fertile western river valleys
 timeline:
-  - period: "SA:980"
-    event: "Led the first Halfling clans into the fertile western river valleys, founding the settlement of Greenmeadow"
-  - period: "SA:980"
-    event: "Encountered the Forest Gnomes already living hidden in the region, initiating first contact between the two peoples"
-  - period: "SA:980"
-    event: "His settlement led to the Declaration of Hollowkin Rights, establishing the shared Halfling-Gnome society of Burrows and Hollows"
-tags: [person, halfling, hearthfolk, founder]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:980
+  event: Led the first Halfling clans into the fertile western river valleys, founding the settlement of Greenmeadow
+- period: SA:980
+  event: Encountered the Forest Gnomes already living hidden in the region, initiating first contact between the two peoples
+- period: SA:980
+  event: His settlement led to the Declaration of Hollowkin Rights, establishing the shared Halfling-Gnome society of Burrows
+    and Hollows
+tags:
+- person
+- halfling
+- hearthfolk
+- founder
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Tobin Willow-snap
 
 **Tobin Willow-snap** -- known in fireside tales as **Old Man Willow-snap** -- was the [[Halflings|Halfling]] who led the first families to settle the fertile western river valleys and founded **[[Greenmeadow]]** in **SA 980**, establishing the community that would become the heart and soul of [[Halflings|Halfling]] civilization in [[Vaeloris]].

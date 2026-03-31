@@ -2,44 +2,55 @@
 wb-type: place
 wb-id: hollowkin-settlement
 name: Hollowkin Settlement
-aliases: [The Burrows and Hollows of Aerin'r']
-parent: "[[Aerin'r']]"
+aliases:
+- The Burrows and Hollows of Aerin'r'
+parent: '[[Aerin''r'']]'
 spatial-type: settlement
 contains: []
 population: small
-ruler: "[[Joint-Hollow Council]]"
+ruler: '[[Joint-Hollow Council]]'
 faction: null
 climate: temperate-forest
-resources: [agriculture, mushrooms, herbal-remedies, tinkering]
+resources:
+- agriculture
+- mushrooms
+- herbal-remedies
+- tinkering
 status: active
 relationships:
-  - target: "[[Halflings]]"
-    type: homeland-of
-    period: "SA:900-"
-  - target: "[[Gnomes]]"
-    type: homeland-of
-    period: "SA:900-"
-  - target: "[[Declaration of Hollowkin Rights]]"
-    type: governed-by
-    period: "SA:980-"
-  - target: "[[Sael'anir]]"
-    type: allied-with
-    period: "SA:900-"
-  - target: "[[Waldkyn]]"
-    type: allied-with
-    period: "SA:900-"
+- target: '[[Halflings]]'
+  type: homeland
+  period: SA:900-
+- target: '[[Gnomes]]'
+  type: homeland
+  period: SA:900-
+- target: '[[Declaration of Hollowkin Rights]]'
+  type: controlled-by
+  period: SA:980-
+- target: '[[Sael''anir]]'
+  type: ally
+  period: SA:900-
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA:900-
 timeline:
-  - period: "SA:900"
-    label: "Halfling and Gnome families settle together on Aerin'r'"
-  - period: "SA:980"
-    label: "Declaration of Hollowkin Rights formalizes the joint Halfling-Gnome community"
-  - period: "SA:1890"
-    label: "Participates in the first Star-Tide Festival at Lanthir Haven"
-tags: [place, settlement, aerinr, halfling, gnome, peaceful, joint-community]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:900
+  label: Halfling and Gnome families settle together on Aerin'r'
+- period: SA:980
+  label: Declaration of Hollowkin Rights formalizes the joint Halfling-Gnome community
+- period: SA:1890
+  label: Participates in the first Star-Tide Festival at Lanthir Haven
+tags:
+- place
+- settlement
+- aerinr
+- halfling
+- gnome
+- peaceful
+- joint-community
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Hollowkin Settlement
 
 The **Hollowkin Settlement** is a unique joint [[Halflings|Halfling]]-[[Gnomes|Gnome]] community on the peaceful continent of [[Aerin'r']], established when small family groups of both peoples settled together in the fertile forested lowlands. It is a living testament to the historic **[[Declaration of Hollowkin Rights]]** -- the treaty that first established a shared society of "Burrows and Hollows" between the two peoples.

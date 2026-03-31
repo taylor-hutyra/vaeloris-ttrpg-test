@@ -2,52 +2,84 @@
 wb-type: place
 wb-id: vael
 name: Vael
-aliases: [The Mainland, The Old World, The Continent]
-parent: "[[Vaeloris]]"
+aliases:
+- The Mainland
+- The Old World
+- The Continent
+parent: '[[Vaeloris]]'
 spatial-type: continent
-contains: ["[[Vernath]]", "[[Argentum]]", "[[Castellum]]", "[[Port Farrick]]", "[[Kharnzarak]]", "[[Hannan'r']]", "[[M'ren'r']]", "[[Whispering Vales]]", "[[Greenmeadow]]", "[[Barren Hills]]", "[[Dragon's Tooth Mountains]]", "[[Luminas]]", "[[Aurumport]]", "[[Southern Sands]]", "[[Iron-Peak Range]]"]
+contains:
+- '[[Vernath]]'
+- '[[Argentum]]'
+- '[[Castellum]]'
+- '[[Port Farrick]]'
+- '[[Kharnzarak]]'
+- '[[Hannan''r'']]'
+- '[[M''ren''r'']]'
+- '[[Whispering Vales]]'
+- '[[Greenmeadow]]'
+- '[[Barren Hills]]'
+- '[[Dragon''s Tooth Mountains]]'
+- '[[Luminas]]'
+- '[[Aurumport]]'
+- '[[Southern Sands]]'
+- '[[Iron-Peak Range]]'
 population: null
 ruler: null
 faction: null
-climate: "temperate highlands to arid south, forested vales, coastal lowlands"
-resources: ["silver", "iron", "coal", "salt", "grain", "timber"]
-status: "Divided — Varnathi Democracy, Mirennian League, Federation of City-States under Magocracy oversight"
+climate: temperate highlands to arid south, forested vales, coastal lowlands
+resources:
+- silver
+- iron
+- coal
+- salt
+- grain
+- timber
+status: Divided — Varnathi Democracy, Mirennian League, Federation of City-States under Magocracy oversight
 relationships:
-  - target: "[[Novaterra]]"
-    type: rival
-    period: "1115-"
-  - target: "[[The Magocracy]]"
-    type: governed-by
-    period: "2701-"
-  - target: "[[Drakenvast]]"
-    type: hostile
-    period: "2341-2700"
+- target: '[[Novaterra]]'
+  type: rival
+  period: 1115-
+- target: '[[The Magocracy]]'
+  type: controlled-by
+  period: 2701-
+- target: '[[Drakenvast]]'
+  type: enemy
+  period: 2341-2700
+  metadata:
+    nature: hostile
+- target: '[[Drakenvast]]'
+  type: custom
+  period: 2341-2700
+  metadata:
+    description: invaded
 timeline:
-  - period: "28"
-    event: "Founding of Vernath by Vardas the Elder"
-  - period: "91"
-    event: "Unification of the Dwarven Clans under Kharnzarak"
-  - period: "381"
-    event: "Caelius I declares the Varnathi Empire"
-  - period: "581"
-    event: "Bloodless Coup — Republic replaces the monarchy"
-  - period: "654-665"
-    event: "The Salt War between Republic and Mirennian League"
-  - period: "1400"
-    event: "Sealing of Kharnzarak"
-  - period: "1401-1750"
-    event: "The Arcane Revolution — discovery and persecution of magic"
-  - period: "1950"
-    event: "Fall of the Republic — Succession Wars shatter the mainland"
-  - period: "2341"
-    event: "The Scouring of the North — Drakona invasion begins"
-  - period: "3280"
-    event: "Convention of Accord — borders fixed in perpetuity"
-tags: [place, continent]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '28'
+  event: Founding of Vernath by Vardas the Elder
+- period: '91'
+  event: Unification of the Dwarven Clans under Kharnzarak
+- period: '381'
+  event: Caelius I declares the Varnathi Empire
+- period: '581'
+  event: Bloodless Coup — Republic replaces the monarchy
+- period: 654-665
+  event: The Salt War between Republic and Mirennian League
+- period: '1400'
+  event: Sealing of Kharnzarak
+- period: 1401-1750
+  event: The Arcane Revolution — discovery and persecution of magic
+- period: '1950'
+  event: Fall of the Republic — Succession Wars shatter the mainland
+- period: '2341'
+  event: The Scouring of the North — Drakona invasion begins
+- period: '3280'
+  event: Convention of Accord — borders fixed in perpetuity
+tags:
+- place
+- continent
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Vael
 
 Vael is the primary landmass of [[Vaeloris]], the continent where mortal civilization first took root in the terrifying silence following the Great Withdrawal. It is a land of ancient cities, sealed mountain kingdoms, mist-veiled forests, and scarred battlefields — every league of soil saturated with millennia of ambition, betrayal, and resilience.

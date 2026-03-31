@@ -1,29 +1,136 @@
 ---
 wb-type: species
 wb-id: nnm-khazaln
-name: "N'nm-Khazal'n"
-aliases: [Stone-Sworn, Traditionalist Dwarves, Mountain Dwarves]
+name: N'nm-Khazal'n
+aliases:
+- Stone-Sworn
+- Traditionalist Dwarves
+- Mountain Dwarves
 origin: The original orthodox dwarven clans who remained in Kharnzarak, preserving First Age traditions without deviation
 lifespan: 300-400 years
-traits: [traditionalist, honor-bound, suspicious of magic, hierarchical, rhythmic speech, stone-carving mastery]
-habitat: ["[[Kharnzarak]]"]
+traits:
+- traditionalist
+- honor-bound
+- suspicious of magic
+- hierarchical
+- rhythmic speech
+- stone-carving mastery
+habitat:
+- '[[Kharnzarak]]'
 population: large
 relationships:
-  - target: "[[Dwarves]]"
-    type: child-of
-  - target: "[[Kharnzarak]]"
-    type: controls
-  - target: "[[Thulkor'n]]"
-    type: exiled
-  - target: "[[Elm-korin]]"
-    type: exiled
-  - target: "[[Rock Gnomes]]"
-    type: ally-of
-tags: [species, dwarven, stone-sworn, norse, germanic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Dwarves]]'
+  type: child
+- target: '[[Kharnzarak]]'
+  type: controls
+- target: '[[Thulkor''n]]'
+  type: custom
+  metadata:
+    description: exiled
+- target: '[[Elm-korin]]'
+  type: custom
+  metadata:
+    description: exiled
+- target: '[[Rock Gnomes]]'
+  type: ally
+- target: '[[Gnomes]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: Call Gnomes the N'mm-kith (Stone-kin), recognizing them as fellow children of a Stone-based Pillar
+    nature: stone-kin
+- target: '[[Kharnzarak Monarchy]]'
+  type: controlled-by
+  period: SA:91-
+  metadata:
+    description: Governed by the hereditary monarchy under the High King and Stone-Lay Council
+- target: '[[Barazkor Clan]]'
+  type: has-member
+  period: SA:91-
+  metadata:
+    description: The Royal Clan, wardens of military and law
+- target: '[[Farrazul Clan]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: The Gem-Cutters, wealthiest High Clan
+- target: '[[Gulgrym Clan]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: The Deep-Miners, most powerful Guild Clan
+- target: '[[Bronr''n Legacy]]'
+  type: has-member
+  period: SA:1200-
+  metadata:
+    description: Secret reformist society operating clandestinely within Kharnzarak
+- target: '[[Mirennian League]]'
+  type: trade
+  period: SA
+  metadata:
+    description: Bronze-Crest Clans maintain cordial relations with Mirennian coastal traders
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: native
+  period: SA
+  metadata:
+    description: The Zelg'l-Kharn (Echo-Clan) fortress-monastery at Bjalmund's Spire
+- target: '[[Unification of Dwarven Clans]]'
+  type: involved-in
+  period: SA:91
+  metadata:
+    description: The Stone-Sworn became the dominant Dwarven culture under unified rule
+- target: '[[Farrazül Clan]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: One of the wealthiest High Clans within the Stone-Sworn
+- target: '[[Bjalmund]]'
+  type: ally
+  period: SA:380
+  metadata:
+    description: Dwarven runesmiths helped seal the Scar after the Echo-Lord's defeat
+- target: '[[High King Thorgar VI]]'
+  type: ruled-by
+  period: SA:1370-1400
+  metadata:
+    description: Ruled the Stone-Sworn during their descent into total isolation
+- target: '[[Thane Korin Barazkor]]'
+  type: custom
+  period: SA:91
+  metadata:
+    description: 'unifier: United the warring Dwarven clans under a single throne'
+- target: '[[The Four Pillars]]'
+  type: worships
+  metadata:
+    description: The most orthodox practitioners
+    nature: practice
+- target: '[[Elm-korin]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Thulkor''n]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Zelg'l-Kharn (Echo-Clan) fortress-monastery at Bjalmund's Spire
+- target: '[[Kharnzarak]]'
+  type: native
+  period: SA:91-
+  metadata:
+    description: Home of the orthodox Stone-Sworn Dwarves
+tags:
+- species
+- dwarven
+- stone-sworn
+- norse
+- germanic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The N'nm-Khazal'n
 
 The **N'nm-Khazal'n**, or **Stone-Sworn**, are the keepers of [[Dwarves|Dwarven]] tradition -- the deeply orthodox clans who reside in the great mountain kingdom of [[Kharnzarak]]. They believe that Dwarven craft reached its apex in the First Age and that their sacred duty is to preserve those ancient techniques and societal structures without deviation. Their cultural analog is Norse/Germanic in character.
@@ -36,7 +143,7 @@ Their highest virtue is **Thral'k** (Endurance) -- the ability to maintain cultu
 
 ## The Fracture of Law
 
-Of the great cataclysm others call the [[Paroxysm]], the N'nm-Khazal'n speak cautiously. They call it **Dur'k Thul** (the Fracture of Law), a time when the pattern cracked. Ancient stone records speak of an additional force, the [[Ulzammar]] -- not a being but a concept that sought to refine creation into stillness. It attempted to seal the fires, stop the winds, and bind the stars in numerical lattice. The name Ulzammar has been chipped away in many vaults, and elder runes are lost. To speak of it aloud is discouraged in the deep halls.
+Of the great cataclysm others call [[The Paroxysm]], the N'nm-Khazal'n speak cautiously. They call it **Dur'k Thul** (the Fracture of Law), a time when the pattern cracked. Ancient stone records speak of an additional force, the [[Ulzammar]] -- not a being but a concept that sought to refine creation into stillness. It attempted to seal the fires, stop the winds, and bind the stars in numerical lattice. The name Ulzammar has been chipped away in many vaults, and elder runes are lost. To speak of it aloud is discouraged in the deep halls.
 
 ## Government: The Stone-Sworn Hegemony
 

@@ -2,39 +2,79 @@
 wb-type: place
 wb-id: great-desert
 name: Great Desert
-aliases: [Southern Sands, The Deep Sands]
-parent: "[[Vael]]"
+aliases:
+- Southern Sands
+- The Deep Sands
+parent: '[[Vael]]'
 spatial-type: desert
 contains: []
 population: null
 ruler: null
-faction: "[[Desertborn Confederacy]]"
+faction: '[[Desertborn Confederacy]]'
 climate: arid desert, extreme heat, cold nights
-resources: [salt, spices, silk, hidden oases, First Age ruins]
+resources:
+- salt
+- spices
+- silk
+- hidden oases
+- First Age ruins
 status: Lothari homeland, controls overland trade routes
 relationships:
-  - target: "[[Varnathi Highlands]]"
-    type: trade-route
-    period: "1300-"
-  - target: "[[Coastal Regions]]"
-    type: trade-route
-    period: "1300-"
+- target: '[[Varnathi Highlands]]'
+  type: custom
+  period: 1300-
+  metadata:
+    description: trade-route
+- target: '[[Coastal Regions]]'
+  type: custom
+  period: 1300-
+  metadata:
+    description: trade-route
+- target: '[[Desertborn Confederacy Founded]]'
+  type: involved-in
+  period: SA:1300
+  metadata:
+    description: The southern sands became the territory of the Confederacy
+- target: '[[Silent Network]]'
+  type: contains
+  period: SA:1350-
+  metadata:
+    description: Hidden vaults scattered across the Great Desert
+- target: '[[Lothari Silent Network]]'
+  type: controlled-by
+  period: SA:1300-
+  metadata:
+    description: Controls the overland Silk Road through the desert
+- target: '[[Gnomes]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Sand Gnomes follow deep aquifers through the great deserts
+- target: '[[Lothari]]'
+  type: controlled-by
+- target: '[[Sand Gnomes]]'
+  type: located-in
+- target: '[[Sand Gnomes]]'
+  type: contains
 timeline:
-  - period: "SA:955"
-    event: Rise of the Vermillion Dynasties; Sorcerer-Kings unite southern tribes using Blood-Binding rituals
-  - period: "SA:955-1150"
-    event: Vermillion Dynasties sever overland trade routes, accelerating Mirennian discovery of Novaterra
-  - period: "SA:1150"
-    event: Vermillion Dynasties collapse from magical drought and inbreeding
-  - period: "SA:1300"
-    event: Lothari Mystics unite the nomadic tribes into the [[Desertborn Confederacy]]; seize control of the Silk Road
-  - period: "SA:1350"
-    event: The [[Silent Network]] formally organized; Lothari begin archiving histories in hidden desert vaults
-tags: [place, desert, lothari, human]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:955
+  event: Rise of the Vermillion Dynasties; Sorcerer-Kings unite southern tribes using Blood-Binding rituals
+- period: SA:955-1150
+  event: Vermillion Dynasties sever overland trade routes, accelerating Mirennian discovery of Novaterra
+- period: SA:1150
+  event: Vermillion Dynasties collapse from magical drought and inbreeding
+- period: SA:1300
+  event: Lothari Mystics unite the nomadic tribes into the [[Desertborn Confederacy]]; seize control of the Silk Road
+- period: SA:1350
+  event: The [[Silent Network]] formally organized; Lothari begin archiving histories in hidden desert vaults
+tags:
+- place
+- desert
+- lothari
+- human
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Great Desert
 
 The Great Desert, also known as the Southern Sands, is a vast arid expanse in the south of [[Vael]]. Home to the [[Lothari]] mystics and the [[Desertborn Confederacy]], the desert controls the overland trade routes between the eastern and western halves of the continent.

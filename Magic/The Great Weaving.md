@@ -2,40 +2,88 @@
 wb-type: magic
 wb-id: the-great-weaving
 name: The Great Weaving
-aliases: [The Mist Barrier, The Veil of Hannan'r']
+aliases:
+- The Mist Barrier
+- The Veil of Hannan'r'
 type: illusion
 source: Moonlight-drawn magic woven into a permanent illusionary barrier by Elven ritual
-practitioners: ["[[Sun-Leaf Conclave]]", "[[Cirhannim]]", "[[Lelyariel]]"]
+practitioners:
+- '[[Sun-Leaf Conclave]]'
+- '[[Cirhannim]]'
+- '[[Lelyariel]]'
 limitations:
-  - Requires continuous maintenance by the Sun-Leaf Conclave
-  - Iron ore deposits in the forest floor destabilize the weaving
-  - Only those carrying a specific harmonic token can perceive the path through the mist
-  - The barrier conceals but does not physically prevent entry; a determined force could stumble through
-  - Dependent on the Mist-Lanterns anchoring the illusion along the forest border
+- Requires continuous maintenance by the Sun-Leaf Conclave
+- Iron ore deposits in the forest floor destabilize the weaving
+- Only those carrying a specific harmonic token can perceive the path through the mist
+- The barrier conceals but does not physically prevent entry; a determined force could stumble through
+- Dependent on the Mist-Lanterns anchoring the illusion along the forest border
 effects:
-  - Renders the forest of Hannan'r' invisible to outside observers
-  - Projects impenetrable mist and spatial disorientation around the forest border
-  - Conceals all Elven settlements within from mortal detection
-  - Masks sound, scent, and magical signatures from external divination
+- Renders the forest of Hannan'r' invisible to outside observers
+- Projects impenetrable mist and spatial disorientation around the forest border
+- Conceals all Elven settlements within from mortal detection
+- Masks sound, scent, and magical signatures from external divination
 relationships:
-  - { target: "[[Lelyariel]]", type: "created-by", detail: "Elven Queen who led the month-long ritual in SA:55" }
-  - { target: "[[Sun-Leaf Conclave]]", type: "maintained-by", detail: "The mages who sustain the barrier across the centuries" }
-  - { target: "[[Hannan'r']]", type: "protects", detail: "The hidden Elven forest concealed by the Weaving" }
-  - { target: "[[Tinbrel Quillroot]]", type: "stabilized-by", detail: "Gnome artisan who wove bronze lattice-work into the border trees to ground the magic" }
-  - { target: "[[Mist-Lanterns]]", type: "anchored-by", detail: "Crystalline beacons that project and anchor the illusion" }
-  - { target: "[[Rock Gnomes]]", type: "aided-by", detail: "Secretly assisted in weaving the protective wards" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Lelyariel]]'
+  type: created-by
+- target: '[[Sun-Leaf Conclave]]'
+  type: custom
+  metadata:
+    description: maintained-by
+- target: '[[Hannan''r'']]'
+  type: custom
+  metadata:
+    description: protects
+- target: '[[Tinbrel Quillroot]]'
+  type: custom
+  metadata:
+    description: stabilized-by
+- target: '[[Mist-Lanterns]]'
+  type: custom
+  metadata:
+    description: anchored-by
+- target: '[[Rock Gnomes]]'
+  type: custom
+  metadata:
+    description: aided-by
+- target: '[[Pact of Bark and Bronze]]'
+  type: related
+  period: SA:89
+  metadata:
+    description: The bronze lattice stabilized the Great Weaving against iron ore interference
+- target: '[[Myco-Whispering]]'
+  type: ally
+- target: '[[Song-Wards]]'
+  type: custom
+  metadata:
+    description: parallel-to
+- target: '[[Tinbrel Quillroot]]'
+  type: related
+  period: SA:89
+  metadata:
+    description: Stabilized the Great Weaving against iron ore interference with bronze lattice
+- target: '[[Cirhannim]]'
+  type: created-by
+- target: '[[Mist-Lanterns]]'
+  type: custom
+  metadata:
+    description: anchors
+- target: '[[Hannan''r'']]'
+  type: located-in
+  period: SA:55-
+  metadata:
+    description: Permanent illusionary barrier protecting the forest
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Great Weaving
 
 The Great Weaving is the vast illusionary barrier that conceals the Elven forest of [[Hannan'r']] from the outside world. Created in SA:55 by Queen [[Lelyariel]] and the mages of the [[Sun-Leaf Conclave]], it is one of the most powerful and enduring magical works of the Second Age -- a living testament to Elven mastery of light, dream, and perception.
 
 ## Creation
 
-In the early decades following the [[Great Withdrawal]], the [[Cirhannim]] Elves watched the younger races with growing unease. Humans founded [[Vernath]] and began expanding aggressively; Dwarves reclaimed their deep halls and unified under a High King. The world was becoming crowded, ambitious, and loud.
+In the early decades following [[The Great Withdrawal]], the [[Cirhannim]] Elves watched the younger races with growing unease. Humans founded [[Vernath]] and began expanding aggressively; Dwarves reclaimed their deep halls and unified under a High King. The world was becoming crowded, ambitious, and loud.
 
 Queen Lelyariel determined that the only way to preserve the Elven way of life was to disappear entirely. Over two decades, she and the Sun-Leaf Conclave prepared a ritual of unprecedented scope. In SA:55, they began the Great Weaving itself: a month-long ceremony drawing magic from moonlight, channeling it through the ancient trees of Hannan'r' and weaving it into a permanent illusion that would hide the entire forest from mortal perception.
 

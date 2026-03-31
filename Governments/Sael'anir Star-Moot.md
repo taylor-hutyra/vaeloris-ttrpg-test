@@ -1,32 +1,55 @@
 ---
 wb-type: government
 wb-id: saelanir-star-moot
-name: "Sael'anir Star-Moot"
-aliases: [Nomadic Concordance, Sky-Wanderers' Moot]
+name: Sael'anir Star-Moot
+aliases:
+- Nomadic Concordance
+- Sky-Wanderers' Moot
 type: democracy
 founded: null
-territory: ["[[Aerin'r']]"]
+territory:
+- '[[Aerin''r'']]'
 leader: null
 capital: null
 laws:
-  - "No decision is binding unless unanimous consensus is reached among all band elders"
-  - "Star-Moot convenes once every five years at a sacred celestial alignment point"
+- No decision is binding unless unanimous consensus is reached among all band elders
+- Star-Moot convenes once every five years at a sacred celestial alignment point
 relationships:
-  - target: "[[Cirhannim Hierarchy]]"
-    type: sorrowful-distance
-    period: ""
-  - target: "[[Aen'valar Council]]"
-    type: philosophical-difference
-    period: ""
-  - target: "[[Aerin'r' Path of Consensus]]"
-    type: peaceful-coexistence
-    period: ""
+- target: '[[Cirhannim Hierarchy]]'
+  type: custom
+  metadata:
+    description: sorrowful-distance
+- target: '[[Aen''valar Council]]'
+  type: custom
+  metadata:
+    description: philosophical-difference
+- target: '[[Aerin''r'' Path of Consensus]]'
+  type: custom
+  metadata:
+    description: peaceful-coexistence
+- target: '[[Sael''anir]]'
+  type: controls
+  period: SA:80-
+  metadata:
+    description: Consensus-based governance of the Sky-Wanderers
+- target: '[[Aerin''r'']]'
+  type: controls
+  period: SA:80-
+  metadata:
+    description: Star-Moot convenes on the pristine continent of Aerin'r'
+- target: '[[Elves]]'
+  type: controls
+  period: SA:80-
+  metadata:
+    description: Consensus-based governance of the Sky-Wanderers
 timeline: []
-tags: [government, elf, saelanir]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- elf
+- saelanir
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sael'anir Star-Moot
 
 The [[Sael'anir]] ("The Sky-Wanderers") are a nomadic and contemplative [[Elves|Elven]] people who rejected both the rigid traditions of the mainland and the ceaseless progress of [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerin'r']], serving as messengers and mediators for the various peaceful communities there.

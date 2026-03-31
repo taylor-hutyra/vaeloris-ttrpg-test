@@ -1,26 +1,51 @@
 ---
 wb-type: faction
 wb-id: farrazul-clan
-name: "Farraz\xFCl Clan"
-aliases: [The Gem-Cutters]
+name: Farrazül Clan
+aliases:
+- The Gem-Cutters
 type: economic
 founded: null
 dissolved: null
-headquarters: "[[Kharnzarak]]"
+headquarters: '[[Kharnzarak]]'
 leader: null
-territory: ["[[Kharnzarak]]"]
+territory:
+- '[[Kharnzarak]]'
 influence: strong
 goals:
-  - Expand clan wealth through gem and precious metal trade
-  - Advocate for pragmatic trade policies with the surface
-  - Challenge Barazkor political dominance through economic leverage
-relationships: []
+- Expand clan wealth through gem and precious metal trade
+- Advocate for pragmatic trade policies with the surface
+- Challenge Barazkor political dominance through economic leverage
+relationships:
+- target: '[[N''nm-Khazal''n]]'
+  type: member
+  period: SA
+  metadata:
+    description: One of the wealthiest High Clans within the Stone-Sworn
+- target: '[[Kharnzarak]]'
+  type: located-in
+  period: SA
+  metadata:
+    description: Controls the kingdom's vast gem and precious metal mines
+- target: '[[Barazkor Clan]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Constant restrained competition; gold outlasts iron
+- target: '[[Gulgrym Clan]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Gulgrym miners extract raw materials that Farrazul refines and profits from
 timeline: []
-tags: [faction, dwarf, nom-khazalon, clan]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- dwarf
+- nom-khazalon
+- clan
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Farrazul Clan
 
 The **Farrazul Clan**, known as the **Gem-Cutters**, is the wealthiest of the High Clans within [[Kharnzarak]]. Named for [[Farrazul]], the Pillar of Depth and Gem, their power derives not from armies but from their control over the kingdom's vast gem and precious metal mines.

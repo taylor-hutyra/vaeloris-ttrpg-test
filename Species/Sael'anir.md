@@ -1,29 +1,95 @@
 ---
 wb-type: species
 wb-id: saelanir
-name: "Sael'anir"
-aliases: [Sky-Wanderers, Wind-Elves, Nomadic Mediators]
-origin: Elven branch that chose a third path, rejecting both rigid tradition and ceaseless progress in favor of constant movement and perspective
+name: Sael'anir
+aliases:
+- Sky-Wanderers
+- Wind-Elves
+- Nomadic Mediators
+origin: Elven branch that chose a third path, rejecting both rigid tradition and ceaseless progress in favor of constant movement
+  and perspective
 lifespan: 800-1200 years
-traits: [nomadic, contemplative, egalitarian, fluid speech, mediative, wind-attuned, star-reading]
-habitat: ["[[Aerin'r']]"]
+traits:
+- nomadic
+- contemplative
+- egalitarian
+- fluid speech
+- mediative
+- wind-attuned
+- star-reading
+habitat:
+- '[[Aerin''r'']]'
 population: small
 relationships:
-  - target: "[[Elves]]"
-    type: child-of
-  - target: "[[Aerin'r']]"
-    type: inhabits
-  - target: "[[Ilphara]]"
-    type: founded-by
-  - target: "[[Cirhannim]]"
-    type: kindred-of
-  - target: "[[Aen'valar]]"
-    type: kindred-of
-tags: [species, elven, saelanir, nomadic, mediator]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Elves]]'
+  type: child
+- target: '[[Aerin''r'']]'
+  type: located-in
+- target: '[[Ilphara]]'
+  type: founded-by
+- target: '[[Cirhannim]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Aen''valar]]'
+  type: sibling
+  metadata:
+    nature: kindred
+- target: '[[Sael''anir Star-Moot]]'
+  type: controlled-by
+  period: SA:80-
+  metadata:
+    description: Consensus-based governance through the five-yearly Star-Moot
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Serve as mediators alongside peaceful communities on Aerin'r'
+    nature: coexistent
+- target: '[[Orkin]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Coexist with the peaceful Vorok-Varr Orkin on Aerin'r'
+    nature: coexistent
+- target: '[[Mirelarim]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: No formal diplomatic ties with the Sea-Elves
+    nature: estranged
+- target: '[[The Four Harmonies]]'
+  type: worships
+  metadata:
+    description: Nomadic, contemplative practice
+    nature: practice
+- target: '[[Hollowkin Settlement]]'
+  type: ally
+  period: SA:900-
+- target: '[[Vorok-Varr]]'
+  type: ally
+  period: SA:761-
+- target: '[[Aerin''r'']]'
+  type: contains
+  period: 80-
+- target: '[[Azure Deeps]]'
+  type: custom
+  metadata:
+    description: cultural-affinity
+- target: '[[Silent Repulsion]]'
+  type: involved-in
+  period: SA:1845
+  metadata:
+    description: Wind-shapers redirected fog to trap the loggers in a maze
+tags:
+- species
+- elven
+- saelanir
+- nomadic
+- mediator
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Sael'anir
 
 The **Sael'anir**, or **Sky-Wanderers**, are a nomadic and contemplative [[Elves|Elven]] people who chose a third path -- rejecting both the rigid traditions of the [[Cirhannim]] on the mainland and the ceaseless progress of the [[Aen'valar]] on [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerin'r']], where they serve as messengers and mediators for the various peaceful communities. Founded by the legendary [[Ilphara]], their society is the most egalitarian and decentralized of all Elven cultures.

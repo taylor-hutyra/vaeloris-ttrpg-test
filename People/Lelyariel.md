@@ -2,45 +2,98 @@
 wb-type: person
 wb-id: lelyariel
 name: Lelyariel
-aliases: [Radiant Dreamer]
-species: "[[Cirhannim]]"
+aliases:
+- Radiant Dreamer
+species: '[[Cirhannim]]'
 born: null
 died: null
-birthplace: "[[Hannan'r']]"
-residence: "[[Hannan'r']]"
-faction: "[[Cirhannim]]"
-role: "Queen of the Cirhannim, creator of the Great Weaving"
-title: "Queen of Hannan'r'"
+birthplace: '[[Hannan''r'']]'
+residence: '[[Hannan''r'']]'
+faction: '[[Cirhannim]]'
+role: Queen of the Cirhannim, creator of the Great Weaving
+title: Queen of Hannan'r'
 gender: female
 relationships:
-  - target: "[[Hannan'r']]"
-    type: ruler
-    period: "SA:1-"
-    note: "Queen of the Cirhannim during the earliest decades of the Second Age"
-  - target: "[[Sun-Leaf Conclave]]"
-    type: leader
-    note: "Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual"
-  - target: "[[Tinbrel Quillroot]]"
-    type: ally
-    period: "SA:89"
-    note: "Accepted the Gnome artisan's aid to stabilize the Great Weaving"
-  - target: "[[Elves]]"
-    type: cultural-icon
-    note: "Legendary figure revered across all Elven branches"
+- target: '[[Hannan''r'']]'
+  type: ruler
+  period: SA:1-
+  metadata:
+    description: Queen of the Cirhannim during the earliest decades of the Second Age
+- target: '[[Sun-Leaf Conclave]]'
+  type: ruler
+  metadata:
+    description: Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual
+- target: '[[Tinbrel Quillroot]]'
+  type: ally
+  period: SA:89
+  metadata:
+    description: Accepted the Gnome artisan's aid to stabilize the Great Weaving
+- target: '[[Elves]]'
+  type: related
+  metadata:
+    description: Legendary figure revered across all Elven branches
+    nature: cultural icon
+- target: '[[Completion of the Great Weaving]]'
+  type: involved-in
+  period: SA:55
+  metadata:
+    description: Directed the two-decade ritual that concealed Hannan'r' behind illusory mist
+- target: '[[Sael''anir Separation]]'
+  type: caused
+  period: SA:80
+  metadata:
+    description: Her isolationist Great Weaving provoked the philosophical rift that led to the Sael'anir departure
+- target: '[[Ilphara]]'
+  type: rival
+  period: SA:55-80
+  metadata:
+    description: Star-Gazer who opposed the Queen's decision to wall off the Elven homeland
+- target: '[[The Great Weaving]]'
+  type: creator
+  period: SA:55
+  metadata:
+    description: Created the permanent illusionary barrier protecting Hannan'r'
+- target: '[[Mist-Lanterns]]'
+  type: creator
+  period: SA:55
+  metadata:
+    description: Directed placement of crystalline beacons to anchor the Great Weaving
+- target: '[[Pact of Bark and Bronze]]'
+  type: involved-in
+  period: SA:89
+  metadata:
+    description: Queen who approved the Gnome's intervention to stabilize the Great Weaving
+- target: '[[Sael''anir Separation]]'
+  type: related
+  period: SA:80
+  metadata:
+    description: Queen whose isolationist Great Weaving provoked the philosophical rift
+- target: '[[Ilphara]]'
+  type: custom
+  metadata:
+    description: 'philosophical-opponent: Opposed the Queen''s decision to wall off the Elven homeland'
+- target: '[[Sun-Leaf Conclave]]'
+  type: ruled-by
+  metadata:
+    description: Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual
 timeline:
-  - period: "SA:35-55"
-    event: "Directed two decades of labor with the Mages of the Sun-Leaf Conclave to complete the Great Weaving"
-  - period: "SA:55"
-    event: "Completed the Great Weaving, a permanent illusionary barrier that concealed Hannan'r' from mortal maps"
-  - period: "SA:55"
-    event: "Initiated the Long Silence between Elves and Humans"
-  - period: "SA:89"
-    event: "Approved the Pact of Bark and Bronze with Tinbrel Quillroot to stabilize the Weaving against iron ore interference"
-tags: [person, elf, cirhannim, queen, mage]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:35-55
+  event: Directed two decades of labor with the Mages of the Sun-Leaf Conclave to complete the Great Weaving
+- period: SA:55
+  event: Completed the Great Weaving, a permanent illusionary barrier that concealed Hannan'r' from mortal maps
+- period: SA:55
+  event: Initiated the Long Silence between Elves and Humans
+- period: SA:89
+  event: Approved the Pact of Bark and Bronze with Tinbrel Quillroot to stabilize the Weaving against iron ore interference
+tags:
+- person
+- elf
+- cirhannim
+- queen
+- mage
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Lelyariel
 
 **Lelyariel**, known as the **Radiant Dreamer**, was the legendary [[Cirhannim]] Queen who completed the **Great Weaving** in **SA 55** -- the month-long moonlight ritual that concealed the forest of [[Hannan'r']] behind a permanent veil of impenetrable mist, shielding the Elven homeland from the chaotic ambitions of the younger races.

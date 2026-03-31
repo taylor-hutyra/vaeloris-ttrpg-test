@@ -2,33 +2,87 @@
 wb-type: species
 wb-id: lothari
 name: Lothari
-aliases: [Desert-Bound Mystics, Dreamwalkers, Children of the Breathless Dream]
+aliases:
+- Desert-Bound Mystics
+- Dreamwalkers
+- Children of the Breathless Dream
 origin: Cultural divergence from common humanity; believe humans were the first waking thought of a sleeping god
 lifespan: 70-90 years
-traits: [mystical, semi-nomadic, secretive, dream-interpreters, sparse speech, symbolic thought]
-habitat: ["[[Great Desert]]"]
+traits:
+- mystical
+- semi-nomadic
+- secretive
+- dream-interpreters
+- sparse speech
+- symbolic thought
+habitat:
+- '[[Great Desert]]'
 population: small
 relationships:
-  - target: "[[Humans]]"
-    type: child-of
-  - target: "[[Great Desert]]"
-    type: controls
-  - target: "[[Lothari Silent Network]]"
-    type: governed-by
-  - target: "[[Sand Gnomes]]"
-    type: ally-of
-tags: [species, human, lothari, mystic, desert]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Humans]]'
+  type: child
+- target: '[[Great Desert]]'
+  type: controls
+- target: '[[Lothari Silent Network]]'
+  type: controlled-by
+- target: '[[Sand Gnomes]]'
+  type: ally
+  period: SA
+  metadata:
+    description: Call Sand Gnomes 'the little spirits of the cool sand'; share the desert in mutual respect
+- target: '[[Varnathi]]'
+  type: rival
+  period: SA
+  metadata:
+    description: View Varnathi as trapped in rigid thought
+- target: '[[Mirennians]]'
+  type: rival
+  period: SA
+  metadata:
+    description: View Mirennians as 'too loud to hear the wind'
+- target: '[[Desertborn Confederacy Founded]]'
+  type: involved-in
+  period: SA:1300
+  metadata:
+    description: Lothari mystics united the nomadic desert tribes under their spiritual leadership
+- target: '[[Gnomish Root-Hack]]'
+  type: related
+  period: SA:2100
+  metadata:
+    description: Lothari were frequent buyers of intelligence from the Myco-Whisperers
+- target: '[[Silent Network]]'
+  type: served-by
+  period: SA:1350-
+  metadata:
+    description: Council of Dreamers guides the Lothari through dream-interpretation
+- target: '[[The Four Makers]]'
+  type: worships
+  metadata:
+    description: View the Makers as dream-motifs — Mason as the Pillar, Painter as the Flickering Breath
+    nature: practice
+- target: '[[Gnomes]]'
+  type: related
+  period: SA
+  metadata:
+    description: Lothari call Sand Gnomes 'the little spirits of the cool sand'
+- target: '[[Varnathi]]'
+  type: rival
+tags:
+- species
+- human
+- lothari
+- mystic
+- desert
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Lothari
 
 The **Lothari** are the desert-dwelling [[Humans]] of the [[Great Desert]], a semi-nomadic people bound by ancient rituals, a shared mystical tradition, and a network of hidden oases and secret routes. Known as the **Desert-Bound Mystics**, they are keepers of memories the rest of the world has forgotten.
 
 ## Origin and Creation Belief
 
-The Lothari speak of **The Breathless Dream** -- a sleeping god whose thoughts became reality. They believe [[Humans]] were the first waking thought, born from curiosity itself. The [[Paroxysm]] was a failed dream trying to reshape the world again, but was forgotten -- an echo of divine restlessness that still ripples through the sands.
+The Lothari speak of **The Breathless Dream** -- a sleeping god whose thoughts became reality. They believe [[Humans]] were the first waking thought, born from curiosity itself. The [[The Paroxysm]] was a failed dream trying to reshape the world again, but was forgotten -- an echo of divine restlessness that still ripples through the sands.
 
 This belief gives the Lothari a unique relationship with memory and forgetting. They see themselves as the guardians of what the world dreams and discards, collecting lost knowledge in their oral traditions and dream-rituals.
 

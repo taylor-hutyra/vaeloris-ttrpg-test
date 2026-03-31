@@ -3,27 +3,74 @@ wb-type: event
 wb-id: saelanir-separation
 name: Sael'anir Separation
 aliases: []
-date: "SA:80"
-duration: "Gradual departure over months"
-location: "[[Hannan'r']]"
-participants: ["[[Ilphara]]", "[[Sael'anir]]", "[[Cirhannim]]"]
-causes: ["[[Completion of the Great Weaving]]", "Philosophical rift within Elven society", "Belief that the Song of the World cannot be heard from behind a wall"]
-consequences: ["Permanent cultural split of the Elven race", "Sael'anir begin mapping stars and winds", "Foundation for future navigation and exploration"]
-affected-entities: ["[[Elves]]", "[[Sael'anir]]", "[[Cirhannim]]", "[[Aerin'r']]"]
+date: SA:80
+period: SA:80
+duration: Gradual departure over months
+location: '[[Hannan''r'']]'
+participants:
+- '[[Ilphara]]'
+- '[[Sael''anir]]'
+- '[[Cirhannim]]'
+causes:
+- '[[Completion of the Great Weaving]]'
+- Philosophical rift within Elven society
+- Belief that the Song of the World cannot be heard from behind a wall
+consequences:
+- Permanent cultural split of the Elven race
+- Sael'anir begin mapping stars and winds
+- Foundation for future navigation and exploration
+affected-entities:
+- '[[Elves]]'
+- '[[Sael''anir]]'
+- '[[Cirhannim]]'
+- '[[Aerin''r'']]'
 status: historical
 relationships:
-  - target: "[[Completion of the Great Weaving]]"
-    type: caused-by
-    period: "SA:55"
-  - target: "[[Hannan'r']]"
-    type: departure-from
-    period: "SA:80"
+- target: '[[Completion of the Great Weaving]]'
+  type: caused-by
+  period: SA:55
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: SA:80
+  metadata:
+    description: departure-from
+- target: '[[Ilphara]]'
+  type: involved
+  period: SA:80
+  metadata:
+    description: Star-Gazer who led the dissident Elves out of Hannan'r'
+- target: '[[Lelyariel]]'
+  type: related
+  period: SA:80
+  metadata:
+    description: Queen whose isolationist Great Weaving provoked the philosophical rift
+- target: '[[Aen''valar]]'
+  type: preceded
+  period: SA:80
+  metadata:
+    description: The Sael'anir's descendants became the cosmopolitan Aen'valar
+- target: '[[Lelyariel]]'
+  type: caused-by
+  period: SA:80
+  metadata:
+    description: Her isolationist Great Weaving provoked the philosophical rift that led to the Sael'anir departure
+- target: '[[Hannan''r'']]'
+  type: involved
+  period: SA:80
+  metadata:
+    description: Ilphara led dissidents out of Hannan'r' to found the nomadic Sael'anir
+- target: '[[Founding of Morenore]]'
+  type: related
+  period: SA:80
+  metadata:
+    description: Progressive Elven tradition of engagement with the world
 timeline: []
-tags: [event, epoch-i-echoes-of-dawn]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-i-echoes-of-dawn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sael'anir Separation
 
 A philosophical rift grew within Elven society. While the [[Cirhannim]] (Wood Elves) sought to wall themselves off in [[Hannan'r']], a faction known as the [[Sael'anir]] argued that the "Song of the World" could not be heard from behind a wall.

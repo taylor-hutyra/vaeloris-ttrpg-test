@@ -2,44 +2,135 @@
 wb-type: place
 wb-id: castellum
 name: Castellum
-aliases: [The Iron Fist, The Southern Fortress]
-parent: "[[Varnathi Highlands]]"
+aliases:
+- The Iron Fist
+- The Southern Fortress
+parent: '[[Varnathi Highlands]]'
 spatial-type: city
 contains: []
 population: null
 ruler: null
-faction: "[[Varnathi Imperial Democracy]]"
+faction: '[[Varnathi Imperial Democracy]]'
 climate: highland, southern frontier, warm summers
-resources: [soldiers, weapons, military infrastructure]
+resources:
+- soldiers
+- weapons
+- military infrastructure
 status: militaristic city-state, power base of the Consul of Blades
 relationships:
-  - target: "[[Vernath]]"
-    type: sister-city
-    period: "SA:315-"
-  - target: "[[Barren Hills]]"
-    type: contested-border
-    period: "SA:410-"
-  - target: "[[Argentum]]"
-    type: allied
-    period: "SA:581-"
+- target: '[[Vernath]]'
+  type: related
+  period: SA:315-
+  metadata:
+    nature: sister city
+- target: '[[Barren Hills]]'
+  type: custom
+  period: SA:410-
+  metadata:
+    description: contested-border
+- target: '[[Argentum]]'
+  type: ally
+  period: SA:581-
+- target: '[[Emperor Caelius I]]'
+  type: founded-by
+  period: SA:410
+  metadata:
+    description: Founded as a fortress during the March of Order
+- target: '[[March of Order]]'
+  type: involved-in
+  period: SA:410
+  metadata:
+    description: Massive fortress built on the southern frontier after crushing Orkin warbands
+- target: '[[Orkin]]'
+  type: enemy
+  period: SA:410-
+  metadata:
+    description: Southern frontier facing perpetual Orkin conflict
+- target: '[[Bloodless Coup]]'
+  type: involved-in
+  period: SA:581
+  metadata:
+    description: Castellum's governor allied against Emperor Titus II
+- target: '[[Crimson Guard]]'
+  type: contains
+  period: SA:410-
+  metadata:
+    description: Elite military corps originated from Castellum's founding legions
+- target: '[[Codex of the Road]]'
+  type: involved-in
+  period: SA:425
+  metadata:
+    description: Southern fortress connected to the capital by paved highways
+- target: '[[March of Order]]'
+  type: caused-by
+  period: SA:410
+  metadata:
+    description: Fortress-city founded on the southern frontier to hold conquered territory
+- target: '[[Varnathi Pentarchy]]'
+  type: located-in
+  period: SA:410-
+  metadata:
+    description: Military city-state within the Pentarchy's territory
+- target: '[[Emperor Titus II]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: The fortress-city allied against him in the Bloodless Coup
+- target: '[[Barren Hills]]'
+  type: enemy
+  period: 410-
+- target: '[[Castellum Consolidation]]'
+  type: involved-in
+  period: SA:820
+  metadata:
+    description: Militaristic city-state that dominated the Senate
+- target: '[[Decree of Prohibition]]'
+  type: involved-in
+  period: SA:1425
+  metadata:
+    description: Military generals pressured the Senate to pass the decree
+- target: '[[Great Betrayal]]'
+  type: involved-in
+  period: SA:1950
+  metadata:
+    description: Declared independence from the shattering Republic
+- target: '[[Siege of Solis]]'
+  type: involved-in
+  period: SA:660
+  metadata:
+    description: Republican Legion of Castellum conducted the siege
+- target: '[[The Southern Push]]'
+  type: caused-by
+  period: SA:315
+  metadata:
+    description: Military outposts grew into the fortress-city
+- target: '[[Treaty of Ash and Iron]]'
+  type: involved-in
+  period: SA:2085
+  metadata:
+    description: Warlord Aetius IV of Castellum conquered Vernath and became Emperor
 timeline:
-  - period: "SA:315"
-    event: Founded as military outposts during the Varnathi Southern Push into wild lowlands
-  - period: "SA:410"
-    event: Massive fortress built on the southern frontier after the March of Order crushes Orkin warbands
-  - period: "SA:600"
-    event: Emerges as the city-state of Military and Discipline -- the Iron Fist
-  - period: "SA:820"
-    event: Consul [[Marius the Iron-Hand]] uses Orkin raid threats to garrison troops in other cities
-  - period: "SA:1950"
-    event: Castellum declares independence during the Succession Wars
-  - period: "SA:2085"
-    event: Warlord [[Aetius IV]] of Castellum conquers [[Vernath]]; forms the Imperial Democracy
-tags: [place, city, varnathi, human, military]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:315
+  event: Founded as military outposts during the Varnathi Southern Push into wild lowlands
+- period: SA:410
+  event: Massive fortress built on the southern frontier after the March of Order crushes Orkin warbands
+- period: SA:600
+  event: Emerges as the city-state of Military and Discipline -- the Iron Fist
+- period: SA:820
+  event: Consul [[Marius the Iron-Hand]] uses Orkin raid threats to garrison troops in other cities
+- period: SA:1950
+  event: Castellum declares independence during the Succession Wars
+- period: SA:2085
+  event: Warlord [[Aetius IV]] of Castellum conquers [[Vernath]]; forms the Imperial Democracy
+tags:
+- place
+- city
+- varnathi
+- human
+- military
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Castellum
 
 Castellum is the southern fortress-city of the [[Varnathi Highlands]], the military heart of the Varnathi people. Founded as frontier outposts during the Southern Push of SA:315, it evolved into a culturally distinct city-state defined by martial discipline, strategic pragmatism, and an iron-fisted approach to governance.

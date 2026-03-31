@@ -3,30 +3,38 @@ wb-type: place
 wb-id: sunken-coast
 name: Sunken Coast
 aliases: []
-parent: "[[Vael]]"
+parent: '[[Vael]]'
 spatial-type: region
 contains: []
 population: null
-ruler: "[[Matriarch of Silence]]"
-faction: "[[Shadow-Singers]]"
+ruler: '[[Matriarch of Silence]]'
+faction: '[[Shadow-Singers]]'
 climate: coastal, fog-shrouded, damp
-resources: [forbidden knowledge, arcane artifacts]
+resources:
+- forbidden knowledge
+- arcane artifacts
 status: heretical Elven cult territory, secretive and dangerous
 relationships:
-  - target: "[[Hannan'r']]"
-    type: heretical-offshoot
-    period: "1-"
-  - target: "[[Coastal Regions]]"
-    type: bordered-by
-    period: "1-"
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: 1-
+  metadata:
+    description: heretical-offshoot
+- target: '[[Coastal Regions]]'
+  type: borders
+  period: 1-
 timeline:
-  - period: "SA:1-"
-    event: "Aen'valar dissidents obsessed with the Fifth Tone settle the Sunken Coast"
-tags: [place, region, elven, heretical, cult]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-
+  event: Aen'valar dissidents obsessed with the Fifth Tone settle the Sunken Coast
+tags:
+- place
+- region
+- elven
+- heretical
+- cult
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Sunken Coast
 
 The Sunken Coast is a fog-shrouded, crumbling stretch of coastline on [[Vael]], home to the [[Shadow-Singers]] -- a heretical and secretive cult of Elves descended from [[Aen'valar]] who became obsessed with the "perfect, logical rhythm" of [[Elaru'n]], the Fifth Tone.

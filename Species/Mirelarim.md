@@ -2,31 +2,67 @@
 wb-type: species
 wb-id: mirelarim
 name: Mirelarim
-aliases: [Sea-Elves, The Deep-Singers, Children of Mirelaris]
-origin: "An ancient offshoot of [[Elves]] who followed the Harmony of Mirelaris (Gem/Depth) into the ocean's abyss, adapting over millennia to life beneath the waves"
-lifespan: "500-800 years"
-traits: [bio-luminescent, aquatic, reclusive, territorial, coral-shapers, deep-singers]
-habitat: ["[[Azure Deeps]]"]
+aliases:
+- Sea-Elves
+- The Deep-Singers
+- Children of Mirelaris
+origin: An ancient offshoot of [[Elves]] who followed the Harmony of Mirelaris (Gem/Depth) into the ocean's abyss, adapting
+  over millennia to life beneath the waves
+lifespan: 500-800 years
+traits:
+- bio-luminescent
+- aquatic
+- reclusive
+- territorial
+- coral-shapers
+- deep-singers
+habitat:
+- '[[Azure Deeps]]'
 population: unknown
 relationships:
-  - target: "[[Elves]]"
-    type: child-of
-  - target: "[[Cirhannim]]"
-    type: estranged-kin
-  - target: "[[Aen'valar]]"
-    type: estranged-kin
-  - target: "[[Sael'anir]]"
-    type: estranged-kin
-  - target: "[[Mirennians]]"
-    type: suspicious-of
+- target: '[[Elves]]'
+  type: child
+- target: '[[Cirhannim]]'
+  type: sibling
+  metadata:
+    nature: estranged
+- target: '[[Aen''valar]]'
+  type: sibling
+  metadata:
+    nature: estranged
+- target: '[[Sael''anir]]'
+  type: sibling
+  metadata:
+    nature: estranged
+- target: '[[Mirennians]]'
+  type: custom
+  period: SA
+  metadata:
+    description: 'suspicious-of: View ship-faring Mirennians with especial suspicion due to ocean pollution'
+- target: '[[Azure Deeps]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Inhabit magnificent cities of magically-sculpted coral in the ocean's abyss
+- target: '[[Mirennians]]'
+  type: rival
+  period: SA
+  metadata:
+    description: Sea-Elves view ship-faring Mirennians with especial suspicion
+- target: '[[Azure Deeps]]'
+  type: controls
 timeline:
-  - period: "SA:80"
-    label: "The Sael'anir Separation — already distinct from surface Elves by this era"
-tags: [species, elves, aquatic, sea-elves, reclusive]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:80
+  label: The Sael'anir Separation — already distinct from surface Elves by this era
+tags:
+- species
+- elves
+- aquatic
+- sea-elves
+- reclusive
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Mirelarim
 
 The **Mirelarim** — known to surface-dwellers as the **Sea-Elves** — are an ancient offshoot of [[Elves|Elvenkind]] who followed the Harmony of **Mirelaris** (Gem/Depth) into the ocean's abyss. Over countless generations, they adapted fully to life beneath the waves, becoming a bio-luminescent, coral-shaping people who inhabit the magnificent underwater realm known as the [[Azure Deeps]]. They are intensely reclusive, viewing the surface world with deep suspicion, and are among the least understood peoples of [[Vaeloris]].
@@ -65,7 +101,7 @@ Mirelarim culture revolves around **sound** — not as spoken language (sound tr
 
 They are deeply territorial. Centuries of surface-dwellers polluting the shallows with shipwrecks, war debris, and magical runoff have bred a profound distrust of the lands above. The ship-faring races — particularly the [[Mirennians]] — are viewed with especial suspicion.
 
-Despite their isolation, the Mirelarim possess knowledge of extraordinary value: memories of the world **as it was before the [[Paroxysm]]**. The deep ocean preserved what the surface lost. Ancient coral formations encode pre-Paroxysm history in their growth rings, and the Mirelarim have spent millennia reading them.
+Despite their isolation, the Mirelarim possess knowledge of extraordinary value: memories of the world **as it was before [[The Paroxysm]]**. The deep ocean preserved what the surface lost. Ancient coral formations encode pre-Paroxysm history in their growth rings, and the Mirelarim have spent millennia reading them.
 
 ## Relations with Surface Elves
 

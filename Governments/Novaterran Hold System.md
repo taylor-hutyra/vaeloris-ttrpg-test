@@ -2,32 +2,36 @@
 wb-type: government
 wb-id: novaterran-hold-system
 name: Novaterran Hold System
-aliases: [Free Holds of Novaterra, Novaterran Orkin Holds]
+aliases:
+- Free Holds of Novaterra
+- Novaterran Orkin Holds
 type: meritocracy
 founded: null
-territory: ["[[Novaterra]]"]
+territory:
+- '[[Novaterra]]'
 leader: null
 capital: null
 laws:
-  - "Hold-Thane leadership won through business acumen and strategic success"
-  - "Board of Captains serves as advisory council"
-  - "Loyalty is to the contract"
+- Hold-Thane leadership won through business acumen and strategic success
+- Board of Captains serves as advisory council
+- Loyalty is to the contract
 relationships:
-  - target: "[[Gearhaven Cog-Council]]"
-    type: trade-partner
-    period: ""
-  - target: "[[Varr-Darg Diarchy]]"
-    type: estranged
-    period: ""
-  - target: "[[Mirennian League]]"
-    type: trade-partner
-    period: ""
+- target: '[[Gearhaven Cog-Council]]'
+  type: trade
+- target: '[[Varr-Darg Diarchy]]'
+  type: rival
+  metadata:
+    nature: estranged
+- target: '[[Mirennian League]]'
+  type: trade
 timeline: []
-tags: [government, orkin, novaterran]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- orkin
+- novaterran
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Novaterran Hold System
 
 The [[Orkin]] who migrated to [[Novaterra]] have adapted their concept of *Trak* (Endurance) to the new world. Here, endurance is measured not just in battle, but in wealth and influence.

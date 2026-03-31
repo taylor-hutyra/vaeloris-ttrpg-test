@@ -1,0 +1,1843 @@
+{
+  "Age of City-States": {
+    "type": "event",
+    "path": "Events/Age of City-States.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Ashfall Secession": {
+    "type": "event",
+    "path": "Events/Ashfall Secession.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Bloodless Coup": {
+    "type": "event",
+    "path": "Events/Bloodless Coup.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Broken Wing Insurgency": {
+    "type": "event",
+    "path": "Events/Broken Wing Insurgency.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Codex of the Road": {
+    "type": "event",
+    "path": "Events/Codex of the Road.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Completion of the Great Weaving": {
+    "type": "event",
+    "path": "Events/Completion of the Great Weaving.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Day of Silence": {
+    "type": "event",
+    "path": "Events/Day of Silence.md",
+    "rels": 3,
+    "rels_with_note": 1,
+    "rels_with_period": 2
+  },
+  "Desertborn Confederacy Founded": {
+    "type": "event",
+    "path": "Events/Desertborn Confederacy Founded.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Dwarven Isolation": {
+    "type": "event",
+    "path": "Events/Dwarven Isolation.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Establishment of Drakona Protectorates": {
+    "type": "event",
+    "path": "Events/Establishment of Drakona Protectorates.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "First Harvest of Ash": {
+    "type": "event",
+    "path": "Events/First Harvest of Ash.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "First Sighting of Giants": {
+    "type": "event",
+    "path": "Events/First Sighting of Giants.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Floating Market of Zure": {
+    "type": "event",
+    "path": "Events/Floating Market of Zure.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Founding of Port Farrick": {
+    "type": "event",
+    "path": "Events/Founding of Port Farrick.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Founding of Vernath": {
+    "type": "event",
+    "path": "Events/Founding of Vernath.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Gnomish Root-Hack": {
+    "type": "event",
+    "path": "Events/Gnomish Root-Hack.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Green-Thumb Strike": {
+    "type": "event",
+    "path": "Events/Green-Thumb Strike.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Halfling Hearthsong Era": {
+    "type": "event",
+    "path": "Events/Halfling Hearthsong Era.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Incident of the Burning Mast": {
+    "type": "event",
+    "path": "Events/Incident of the Burning Mast.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Invention of Printing Press": {
+    "type": "event",
+    "path": "Events/Invention of Printing Press.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Keel-Laying of First Wave": {
+    "type": "event",
+    "path": "Events/Keel-Laying of First Wave.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "March of Order": {
+    "type": "event",
+    "path": "Events/March of Order.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Mirennian Civil War": {
+    "type": "event",
+    "path": "Events/Mirennian Civil War.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Ore-Grain Exchange": {
+    "type": "event",
+    "path": "Events/Ore-Grain Exchange.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Orkin Schism": {
+    "type": "event",
+    "path": "Events/Orkin Schism.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Pact of Bark and Bronze": {
+    "type": "event",
+    "path": "Events/Pact of Bark and Bronze.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Paranoia of High King": {
+    "type": "event",
+    "path": "Events/Paranoia of High King.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Perfection of Wind-Shaping": {
+    "type": "event",
+    "path": "Events/Perfection of Wind-Shaping.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Primalkyn Convergences": {
+    "type": "event",
+    "path": "Events/Primalkyn Convergences.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "Reclaiming of the Deep Halls": {
+    "type": "event",
+    "path": "Events/Reclaiming of the Deep Halls.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Red-Ink Crisis": {
+    "type": "event",
+    "path": "Events/Red-Ink Crisis.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Rise of the Free Holds": {
+    "type": "event",
+    "path": "Events/Rise of the Free Holds.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Root-Taking of the Vales": {
+    "type": "event",
+    "path": "Events/Root-Taking of the Vales.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Sael'anir Separation": {
+    "type": "event",
+    "path": "Events/Sael'anir Separation.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Sealing of Kharnzarak": {
+    "type": "event",
+    "path": "Events/Sealing of Kharnzarak.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Silver Boom": {
+    "type": "event",
+    "path": "Events/Silver Boom.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Stone-Road Projects": {
+    "type": "event",
+    "path": "Events/Stone-Road Projects.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Sundering of Mount Cinder": {
+    "type": "event",
+    "path": "Events/Sundering of Mount Cinder.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Synod of the Ordained": {
+    "type": "event",
+    "path": "Events/Synod of the Ordained.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Technocratic Blockade": {
+    "type": "event",
+    "path": "Events/Technocratic Blockade.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "The Binding": {
+    "type": "event",
+    "path": "Events/The Binding.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 0
+  },
+  "The Elemental Unraveling": {
+    "type": "event",
+    "path": "Events/The Elemental Unraveling.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "The Golden Age of Creation": {
+    "type": "event",
+    "path": "Events/The Golden Age of Creation.md",
+    "rels": 2,
+    "rels_with_note": 2,
+    "rels_with_period": 0
+  },
+  "The Great Withdrawal": {
+    "type": "event",
+    "path": "Events/The Great Withdrawal.md",
+    "rels": 6,
+    "rels_with_note": 6,
+    "rels_with_period": 0
+  },
+  "The Paroxysm": {
+    "type": "event",
+    "path": "Events/The Paroxysm.md",
+    "rels": 11,
+    "rels_with_note": 5,
+    "rels_with_period": 6
+  },
+  "Unification of Dwarven Clans": {
+    "type": "event",
+    "path": "Events/Unification of Dwarven Clans.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "War of the Barren Hills": {
+    "type": "event",
+    "path": "Events/War of the Barren Hills.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Appledown Family": {
+    "type": "faction",
+    "path": "Factions/Appledown Family.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Ashfall": {
+    "type": "faction",
+    "path": "Factions/Ashfall.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Azure Hand": {
+    "type": "faction",
+    "path": "Factions/Azure Hand.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Balancers": {
+    "type": "faction",
+    "path": "Factions/Balancers.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Barazkor Clan": {
+    "type": "faction",
+    "path": "Factions/Barazkor Clan.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Bloodied Fist Clans": {
+    "type": "faction",
+    "path": "Factions/Bloodied Fist Clans.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Brinepipers of Salty Coast": {
+    "type": "faction",
+    "path": "Factions/Brinepipers of Salty Coast.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Bronr'n Legacy": {
+    "type": "faction",
+    "path": "Factions/Bronr'n Legacy.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Butchers' Guild": {
+    "type": "faction",
+    "path": "Factions/Butchers' Guild.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Clockwork School": {
+    "type": "faction",
+    "path": "Factions/Clockwork School.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Council of Listeners": {
+    "type": "faction",
+    "path": "Factions/Council of Listeners.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Crag-Striders of Grey Peaks": {
+    "type": "faction",
+    "path": "Factions/Crag-Striders of Grey Peaks.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Crimson Banner": {
+    "type": "faction",
+    "path": "Factions/Crimson Banner.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Crimson Guard": {
+    "type": "faction",
+    "path": "Factions/Crimson Guard.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Crystal-Singers of M'ren'r'": {
+    "type": "faction",
+    "path": "Factions/Crystal-Singers of M'ren'r'.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Desertborn Confederacy": {
+    "type": "faction",
+    "path": "Factions/Desertborn Confederacy.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Dust-Diggers": {
+    "type": "faction",
+    "path": "Factions/Dust-Diggers.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Exiled Blades": {
+    "type": "faction",
+    "path": "Factions/Exiled Blades.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Farrazul Clan": {
+    "type": "faction",
+    "path": "Factions/Farrazul Clan.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Flowing River School": {
+    "type": "faction",
+    "path": "Factions/Flowing River School.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Frost-Forge of Bjalmund's Spire": {
+    "type": "faction",
+    "path": "Factions/Frost-Forge of Bjalmund's Spire.md",
+    "rels": 1,
+    "rels_with_note": 1,
+    "rels_with_period": 0
+  },
+  "Gear-Song Harmonists": {
+    "type": "faction",
+    "path": "Factions/Gear-Song Harmonists.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Golden Compass Syndicate": {
+    "type": "faction",
+    "path": "Factions/Golden Compass Syndicate.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Green-Root Accord": {
+    "type": "faction",
+    "path": "Factions/Green-Root Accord.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Gulgrym Clan": {
+    "type": "faction",
+    "path": "Factions/Gulgrym Clan.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Hollowkin Council": {
+    "type": "faction",
+    "path": "Factions/Hollowkin Council.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Integrators": {
+    "type": "faction",
+    "path": "Factions/Integrators.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Iron-Grit Syndicate": {
+    "type": "faction",
+    "path": "Factions/Iron-Grit Syndicate.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Kyn-Clans": {
+    "type": "faction",
+    "path": "Factions/Kyn-Clans.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Magocracy": {
+    "type": "faction",
+    "path": "Factions/Magocracy.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Mainframe Purity": {
+    "type": "faction",
+    "path": "Factions/Mainframe Purity.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Marble Hand": {
+    "type": "faction",
+    "path": "Factions/Marble Hand.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Masons' Guild": {
+    "type": "faction",
+    "path": "Factions/Masons' Guild.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mirelarim": {
+    "type": "species",
+    "path": "Species/Mirelarim.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Murk-Tenders of the Fens": {
+    "type": "faction",
+    "path": "Factions/Murk-Tenders of the Fens.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Open Palm Movement": {
+    "type": "faction",
+    "path": "Factions/Open Palm Movement.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Pirate Confederacy": {
+    "type": "government",
+    "path": "Governments/Pirate Confederacy.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Principality of the Scale": {
+    "type": "faction",
+    "path": "Factions/Principality of the Scale.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Purifiers": {
+    "type": "faction",
+    "path": "Factions/Purifiers.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Resonance School": {
+    "type": "faction",
+    "path": "Factions/Resonance School.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "River-Folk of Silkenflow": {
+    "type": "faction",
+    "path": "Factions/River-Folk of Silkenflow.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Rumblkin Family": {
+    "type": "faction",
+    "path": "Factions/Rumblkin Family.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Sea-Whisperers' Guild": {
+    "type": "faction",
+    "path": "Factions/Sea-Whisperers' Guild.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Shadow-Singers": {
+    "type": "faction",
+    "path": "Factions/Shadow-Singers.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Shattered-Spear Company": {
+    "type": "faction",
+    "path": "Factions/Shattered-Spear Company.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Silent Network": {
+    "type": "faction",
+    "path": "Factions/Silent Network.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Spicers' Guild": {
+    "type": "faction",
+    "path": "Factions/Spicers' Guild.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Stillwood Circle": {
+    "type": "faction",
+    "path": "Factions/Stillwood Circle.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Sun-Leaf Conclave": {
+    "type": "faction",
+    "path": "Factions/Sun-Leaf Conclave.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Symbiotic Weave": {
+    "type": "faction",
+    "path": "Factions/Symbiotic Weave.md",
+    "rels": 0,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Thistlewick Family": {
+    "type": "faction",
+    "path": "Factions/Thistlewick Family.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Urban Orkin of Luminas": {
+    "type": "faction",
+    "path": "Factions/Urban Orkin of Luminas.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Whisper-Shamans": {
+    "type": "faction",
+    "path": "Factions/Whisper-Shamans.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Aen'valar Council": {
+    "type": "government",
+    "path": "Governments/Aen'valar Council.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Aerin'r' Path of Consensus": {
+    "type": "government",
+    "path": "Governments/Aerin'r' Path of Consensus.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Chartered Kith Weaver's Synod": {
+    "type": "government",
+    "path": "Governments/Chartered Kith Weaver's Synod.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Cirhannim Hierarchy": {
+    "type": "government",
+    "path": "Governments/Cirhannim Hierarchy.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Gearhaven Cog-Council": {
+    "type": "government",
+    "path": "Governments/Gearhaven Cog-Council.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Hearthfolk Commonwealth": {
+    "type": "government",
+    "path": "Governments/Hearthfolk Commonwealth.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Kharnzarak Monarchy": {
+    "type": "government",
+    "path": "Governments/Kharnzarak Monarchy.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Lithos Guild-Conclave": {
+    "type": "government",
+    "path": "Governments/Lithos Guild-Conclave.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Lothari Silent Network": {
+    "type": "government",
+    "path": "Governments/Lothari Silent Network.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "M'ren'r' Triumvirate": {
+    "type": "government",
+    "path": "Governments/M'ren'r' Triumvirate.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mirennian League": {
+    "type": "government",
+    "path": "Governments/Mirennian League.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mycohollow Mycelial Council": {
+    "type": "government",
+    "path": "Governments/Mycohollow Mycelial Council.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Novaterran Hold System": {
+    "type": "government",
+    "path": "Governments/Novaterran Hold System.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Quiet Vales Great Council": {
+    "type": "government",
+    "path": "Governments/Quiet Vales Great Council.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Sael'anir Star-Moot": {
+    "type": "government",
+    "path": "Governments/Sael'anir Star-Moot.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Varnathi Pentarchy": {
+    "type": "government",
+    "path": "Governments/Varnathi Pentarchy.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Varr-Darg Diarchy": {
+    "type": "government",
+    "path": "Governments/Varr-Darg Diarchy.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Artisan's Codex": {
+    "type": "item",
+    "path": "Items/Artisan's Codex.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Ash-Root Tuber": {
+    "type": "item",
+    "path": "Items/Ash-Root Tuber.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Brimstone": {
+    "type": "item",
+    "path": "Items/Brimstone.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Deep-Vein Silver": {
+    "type": "item",
+    "path": "Items/Deep-Vein Silver.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "First Compact": {
+    "type": "item",
+    "path": "Items/First Compact.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Harmony Crystals": {
+    "type": "item",
+    "path": "Items/Harmony Crystals.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Mana-Crystals": {
+    "type": "item",
+    "path": "Items/Mana-Crystals.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Star-Metal": {
+    "type": "item",
+    "path": "Items/Star-Metal.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "The Frayed Weave": {
+    "type": "item",
+    "path": "Items/The Frayed Weave.md",
+    "rels": 6,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Arcanology": {
+    "type": "magic",
+    "path": "Magic/Arcanology.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Elm-ur": {
+    "type": "magic",
+    "path": "Magic/Elm-ur.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Myco-Whispering": {
+    "type": "magic",
+    "path": "Magic/Myco-Whispering.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Necro-Industrialism": {
+    "type": "magic",
+    "path": "Magic/Necro-Industrialism.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Song-Wards": {
+    "type": "magic",
+    "path": "Magic/Song-Wards.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Technomancy": {
+    "type": "magic",
+    "path": "Magic/Technomancy.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "The Great Weaving": {
+    "type": "magic",
+    "path": "Magic/The Great Weaving.md",
+    "rels": 6,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Wind-Shaping": {
+    "type": "magic",
+    "path": "Magic/Wind-Shaping.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "A'rastheon": {
+    "type": "person",
+    "path": "People/A'rastheon.md",
+    "rels": 9,
+    "rels_with_note": 9,
+    "rels_with_period": 5
+  },
+  "Aen'r-Khadaz": {
+    "type": "person",
+    "path": "People/Aen'r-Khadaz.md",
+    "rels": 7,
+    "rels_with_note": 7,
+    "rels_with_period": 0
+  },
+  "Aenareth": {
+    "type": "person",
+    "path": "People/Aenareth.md",
+    "rels": 9,
+    "rels_with_note": 9,
+    "rels_with_period": 0
+  },
+  "Archmage Elaruniel": {
+    "type": "person",
+    "path": "People/Archmage Elaruniel.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 2
+  },
+  "Asteron": {
+    "type": "person",
+    "path": "People/Asteron.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Belthorn": {
+    "type": "person",
+    "path": "People/Belthorn.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Bimble Pockets": {
+    "type": "person",
+    "path": "People/Bimble Pockets.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "Bjalmund": {
+    "type": "person",
+    "path": "People/Bjalmund.md",
+    "rels": 6,
+    "rels_with_note": 6,
+    "rels_with_period": 2
+  },
+  "Ceridara": {
+    "type": "person",
+    "path": "People/Ceridara.md",
+    "rels": 8,
+    "rels_with_note": 8,
+    "rels_with_period": 5
+  },
+  "Clever Jeni Pipkin": {
+    "type": "person",
+    "path": "People/Clever Jeni Pipkin.md",
+    "rels": 2,
+    "rels_with_note": 2,
+    "rels_with_period": 0
+  },
+  "Elaraieth": {
+    "type": "person",
+    "path": "People/Elaraieth.md",
+    "rels": 14,
+    "rels_with_note": 14,
+    "rels_with_period": 7
+  },
+  "Emperor Caelius I": {
+    "type": "person",
+    "path": "People/Emperor Caelius I.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 4
+  },
+  "Emperor Titus II": {
+    "type": "person",
+    "path": "People/Emperor Titus II.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 3
+  },
+  "General Valerius": {
+    "type": "person",
+    "path": "People/General Valerius.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 2
+  },
+  "Granny Pip": {
+    "type": "person",
+    "path": "People/Granny Pip.md",
+    "rels": 2,
+    "rels_with_note": 2,
+    "rels_with_period": 0
+  },
+  "Grogor the Eye": {
+    "type": "person",
+    "path": "People/Grogor the Eye.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 2
+  },
+  "Grom-Kain": {
+    "type": "person",
+    "path": "People/Grom-Kain.md",
+    "rels": 5,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "Gwynfaer": {
+    "type": "person",
+    "path": "People/Gwynfaer.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 2
+  },
+  "High King Thorgar VI": {
+    "type": "person",
+    "path": "People/High King Thorgar VI.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "High King Thorgar VII": {
+    "type": "person",
+    "path": "People/High King Thorgar VII.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 1
+  },
+  "Illysia": {
+    "type": "person",
+    "path": "People/Illysia.md",
+    "rels": 8,
+    "rels_with_note": 8,
+    "rels_with_period": 5
+  },
+  "Ilphara": {
+    "type": "person",
+    "path": "People/Ilphara.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 2
+  },
+  "Kael'Zorai": {
+    "type": "person",
+    "path": "People/Kael'Zorai.md",
+    "rels": 14,
+    "rels_with_note": 13,
+    "rels_with_period": 8
+  },
+  "Korthak": {
+    "type": "person",
+    "path": "People/Korthak.md",
+    "rels": 6,
+    "rels_with_note": 6,
+    "rels_with_period": 4
+  },
+  "Lelyariel": {
+    "type": "person",
+    "path": "People/Lelyariel.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Milo": {
+    "type": "person",
+    "path": "People/Milo.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 0
+  },
+  "Myrasael": {
+    "type": "person",
+    "path": "People/Myrasael.md",
+    "rels": 14,
+    "rels_with_note": 14,
+    "rels_with_period": 7
+  },
+  "Oneirys": {
+    "type": "person",
+    "path": "People/Oneirys.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Pyrathan": {
+    "type": "person",
+    "path": "People/Pyrathan.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Stellion": {
+    "type": "person",
+    "path": "People/Stellion.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Tham'dran": {
+    "type": "person",
+    "path": "People/Tham'dran.md",
+    "rels": 14,
+    "rels_with_note": 14,
+    "rels_with_period": 7
+  },
+  "Thane Korin Barazkor": {
+    "type": "person",
+    "path": "People/Thane Korin Barazkor.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Tinbrel Quillroot": {
+    "type": "person",
+    "path": "People/Tinbrel Quillroot.md",
+    "rels": 3,
+    "rels_with_note": 3,
+    "rels_with_period": 2
+  },
+  "Tobin Willow-snap": {
+    "type": "person",
+    "path": "People/Tobin Willow-snap.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Vaelynn": {
+    "type": "person",
+    "path": "People/Vaelynn.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Vardas the Elder": {
+    "type": "person",
+    "path": "People/Vardas the Elder.md",
+    "rels": 4,
+    "rels_with_note": 3,
+    "rels_with_period": 3
+  },
+  "Vardris": {
+    "type": "person",
+    "path": "People/Vardris.md",
+    "rels": 4,
+    "rels_with_note": 4,
+    "rels_with_period": 2
+  },
+  "Virandros": {
+    "type": "person",
+    "path": "People/Virandros.md",
+    "rels": 14,
+    "rels_with_note": 14,
+    "rels_with_period": 7
+  },
+  "Vorok the Listener": {
+    "type": "person",
+    "path": "People/Vorok the Listener.md",
+    "rels": 5,
+    "rels_with_note": 5,
+    "rels_with_period": 0
+  },
+  "Church of the Celestial Word": {
+    "type": "religion",
+    "path": "Religions/Church of the Celestial Word.md",
+    "rels": 5,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "Grom-Kain Worship": {
+    "type": "religion",
+    "path": "Religions/Grom-Kain Worship.md",
+    "rels": 7,
+    "rels_with_note": 5,
+    "rels_with_period": 0
+  },
+  "Pantheon of the Ordained": {
+    "type": "religion",
+    "path": "Religions/Pantheon of the Ordained.md",
+    "rels": 4,
+    "rels_with_note": 3,
+    "rels_with_period": 0
+  },
+  "The Four Harmonies": {
+    "type": "religion",
+    "path": "Religions/The Four Harmonies.md",
+    "rels": 13,
+    "rels_with_note": 12,
+    "rels_with_period": 0
+  },
+  "The Four Makers": {
+    "type": "religion",
+    "path": "Religions/The Four Makers.md",
+    "rels": 15,
+    "rels_with_note": 14,
+    "rels_with_period": 0
+  },
+  "The Four Pillars": {
+    "type": "religion",
+    "path": "Religions/The Four Pillars.md",
+    "rels": 13,
+    "rels_with_note": 12,
+    "rels_with_period": 0
+  },
+  "The Synthesis": {
+    "type": "religion",
+    "path": "Religions/The Synthesis.md",
+    "rels": 10,
+    "rels_with_note": 9,
+    "rels_with_period": 0
+  },
+  "The Twin Roots": {
+    "type": "religion",
+    "path": "Religions/The Twin Roots.md",
+    "rels": 13,
+    "rels_with_note": 12,
+    "rels_with_period": 0
+  },
+  "Aen'valar": {
+    "type": "species",
+    "path": "Species/Aen'valar.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Aetheris": {
+    "type": "species",
+    "path": "Species/Aetheris.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Cirhannim": {
+    "type": "species",
+    "path": "Species/Cirhannim.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Drakona": {
+    "type": "species",
+    "path": "Species/Drakona.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "Dwarves": {
+    "type": "species",
+    "path": "Species/Dwarves.md",
+    "rels": 8,
+    "rels_with_note": 4,
+    "rels_with_period": 4
+  },
+  "Elm-korin": {
+    "type": "species",
+    "path": "Species/Elm-korin.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Elves": {
+    "type": "species",
+    "path": "Species/Elves.md",
+    "rels": 7,
+    "rels_with_note": 3,
+    "rels_with_period": 3
+  },
+  "Forest Gnomes": {
+    "type": "species",
+    "path": "Species/Forest Gnomes.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Giants": {
+    "type": "species",
+    "path": "Species/Giants.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Gnomes": {
+    "type": "species",
+    "path": "Species/Gnomes.md",
+    "rels": 5,
+    "rels_with_note": 2,
+    "rels_with_period": 2
+  },
+  "Halflings": {
+    "type": "species",
+    "path": "Species/Halflings.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Humans": {
+    "type": "species",
+    "path": "Species/Humans.md",
+    "rels": 6,
+    "rels_with_note": 3,
+    "rels_with_period": 2
+  },
+  "Lothari": {
+    "type": "species",
+    "path": "Species/Lothari.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mirennians": {
+    "type": "species",
+    "path": "Species/Mirennians.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "N'nm-Khazal'n": {
+    "type": "species",
+    "path": "Species/N'nm-Khazal'n.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Orkin": {
+    "type": "species",
+    "path": "Species/Orkin.md",
+    "rels": 5,
+    "rels_with_note": 3,
+    "rels_with_period": 3
+  },
+  "Primalkyn": {
+    "type": "species",
+    "path": "Species/Primalkyn.md",
+    "rels": 7,
+    "rels_with_note": 3,
+    "rels_with_period": 2
+  },
+  "Rock Gnomes": {
+    "type": "species",
+    "path": "Species/Rock Gnomes.md",
+    "rels": 6,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Sael'anir": {
+    "type": "species",
+    "path": "Species/Sael'anir.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Sand Gnomes": {
+    "type": "species",
+    "path": "Species/Sand Gnomes.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Skitter-Gloom": {
+    "type": "species",
+    "path": "Species/Skitter-Gloom.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Thulkor'n": {
+    "type": "species",
+    "path": "Species/Thulkor'n.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Varnathi": {
+    "type": "species",
+    "path": "Species/Varnathi.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Waldkyn": {
+    "type": "species",
+    "path": "Species/Waldkyn.md",
+    "rels": 8,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Arcane Conduits": {
+    "type": "technology",
+    "path": "Technology/Arcane Conduits.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Clank Servitors": {
+    "type": "technology",
+    "path": "Technology/Clank Servitors.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Clockwork Mechanisms": {
+    "type": "technology",
+    "path": "Technology/Clockwork Mechanisms.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Deep-Hull Ships": {
+    "type": "technology",
+    "path": "Technology/Deep-Hull Ships.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mana-Pylon Systems": {
+    "type": "technology",
+    "path": "Technology/Mana-Pylon Systems.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Mist-Lanterns": {
+    "type": "technology",
+    "path": "Technology/Mist-Lanterns.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Necro-Industrial Machinery": {
+    "type": "technology",
+    "path": "Technology/Necro-Industrial Machinery.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Printing Press": {
+    "type": "technology",
+    "path": "Technology/Printing Press.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 0
+  },
+  "Ironheart Citadel": {
+    "type": "place",
+    "path": "World/Ironheart Citadel.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Circles Below": {
+    "type": "place",
+    "path": "World/The Circles Below.md",
+    "rels": 2,
+    "rels_with_note": 1,
+    "rels_with_period": 1
+  },
+  "The Crystal Gardens": {
+    "type": "place",
+    "path": "World/The Crystal Gardens.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Divine Workshop": {
+    "type": "place",
+    "path": "World/The Divine Workshop.md",
+    "rels": 2,
+    "rels_with_note": 1,
+    "rels_with_period": 1
+  },
+  "The Dreaming Grove": {
+    "type": "place",
+    "path": "World/The Dreaming Grove.md",
+    "rels": 4,
+    "rels_with_note": 3,
+    "rels_with_period": 1
+  },
+  "The Dreaming Realms": {
+    "type": "place",
+    "path": "World/The Dreaming Realms.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The First Forge": {
+    "type": "place",
+    "path": "World/The First Forge.md",
+    "rels": 3,
+    "rels_with_note": 2,
+    "rels_with_period": 1
+  },
+  "The Hollow Glade": {
+    "type": "place",
+    "path": "World/The Hollow Glade.md",
+    "rels": 4,
+    "rels_with_note": 1,
+    "rels_with_period": 3
+  },
+  "The Oathstone Circles": {
+    "type": "place",
+    "path": "World/The Oathstone Circles.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Resonance Halls": {
+    "type": "place",
+    "path": "World/The Resonance Halls.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Sacred Hearths": {
+    "type": "place",
+    "path": "World/The Sacred Hearths.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Seasonal Circles": {
+    "type": "place",
+    "path": "World/The Seasonal Circles.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Starfall Peaks": {
+    "type": "place",
+    "path": "World/The Starfall Peaks.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "The Wind Paths": {
+    "type": "place",
+    "path": "World/The Wind Paths.md",
+    "rels": 2,
+    "rels_with_note": 1,
+    "rels_with_period": 1
+  },
+  "_index": {
+    "type": "place",
+    "path": "World/Vol/_index.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Hollowkin Settlement": {
+    "type": "place",
+    "path": "World/Aerin'r'/Hollowkin Settlement.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "Vorok-Varr": {
+    "type": "place",
+    "path": "World/Aerin'r'/Vorok-Varr.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "Aethelgard": {
+    "type": "place",
+    "path": "World/Drakenvast/Aethelgard.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Drakograd": {
+    "type": "place",
+    "path": "World/Drakenvast/Drakograd.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "Aethelas": {
+    "type": "place",
+    "path": "World/Novaterra/Aethelas.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Gearhaven": {
+    "type": "place",
+    "path": "World/Novaterra/Gearhaven.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "M'ren'r'": {
+    "type": "place",
+    "path": "World/Novaterra/M'ren'r'.md",
+    "rels": 5,
+    "rels_with_note": 0,
+    "rels_with_period": 5
+  },
+  "Nexus": {
+    "type": "place",
+    "path": "World/Novaterra/Nexus.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 4
+  },
+  "Zure": {
+    "type": "place",
+    "path": "World/Novaterra/Zure.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 4
+  },
+  "Argentum": {
+    "type": "place",
+    "path": "World/Vael/Argentum.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Aurumport": {
+    "type": "place",
+    "path": "World/Vael/Aurumport.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Barren Hills": {
+    "type": "place",
+    "path": "World/Vael/Barren Hills.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Bjalmund's Spire": {
+    "type": "place",
+    "path": "World/Vael/Bjalmund's Spire.md",
+    "rels": 3,
+    "rels_with_note": 1,
+    "rels_with_period": 3
+  },
+  "Castellum": {
+    "type": "place",
+    "path": "World/Vael/Castellum.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Central Mountains": {
+    "type": "place",
+    "path": "World/Vael/Central Mountains.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 4
+  },
+  "Coastal Regions": {
+    "type": "place",
+    "path": "World/Vael/Coastal Regions.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Crimson Wastes": {
+    "type": "place",
+    "path": "World/Vael/Crimson Wastes.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Dragon's Tooth Mountains": {
+    "type": "place",
+    "path": "World/Vael/Dragon's Tooth Mountains.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Gear-Hollow": {
+    "type": "place",
+    "path": "World/Vael/Gear-Hollow.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Great Desert": {
+    "type": "place",
+    "path": "World/Vael/Great Desert.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Greenmeadow": {
+    "type": "place",
+    "path": "World/Vael/Greenmeadow.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Grey Peaks": {
+    "type": "place",
+    "path": "World/Vael/Grey Peaks.md",
+    "rels": 1,
+    "rels_with_note": 0,
+    "rels_with_period": 1
+  },
+  "Hannan'r'": {
+    "type": "place",
+    "path": "World/Vael/Hannan'r'.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Iron-Peak Range": {
+    "type": "place",
+    "path": "World/Vael/Iron-Peak Range.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Kharnzarak": {
+    "type": "place",
+    "path": "World/Vael/Kharnzarak.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Lithos": {
+    "type": "place",
+    "path": "World/Vael/Lithos.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Luminas": {
+    "type": "place",
+    "path": "World/Vael/Luminas.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Mycohollow": {
+    "type": "place",
+    "path": "World/Vael/Mycohollow.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Port Farrick": {
+    "type": "place",
+    "path": "World/Vael/Port Farrick.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Sunken Coast": {
+    "type": "place",
+    "path": "World/Vael/Sunken Coast.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "The Fens": {
+    "type": "place",
+    "path": "World/Vael/The Fens.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  },
+  "Varnathi Highlands": {
+    "type": "place",
+    "path": "World/Vael/Varnathi Highlands.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Vernath": {
+    "type": "place",
+    "path": "World/Vael/Vernath.md",
+    "rels": 4,
+    "rels_with_note": 0,
+    "rels_with_period": 4
+  },
+  "Whispering Vales": {
+    "type": "place",
+    "path": "World/Vael/Whispering Vales.md",
+    "rels": 3,
+    "rels_with_note": 0,
+    "rels_with_period": 3
+  },
+  "Mount Cinder": {
+    "type": "place",
+    "path": "World/Vol/Mount Cinder.md",
+    "rels": 2,
+    "rels_with_note": 0,
+    "rels_with_period": 2
+  }
+}

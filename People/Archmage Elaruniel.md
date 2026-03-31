@@ -1,55 +1,109 @@
 ---
 wb-type: person
 wb-id: archmage-elaruniel
-name: "Archmage Elaruniel"
-aliases: [Melody of the Hidden Pattern]
-species: "[[Aen'valar]]"
+name: Archmage Elaruniel
+aliases:
+- Melody of the Hidden Pattern
+species: '[[Aen''valar]]'
 born: null
 died: null
-birthplace: "[[Aethelas]]"
-residence: "[[Aethelas]]"
-faction: "[[Aen'valar]]"
-role: "Archmage, scholar, author of The Frayed Weave, theorist of Arcane Scarcity"
-title: "Loremaster Prime of Aethelas"
+birthplace: '[[Aethelas]]'
+residence: '[[Aethelas]]'
+faction: '[[Aen''valar]]'
+role: Archmage, scholar, author of The Frayed Weave, theorist of Arcane Scarcity
+title: Loremaster Prime of Aethelas
 gender: female
 relationships:
-  - target: "[[Aethelas]]"
-    type: leader
-    period: "SA:3010-"
-    note: "Elected Loremaster Prime of the Conclave of Masters"
-  - target: "[[Magocracy]]"
-    type: adversary
-    note: "The Magocracy denounced and suppressed her research on the Fraying"
-  - target: "[[Coalition of Mages]]"
-    type: member
-    period: "SA:2319"
-    note: "Secretly recruited to develop weapons for the Drakona War"
-  - target: "[[Grand University]]"
-    type: collaborator
-    note: "Published research that became the Theory of Arcane Scarcity"
-  - target: "[[Voronwe]]"
-    type: rival
-    note: "Magocracy loyalist who opposed her for the Loremaster position"
+- target: '[[Aethelas]]'
+  type: ruler
+  period: SA:3010-
+  metadata:
+    description: Elected Loremaster Prime of the Conclave of Masters
+- target: '[[Magocracy]]'
+  type: enemy
+  metadata:
+    description: The Magocracy denounced and suppressed her research on the Fraying
+- target: '[[Coalition of Mages]]'
+  type: member
+  period: SA:2319
+  metadata:
+    description: Secretly recruited to develop weapons for the Drakona War
+- target: '[[Grand University]]'
+  type: custom
+  metadata:
+    description: 'collaborator: Published research that became the Theory of Arcane Scarcity'
+- target: '[[Voronwe]]'
+  type: rival
+  metadata:
+    description: Magocracy loyalist who opposed her for the Loremaster position
+- target: '[[Drakona]]'
+  type: enemy
+  period: SA:2360-2688
+  metadata:
+    description: Her inventions were decisive in the war against the Drakona
+- target: '[[Gearhaven]]'
+  type: ally
+  period: SA:2360
+  metadata:
+    description: Created the Mana-Combustion Drive that launched the first heavy airship from Gearhaven
+- target: '[[The Frayed Weave]]'
+  type: creator
+  period: SA:2715
+  metadata:
+    description: Published the foundational text arguing the Skyfall broke the universe's magical immune system
+- target: '[[The Binding]]'
+  type: involved-in
+  period: SA:2688
+  metadata:
+    description: Designed the Earth-Anchor ritual that grounded the Drakona Cloud Cities
+- target: '[[Technomancy]]'
+  type: related
+  period: SA:2360
+  metadata:
+    description: Her Mana-Combustion Drive fused arcane and mechanical principles
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: authored-by
+- target: '[[Technomancy]]'
+  type: custom
+  period: SA:2360
+  metadata:
+    description: advanced-by
+- target: '[[Aethelas]]'
+  type: ruler
+  period: SA:3010-
+  metadata:
+    description: Elaruniel elected Loremaster Prime, leading Aethelas away from Magocracy influence
+- target: '[[Aethelas]]'
+  type: ruled-by
+  period: SA:3010-
+  metadata:
+    description: Elected Loremaster Prime of the Conclave of Masters
 timeline:
-  - period: "SA:2319"
-    event: "Published 'On the Efficacy of Dissonance,' arguing that breaking reality was more efficient than bending it in warfare"
-  - period: "SA:2319"
-    event: "Censured by academics but secretly recruited by the Coalition of Mages for anti-Drakona weapons research"
-  - period: "SA:2360"
-    event: "Created the volatile Mana-Combustion Drive, enabling the first heavy airship to achieve flight"
-  - period: "SA:2485"
-    event: "Broadcast a Null-Harmony to counter the Drakona Resonance Shriek at Skyreach, saving the Allied fleet"
-  - period: "SA:2688"
-    event: "Designed the Earth-Anchor ritual that grounded the Drakona Cloud Cities, ending the war at catastrophic cost"
-  - period: "SA:2715"
-    event: "Published The Frayed Weave, arguing that the Skyfall had broken the universe's magical immune system"
-  - period: "SA:3010"
-    event: "Elected Loremaster Prime of Aethelas, defeating Magocracy loyalist Voronwe"
-tags: [person, elf, aenvalar, archmage, scholar]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:2319
+  event: Published 'On the Efficacy of Dissonance,' arguing that breaking reality was more efficient than bending it in warfare
+- period: SA:2319
+  event: Censured by academics but secretly recruited by the Coalition of Mages for anti-Drakona weapons research
+- period: SA:2360
+  event: Created the volatile Mana-Combustion Drive, enabling the first heavy airship to achieve flight
+- period: SA:2485
+  event: Broadcast a Null-Harmony to counter the Drakona Resonance Shriek at Skyreach, saving the Allied fleet
+- period: SA:2688
+  event: Designed the Earth-Anchor ritual that grounded the Drakona Cloud Cities, ending the war at catastrophic cost
+- period: SA:2715
+  event: Published The Frayed Weave, arguing that the Skyfall had broken the universe's magical immune system
+- period: SA:3010
+  event: Elected Loremaster Prime of Aethelas, defeating Magocracy loyalist Voronwe
+tags:
+- person
+- elf
+- aenvalar
+- archmage
+- scholar
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Archmage Elaruniel
 
 **Archmage Elaruniel**, whose name translates as "Melody of the Hidden Pattern," is a renowned [[Aen'valar]] scholar and the author of **The Frayed Weave** -- the foundational text for what the wider world calls the **Theory of Arcane Scarcity**. She is simultaneously one of the most celebrated and most controversial figures in the history of [[Vaeloris]], a brilliant mind haunted by the catastrophic consequences of her own genius.

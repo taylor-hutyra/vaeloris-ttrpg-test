@@ -2,47 +2,58 @@
 wb-type: place
 wb-id: fractured-isles
 name: Fractured Isles
-aliases: [The Pirate Archipelago, The Free Waters, Serpent's Tooth Archipelago]
-parent: "[[Vaeloris]]"
+aliases:
+- The Pirate Archipelago
+- The Free Waters
+- Serpent's Tooth Archipelago
+parent: '[[Vaeloris]]'
 spatial-type: archipelago
-contains: ["[[Serpent's Tooth]]"]
+contains:
+- '[[Serpent''s Tooth]]'
 population: null
 ruler: null
-faction: "[[Pirate Confederacy]]"
-climate: "tropical to subtropical, storm-prone"
-resources: ["salvage", "coral", "smuggled goods", "hidden anchorages"]
-status: "Pirate Confederacy territory — semi-autonomous under Convention of Accord"
+faction: '[[Pirate Confederacy]]'
+climate: tropical to subtropical, storm-prone
+resources:
+- salvage
+- coral
+- smuggled goods
+- hidden anchorages
+status: Pirate Confederacy territory — semi-autonomous under Convention of Accord
 relationships:
-  - target: "[[Pirate Confederacy]]"
-    type: governed-by
-    period: "1020-"
-  - target: "[[Drakona]]"
-    type: allied-with
-    period: "2280-2688"
-  - target: "[[Allied Command]]"
-    type: allied-with
-    period: "2595-2688"
-  - target: "[[Mirennian League]]"
-    type: hostile
-    period: "1020-"
+- target: '[[Pirate Confederacy]]'
+  type: controlled-by
+  period: 1020-
+- target: '[[Drakona]]'
+  type: ally
+  period: 2280-2688
+- target: '[[Allied Command]]'
+  type: ally
+  period: 2595-2688
+- target: '[[Mirennian League]]'
+  type: enemy
+  period: 1020-
+  metadata:
+    nature: hostile
 timeline:
-  - period: "1020"
-    event: "Captain Vane unites the pirate crews and founds the Code of the Coast"
-  - period: "1070"
-    event: "Blockade of Port Farrick — pirate power at its zenith"
-  - period: "2280"
-    event: "The Scaled Pact — pirates become Drakona spies in exchange for air cover"
-  - period: "2480"
-    event: "Rise of the Cloudborn Corsairs under Captain Kaelen Skysplitter Vance"
-  - period: "2595"
-    event: "The Privateer Accords — pirates pardoned in exchange for fighting Drakona"
-  - period: "3100"
-    event: "The Glider Fleets — pirates adapt with Wave-Skimmers and non-magical gliders"
-tags: [place, archipelago]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '1020'
+  event: Captain Vane unites the pirate crews and founds the Code of the Coast
+- period: '1070'
+  event: Blockade of Port Farrick — pirate power at its zenith
+- period: '2280'
+  event: The Scaled Pact — pirates become Drakona spies in exchange for air cover
+- period: '2480'
+  event: Rise of the Cloudborn Corsairs under Captain Kaelen Skysplitter Vance
+- period: '2595'
+  event: The Privateer Accords — pirates pardoned in exchange for fighting Drakona
+- period: '3100'
+  event: The Glider Fleets — pirates adapt with Wave-Skimmers and non-magical gliders
+tags:
+- place
+- archipelago
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Fractured Isles
 
 The Fractured Isles are a sprawling archipelago of jagged volcanic islands, coral atolls, and hidden coves scattered across the southern seas of [[Vaeloris]]. They are the domain of the [[Pirate Confederacy]] — a lawless maritime nation built on the simple philosophy that freedom is worth more than respectability.

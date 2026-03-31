@@ -1,44 +1,95 @@
 ---
 wb-type: place
 wb-id: aerinr
-name: "Aerin'r'"
-aliases: [The Sanctuary Continent, The Northern Paradise, The Haunted Land]
-parent: "[[Vaeloris]]"
+name: Aerin'r'
+aliases:
+- The Sanctuary Continent
+- The Northern Paradise
+- The Haunted Land
+parent: '[[Vaeloris]]'
 spatial-type: continent
-contains: ["[[Lanthir Haven]]"]
+contains:
+- '[[Lanthir Haven]]'
 population: null
 ruler: null
 faction: null
-climate: "temperate coastal forests, pristine wilderness"
-resources: ["ancient timber", "rare herbs", "clean water"]
-status: "Neutral — declared Sanctuary of Nature under the Convention of Accord"
+climate: temperate coastal forests, pristine wilderness
+resources:
+- ancient timber
+- rare herbs
+- clean water
+status: Neutral — declared Sanctuary of Nature under the Convention of Accord
 relationships:
-  - target: "[[Sael'anir]]"
-    type: inhabited-by
-    period: "80-"
-  - target: "[[Waldkyn]]"
-    type: inhabited-by
-    period: "761-"
-  - target: "[[Vorok-Varr]]"
-    type: inhabited-by
-    period: "761-"
-  - target: "[[Convention of Accord]]"
-    type: protected-by
-    period: "3280-"
+- target: '[[Sael''anir]]'
+  type: contains
+  period: 80-
+- target: '[[Waldkyn]]'
+  type: contains
+  period: 761-
+- target: '[[Vorok-Varr]]'
+  type: contains
+  period: 761-
+- target: '[[Convention of Accord]]'
+  type: custom
+  period: 3280-
+  metadata:
+    description: protected-by
+- target: '[[Sael''anir Star-Moot]]'
+  type: controlled-by
+  period: SA:80-
+  metadata:
+    description: Star-Moot convenes on the pristine continent of Aerin'r'
+- target: '[[Ilphara]]'
+  type: custom
+  metadata:
+    description: 'spiritual-connection: The Sael''anir eventually settled on the pristine continent she sought'
+- target: '[[Vorok the Listener]]'
+  type: custom
+  metadata:
+    description: 'settler: Chose the pristine continent as the site for a peaceful Orkin society'
+- target: '[[Elves]]'
+  type: homeland
+  period: SA:80-
+  metadata:
+    description: Pristine continent where the Sael'anir wander in traveling bands
+- target: '[[Halflings]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Hollowkin Settlement on Aerin'r' — integrated community with local Gnomes
+- target: '[[Orkin]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Vorok-Varr pacifist clan settled on Aerin'r' alongside Waldkyn and Mirennians
+- target: '[[Sael''anir]]'
+  type: located-in
+- target: '[[Waldkyn]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Aerin'r' Kith live in contemplative communities alongside peaceful Orkin and Mirennians
+- target: '[[Waldkyn]]'
+  type: located-in
+  period: 761-
+- target: '[[Vorok-Varr]]'
+  type: located-in
+  period: 761-
 timeline:
-  - period: "761"
-    event: "Pact of the Northern Sanctuary — Mirennian explorers swear non-interference"
-  - period: "1845"
-    event: "The Silent Repulsion — Varnathi timber syndicate driven out without violence"
-  - period: "1890"
-    event: "First Star-Tide Festival held at Lanthir Haven"
-  - period: "3280"
-    event: "Convention of Accord declares Aerin'r' a Sanctuary of Nature"
-tags: [place, continent]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '761'
+  event: Pact of the Northern Sanctuary — Mirennian explorers swear non-interference
+- period: '1845'
+  event: The Silent Repulsion — Varnathi timber syndicate driven out without violence
+- period: '1890'
+  event: First Star-Tide Festival held at Lanthir Haven
+- period: '3280'
+  event: Convention of Accord declares Aerin'r' a Sanctuary of Nature
+tags:
+- place
+- continent
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aerin'r'
 
 Aerin'r' is the world's last unspoiled continent — a pristine expanse of ancient forests, crystal rivers, and untouched coastline lying to the north of [[Vael]]. It is a place where the land itself seems to resist the intrusion of civilization, where fog swallows unwelcome visitors and forests dismantle logging camps overnight. To the peoples of the Old World, it is a myth whispered by sailors: a paradise that cannot be mapped, a sanctuary that cannot be conquered.

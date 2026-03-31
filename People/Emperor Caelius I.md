@@ -1,53 +1,129 @@
 ---
 wb-type: person
 wb-id: emperor-caelius-i
-name: "Emperor Caelius I"
-aliases: [The Conqueror, The March-Lord]
-species: "[[Varnathi]]"
+name: Emperor Caelius I
+aliases:
+- The Conqueror
+- The March-Lord
+species: '[[Varnathi]]'
 born: null
 died: null
-birthplace: "[[Vernath]]"
-residence: "[[Vernath]]"
-faction: "[[Varnathi Empire]]"
-role: "First Emperor of the Varnathi, conqueror and empire-builder"
-title: "Emperor of the Varnathi"
+birthplace: '[[Vernath]]'
+residence: '[[Vernath]]'
+faction: '[[Varnathi Empire]]'
+role: First Emperor of the Varnathi, conqueror and empire-builder
+title: Emperor of the Varnathi
 gender: male
 relationships:
-  - target: "[[Vardas the Elder]]"
-    type: descendant
-    note: "Great-grandson of Vernath's founder"
-  - target: "[[Vernath]]"
-    type: ruler
-    period: "SA:381-"
-    note: "Transformed the city-state into the seat of an empire"
-  - target: "[[Varnathi Empire]]"
-    type: founder
-    period: "SA:381"
-    note: "Declared the birth of the Varnathi Empire after unifying the highland city-states"
-  - target: "[[Orkin]]"
-    type: adversary
-    period: "SA:410"
-    note: "Launched the March of Order, driving Orkin from the southern territories"
-  - target: "[[Castellum]]"
-    type: founder
-    period: "SA:410"
-    note: "Established the fortress-city during the southern conquests"
+- target: '[[Vardas the Elder]]'
+  type: custom
+  metadata:
+    description: 'descendant: Great-grandson of Vernath''s founder'
+- target: '[[Vernath]]'
+  type: ruler
+  period: SA:381-
+  metadata:
+    description: Transformed the city-state into the seat of an empire
+- target: '[[Varnathi Empire]]'
+  type: founder
+  period: SA:381
+  metadata:
+    description: Declared the birth of the Varnathi Empire after unifying the highland city-states
+- target: '[[Orkin]]'
+  type: enemy
+  period: SA:410
+  metadata:
+    description: Launched the March of Order, driving Orkin from the southern territories
+- target: '[[Castellum]]'
+  type: founder
+  period: SA:410
+  metadata:
+    description: Established the fortress-city during the southern conquests
+- target: '[[March of Order]]'
+  type: involved-in
+  period: SA:410
+  metadata:
+    description: Launched the March of Order into the southern wilds with steel legions
+- target: '[[Codex of the Road]]'
+  type: involved-in
+  period: SA:425
+  metadata:
+    description: Expanded the paved trade roads into a continental network
+- target: '[[Thulkor''n]]'
+  type: ally
+  period: SA:395
+  metadata:
+    description: Used exiled Dwarf consultants to perfect blast-furnace steel production
+- target: '[[Mirennian League]]'
+  type: enemy
+  period: SA:440
+  metadata:
+    description: Coastal expansion triggered the Cold War between Empire and Mirennia
+- target: '[[Port Farrick]]'
+  type: founder
+  period: SA:440
+  metadata:
+    description: Founded the port at the mouth of the Great River during coastal expansion
+- target: '[[Barren Hills]]'
+  type: related
+  period: SA:410
+  metadata:
+    description: Drove Orkin from the southern territories into the inhospitable badlands
+- target: '[[Bloodless Coup]]'
+  type: related
+  period: SA:381
+  metadata:
+    description: End of the imperial line Caelius I founded two centuries earlier
+- target: '[[Founding of Port Farrick]]'
+  type: involved-in
+  period: SA:440
+  metadata:
+    description: Emperor whose coastal expansion founded the port
+- target: '[[Varnathi Pentarchy]]'
+  type: related
+  period: SA:381
+  metadata:
+    description: Caelius I transformed the city-state confederacy into an empire
+- target: '[[Emperor Titus II]]'
+  type: predecessor
+  period: SA:381
+  metadata:
+    description: Last of the imperial line that Caelius I founded
+- target: '[[Vardas the Elder]]'
+  type: custom
+  metadata:
+    description: 'ancestor: Great-grandfather of Caelius I, who later declared the Varnathi Empire'
+- target: '[[Castellum]]'
+  type: founder
+  period: SA:410
+  metadata:
+    description: Founded as a fortress during the March of Order
+- target: '[[Port Farrick]]'
+  type: founder
+  period: SA:440
+  metadata:
+    description: Founded during Caelius I's coastal expansion
 timeline:
-  - period: "SA:381"
-    event: "Consolidated the seven major highland city-states through the War of the Seven Spears"
-  - period: "SA:381"
-    event: "Declared the end of the tribal confederacy and the birth of the Varnathi Empire, claiming a Mandate of Order"
-  - period: "SA:381"
-    event: "Amended the First Compact to include loyalty to the Throne alongside the State"
-  - period: "SA:410"
-    event: "Launched the March of Order into the southern wilds, shattering the Orkin warbands with steel legions and phalanx tactics"
-  - period: "SA:410"
-    event: "Founded the fortress of Castellum on the southern frontier to hold conquered territory"
-tags: [person, human, varnathi, emperor, conqueror]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:381
+  event: Consolidated the seven major highland city-states through the War of the Seven Spears
+- period: SA:381
+  event: Declared the end of the tribal confederacy and the birth of the Varnathi Empire, claiming a Mandate of Order
+- period: SA:381
+  event: Amended the First Compact to include loyalty to the Throne alongside the State
+- period: SA:410
+  event: Launched the March of Order into the southern wilds, shattering the Orkin warbands with steel legions and phalanx
+    tactics
+- period: SA:410
+  event: Founded the fortress of Castellum on the southern frontier to hold conquered territory
+tags:
+- person
+- human
+- varnathi
+- emperor
+- conqueror
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Emperor Caelius I
 
 **Emperor Caelius I** was the great-grandson of [[Vardas the Elder]] and the first Emperor of the [[Varnathi Empire]], transforming the philosophical city-state of [[Vernath]] into a continental military power through a combination of diplomacy, war, and the audacious claim that it was humanity's divine duty to impose order upon the post-divine world.

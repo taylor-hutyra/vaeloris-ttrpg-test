@@ -2,28 +2,49 @@
 wb-type: species
 wb-id: giants
 name: Giants
-aliases: [The Colossal Ones, Mountain-Tenders, The Vanished]
-origin: "Unknown — theorized to be gardeners of the First Hands' abandoned mountain sanctuaries"
+aliases:
+- The Colossal Ones
+- Mountain-Tenders
+- The Vanished
+origin: Unknown — theorized to be gardeners of the First Hands' abandoned mountain sanctuaries
 lifespan: unknown
-traits: [colossal, ancient, enigmatic, reclusive, cyclopean architecture]
-habitat: ["[[Dragon's Tooth Mountains]]"]
+traits:
+- colossal
+- ancient
+- enigmatic
+- reclusive
+- cyclopean architecture
+habitat:
+- '[[Dragon''s Tooth Mountains]]'
 population: extinct-or-vanished
 relationships:
-  - target: "[[Dwarves]]"
-    type: territorial-neighbors
-    period: "SA:75-SA:1775"
-  - target: "[[The First Hands]]"
-    type: theorized-servants
+- target: '[[Dwarves]]'
+  type: custom
+  period: SA:75-SA:1775
+  metadata:
+    description: territorial-neighbors
+- target: '[[The First Hands]]'
+  type: custom
+  metadata:
+    description: theorized-servants
+- target: '[[First Sighting of Giants]]'
+  type: involved-in
+  period: SA:75
+  metadata:
+    description: First official contact with the colossal beings tending cyclopean ruins
 timeline:
-  - period: "SA:75"
-    label: "First Sighting — Dwarven mining expedition encounters Giants in northern peaks"
-  - period: "SA:1775"
-    label: "The Passing of the Giants — cyclopean fortress found abandoned; species vanishes"
-tags: [species, mysterious, vanished, giants]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:75
+  label: First Sighting — Dwarven mining expedition encounters Giants in northern peaks
+- period: SA:1775
+  label: The Passing of the Giants — cyclopean fortress found abandoned; species vanishes
+tags:
+- species
+- mysterious
+- vanished
+- giants
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Giants
 
 The **Giants** are a mysterious and possibly extinct species of colossal beings who once inhabited the highest peaks of the [[Dragon's Tooth Mountains]]. Almost nothing is known of their origins, language, or culture. They were observed only twice in recorded history — once at the dawn of the Second Age, and once at the moment of their disappearance. Their existence remains one of the great unsolved mysteries of [[Vaeloris]].

@@ -39,15 +39,21 @@ Get the source text from one of:
 - Pasted text in the conversation
 - Multiple files via a glob pattern -> read each with the Read tool
 
+**Binary file formats (.docx, .pdf, etc.):** The Read tool cannot read `.docx` files directly. Use the Python `docx` library via Bash instead:
+```bash
+python -c "import docx; doc = docx.Document(r'<path>'); [print(p.text) for p in doc.paragraphs]"
+```
+For `.pdf` files, the Read tool supports them natively with the `pages` parameter.
+
 ### 2. Load Existing World Context
 
 Query existing entities to avoid duplicates and to establish correct cross-references:
 
 ```bash
-$WB --vault <vault_root> query --type person --pretty
-$WB --vault <vault_root> query --type place --pretty
-$WB --vault <vault_root> query --type faction --pretty
-$WB --vault <vault_root> query --type event --pretty
+$WB --vault <vault_root> --pretty query --type person
+$WB --vault <vault_root> --pretty query --type place
+$WB --vault <vault_root> --pretty query --type faction
+$WB --vault <vault_root> --pretty query --type event
 ```
 
 Also read `_meta/calendar.md` for era information to correctly assign periods.
@@ -104,12 +110,28 @@ For entities that already exist and need updates:
 - Use the Edit tool to add new relationships, timeline entries, or body content
 - Do NOT overwrite existing content -- only append or fill in null fields
 
+### 6.5. Propagate Inverse Relationships
+
+After all entity files are written/updated, ensure inverse relationship consistency:
+
+```bash
+$WB --vault <vault_root> --pretty ensure-inverses --all
+```
+
+Review the count of missing inverses. Since the extraction plan (step 4) was already approved, inverse relationships that are direct consequences of approved relationships can be auto-applied:
+
+```bash
+$WB --vault <vault_root> --pretty ensure-inverses --all --apply
+```
+
+This runs before the full sync in step 7, so all changes are picked up in one pass.
+
 ### 7. Full Sync
 
 After all files are written/updated:
 
 ```bash
-$WB --vault <vault_root> sync --full --pretty
+$WB --vault <vault_root> --pretty sync --full
 ```
 
 Use `--full` because multiple entities were created/modified and cross-references need rebuilding.
@@ -122,6 +144,12 @@ Present a summary:
 - Total relationships established
 - Any warnings (entities referenced but not created, ambiguous timeline entries)
 - Suggest running `/wb-consistency` to verify the ingested data
+
+## Query Strategy
+
+1. **SQLite** (`query --name`): Check for duplicate names/aliases before creating.
+2. **Vector** (`query --semantic`): Search for semantically similar entities to catch near-duplicates the name check would miss.
+3. **File read**: Read existing entities that will be updated to avoid overwriting content.
 
 ## Guidelines
 

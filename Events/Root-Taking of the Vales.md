@@ -2,28 +2,59 @@
 wb-type: event
 wb-id: root-taking-of-the-vales
 name: Root-Taking of the Vales
-aliases: [The Great Planting]
-date: "SA:20"
-duration: "Several years"
-location: "[[Whispering Vales]]"
-participants: ["[[Waldkyn]]"]
-causes: ["Desire to heal land scarred by The Paroxysm", "Waldkyn transition from nomadic war-bands"]
-consequences: ["Establishment of the Whispering Vales as sovereign territory", "Creation of the first Song-Wards to repel unnatural creatures", "Transition of Waldkyn to sedentary custodial society"]
-affected-entities: ["[[Waldkyn]]", "[[Whispering Vales]]"]
+aliases:
+- The Great Planting
+date: SA:20
+period: SA:20
+duration: Several years
+location: '[[Whispering Vales]]'
+participants:
+- '[[Waldkyn]]'
+causes:
+- Desire to heal land scarred by The Paroxysm
+- Waldkyn transition from nomadic war-bands
+consequences:
+- Establishment of the Whispering Vales as sovereign territory
+- Creation of the first Song-Wards to repel unnatural creatures
+- Transition of Waldkyn to sedentary custodial society
+affected-entities:
+- '[[Waldkyn]]'
+- '[[Whispering Vales]]'
 status: historical
 relationships:
-  - target: "[[First Harvest of Ash]]"
-    type: related
-    period: "SA:5"
-  - target: "[[Pact of Bark and Bronze]]"
-    type: precursor-to
-    period: "SA:89"
+- target: '[[First Harvest of Ash]]'
+  type: related
+  period: SA:5
+- target: '[[Pact of Bark and Bronze]]'
+  type: preceded
+  period: SA:89
+- target: '[[Song-Wards]]'
+  type: caused
+  period: SA:20
+  metadata:
+    description: First Song-Wards created to repel unnatural creatures from the Vales
+- target: '[[Day of Silence]]'
+  type: caused-by
+  period: SA:1
+  metadata:
+    description: Waldkyn sought to heal land scarred by the Paroxysm after divine withdrawal
+- target: '[[Whispering Vales]]'
+  type: involved
+  period: SA:20
+  metadata:
+    description: Waldkyn formally settled the Vales through the Great Planting
+- target: '[[Waldkyn Migration]]'
+  type: related
+  period: SA:20
+  metadata:
+    description: Original Waldkyn settlement that these migrants departed
 timeline: []
-tags: [event, epoch-i-echoes-of-dawn]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- event
+- epoch-i-echoes-of-dawn
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Root-Taking of the Vales
 
 The [[Waldkyn]], seeking to heal the land scarred by [[The Paroxysm]], formally settled the [[Whispering Vales]]. Rejecting stone cities, they engaged in the "Great Planting," using rapid-growth rituals to shape living trees into habitation.

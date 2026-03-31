@@ -2,25 +2,44 @@
 wb-type: technology
 wb-id: necro-industrial-machinery
 name: Necro-Industrial Machinery
-aliases: [Death-Forges, Gray Machines]
+aliases:
+- Death-Forges
+- Gray Machines
 type: industrial
 inventor: null
-invented: "SA:3100"
-used-by: ["[[Ashfall]]"]
+invented: SA:3100
+used-by:
+- '[[Ashfall]]'
 prerequisites:
-  - "[[Necro-Industrialism]]"
-  - Advanced metallurgy and industrial engineering
-  - Steady supply of necromantic fuel (corpses and death energy)
+- '[[Necro-Industrialism]]'
+- Advanced metallurgy and industrial engineering
+- Steady supply of necromantic fuel (corpses and death energy)
 relationships:
-  - { target: "[[Ashfall]]", type: "used-by", detail: "The sovereign barony built its independence on these machines" }
-  - { target: "[[Necro-Industrialism]]", type: "application-of", detail: "The technological expression of necromantic magical principles" }
-  - { target: "[[Magocracy]]", type: "denounced-by", detail: "Officially condemned but quietly purchased through back channels" }
-  - { target: "[[Clank Servitors]]", type: "dark-parallel-to", detail: "Necro-machines mirror Gearhaven's constructs but use death instead of mana" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Ashfall]]'
+  type: custom
+  metadata:
+    description: used-by
+- target: '[[Necro-Industrialism]]'
+  type: custom
+  metadata:
+    description: application-of
+- target: '[[Magocracy]]'
+  type: custom
+  metadata:
+    description: denounced-by
+- target: '[[Clank Servitors]]'
+  type: custom
+  metadata:
+    description: dark-parallel-to
+- target: '[[Necro-Industrialism]]'
+  type: custom
+  metadata:
+    description: enables
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Necro-Industrial Machinery
 
 Necro-Industrial Machinery encompasses the death-powered factories, forges, and automated systems of the sovereign barony of [[Ashfall]]. First deployed during Ashfall's secession in SA:3100, these machines represent the technological application of [[Necro-Industrialism]] -- the fusion of necromantic magic with industrial processes. They are the most controversial and reviled technology in [[Vaeloris]].

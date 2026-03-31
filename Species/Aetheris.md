@@ -2,28 +2,89 @@
 wb-type: species
 wb-id: aetheris
 name: Aetheris
-aliases: [Kyria Solanis, Nimian, The Luminous Ones, The Response of Faith]
-origin: "Born from the collective hope and desperate prayer of mortals in an age of divine silence — when the Church of the Celestial Word reached for a sky empty of gods, the cosmos itself answered"
-lifespan: "Immortal — sustained by the persistence of mortal faith"
-traits: [luminous, non-interventionist, contemplative, faith-born, compassionate, observant]
-habitat: ["[[The Firmament]]", "[[Hidden sanctuaries]]", "[[Among mortal cities in veiled form]]"]
+aliases:
+- Kyria Solanis
+- Nimian
+- The Luminous Ones
+- The Response of Faith
+origin: Born from the collective hope and desperate prayer of mortals in an age of divine silence — when the Church of the
+  Celestial Word reached for a sky empty of gods, the cosmos itself answered
+lifespan: Immortal — sustained by the persistence of mortal faith
+traits:
+- luminous
+- non-interventionist
+- contemplative
+- faith-born
+- compassionate
+- observant
+habitat:
+- '[[The Firmament]]'
+- '[[Hidden sanctuaries]]'
+- '[[Among mortal cities in veiled form]]'
 population: extremely rare
 relationships:
-  - target: "[[Church of the Celestial Word]]"
-    type: origin
-  - target: "[[Kael'Zorai]]"
-    type: philosophical-opposition
-  - target: "[[Humans]]"
-    type: silent-guardians
-  - target: "[[Elves]]"
-    type: kindred-observers
-  - target: "[[The Four Makers]]"
-    type: remembrance
-tags: [species, celestial, immortal, faith-born, observers]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Church of the Celestial Word]]'
+  type: origin
+- target: '[[Kael''Zorai]]'
+  type: custom
+  metadata:
+    description: philosophical-opposition
+- target: '[[Humans]]'
+  type: custom
+  metadata:
+    description: silent-guardians
+- target: '[[Elves]]'
+  type: custom
+  metadata:
+    description: kindred-observers
+- target: '[[The Four Makers]]'
+  type: custom
+  metadata:
+    description: remembrance
+- target: '[[Church of the Celestial Word]]'
+  type: created-by
+  period: SA:2032
+  metadata:
+    description: Born from the collective faith of the Church; first appeared defending refugees outside Luminas
+- target: '[[Luminas]]'
+  type: native
+  period: SA:2032-
+  metadata:
+    description: First Aetheris manifested outside Luminas; The Quiet Singer haunts the great cathedral
+- target: '[[Aurumport]]'
+  type: native
+  period: SA
+  metadata:
+    description: The Lantern of Aurumport — a presence guiding lost ships safely to harbor in storms
+- target: '[[M''ren''r'']]'
+  type: native
+  period: SA:2188
+  metadata:
+    description: Sylla, a blind musician, revealed herself as an Aetheris on her deathbed — validated the Velo Aspectus doctrine
+- target: '[[Herald in Flame]]'
+  type: involved-in
+  period: SA:2032
+  metadata:
+    description: First confirmed appearance of these cosmic beings
+- target: '[[Church of the Celestial Word]]'
+  type: origin-of
+  metadata:
+    description: The collective faith of the Church gave birth to the Aetheris
+timeline:
+- period: SA:2032
+  event: First Aetheris manifests outside Luminas, defending a refugee camp from bandits
+- period: SA:2188
+  event: The Hymn of the Hidden Star — blind musician Sylla in M'ren'r' reveals herself as an Aetheris in mortal guise, validating
+    the Velo Aspectus doctrine
+tags:
+- species
+- celestial
+- immortal
+- faith-born
+- observers
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aetheris
 
 The Aetheris have no creation myth, for they are not a product of creation. They are a **consequence** of it. They are the **Kyria Solanis** — the Response of Faith — born from the collective hope and desperate prayer of mortals in an age of divine silence. When the [[Church of the Celestial Word]] reached for a sky empty of gods, the cosmos itself, suffused with residual divine energy, answered.
@@ -83,6 +144,7 @@ The Aetheris do not have named individuals in the traditional sense — their id
 
 - **The Lantern of [[Aurumport]]** — A presence said to appear in the harbor during the worst storms, its light guiding lost ships safely to shore
 - **The Quiet Singer** — An Aetheris rumored to walk the halls of the [[Church of the Celestial Word]]'s great cathedral, its hymns heard only by those in deepest prayer
+- **Sylla** — A blind musician in [[M'ren'r']] who gained fame for haunting compositions. Upon her deathbed (SA:2188), she revealed herself as an Aetheris who had lived a mortal life to understand human suffering. Her revelation validated the **Velo Aspectus** doctrine, and "Sylla's Hymn" became the anthem of the [[Church of the Celestial Word]]
 
 ## Celestian Language
 

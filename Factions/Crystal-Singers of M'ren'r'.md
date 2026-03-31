@@ -1,46 +1,52 @@
 ---
 wb-type: faction
-wb-id: "crystal-singers-of-mrenr"
-name: "Crystal-Singers of M'ren'r'"
+wb-id: crystal-singers-of-mrenr
+name: Crystal-Singers of M'ren'r'
 aliases:
-  - "Crystal-Singers"
-type: "economic/magical"
+- Crystal-Singers
+type: economic/magical
 founded: null
 dissolved: null
-headquarters: "[[M'ren'r']]"
+headquarters: '[[M''ren''r'']]'
 leader: null
 territory:
-  - "[[M'ren'r']]"
-influence: "indispensable"
+- '[[M''ren''r'']]'
+influence: indispensable
 goals:
-  - "Maintain monopoly on focusing crystals and arcane conduits"
-  - "Operate as a neutral, indispensable entity in M'ren'r' politics"
-  - "Craft peerless enchanted instruments and harmonic lenses"
+- Maintain monopoly on focusing crystals and arcane conduits
+- Operate as a neutral, indispensable entity in M'ren'r' politics
+- Craft peerless enchanted instruments and harmonic lenses
 relationships:
-  - target: "[[Gnomes]]"
-    type: "Gnomish enclave"
-    period: ""
-  - target: "[[Aen'valar]]"
-    type: "essential supplier"
-    period: ""
-  - target: "[[M'ren'r']]"
-    type: "politically neutral guild within"
-    period: ""
+- target: '[[Gnomes]]'
+  type: custom
+  metadata:
+    description: Gnomish enclave
+- target: '[[Aen''valar]]'
+  type: custom
+  metadata:
+    description: essential supplier
+- target: '[[M''ren''r'']]'
+  type: custom
+  metadata:
+    description: politically neutral guild within
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: refined-by
 timeline:
-  - period: ""
-    event: "Established an enclave within the free city of M'ren'r'"
-  - period: ""
-    event: "Became the sole providers of focusing crystals and arcane conduits"
+- period: ''
+  event: Established an enclave within the free city of M'ren'r'
+- period: ''
+  event: Became the sole providers of focusing crystals and arcane conduits
 tags:
-  - faction
-  - gnomish
-  - economic
-  - magical
-  - artisan
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- gnomish
+- economic
+- magical
+- artisan
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Crystal-Singers of M'ren'r'
 
 The Crystal-Singers are a small, wealthy, and highly respected [[Gnomes|Gnomish]] enclave within the free city of [[M'ren'r']]. They are master artisans who craft the vital focusing crystals, harmonic lenses, enchanted instruments, and arcane conduits used by [[Aen'valar]] [[Elves]] and human mages in their research.

@@ -1,41 +1,75 @@
 ---
 wb-type: person
 wb-id: tinbrel-quillroot
-name: "Tinbrel Quillroot"
+name: Tinbrel Quillroot
 aliases: []
-species: "[[Gnomes]]"
+species: '[[Gnomes]]'
 born: null
 died: null
 birthplace: null
-residence: "[[Hannan'r']]"
-faction: "[[Forest Gnomes]]"
-role: "Artisan, stabilizer of the Great Weaving"
+residence: '[[Hannan''r'']]'
+faction: '[[Forest Gnomes]]'
+role: Artisan, stabilizer of the Great Weaving
 title: null
 gender: male
 relationships:
-  - target: "[[Lelyariel]]"
-    type: ally
-    period: "SA:89"
-    note: "Revealed himself to the Elven high council and offered his solution"
-  - target: "[[Hannan'r']]"
-    type: protector
-    period: "SA:89"
-    note: "His bronze lattice work stabilized the forest's magical defenses"
-  - target: "[[Cirhannim]]"
-    type: symbiont
-    note: "Established the first Gnomish Hollows beneath Elven great-trees"
+- target: '[[Lelyariel]]'
+  type: ally
+  period: SA:89
+  metadata:
+    description: Revealed himself to the Elven high council and offered his solution
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: SA:89
+  metadata:
+    description: 'protector: His bronze lattice work stabilized the forest''s magical defenses'
+- target: '[[Cirhannim]]'
+  type: custom
+  metadata:
+    description: 'symbiont: Established the first Gnomish Hollows beneath Elven great-trees'
+- target: '[[Pact of Bark and Bronze]]'
+  type: involved-in
+  period: SA:89
+  metadata:
+    description: His intervention led to the historic Pact between Cirhannim and Gnomes
+- target: '[[The Great Weaving]]'
+  type: related
+  period: SA:89
+  metadata:
+    description: Stabilized the Great Weaving against iron ore interference with bronze lattice
+- target: '[[Mist-Lanterns]]'
+  type: related
+  period: SA:89
+  metadata:
+    description: His bronze lattice protected the Mist-Lanterns from destabilization
+- target: '[[The Great Weaving]]'
+  type: custom
+  metadata:
+    description: stabilized-by
+- target: '[[Mist-Lanterns]]'
+  type: custom
+  metadata:
+    description: stabilized-by
+- target: '[[Hannan''r'']]'
+  type: related
+  period: SA:89
+  metadata:
+    description: Gnome artisan who revealed himself to stabilize the Great Weaving
 timeline:
-  - period: "SA:89"
-    event: "Revealed himself to the Cirhannim high council after decades of hidden existence in Hannan'r'"
-  - period: "SA:89"
-    event: "Wove a bronze lattice into the roots of the border trees to ground the Great Weaving against iron ore interference"
-  - period: "SA:89"
-    event: "Established the first Gnomish Hollows beneath Elven great-trees, founding the symbiotic Elf-Gnome relationship"
-tags: [person, gnome, forest-gnome, artisan]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:89
+  event: Revealed himself to the Cirhannim high council after decades of hidden existence in Hannan'r'
+- period: SA:89
+  event: Wove a bronze lattice into the roots of the border trees to ground the Great Weaving against iron ore interference
+- period: SA:89
+  event: Established the first Gnomish Hollows beneath Elven great-trees, founding the symbiotic Elf-Gnome relationship
+tags:
+- person
+- gnome
+- forest-gnome
+- artisan
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Tinbrel Quillroot
 
 **Tinbrel Quillroot** was a reclusive [[Gnomes|Gnome]] artisan who, in **SA 89**, emerged from decades of hidden habitation within the forest of [[Hannan'r']] to solve a crisis that threatened to unravel the Great Weaving -- the magical barrier protecting the [[Cirhannim]] homeland from the outside world.

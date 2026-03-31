@@ -2,25 +2,33 @@
 wb-type: faction
 wb-id: marble-hand
 name: Marble Hand
-aliases: [The Traditionalists]
+aliases:
+- The Traditionalists
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Vernath]]"
+headquarters: '[[Vernath]]'
 leader: null
-territory: ["[[Vernath]]"]
+territory:
+- '[[Vernath]]'
 influence: strong
 goals:
-  - Preserve the stability of the Pentarchy
-  - Maintain strict adherence to the Laws of Accord
-  - Protect the privileges of the Pillar Houses
-relationships: []
+- Preserve the stability of the Pentarchy
+- Maintain strict adherence to the Laws of Accord
+- Protect the privileges of the Pillar Houses
+relationships:
+- target: '[[General Valerius]]'
+  type: enemy
+  metadata:
+    description: Constantly blocked by the traditionalist Senate faction
 timeline: []
-tags: [faction, human, varnathi]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- human
+- varnathi
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Marble Hand
 
 The **Marble Hand**, known as **The Traditionalists**, is the dominant conservative faction within the [[Senate]] of [[Vernath]]. They control the [[Consul of Pillars]] and the [[Consul of Scrolls]], giving them significant leverage over internal affairs and foreign relations within the [[Pentarchy]].

@@ -3,30 +3,39 @@ wb-type: place
 wb-id: crimson-wastes
 name: Crimson Wastes
 aliases: []
-parent: "[[Vael]]"
+parent: '[[Vael]]'
 spatial-type: region
 contains: []
 population: null
-ruler: "[[Warlord of the Exiled Blades]]"
-faction: "[[Exiled Blades]]"
+ruler: '[[Warlord of the Exiled Blades]]'
+faction: '[[Exiled Blades]]'
 climate: arid scrubland, scorched earth, extreme temperatures
-resources: [salvaged weapons, war materiel]
+resources:
+- salvaged weapons
+- war materiel
 status: territory of exiled Cirhannim militants
 relationships:
-  - target: "[[Hannan'r']]"
-    type: exiled-from
-    period: "1-"
-  - target: "[[Varnathi Highlands]]"
-    type: mercenary-contracts
-    period: "1-"
+- target: '[[Hannan''r'']]'
+  type: custom
+  period: 1-
+  metadata:
+    description: exiled-from
+- target: '[[Varnathi Highlands]]'
+  type: custom
+  period: 1-
+  metadata:
+    description: mercenary-contracts
 timeline:
-  - period: "SA:1-"
-    event: Exiled Cirhannim warriors settle the Crimson Wastes after banishment from [[Hannan'r']]
-tags: [place, region, elven, militant]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-
+  event: Exiled Cirhannim warriors settle the Crimson Wastes after banishment from [[Hannan'r']]
+tags:
+- place
+- region
+- elven
+- militant
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Crimson Wastes
 
 The Crimson Wastes are a desolate stretch of arid scrubland on [[Vael]], home to the [[Exiled Blades]] -- a band of [[Cirhannim]] warriors banished from [[Hannan'r']] for their extreme militancy.

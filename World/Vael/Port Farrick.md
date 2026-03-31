@@ -2,46 +2,122 @@
 wb-type: place
 wb-id: port-farrick
 name: Port Farrick
-aliases: [The Gateway]
-parent: "[[Coastal Regions]]"
+aliases:
+- The Gateway
+parent: '[[Coastal Regions]]'
 spatial-type: city
 contains: []
 population: null
-ruler: "[[Mirennian League]]"
-faction: "[[Mirennian League]]"
+ruler: '[[Mirennian League]]'
+faction: '[[Mirennian League]]'
 climate: temperate maritime, river delta
-resources: [trade goods, fishing, shipping]
+resources:
+- trade goods
+- fishing
+- shipping
 status: major trading hub, hotbed of separatist sentiment
 relationships:
-  - target: "[[Vernath]]"
-    type: political-rival
-    period: "SA:440-"
-  - target: "[[Aurumport]]"
-    type: sister-port
-    period: "SA:440-"
-  - target: "[[Mirennian League]]"
-    type: member
-    period: "SA:440-"
+- target: '[[Vernath]]'
+  type: rival
+  period: SA:440-
+  metadata:
+    nature: political
+- target: '[[Aurumport]]'
+  type: custom
+  period: SA:440-
+  metadata:
+    description: sister-port
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:440-
+- target: '[[Founding of Port Farrick]]'
+  type: involved-in
+  period: SA:440
+  metadata:
+    description: Founded by the Varnathi Empire; Mirennian resistance formalized the League
+- target: '[[Shadewalkers]]'
+  type: contains
+  period: SA:710-
+  metadata:
+    description: Espionage guild founded in the shadows of Port Farrick
+- target: '[[Golden Compass Syndicate]]'
+  type: contains
+  period: SA:275-
+  metadata:
+    description: Headquarters of the dominant Mirennian merchant house
+- target: '[[Pirate Confederacy]]'
+  type: enemy
+  period: SA:1020-1070
+  metadata:
+    description: Captain Vane blockaded the port for six months
+- target: '[[Bloodless Coup]]'
+  type: involved-in
+  period: SA:581
+  metadata:
+    description: Port Farrick's trade administrators allied against Emperor Titus II
+- target: '[[Emperor Caelius I]]'
+  type: founded-by
+  period: SA:440
+  metadata:
+    description: Founded during Caelius I's coastal expansion
+- target: '[[Mirennian Civil War]]'
+  type: involved-in
+  period: SA:1550
+  metadata:
+    description: Major Mirennian port affected by the naval warfare between factions
+- target: '[[Azure Hand]]'
+  type: contains
+  period: SA:1100-
+  metadata:
+    description: Network of informants and operations in the major port
+- target: '[[Emperor Titus II]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: Port Farrick's trade administrators allied against him
+- target: '[[Arcane Hysteria]]'
+  type: involved-in
+  period: SA:1410
+  metadata:
+    description: A dockworker accidentally boiled the harbor water
+- target: '[[False Dawn of Port Farrick]]'
+  type: involved-in
+  period: SA:1071
+  metadata:
+    description: Nobility purged; Separatist culture born
+- target: '[[Rise of the Shadewalkers]]'
+  type: involved-in
+  period: SA:710
+  metadata:
+    description: Founded in the shadows of Port Farrick
+- target: '[[Mirennian League]]'
+  type: has-member
+  period: SA:440-
 timeline:
-  - period: "SA:440"
-    event: Founded by the Varnathi Empire at the mouth of the Great River during the Coastal Expansion
-  - period: "SA:440"
-    event: Mirennians throw Imperial tax collectors into the harbor; [[Mirennian League]] formalized
-  - period: "SA:600"
-    event: Emerges as the city-state of Trade and Diplomacy -- the Gateway
-  - period: "SA:710"
-    event: The [[Shadewalkers]] espionage guild founded in the shadows of Port Farrick
-  - period: "SA:880"
-    event: Shadewalkers establish the "Whisper-Market" where secrets are bought and sold
-  - period: "SA:1020-1070"
-    event: Pirate Captain Vane blockades the port for six months
-  - period: "SA:1071"
-    event: The "False Dawn"; Governor petitions Mirennian League for annexation; Republic purges the city
-tags: [place, city, port, trade, mirennian, human]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:440
+  event: Founded by the Varnathi Empire at the mouth of the Great River during the Coastal Expansion
+- period: SA:440
+  event: Mirennians throw Imperial tax collectors into the harbor; [[Mirennian League]] formalized
+- period: SA:600
+  event: Emerges as the city-state of Trade and Diplomacy -- the Gateway
+- period: SA:710
+  event: The [[Shadewalkers]] espionage guild founded in the shadows of Port Farrick
+- period: SA:880
+  event: Shadewalkers establish the "Whisper-Market" where secrets are bought and sold
+- period: SA:1020-1070
+  event: Pirate Captain Vane blockades the port for six months
+- period: SA:1071
+  event: The "False Dawn"; Governor petitions Mirennian League for annexation; Republic purges the city
+tags:
+- place
+- city
+- port
+- trade
+- mirennian
+- human
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Port Farrick
 
 Port Farrick is a major trading port at the mouth of the Great River on [[Vael]]'s eastern coast, positioned at the crossroads of land and sea power. Founded by the Varnathi Empire circa SA:440, the city was immediately contested by the [[Mirennian League]] and has been a flashpoint of political rivalry ever since.

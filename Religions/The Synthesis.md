@@ -1,50 +1,114 @@
 ---
 wb-type: religion
 wb-id: the-synthesis
-name: "The Synthesis"
-aliases: [The Way of Balance, The Four Voices]
+name: The Synthesis
+aliases:
+- The Way of Balance
+- The Four Voices
 type: philosophical
 founded: null
 founder: null
 deities: []
 headquarters: null
 tenets:
-  - "Tham'dran (Earth) — the foundation, the patient stone"
-  - "Virandros (Growth) — the green, the rising, the cycle of renewal"
-  - "Myrasael (Water) — the flowing, the deep, the adaptable"
-  - "Elaraieth (Air) — the breath, the song, the unseen connection"
-  - "Balance is the highest truth — no single voice should dominate"
-  - "The Waldkyn exist as the world's answer to imbalance"
-followers: "All Waldkyn variants — Faerie, Satyr, Centaur, Firbolg, and others"
+- Tham'dran (Earth) — the foundation, the patient stone
+- Virandros (Growth) — the green, the rising, the cycle of renewal
+- Myrasael (Water) — the flowing, the deep, the adaptable
+- Elaraieth (Air) — the breath, the song, the unseen connection
+- Balance is the highest truth — no single voice should dominate
+- The Waldkyn exist as the world's answer to imbalance
+followers: All Waldkyn variants — Faerie, Faun, Firbolg, Fungril, Galapa, Katari, Ribbet, Simiah
 relationships:
-  - target: "[[Waldkyn]]"
-    type: practiced-by
-  - target: "[[Kael'Zorai]]"
-    type: adversary
-    note: "The Fifth Silence — a voice that refused to listen"
-  - target: "[[The Four Pillars]]"
-    type: parallel
-    note: "Tham'dran corresponds to Tharn'm (Stone)"
-  - target: "[[The Four Harmonies]]"
-    type: parallel
-    note: "The Four Voices are the Waldkyn names for the four First Hands"
-  - target: "[[The Four Makers]]"
-    type: parallel
-    note: "The same divine forces, understood through the lens of balance"
+- target: '[[Waldkyn]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: The Fifth Silence — a voice that refused to listen
+- target: '[[A''rastheon]]'
+  type: worshipped-by
+  metadata:
+    description: The prime creator who brought forth the Four Voices
+    nature: deity
+- target: '[[Tham''dran]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Stability — the Waldkyn preserve the true name
+    nature: deity
+- target: '[[Virandros]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Growth — the Waldkyn preserve the true name
+    nature: deity
+- target: '[[Myrasael]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Refinement — the Waldkyn preserve the true name
+    nature: deity
+- target: '[[Elaraieth]]'
+  type: worshipped-by
+  metadata:
+    description: First Hand of Inspiration — the Waldkyn preserve the true name
+    nature: deity
+- target: '[[The Four Pillars]]'
+  type: related
+  metadata:
+    description: Tham'dran=Tharn'm, Virandros=Bronr'n, Myrasael=Farrazul, Elaraieth=Elmura
+    nature: parallel
+- target: '[[The Four Harmonies]]'
+  type: related
+  metadata:
+    description: Tham'dran=N'rthelion, Virandros=C'rhanna, Myrasael=Mirelaris, Elaraieth=Lelyari'
+    nature: parallel
+- target: '[[The Four Makers]]'
+  type: related
+  metadata:
+    description: Tham'dran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
+    nature: parallel
+- target: '[[Song-Wards]]'
+  type: custom
+  metadata:
+    description: expression-of
+- target: '[[A''rastheon]]'
+  type: worships
+  metadata:
+    description: Waldkyn tradition acknowledges the prime force behind the Four Voices
+- target: '[[Elaraieth]]'
+  type: worships
+  metadata:
+    description: Known by true name Elaraieth (Air/Inspiration) in Waldkyn tradition
+- target: '[[Myrasael]]'
+  type: worships
+  metadata:
+    description: Known by true name Myrasael (Water/Refinement) in Waldkyn tradition
+- target: '[[Tham''dran]]'
+  type: worships
+  metadata:
+    description: Known by true name Tham'dran (Earth/Stability) in Waldkyn tradition
+- target: '[[Virandros]]'
+  type: worships
+  metadata:
+    description: Known by true name Virandros (Growth) in Waldkyn tradition
 timeline:
-  - period: "FA"
-    event: "The Four Voices collaborate to create the Waldkyn — the last and most deliberate act of divine creation"
-  - period: "FA"
-    event: "The Fifth Silence — Kael'Zorai's dissonant note nearly shatters creation"
-  - period: "SA:1"
-    event: "The Four Voices withdraw — the Waldkyn carry the memory of balance into the mortal age"
-  - period: "SA:20"
-    event: "The Root-Taking of the Whispering Vales — Waldkyn transition from nomadic war-bands to custodial society"
-tags: [religion, philosophical, waldkyn, balance, synthesis]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: The Four Voices collaborate to create the Waldkyn — the last and most deliberate act of divine creation
+- period: FA
+  event: The Fifth Silence — Kael'Zorai's dissonant note nearly shatters creation
+- period: SA:1
+  event: The Four Voices withdraw — the Waldkyn carry the memory of balance into the mortal age
+- period: SA:20
+  event: The Root-Taking of the Whispering Vales — Waldkyn transition from nomadic war-bands to custodial society
+tags:
+- religion
+- philosophical
+- waldkyn
+- balance
+- synthesis
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Synthesis
 
 **The Synthesis** is the core philosophy and spiritual tradition of the [[Waldkyn]] — a belief system rooted not in worship but in **memory**. The Waldkyn do not have a creation myth; they have a creation **memory**. To them, the world's beginning was a violent argument between divine forces, a cacophony that nearly shattered existence. Their own origin was the resolution — the final, deliberate chord of harmony played by the exhausted creators.
@@ -70,11 +134,15 @@ The breath, the song, the unseen connection. Elaraieth is the voice of vision, i
 The Waldkyn are not one people but **eight harmonious expressions** of a single idea. Each variant embodies a different balance of the Four Voices, resulting in a people perfectly suited to their role within the whole:
 
 - **Faerie** (Inspiration & Growth) — swift, curious messengers and scouts
-- **Satyr** — embodying revelry, emotion, and the primal cycles of nature
-- **Centaur** — guardians of open spaces, embodying strength and freedom
-- **Firbolg** — gentle giants of the deep forest, embodying patience and stewardship
+- **Faun** (Growth & Inspiration) — joyful celebrants, musicians, and guides
+- **Firbolg** (Stability & Growth) — gentle nurturers, farmers, and builders
+- **Fungril** (Growth & Refinement) — quiet mystics and historians
+- **Galapa** (Stability & Refinement) — patient judges, lore-keepers, and mediators
+- **Katari** (Refinement & Inspiration) — graceful, pragmatic protectors and hunters
+- **Ribbet** (Growth & Flowing Change) — adaptable healers and river-wardens
+- **Simiah** (Inspiration & Stability) — clever problem-solvers and tool-makers
 
-And four more variants, each a unique chord struck from the same four notes. Together, they form the **Kith-Weave** — the sacred bond between all Waldkyn, regardless of culture or location.
+Together, these eight variants form the **Kith-Weave** — the sacred bond between all Waldkyn, regardless of culture or location.
 
 ## The Fifth Silence
 

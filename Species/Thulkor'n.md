@@ -1,27 +1,108 @@
 ---
 wb-type: species
 wb-id: thulkorn
-name: "Thulkor'n"
-aliases: [Broken-Crafted, Exiled Dwarves, Oathless]
+name: Thulkor'n
+aliases:
+- Broken-Crafted
+- Exiled Dwarves
+- Oathless
 origin: Descendants of Dwarves exiled from Kharnzarak for crimes and oath-breaking, who sought a new beginning on Novaterra
 lifespan: 300-400 years
-traits: [pragmatic, survivalist, contract-loyal, scattered, bitter, resourceful]
-habitat: ["[[Novaterra]]"]
+traits:
+- pragmatic
+- survivalist
+- contract-loyal
+- scattered
+- bitter
+- resourceful
+habitat:
+- '[[Novaterra]]'
 population: moderate
 relationships:
-  - target: "[[Dwarves]]"
-    type: child-of
-  - target: "[[Novaterra]]"
-    type: inhabits
-  - target: "[[N'nm-Khazal'n]]"
-    type: exiled-from
-  - target: "[[Kharnzarak]]"
-    type: exiled-from
-tags: [species, dwarven, thulkorn, frontier, exile]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Dwarves]]'
+  type: child
+- target: '[[Novaterra]]'
+  type: located-in
+- target: '[[N''nm-Khazal''n]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Kharnzarak]]'
+  type: custom
+  metadata:
+    description: exiled-from
+- target: '[[Elm-korin]]'
+  type: sibling
+  period: SA
+  metadata:
+    description: Will work for Gearhaven Elm-korin if the pay is right; Brenna is Thulkor'n by law but Elm-korin in spirit
+    nature: kindred
+- target: '[[Gnomes]]'
+  type: related
+  period: SA
+  metadata:
+    description: Little to no contact with or knowledge of Gnomes
+- target: '[[March of Order]]'
+  type: involved-in
+  period: SA:395
+  metadata:
+    description: Exiled Dwarf consultants perfected blast-furnace technique for standardized steel
+- target: '[[Paranoia of High King]]'
+  type: related
+  period: SA:1380
+  metadata:
+    description: Dwarves with surface contacts subjected to the Ritual of Shattering
+- target: '[[Silver Boom]]'
+  type: involved-in
+  period: SA:485
+  metadata:
+    description: Exiled Dwarf prospectors whose skill discovered the deposit
+- target: '[[Barazkor Clan]]'
+  type: enemy
+  period: SA:365-
+  metadata:
+    description: View Thulkor'n as criminals who broke their oaths, a source of shame
+    nature: hostile
+- target: '[[Emperor Caelius I]]'
+  type: ally
+  period: SA:395
+  metadata:
+    description: Used exiled Dwarf consultants to perfect blast-furnace steel production
+- target: '[[High King Thorgar VI]]'
+  type: enemy
+  period: SA:1380
+  metadata:
+    description: Purged Dwarves who had contact with exiled Thulkor'n caravaneers
+- target: '[[The Four Pillars]]'
+  type: worships
+  metadata:
+    description: Carry the tradition in exile
+    nature: practice
+- target: '[[N''nm-Khazal''n]]'
+  type: custom
+  metadata:
+    description: exiled
+- target: '[[Argentum]]'
+  type: related
+  period: SA:485-
+  metadata:
+    description: Thulkor'n prospectors and engineers key to the silver mining industry
+- target: '[[Kharnzarak]]'
+  type: related
+  period: SA:365-
+  metadata:
+    description: Exiled Broken-Crafted Dwarves originated from the Ritual of Shattering
+- target: '[[Novaterra]]'
+  type: contains
+tags:
+- species
+- dwarven
+- thulkorn
+- frontier
+- exile
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Thulkor'n
 
 The **Thulkor'n**, or **Broken-Crafted**, are the descendants of [[Dwarves]] exiled from [[Kharnzarak]] for common crimes -- theft, oath-breaking, violence. Banished from their clans and cast out from the deep halls, they sought a new beginning on the free continent of [[Novaterra]]. They are pragmatists and survivors, a scattered diaspora that has largely abandoned the rigid honor codes of their ancestors while retaining their innate mastery of stone and metal.

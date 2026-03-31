@@ -2,46 +2,68 @@
 wb-type: place
 wb-id: vorok-varr
 name: Vorok-Varr
-aliases: [The Listener's Settlement]
-parent: "[[Aerin'r']]"
+aliases:
+- The Listener's Settlement
+parent: '[[Aerin''r'']]'
 spatial-type: settlement
 contains: []
 population: small
-ruler: "[[Council of Listeners]]"
+ruler: '[[Council of Listeners]]'
 faction: null
 climate: temperate
-resources: [agriculture, herbal-medicine, oral-lore]
+resources:
+- agriculture
+- herbal-medicine
+- oral-lore
 status: active
 relationships:
-  - target: "[[Vorok the Listener]]"
-    type: founded-by
-    period: "SA:700-"
-  - target: "[[Orkin]]"
-    type: homeland-of
-    period: "SA:700-"
-  - target: "[[Mirennian League]]"
-    type: protected-from
-    period: "SA:761"
-  - target: "[[Sael'anir]]"
-    type: allied-with
-    period: "SA:761-"
-  - target: "[[Waldkyn]]"
-    type: allied-with
-    period: "SA:761-"
+- target: '[[Vorok the Listener]]'
+  type: founded-by
+  period: SA:700-
+- target: '[[Orkin]]'
+  type: homeland
+  period: SA:700-
+- target: '[[Mirennian League]]'
+  type: custom
+  period: SA:761
+  metadata:
+    description: protected-from
+- target: '[[Sael''anir]]'
+  type: ally
+  period: SA:761-
+- target: '[[Waldkyn]]'
+  type: ally
+  period: SA:761-
+- target: '[[Aerin''r'']]'
+  type: contains
+  period: 761-
+- target: '[[Pact of the Northern Sanctuary]]'
+  type: involved-in
+  period: SA:761
+  metadata:
+    description: Orkin inhabitants of Aerinore
+- target: '[[Aerin''r'']]'
+  type: located-in
+  period: 761-
 timeline:
-  - period: "SA:700"
-    label: "Founded by Vorok the Listener as a peaceful Orkin community"
-  - period: "SA:761"
-    label: "Mirennian expedition discovers Aerin'r'; swears pact of non-interference with Vorok-Varr"
-  - period: "SA:1845"
-    label: "Varnathi timber syndicate repelled from Aerin'r' by combined Sael'anir and Waldkyn defense"
-  - period: "SA:1890"
-    label: "Participates in the first Star-Tide Festival at Lanthir Haven"
-tags: [place, settlement, aerinr, orkin, peaceful, council]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:700
+  label: Founded by Vorok the Listener as a peaceful Orkin community
+- period: SA:761
+  label: Mirennian expedition discovers Aerin'r'; swears pact of non-interference with Vorok-Varr
+- period: SA:1845
+  label: Varnathi timber syndicate repelled from Aerin'r' by combined Sael'anir and Waldkyn defense
+- period: SA:1890
+  label: Participates in the first Star-Tide Festival at Lanthir Haven
+tags:
+- place
+- settlement
+- aerinr
+- orkin
+- peaceful
+- council
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Vorok-Varr
 
 **Vorok-Varr** is a peaceful [[Orkin]] community on the continent of [[Aerin'r']], founded by **[[Vorok the Listener]]** -- a visionary Orkin leader who rejected the cycles of violence and subjugation that defined Orkin existence on the mainland. The settlement stands as living proof that the Orkin, when freed from the pressures of persecution and scarcity, are capable of building something gentle.

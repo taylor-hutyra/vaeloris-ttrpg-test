@@ -2,37 +2,90 @@
 wb-type: place
 wb-id: mycohollow
 name: Mycohollow
-aliases: [The Fungal City]
-parent: "[[Vael]]"
+aliases:
+- The Fungal City
+parent: '[[Vael]]'
 spatial-type: city
 contains: []
 population: null
-ruler: "[[Twin Speakers]]"
-faction: "[[Mycelial Collective]]"
+ruler: '[[Twin Speakers]]'
+faction: '[[Mycelial Collective]]'
 climate: temperate forest floor, humid, dappled light
-resources: [medicinal fungi, alchemical ingredients, symbiotic bio-materials, intelligence (Myco-Whisperer network)]
+resources:
+- medicinal fungi
+- alchemical ingredients
+- symbiotic bio-materials
+- intelligence (Myco-Whisperer network)
 status: largest Forest Gnome settlement, center of Gnomish governance and intelligence
 relationships:
-  - target: "[[Greenmeadow]]"
-    type: allied
-    period: "SA:980-"
-  - target: "[[Whispering Vales]]"
-    type: friendly
-    period: "SA:1-"
+- target: '[[Greenmeadow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Whispering Vales]]'
+  type: ally
+  period: SA:1-
+  metadata:
+    nature: friendly
+- target: '[[Forest Gnomes]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Largest and most influential Forest Gnome settlement
+- target: '[[Mycohollow Mycelial Council]]'
+  type: controlled-by
+  period: SA
+  metadata:
+    description: Governed by the Symbiotic Council led by the Twin Speakers
+- target: '[[Halflings]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Declaration of Hollowkin Rights signed with Halflings of Greenmeadow
+- target: '[[Balancers]]'
+  type: located-in
+  metadata:
+    nature: headquarters
+- target: '[[Myco-Whispering]]'
+  type: custom
+  metadata:
+    description: centered-in
+- target: '[[Forest Gnomes]]'
+  type: controlled-by
+- target: '[[Gnomes]]'
+  type: native
+  period: SA
+  metadata:
+    description: Largest Forest Gnome settlement, a city woven into a gargantuan fungal grove
+- target: '[[Gear-Hollow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Whispering Vales]]'
+  type: ally
+  period: SA:1-
+  metadata:
+    description: Friendly relations with the nearby Forest Gnome settlement
+- target: '[[Balancers]]'
+  type: contains
+  metadata:
+    nature: headquarters
 timeline:
-  - period: "SA:1-"
-    event: Forest Gnomes establish hidden Hollows beneath the great forests of the mainland
-  - period: "SA:980"
-    event: Forest Gnomes reveal themselves to the Halflings of [[Greenmeadow]]; [[Declaration of Hollowkin Rights]] signed
-  - period: "SA:2100"
-    event: Gnomish "Root-Hack" modifies the mycelial network into a continental vibration-sensor
-  - period: "SA:2710"
-    event: Gnomish Plague-Wardens develop Spore-Masks and alchemical sprays to combat the Grey Rot
-tags: [place, city, gnomish, forest, hidden]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1-
+  event: Forest Gnomes establish hidden Hollows beneath the great forests of the mainland
+- period: SA:980
+  event: Forest Gnomes reveal themselves to the Halflings of [[Greenmeadow]]; [[Declaration of Hollowkin Rights]] signed
+- period: SA:2100
+  event: Gnomish "Root-Hack" modifies the mycelial network into a continental vibration-sensor
+- period: SA:2710
+  event: Gnomish Plague-Wardens develop Spore-Masks and alchemical sprays to combat the Grey Rot
+tags:
+- place
+- city
+- gnomish
+- forest
+- hidden
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Mycohollow
 
 Mycohollow is the largest and most influential [[Forest Gnome]] settlement on [[Vael]], a city woven into a gargantuan, semi-sentient fungal grove. It is the political, spiritual, and intelligence center of Gnomish civilization on the mainland.

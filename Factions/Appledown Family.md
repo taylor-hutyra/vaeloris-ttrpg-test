@@ -1,47 +1,51 @@
 ---
 wb-type: faction
-wb-id: "appledown-family"
-name: "Appledown Family"
+wb-id: appledown-family
+name: Appledown Family
 aliases:
-  - "The Appledowns"
-  - "The Farmers"
-type: "agricultural"
+- The Appledowns
+- The Farmers
+type: agricultural
 founded: null
 dissolved: null
 headquarters: null
 leader: null
 territory:
-  - "[[Burrows]]"
-influence: "major"
+- '[[Burrows]]'
+influence: major
 goals:
-  - "Maintain control of the most fertile farmlands"
-  - "Preserve Halfling self-sufficiency and traditional values"
-  - "Resist foreign influence and the Thistlewicks' cosmopolitan ways"
+- Maintain control of the most fertile farmlands
+- Preserve Halfling self-sufficiency and traditional values
+- Resist foreign influence and the Thistlewicks' cosmopolitan ways
 relationships:
-  - target: "[[Halflings]]"
-    type: "major family within"
-    period: ""
-  - target: "[[Thistlewick Family]]"
-    type: "rival"
-    period: ""
-  - target: "[[Rumblkin Family]]"
-    type: "uneasy coexistence"
-    period: ""
+- target: '[[Halflings]]'
+  type: member
+  metadata:
+    nature: major family
+- target: '[[Thistlewick Family]]'
+  type: rival
+- target: '[[Rumblkin Family]]'
+  type: rival
+  metadata:
+    description: Status friction — Appledowns see miners as peripheral to the farming heart of the Commonwealth
+- target: '[[Halflings]]'
+  type: has-member
+  metadata:
+    nature: major family
 timeline:
-  - period: ""
-    event: "Established dominance over the Commonwealth's most productive farmlands"
-  - period: ""
-    event: "Became the traditional, isolationist heart of Halfling society"
+- period: SA:980-
+  event: Established dominance over the Commonwealth's most productive farmlands
+- period: SA:980-
+  event: Became the traditional, isolationist heart of Halfling society
 tags:
-  - faction
-  - halfling
-  - hearthfolk
-  - agricultural
-  - isolationist
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- halfling
+- hearthfolk
+- agricultural
+- isolationist
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Appledown Family
 
 The Appledowns are a massive [[Halflings|Halfling]] clan that controls the most fertile farmlands in the [[Burrows]]. They see themselves as the true soul of the Halfling people---deeply traditional, isolationist, and suspicious of outside influence. To an Appledown, a well-tended field and a full pantry are proof of a life well-lived.

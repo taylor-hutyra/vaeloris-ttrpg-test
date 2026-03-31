@@ -4,29 +4,82 @@ wb-id: golden-compass-syndicate
 name: Golden Compass Syndicate
 aliases: []
 type: trade
-founded: "SA:275"
+founded: SA:275
 dissolved: null
-headquarters: "[[Port Farrick]]"
+headquarters: '[[Port Farrick]]'
 leader: null
-territory: ["[[Port Farrick]]", "[[Mirennian League]]"]
+territory:
+- '[[Port Farrick]]'
+- '[[Mirennian League]]'
 influence: dominant
 goals:
-  - Maintain monopoly over mainstream trade routes
-  - Eradicate the Pirate Confederacy
-  - Preserve the economic status quo of the League
-relationships: []
+- Maintain monopoly over mainstream trade routes
+- Eradicate the Pirate Confederacy
+- Preserve the economic status quo of the League
+relationships:
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:275-
+  metadata:
+    description: Dominant house on the Admiralty Council
+- target: '[[Azure Hand]]'
+  type: rival
+  period: SA:1100-
+  metadata:
+    description: Primary rival; Azure Hand exposed embezzlement triggering the Guild Wars
+- target: '[[Pirate Confederacy]]'
+  type: enemy
+  period: SA:1020-
+  metadata:
+    description: Views the Confederacy as vermin to be eradicated
+- target: '[[Port Farrick]]'
+  type: located-in
+  period: SA:275-
+  metadata:
+    description: Headquarters and primary base of operations
+- target: '[[Sea-Whisperers'' Guild]]'
+  type: ally
+  period: SA:550-
+  metadata:
+    description: No house can launch major expeditions without Wind-Shaper blessing
+- target: '[[Mirennian Civil War]]'
+  type: involved-in
+  period: SA:1550
+  metadata:
+    description: Old Money faction that fought to uphold the ban on magic
+- target: '[[Mirennian League]]'
+  type: member
+  metadata:
+    nature: internal faction
+- target: '[[Mirennian Guild Wars]]'
+  type: involved-in
+  period: SA:1100
+  metadata:
+    description: Monopoly collapsed when embezzlement was exposed
+- target: '[[Rise of the Merchant Houses]]'
+  type: caused-by
+  period: SA:275
+  metadata:
+    description: First major trade guild founded during this period
+- target: '[[Mirennian League]]'
+  type: has-member
+  metadata:
+    nature: internal faction
 timeline:
-  - period: "SA:275"
-    label: Founded as the first major trade guild
-  - period: "SA:950"
-    label: Established monopoly on the spice trade
-  - period: "SA:1100"
-    label: Monopoly temporarily collapsed during the Guild Wars
-tags: [faction, human, mirennian, trade]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:275
+  label: Founded as the first major trade guild
+- period: SA:950
+  label: Established monopoly on the spice trade
+- period: SA:1100
+  label: Monopoly temporarily collapsed during the Guild Wars
+tags:
+- faction
+- human
+- mirennian
+- trade
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Golden Compass Syndicate
 
 The **Golden Compass Syndicate** is the largest and most powerful [[Merchant House]] within the [[Mirennian League]]. Founded in SA:275 as the first major trade guild during the rise of the coastal merchant houses, it has grown into a political and economic colossus whose influence shapes the destiny of the League itself.

@@ -1,43 +1,43 @@
 ---
 wb-type: faction
-wb-id: "iron-grit-syndicate"
-name: "Iron-Grit Syndicate"
+wb-id: iron-grit-syndicate
+name: Iron-Grit Syndicate
 aliases: []
 type: corporate
 founded: null
 dissolved: null
-headquarters: "[[Novaterra]]"
-leader: "Hold-Thane"
+headquarters: '[[Novaterra]]'
+leader: Hold-Thane
 territory:
-  - "[[Novaterra]]"
+- '[[Novaterra]]'
 influence: major
 goals:
-  - "Control vast mining operations across Novaterra"
-  - "Supply raw materials to Gearhaven and other Free Peoples"
-  - "Maximize profit and expand industrial holdings"
+- Control vast mining operations across Novaterra
+- Supply raw materials to Gearhaven and other Free Peoples
+- Maximize profit and expand industrial holdings
 relationships:
-  - target: "[[Gearhaven]]"
-    type: trade-partner
-    period: null
-  - target: "[[Shattered-Spear Company]]"
-    type: business-associate
-    period: null
-  - target: "[[Dust-Diggers]]"
-    type: competitor
-    period: null
+- target: '[[Gearhaven]]'
+  type: trade
+- target: '[[Shattered-Spear Company]]'
+  type: custom
+  metadata:
+    description: business-associate
+- target: '[[Dust-Diggers]]'
+  type: custom
+  metadata:
+    description: competitor
 timeline:
-  - period: null
-    event: "Grew into the largest and most powerful Orkin Hold on Novaterra"
+- period: null
+  event: Grew into the largest and most powerful Orkin Hold on Novaterra
 tags:
-  - faction
-  - orkin
-  - corporate
-  - novaterra
-  - mining
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- corporate
+- novaterra
+- mining
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Iron-Grit Syndicate
 
 The largest and most powerful [[Orkin]] Hold on [[Novaterra]], the Iron-Grit Syndicate controls vast mining operations and supplies raw materials to [[Gearhaven]] and the other [[Free Peoples]]. They are pragmatic capitalists who have largely abandoned the old traditions in favor of profit, redefining [[Trak]] (endurance) as economic dominance.

@@ -1,46 +1,93 @@
 ---
 wb-type: person
 wb-id: high-king-thorgar-vi
-name: "High King Thorgar VI"
-aliases: [The Paranoid King, The Sealer]
-species: "[[N'nm-Khazal'n]]"
+name: High King Thorgar VI
+aliases:
+- The Paranoid King
+- The Sealer
+species: '[[N''nm-Khazal''n]]'
 born: null
 died: null
-birthplace: "[[Kharnzarak]]"
-residence: "[[Kharnzarak]]"
-faction: "[[Barazkor Clan]]"
-role: "High King who sealed Kharnzarak from the outside world"
-title: "High King of Kharnzarak"
+birthplace: '[[Kharnzarak]]'
+residence: '[[Kharnzarak]]'
+faction: '[[Barazkor Clan]]'
+role: High King who sealed Kharnzarak from the outside world
+title: High King of Kharnzarak
 gender: male
 relationships:
-  - target: "[[Kharnzarak]]"
-    type: ruler
-    period: "SA:1370-1400"
-    note: "Reigned during the kingdom's descent into isolationism"
-  - target: "[[Barazkor Clan]]"
-    type: member
-    note: "Royal Clan, the Iron-Gavels"
-  - target: "[[Bronr'n Legacy]]"
-    type: adversary
-    period: "SA:1200"
-    note: "Blamed the reformist Bronr'n Clan for the Earthwake and drove them into exile"
-  - target: "[[Wandering Kin]]"
-    type: adversary
-    note: "Purged any Dwarf who had contact with the surface world or the caravaneers"
+- target: '[[Kharnzarak]]'
+  type: ruler
+  period: SA:1370-1400
+  metadata:
+    description: Reigned during the kingdom's descent into isolationism
+- target: '[[Barazkor Clan]]'
+  type: member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[Bronr''n Legacy]]'
+  type: enemy
+  period: SA:1200
+  metadata:
+    description: Blamed the reformist Bronr'n Clan for the Earthwake and drove them into exile
+- target: '[[Wandering Kin]]'
+  type: enemy
+  metadata:
+    description: Purged any Dwarf who had contact with the surface world or the caravaneers
+- target: '[[Sealing of Kharnzarak]]'
+  type: involved-in
+  period: SA:1400
+  metadata:
+    description: Ordered the Great Adamant Gates sealed, entombing the kingdom in silence
+- target: '[[Paranoia of High King]]'
+  type: involved-in
+  period: SA:1380
+  metadata:
+    description: His paranoia and purges destabilized Kharnzarak before the sealing
+- target: '[[N''nm-Khazal''n]]'
+  type: ruler
+  period: SA:1370-1400
+  metadata:
+    description: Ruled the Stone-Sworn during their descent into total isolation
+- target: '[[Elm-korin]]'
+  type: enemy
+  period: SA:690
+  metadata:
+    description: Earlier exile of magic-smiths reflected the same isolationist tendencies
+- target: '[[Thulkor''n]]'
+  type: enemy
+  period: SA:1380
+  metadata:
+    description: Purged Dwarves who had contact with exiled Thulkor'n caravaneers
+- target: '[[High King Thorgar VII]]'
+  type: successor
+  metadata:
+    description: Distant successor who reversed the Sealing by opening a single trade gate
+- target: '[[Barazkor Clan]]'
+  type: has-member
+  metadata:
+    description: Royal Clan, the Iron-Gavels
+- target: '[[High King Thorgar VII]]'
+  type: predecessor
+  metadata:
+    description: Distant successor who reversed the Sealing by opening a single trade gate
 timeline:
-  - period: "SA:1200"
-    event: "The Earthwake struck Kharnzarak, collapsing major clan halls; blamed the Bronr'n Clan and drove them into exile"
-  - period: "SA:1380"
-    event: "Grew increasingly erratic, claiming 'surface taint' caused the Earthwake; began purging Dwarves with surface contacts"
-  - period: "SA:1380"
-    event: "Instituted the Pure-Blood doctrine as law within Kharnzarak"
-  - period: "SA:1400"
-    event: "Ordered the Great Adamant Gates of Kharnzarak sealed; the runes were hammered shut, entombing the kingdom in silence"
-tags: [person, dwarf, nnm-khazaln, king, isolationist]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1200
+  event: The Earthwake struck Kharnzarak, collapsing major clan halls; blamed the Bronr'n Clan and drove them into exile
+- period: SA:1380
+  event: Grew increasingly erratic, claiming 'surface taint' caused the Earthwake; began purging Dwarves with surface contacts
+- period: SA:1380
+  event: Instituted the Pure-Blood doctrine as law within Kharnzarak
+- period: SA:1400
+  event: Ordered the Great Adamant Gates of Kharnzarak sealed; the runes were hammered shut, entombing the kingdom in silence
+tags:
+- person
+- dwarf
+- nnm-khazaln
+- king
+- isolationist
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # High King Thorgar VI
 
 **High King Thorgar VI** was the [[N'nm-Khazal'n]] monarch who, in **SA 1400**, ordered the **Great Adamant Gates** of [[Kharnzarak]] sealed -- an act of paranoid isolationism that entombed the greatest Dwarven kingdom in centuries of self-imposed silence and cut it off from the world above.

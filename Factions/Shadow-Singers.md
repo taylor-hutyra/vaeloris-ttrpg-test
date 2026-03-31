@@ -1,45 +1,45 @@
 ---
 wb-type: faction
-wb-id: "shadow-singers"
-name: "Shadow-Singers"
+wb-id: shadow-singers
+name: Shadow-Singers
 aliases:
-  - "Shadow-Singers of the Sunken Coast"
-type: "heretical cult"
+- Shadow-Singers of the Sunken Coast
+type: heretical cult
 founded: null
 dissolved: null
-headquarters: "[[Sunken Coast]]"
+headquarters: '[[Sunken Coast]]'
 leader: null
 territory:
-  - "[[Sunken Coast]]"
-influence: "secretive"
+- '[[Sunken Coast]]'
+influence: secretive
 goals:
-  - "Master the music of silence through forbidden magic"
-  - "Understand and harness the Fifth Tone of Elaru'n"
-  - "Reshape reality through order, time, and nullity"
+- Master the music of silence through forbidden magic
+- Understand and harness the Fifth Tone of Elaru'n
+- Reshape reality through order, time, and nullity
 relationships:
-  - target: "[[Aen'valar]]"
-    type: "descended from"
-    period: ""
-  - target: "[[Kael'Zorai]]"
-    type: "possible connection"
-    period: ""
-  - target: "[[Elaru'n]]"
-    type: "venerates"
-    period: ""
+- target: '[[Aen''valar]]'
+  type: custom
+  metadata:
+    description: descended from
+- target: '[[Kael''Zorai]]'
+  type: custom
+  metadata:
+    description: possible connection
+- target: '[[Elaru''n]]'
+  type: worships
 timeline:
-  - period: ""
-    event: "Splintered from the Aen'valar after becoming obsessed with the Fifth Tone"
-  - period: ""
-    event: "Established a hidden coven on the Sunken Coast"
+- period: ''
+  event: Splintered from the Aen'valar after becoming obsessed with the Fifth Tone
+- period: ''
+  event: Established a hidden coven on the Sunken Coast
 tags:
-  - faction
-  - elven
-  - heretical
-  - forbidden-magic
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- elven
+- heretical
+- forbidden-magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Shadow-Singers
 
 The Shadow-Singers are a heretical and secretive cult descended from [[Aen'valar]] who became obsessed with the "perfect, logical rhythm" of [[Elaru'n]], the Fifth Tone. They believe the other [[Lainorel|Four Harmonies]] are chaotic and sentimental, and that true power lies in mastering the "music of silence."

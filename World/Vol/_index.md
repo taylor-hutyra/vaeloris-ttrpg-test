@@ -2,39 +2,46 @@
 wb-type: place
 wb-id: vol
 name: Vol
-aliases: [The Ash Isle, The Burning Island]
-parent: "[[Vaeloris]]"
+aliases:
+- The Ash Isle
+- The Burning Island
+parent: '[[Vaeloris]]'
 spatial-type: island
-contains: ["[[Mount Cinder]]"]
+contains:
+- '[[Mount Cinder]]'
 population: null
 ruler: null
-faction: "[[Mirennian League]]"
-climate: "volcanic, subtropical"
-resources: ["obsidian", "pumice", "geothermal energy", "sulfur"]
-status: "Mirennian outpost — scarred by the Sundering of Mount Cinder"
+faction: '[[Mirennian League]]'
+climate: volcanic, subtropical
+resources:
+- obsidian
+- pumice
+- geothermal energy
+- sulfur
+status: Mirennian outpost — scarred by the Sundering of Mount Cinder
 relationships:
-  - target: "[[Mirennian League]]"
-    type: governed-by
-    period: "500-"
-  - target: "[[Mount Cinder]]"
-    type: contains
-    period: ""
+- target: '[[Mirennian League]]'
+  type: controlled-by
+  period: 500-
+- target: '[[Mount Cinder]]'
+  type: contains
 timeline:
-  - period: "500"
-    event: "Established as a Mirennian deep-sea outpost"
-  - period: "635"
-    event: "The Sundering of Mount Cinder — catastrophic volcanic eruption"
-  - period: "635-638"
-    event: "The Gloom Famine — ash chokes the skies for three years"
-  - period: "638"
-    event: "The Tsunami of Tears destroys 40% of the Mirennian fleet"
-  - period: "700-"
-    event: "Gradual resettlement and reconstruction"
-tags: [place, island]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: '500'
+  event: Established as a Mirennian deep-sea outpost
+- period: '635'
+  event: The Sundering of Mount Cinder — catastrophic volcanic eruption
+- period: 635-638
+  event: The Gloom Famine — ash chokes the skies for three years
+- period: '638'
+  event: The Tsunami of Tears destroys 40% of the Mirennian fleet
+- period: 700-
+  event: Gradual resettlement and reconstruction
+tags:
+- place
+- island
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Vol
 
 Vol is a volcanic island in the eastern seas of [[Vaeloris]], a territory of the [[Mirennian League]] that has been both a strategic outpost and a source of catastrophic disaster. The island is dominated by [[Mount Cinder]], whose eruption in 635 S.A. reshaped the geopolitics of the entire world.

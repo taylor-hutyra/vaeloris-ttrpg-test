@@ -2,41 +2,53 @@
 wb-type: place
 wb-id: vaeloris
 name: Vaeloris
-aliases: [The World, The Mortal Plane]
+aliases:
+- The World
+- The Mortal Plane
 parent: null
 spatial-type: world
-contains: ["[[Vael]]", "[[Novaterra]]", "[[Aerin'r']]", "[[Vol]]", "[[Fractured Isles]]", "[[Azure Deeps]]", "[[Drakenvast]]"]
+contains:
+- '[[Vael]]'
+- '[[Novaterra]]'
+- '[[Aerin''r'']]'
+- '[[Vol]]'
+- '[[Fractured Isles]]'
+- '[[Azure Deeps]]'
+- '[[Drakenvast]]'
 population: null
 ruler: null
 faction: null
 climate: varied
 resources: []
-status: "Third Age — post-Convention of Accord"
+status: Third Age — post-Convention of Accord
 relationships:
-  - target: "[[The Magocracy]]"
-    type: governed-by
-    period: "2701-"
-  - target: "[[Kael'Zorai]]"
-    type: scarred-by
-    period: "FA"
+- target: '[[The Magocracy]]'
+  type: controlled-by
+  period: 2701-
+- target: '[[Kael''Zorai]]'
+  type: custom
+  period: FA
+  metadata:
+    description: scarred-by
 timeline:
-  - period: "FA"
-    event: "The Paroxysm — Divine War against Kael'Zorai scars the world"
-  - period: "1"
-    event: "The Day of Silence — Great Withdrawal of the gods begins the Second Age"
-  - period: "800"
-    event: "The Second Withdrawal — gods fully retreat from mortal affairs"
-  - period: "2341-2700"
-    event: "The Dragonfall — Drakona invasion and the Skyfall cataclysm"
-  - period: "2701-3280"
-    event: "The Mage Ascendancy — Coalition of Mages rules as the Magocracy"
-  - period: "3280"
-    event: "The Convention of Accord — transition to the Third Age"
-tags: [place, world]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: The Paroxysm — Divine War against Kael'Zorai scars the world
+- period: '1'
+  event: The Day of Silence — Great Withdrawal of the gods begins the Second Age
+- period: '800'
+  event: The Second Withdrawal — gods fully retreat from mortal affairs
+- period: 2341-2700
+  event: The Dragonfall — Drakona invasion and the Skyfall cataclysm
+- period: 2701-3280
+  event: The Mage Ascendancy — Coalition of Mages rules as the Magocracy
+- period: '3280'
+  event: The Convention of Accord — transition to the Third Age
+tags:
+- place
+- world
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Vaeloris
 
 Vaeloris is the mortal world, shaped in the First Age by the four divine craftsmen — [[The Mason]], [[The Carpenter]], [[The Jeweler]], and [[The Painter]] — under the direction of the Great Smith. It is a world forged from harmony and scarred by dissonance, where the echoes of divine conflict still reverberate through stone, sea, and sky.

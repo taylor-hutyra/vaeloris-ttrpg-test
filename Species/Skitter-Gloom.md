@@ -2,29 +2,51 @@
 wb-type: species
 wb-id: skitter-gloom
 name: Skitter-Gloom
-aliases: [Shadow-Spinners, The Deep Blind, Gloom-Crawlers]
-origin: "Aberrant remnants of [[Kael'Zorai]]'s twisted experiments during the Paroxysm — corrupted insectoid creatures spawned in the Circles Below"
+aliases:
+- Shadow-Spinners
+- The Deep Blind
+- Gloom-Crawlers
+origin: Aberrant remnants of [[Kael'Zorai]]'s twisted experiments during the Paroxysm — corrupted insectoid creatures spawned
+  in the Circles Below
 lifespan: unknown
-traits: [blind, chitinous, predatory, heat-feeding, silent, shadow-silk, aberration]
-habitat: ["[[Kharnzarak]]", "deep mountain halls", "subterranean ruins"]
+traits:
+- blind
+- chitinous
+- predatory
+- heat-feeding
+- silent
+- shadow-silk
+- aberration
+habitat:
+- '[[Kharnzarak]]'
+- deep mountain halls
+- subterranean ruins
 population: unknown
 relationships:
-  - target: "[[Dwarves]]"
-    type: enemy-of
-    period: "SA:12-"
-  - target: "[[Kael'Zorai]]"
-    type: created-by
+- target: '[[Dwarves]]'
+  type: enemy
+  period: SA:12-
+- target: '[[Kael''Zorai]]'
+  type: created-by
+- target: '[[Reclaiming of the Deep Halls]]'
+  type: involved-in
+  period: SA:12
+  metadata:
+    description: Blind chitinous predators that infested the deep halls
 timeline:
-  - period: "SA:12"
-    label: "Reclaiming of the Deep Halls — Dwarves encounter Skitter-Gloom infesting ancestral halls"
-tags: [species, aberration, subterranean, paroxysm-remnant]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:12
+  label: Reclaiming of the Deep Halls — Dwarves encounter Skitter-Gloom infesting ancestral halls
+tags:
+- species
+- aberration
+- subterranean
+- paroxysm-remnant
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Skitter-Gloom
 
-The **Skitter-Gloom** are blind, chitinous predators that infest the deepest tunnels and abandoned halls beneath the mountains of [[Vaeloris]]. They are classified as aberrations — not a natural species, but a corrupted remnant of [[Kael'Zorai]]'s experiments during the [[Paroxysm]]. Spider-like in form and utterly alien in behavior, they are among the most feared creatures of the deep dark.
+The **Skitter-Gloom** are blind, chitinous predators that infest the deepest tunnels and abandoned halls beneath the mountains of [[Vaeloris]]. They are classified as aberrations — not a natural species, but a corrupted remnant of [[Kael'Zorai]]'s experiments during [[The Paroxysm]]. Spider-like in form and utterly alien in behavior, they are among the most feared creatures of the deep dark.
 
 ## Physical Traits
 
@@ -48,6 +70,6 @@ The campaign was ultimately successful, but the Skitter-Gloom were never fully e
 
 ## Theories of Origin
 
-The prevailing scholarly consensus holds that the Skitter-Gloom emerged from the **Circles Below** — the subterranean ritual spaces where [[Kael'Zorai]] conducted experiments in reshaping life during the Divine War. When the [[Paroxysm]] ended and the gods withdrew, these twisted creations were left behind, breeding in the darkness.
+The prevailing scholarly consensus holds that the Skitter-Gloom emerged from the **Circles Below** — the subterranean ritual spaces where [[Kael'Zorai]] conducted experiments in reshaping life during the Divine War. When [[The Paroxysm]] ended and the gods withdrew, these twisted creations were left behind, breeding in the darkness.
 
 Some [[Dwarves|Dwarven]] lorekeepers believe the Skitter-Gloom were once something else entirely — perhaps ordinary cave fauna warped beyond recognition by exposure to Kael'Zorai's corrupting influence. Others suggest they are fragments of Kael'Zorai's will given physical form, still carrying out some inscrutable directive in the deep places of the world.

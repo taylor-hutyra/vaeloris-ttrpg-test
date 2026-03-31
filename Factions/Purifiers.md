@@ -1,46 +1,44 @@
 ---
 wb-type: faction
-wb-id: "purifiers"
-name: "Purifiers"
+wb-id: purifiers
+name: Purifiers
 aliases:
-  - "Scions of Unbroken Pattern"
-type: "philosophical"
+- Scions of Unbroken Pattern
+type: philosophical
 founded: null
 dissolved: null
-headquarters: "[[Mycohollow]]"
+headquarters: '[[Mycohollow]]'
 leader: null
 territory:
-  - "[[Mycohollow]]"
-influence: "minority"
+- '[[Mycohollow]]'
+influence: minority
 goals:
-  - "Purge corrupted elements from the Syn-Koinos"
-  - "Restore the original, unbroken pattern of creation"
-  - "Eliminate dangerous anomalies that threaten the world's fabric"
+- Purge corrupted elements from the Syn-Koinos
+- Restore the original, unbroken pattern of creation
+- Eliminate dangerous anomalies that threaten the world's fabric
 relationships:
-  - target: "[[Forest Gnomes]]"
-    type: "zealous minority within"
-    period: ""
-  - target: "[[Balancers]]"
-    type: "rival faction"
-    period: ""
-  - target: "[[Integrators]]"
-    type: "rival faction"
-    period: ""
+- target: '[[Forest Gnomes]]'
+  type: custom
+  metadata:
+    description: zealous minority within
+- target: '[[Balancers]]'
+  type: rival
+- target: '[[Integrators]]'
+  type: rival
 timeline:
-  - period: ""
-    event: "Formed as a reactionary movement within Mycohollow"
-  - period: ""
-    event: "Grew increasingly zealous, viewing the Loud-Walkers' actions as catastrophic disruptions"
+- period: ''
+  event: Formed as a reactionary movement within Mycohollow
+- period: ''
+  event: Grew increasingly zealous, viewing the Loud-Walkers' actions as catastrophic disruptions
 tags:
-  - faction
-  - gnomish
-  - forest-gnome
-  - philosophical
-  - zealous
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- gnomish
+- forest-gnome
+- philosophical
+- zealous
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Purifiers
 
 The Purifiers, also known as the **Scions of Unbroken Pattern**, are a zealous minority faction within [[Forest Gnomes|Forest Gnome]] society at [[Mycohollow]]. They represent the most extreme position in the Great Philosophical Divide, believing the world's pattern is not merely frayed but actively corrupted.

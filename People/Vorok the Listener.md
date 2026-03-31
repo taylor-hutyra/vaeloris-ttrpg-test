@@ -1,47 +1,64 @@
 ---
 wb-type: person
 wb-id: vorok-the-listener
-name: "Vorok the Listener"
-aliases: [The Peace-Maker, The Still Fist]
-species: "[[Orkin]]"
+name: Vorok the Listener
+aliases:
+- The Peace-Maker
+- The Still Fist
+species: '[[Orkin]]'
 born: null
 died: null
 birthplace: null
-residence: "[[Vorok-Varr]]"
-faction: "[[Vorok-Varr]]"
-role: "Shaman, founder of the Vorok-Varr peaceful community"
-title: "Shaman"
+residence: '[[Vorok-Varr]]'
+faction: '[[Vorok-Varr]]'
+role: Shaman, founder of the Vorok-Varr peaceful community
+title: Shaman
 gender: male
 relationships:
-  - target: "[[Vorok-Varr]]"
-    type: founder
-    note: "Founded the Listener's Clan on Aerin'r'"
-  - target: "[[Aerin'r']]"
-    type: settler
-    note: "Chose the pristine continent as the site for a peaceful Orkin society"
-  - target: "[[Waldkyn]]"
-    type: ally
-    note: "Integrated with local Waldkyn communities on Aerin'r'"
-  - target: "[[Varr-Darg]]"
-    type: former-member
-    note: "Departed the mainland war-clans to pursue a path of spiritual endurance"
-  - target: "[[Grom-Kain]]"
-    type: theologian
-    note: "Reinterpreted Grom-Kain's mandate as endurance of spirit rather than endurance through violence"
+- target: '[[Vorok-Varr]]'
+  type: founder
+  metadata:
+    description: Founded the Listener's Clan on Aerin'r'
+- target: '[[Aerin''r'']]'
+  type: custom
+  metadata:
+    description: 'settler: Chose the pristine continent as the site for a peaceful Orkin society'
+- target: '[[Waldkyn]]'
+  type: ally
+  metadata:
+    description: Integrated with local Waldkyn communities on Aerin'r'
+- target: '[[Varr-Darg]]'
+  type: member
+  metadata:
+    description: Departed the mainland war-clans to pursue a path of spiritual endurance
+    nature: former
+- target: '[[Grom-Kain]]'
+  type: custom
+  metadata:
+    description: 'theologian: Reinterpreted Grom-Kain''s mandate as endurance of spirit rather than endurance through violence'
+- target: '[[Council of Listeners]]'
+  type: founder
+- target: '[[Vorok-Varr]]'
+  type: founder
+  period: SA:700-
 timeline:
-  - period: "SA:761-"
-    event: "Led a group of Orkin to the newly discovered continent of Aerin'r'"
-  - period: "SA:761"
-    event: "Founded the Vorok-Varr, the Listener's Clan, on the pristine continent"
-  - period: "SA:761"
-    event: "Established the Vorok-Kal philosophy: that Grom-Kain's true test was the endurance of spirit, not of arms"
-  - period: "SA:761-"
-    event: "Integrated with local Waldkyn and Mirennian communities, transforming Orkin cultural identity on Aerin'r'"
-tags: [person, orkin, shaman, founder, pacifist]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:761-
+  event: Led a group of Orkin to the newly discovered continent of Aerin'r'
+- period: SA:761
+  event: Founded the Vorok-Varr, the Listener's Clan, on the pristine continent
+- period: SA:761
+  event: 'Established the Vorok-Kal philosophy: that Grom-Kain''s true test was the endurance of spirit, not of arms'
+- period: SA:761-
+  event: Integrated with local Waldkyn and Mirennian communities, transforming Orkin cultural identity on Aerin'r'
+tags:
+- person
+- orkin
+- shaman
+- founder
+- pacifist
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Vorok the Listener
 
 **Vorok the Listener** was an [[Orkin]] shaman who took the most radical step in the history of his people: he rejected violence. In doing so, he founded the **[[Vorok-Varr]]** -- the Listener's Clan -- a peaceful [[Orkin]] community on the pristine continent of [[Aerin'r']] that reinterpreted the core mandate of [[Grom-Kain]] as a test of spiritual endurance rather than physical survival.

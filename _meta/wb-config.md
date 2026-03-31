@@ -44,8 +44,8 @@ embeddings:
       dimensions: 768
       api: rest
     openai:
-      model: text-embedding-3-small
-      dimensions: 1536
+      model: text-embedding-3-large
+      dimensions: 3072
       api: rest
     ollama:
       model: nomic-embed-text

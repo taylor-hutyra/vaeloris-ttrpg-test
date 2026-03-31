@@ -2,25 +2,57 @@
 wb-type: technology
 wb-id: clank-servitors
 name: Clank Servitors
-aliases: [Clanks, Automaton Laborers]
+aliases:
+- Clanks
+- Automaton Laborers
 type: mechanical
 inventor: null
-invented: "SA:1485-"
-used-by: ["[[Elm-korin]]", "[[Gearhaven]]"]
+invented: SA:1485-
+used-by:
+- '[[Elm-korin]]'
+- '[[Gearhaven]]'
 prerequisites:
-  - "[[Technomancy]]"
-  - "[[Clockwork Mechanisms]]"
-  - "[[Arcane Conduits]]"
+- '[[Technomancy]]'
+- '[[Clockwork Mechanisms]]'
+- '[[Arcane Conduits]]'
 relationships:
-  - { target: "[[Gearhaven]]", type: "produced-in", detail: "The primary manufacturing center for Clank Servitors" }
-  - { target: "[[Elm-korin]]", type: "designed-by", detail: "Elm-korin engineers pursue perfection through autonomous constructs" }
-  - { target: "[[Technomancy]]", type: "product-of", detail: "Clanks are the signature creation of technomantic engineering" }
-  - { target: "[[Clockwork Mechanisms]]", type: "built-on", detail: "Gnomish clockwork provides the mechanical foundation" }
-tags: [technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Gearhaven]]'
+  type: custom
+  metadata:
+    description: produced-in
+- target: '[[Elm-korin]]'
+  type: custom
+  metadata:
+    description: designed-by
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: product-of
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: built-on
+- target: '[[Technomancy]]'
+  type: custom
+  metadata:
+    description: produces
+- target: '[[Arcane Conduits]]'
+  type: custom
+  metadata:
+    description: powers
+- target: '[[Clockwork Mechanisms]]'
+  type: custom
+  metadata:
+    description: enables
+- target: '[[Necro-Industrial Machinery]]'
+  type: custom
+  metadata:
+    description: dark-parallel-to
+tags:
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Clank Servitors
 
 Clank Servitors -- commonly called "Clanks" -- are autonomous mechanical constructs created through [[Technomancy]], designed to perform dangerous, repetitive, or precision tasks that would be impractical or hazardous for mortal workers. They are the signature creation of [[Gearhaven]] and a defining symbol of the [[Elm-korin]] philosophy of perfection through craft.

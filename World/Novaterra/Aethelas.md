@@ -2,42 +2,111 @@
 wb-type: place
 wb-id: aethelas
 name: Aethelas
-aliases: [Star-Sight, The Great Library-Observatory]
-parent: "[[Novaterra]]"
+aliases:
+- Star-Sight
+- The Great Library-Observatory
+parent: '[[Novaterra]]'
 spatial-type: city
 contains: []
 population: moderate
-ruler: "[[Conclave of Masters]]"
-faction: "[[Aen'valar]]"
+ruler: '[[Conclave of Masters]]'
+faction: '[[Aen''valar]]'
 climate: temperate
-resources: [knowledge, mana-crystals, arcane-research]
+resources:
+- knowledge
+- mana-crystals
+- arcane-research
 status: active
 relationships:
-  - target: "[[Aen'valar]]"
-    type: founded-by
-    period: "SA:2175"
-  - target: "[[Grand University]]"
-    type: allied-with
-    period: "SA:1750-"
-  - target: "[[Magocracy]]"
-    type: independent-of
-    period: "SA:3010-"
+- target: '[[Aen''valar]]'
+  type: founded-by
+  period: SA:2175
+- target: '[[Grand University]]'
+  type: ally
+  period: SA:1750-
+- target: '[[Magocracy]]'
+  type: custom
+  period: SA:3010-
+  metadata:
+    description: independent-of
+- target: '[[Aen''valar Council]]'
+  type: controlled-by
+  period: SA:2175-
+  metadata:
+    description: Governed by the Conclave of Masters
+- target: '[[Aen''valar]]'
+  type: homeland
+  period: SA:2175-
+  metadata:
+    description: Intellectual heart of the Elven progressive tradition
+- target: '[[Archmage Elaruniel]]'
+  type: ruled-by
+  period: SA:3010-
+  metadata:
+    description: Elaruniel elected Loremaster Prime, leading Aethelas away from Magocracy influence
+- target: '[[The Frayed Weave]]'
+  type: related
+  period: SA:2715
+  metadata:
+    description: Elaruniel published her foundational text from Aethelas
+- target: '[[Drakona]]'
+  type: related
+  period: SA:2319-2688
+  metadata:
+    description: Anti-Drakona weapons research conducted here during the war
+- target: '[[The Frayed Weave]]'
+  type: custom
+  metadata:
+    description: written-in
+- target: '[[Archmage Elaruniel]]'
+  type: ruler
+  period: SA:3010-
+  metadata:
+    description: Elected Loremaster Prime of the Conclave of Masters
+- target: '[[Aen''valar]]'
+  type: controlled-by
+- target: '[[Elves]]'
+  type: native
+  period: SA:2175-
+  metadata:
+    description: Library-observatory city founded by the Aen'valar on Novaterra
+- target: '[[Dissident of Aethelas]]'
+  type: occurred-at
+  period: SA:2319
+  metadata:
+    description: Published and censured at the city-library
+- target: '[[Founding of Aethelas]]'
+  type: founded
+  period: SA:2175
+  metadata:
+    description: City dedicated to the pursuit of future knowledge
+- target: '[[Loremaster''s Mandate]]'
+  type: contains
+  period: SA:3010
+  metadata:
+    description: Site of the Aen'valar Conclave and the election
 timeline:
-  - period: "SA:2175"
-    label: "Founded by the Aen'valar as a city-sized library and observatory"
-  - period: "SA:2319"
-    label: "Elaruniel publishes 'On the Efficacy of Dissonance' from Aethelas"
-  - period: "SA:2360"
-    label: "Elaruniel develops the Mana-Combustion Drive for Allied airships"
-  - period: "SA:2715"
-    label: "Elaruniel publishes The Frayed Weave from seclusion in Aethelas"
-  - period: "SA:3010"
-    label: "Elaruniel elected Loremaster Prime; Aethelas drifts from Magocracy influence"
-tags: [place, city, novaterra, scholarly, elven, library, observatory]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:2175
+  label: Founded by the Aen'valar as a city-sized library and observatory
+- period: SA:2319
+  label: Elaruniel publishes 'On the Efficacy of Dissonance' from Aethelas
+- period: SA:2360
+  label: Elaruniel develops the Mana-Combustion Drive for Allied airships
+- period: SA:2715
+  label: Elaruniel publishes The Frayed Weave from seclusion in Aethelas
+- period: SA:3010
+  label: Elaruniel elected Loremaster Prime; Aethelas drifts from Magocracy influence
+tags:
+- place
+- city
+- novaterra
+- scholarly
+- elven
+- library
+- observatory
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aethelas
 
 **Aethelas** (Elvish: "Star-Sight") is a city-sized library and observatory on [[Novaterra]], founded by the [[Aen'valar]] Elves in SA:2175. Dedicated to the pursuit of the **Aen'valan** ("The Unwritten Song"), it is the global center for magical research and the intellectual heart of the Elven progressive tradition.

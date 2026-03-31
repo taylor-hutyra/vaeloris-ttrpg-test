@@ -1,36 +1,56 @@
 ---
 wb-type: place
 wb-id: bjalmunds-spire
-name: "Bjalmund's Spire"
-aliases: [The Frost-Forge Monastery, The Shieldbearer's Peak]
-parent: "[[Dragon's Tooth Mountains]]"
+name: Bjalmund's Spire
+aliases:
+- The Frost-Forge Monastery
+- The Shieldbearer's Peak
+parent: '[[Dragon''s Tooth Mountains]]'
 spatial-type: landmark
 contains: []
 population: null
 ruler: null
-faction: "[[Wardens of the Wild]]"
+faction: '[[Wardens of the Wild]]'
 climate: arctic alpine, extreme cold, perpetual ice
-resources: [crystallized divine essence, sacred relics]
+resources:
+- crystallized divine essence
+- sacred relics
 status: active pilgrimage site, contemplative martial monastery
 relationships:
-  - target: "[[Wardens of the Wild]]"
-    type: pilgrimage-site
-    period: "SA:380-"
-  - target: "[[Dragon's Tooth Mountains]]"
-    type: located-in
-    period: "SA:380-"
+- target: '[[Bjalmund]]'
+  type: related
+  period: FA
+  metadata:
+    description: Named for the minor deity — the Shieldbearer, guardian of protection
+    nature: named after
+- target: '[[Wardens of the Wild]]'
+  type: custom
+  period: SA:380-
+  metadata:
+    description: pilgrimage-site
+- target: '[[Dragon''s Tooth Mountains]]'
+  type: located-in
+  period: SA:380-
+- target: '[[Bjalmund]]'
+  type: related
+  metadata:
+    description: Location named in his honor
 timeline:
-  - period: "SA:375"
-    event: Avatar of [[Bjalmund]] the Shieldbearer manifests to lead heroes against the [[Echo-Lord]]
-  - period: "SA:380"
-    event: Bjalmund sacrifices his avatar to trap the Echo-Lord in a shield of crystallized despair
-  - period: "SA:380-"
-    event: The Hero's Mound established at the battle site; monastery grows around it
-tags: [place, landmark, religious, pilgrimage, wardens]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:375
+  event: Avatar of [[Bjalmund]] the Shieldbearer manifests to lead heroes against the [[Echo-Lord]]
+- period: SA:380
+  event: Bjalmund sacrifices his avatar to trap the Echo-Lord in a shield of crystallized despair
+- period: SA:380-
+  event: The Hero's Mound established at the battle site; monastery grows around it
+tags:
+- place
+- landmark
+- religious
+- pilgrimage
+- wardens
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Bjalmund's Spire
 
 Bjalmund's Spire is a monastery and pilgrimage site perched among the northern peaks of the [[Dragon's Tooth Mountains]], built at the location where the minor deity [[Bjalmund]] the Shieldbearer sacrificed his physical avatar to defeat the [[Echo-Lord]] in SA:380.

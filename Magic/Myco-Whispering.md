@@ -2,32 +2,50 @@
 wb-type: magic
 wb-id: myco-whispering
 name: Myco-Whispering
-aliases: [Mycelial Communion, The Quiet Network]
+aliases:
+- Mycelial Communion
+- The Quiet Network
 type: bio-magical
 source: Symbiotic communion with semi-sentient fungal networks, drawing on the divine legacy of Ceryn-Maia (The Green Mother)
-practitioners: ["[[Forest Gnomes]]", "[[Mycohollow]]", "[[Mycelial Council]]"]
+practitioners:
+- '[[Forest Gnomes]]'
+- '[[Mycohollow]]'
+- '[[Mycelial Council]]'
 limitations:
-  - Requires proximity to living fungal networks; ineffective in barren or heavily urbanized areas
-  - Communication is intuitive and emotional rather than precise; messages can be misinterpreted
-  - Deep communion risks the practitioner losing their individual identity within the network
-  - The network itself has a slow, organic intelligence that cannot be rushed or commanded
-  - Severing a fungal connection carelessly can cause psychic backlash
+- Requires proximity to living fungal networks; ineffective in barren or heavily urbanized areas
+- Communication is intuitive and emotional rather than precise; messages can be misinterpreted
+- Deep communion risks the practitioner losing their individual identity within the network
+- The network itself has a slow, organic intelligence that cannot be rushed or commanded
+- Severing a fungal connection carelessly can cause psychic backlash
 effects:
-  - Long-distance communication through mycelial networks
-  - Sensing the health and state of an entire ecosystem
-  - Resonating intentions and guidance through the fungal grove
-  - Detecting intruders or disturbances within networked territory
-  - Accelerating fungal growth for construction and healing
+- Long-distance communication through mycelial networks
+- Sensing the health and state of an entire ecosystem
+- Resonating intentions and guidance through the fungal grove
+- Detecting intruders or disturbances within networked territory
+- Accelerating fungal growth for construction and healing
 relationships:
-  - { target: "[[Forest Gnomes]]", type: "practiced-by", detail: "The Root-Tenders of the mainland developed and maintain this tradition" }
-  - { target: "[[Mycohollow]]", type: "centered-in", detail: "The gargantuan fungal grove city is the heart of Myco-Whispering practice" }
-  - { target: "[[Ceryn-Maia]]", type: "derived-from", detail: "Draws on the divine legacy of the Green Mother, one of the Twin Roots" }
-  - { target: "[[The Great Weaving]]", type: "allied-with", detail: "Gnomish fungal networks aid in maintaining magical barriers" }
-tags: [magic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- target: '[[Forest Gnomes]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Mycohollow]]'
+  type: custom
+  metadata:
+    description: centered-in
+- target: '[[Ceryn-Maia]]'
+  type: origin
+- target: '[[The Great Weaving]]'
+  type: ally
+- target: '[[Gnomish Root-Hack]]'
+  type: caused-by
+  period: SA:2100
+  metadata:
+    description: The mycelial network modification gave birth to the Myco-Whispering intelligence art
+tags:
+- magic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Myco-Whispering
 
 Myco-Whispering is the bio-magical practice of the [[Forest Gnomes]], a deep symbiotic communion with the semi-sentient fungal networks that permeate the forests and underground hollows of [[Vaeloris]]. It is the defining art of [[Mycohollow]], the largest Gnomish settlement, and the foundation of Gnomish governance and spiritual life.

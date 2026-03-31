@@ -3,37 +3,64 @@ wb-type: place
 wb-id: aurumport
 name: Aurumport
 aliases: []
-parent: "[[Coastal Regions]]"
+parent: '[[Coastal Regions]]'
 spatial-type: city
-contains: ["[[Orkin Quarter]]"]
+contains:
+- '[[Orkin Quarter]]'
 population: null
-ruler: "[[Mirennian League]]"
-faction: "[[Mirennian League]]"
+ruler: '[[Mirennian League]]'
+faction: '[[Mirennian League]]'
 climate: temperate maritime
-resources: [trade goods, gold, shipping]
+resources:
+- trade goods
+- gold
+- shipping
 status: major port with significant Orkin presence and Wayfinder networks
 relationships:
-  - target: "[[Port Farrick]]"
-    type: sister-port
-    period: "SA:440-"
-  - target: "[[Mirennian League]]"
-    type: member
-    period: "SA:440-"
-  - target: "[[Magocracy]]"
-    type: treaty-site
-    period: "SA:3280"
+- target: '[[Port Farrick]]'
+  type: custom
+  period: SA:440-
+  metadata:
+    description: sister-port
+- target: '[[Mirennian League]]'
+  type: member
+  period: SA:440-
+- target: '[[Magocracy]]'
+  type: custom
+  period: SA:3280
+  metadata:
+    description: treaty-site
+- target: '[[Aetheris]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: The Lantern of Aurumport — a presence guiding lost ships safely to harbor in storms
+- target: '[[Convention of Accord]]'
+  type: contains
+  period: SA:3280
+  metadata:
+    description: Site of the summit
+- target: '[[Mirennian League]]'
+  type: has-member
+  period: SA:440-
 timeline:
-  - period: "SA:275-"
-    event: Grows from early Mirennian trade post into a major port city
-  - period: "SA:2130-"
-    event: Orkin presence grows following the Labor Integration Act; [[Orkin Quarter]] established
-  - period: "SA:3280"
-    event: Host city for the [[Convention of Accord]], codifying the Laws of Accord and marking the transition to the Third Age
-tags: [place, city, port, trade, mirennian, human]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:275-
+  event: Grows from early Mirennian trade post into a major port city
+- period: SA:2130-
+  event: Orkin presence grows following the Labor Integration Act; [[Orkin Quarter]] established
+- period: SA:3280
+  event: Host city for the [[Convention of Accord]], codifying the Laws of Accord and marking the transition to the Third
+    Age
+tags:
+- place
+- city
+- port
+- trade
+- mirennian
+- human
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Aurumport
 
 Aurumport is a major port city on [[Vael]]'s eastern coast, a key member of the [[Mirennian League]]. The city is notable for its significant [[Orkin]] population, its Halfling [[Wayfinder]] networks, and its role as the site of the [[Convention of Accord]] that ended the Second Age.

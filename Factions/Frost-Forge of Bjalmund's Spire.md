@@ -1,28 +1,45 @@
 ---
 wb-type: faction
 wb-id: frost-forge-of-bjalmunds-spire
-name: "Frost-Forge of Bjalmund's Spire"
-aliases: ["Zelg'ul-Kharn", "The Echo-Clan"]
+name: Frost-Forge of Bjalmund's Spire
+aliases:
+- Zelg'ul-Kharn
+- The Echo-Clan
 type: cultural
 founded: null
 dissolved: null
-headquarters: "[[Bjalmund's Spire]]"
+headquarters: '[[Bjalmund''s Spire]]'
 leader: null
-territory: ["[[Bjalmund's Spire]]", "[[Dragon's Tooth Mountains]]"]
+territory:
+- '[[Bjalmund''s Spire]]'
+- '[[Dragon''s Tooth Mountains]]'
 influence: weak
 goals:
-  - Preserve the unique blend of ancestor-worship and mountain reverence
-  - Interpret the will of the peaks through ice and stone
-  - Guard the ancient mountain sanctuaries
-relationships: []
+- Preserve the unique blend of ancestor-worship and mountain reverence
+- Interpret the will of the peaks through ice and stone
+- Guard the ancient mountain sanctuaries
+relationships:
+- target: '[[Bjalmund]]'
+  type: related
+  metadata:
+    description: Minor deity — the Shieldbearer, aspect of Tham'dran
+    nature: named after
+- target: '[[Bjalmund]]'
+  type: related
+  metadata:
+    description: Faction bearing his name
 timeline:
-  - period: "SA:380"
-    label: "Bjalmund the Shieldbearer sacrificed his avatar to defeat the Echo-Lord"
-tags: [faction, dwarf, nom-khazalon, enclave, ascetic]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:380
+  label: Bjalmund the Shieldbearer sacrificed his avatar to defeat the Echo-Lord
+tags:
+- faction
+- dwarf
+- nom-khazalon
+- enclave
+- ascetic
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Frost-Forge of Bjalmund's Spire
 
 The **Frost-Forge of Bjalmund's Spire**, known as the **Zelg'ul-Kharn** (The Echo-Clan), is a fortress-monastery of [[N'om-Khazal'on]] Dwarves isolated high in the [[Dragon's Tooth Mountains]]. Cut off from [[Kharnzarak]] centuries ago, they have developed a unique culture that blends traditional Dwarven ancestor-worship with a deep, pragmatic reverence for the fury of the mountain.

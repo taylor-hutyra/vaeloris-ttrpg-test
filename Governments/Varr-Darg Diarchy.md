@@ -2,31 +2,58 @@
 wb-type: government
 wb-id: varr-darg-diarchy
 name: Varr-Darg Diarchy
-aliases: [War-Clans of the Barren Hills, Land-Blood Clans]
+aliases:
+- War-Clans of the Barren Hills
+- Land-Blood Clans
 type: autocracy
 founded: null
-territory: ["[[Barren Hills]]"]
+territory:
+- '[[Barren Hills]]'
 leader: null
 capital: null
 laws:
-  - "The Gral-Kor commands war; the Skorn-Kli chooses the target"
-  - "Loyalty to the Varr (clan) is absolute; exile is a death sentence"
+- The Gral-Kor commands war; the Skorn-Kli chooses the target
+- Loyalty to the Varr (clan) is absolute; exile is a death sentence
 relationships:
-  - target: "[[Varnathi Pentarchy]]"
-    type: hostile
-    period: ""
-  - target: "[[Novaterran Hold System]]"
-    type: estranged
-    period: ""
-  - target: "[[Kharnzarak Monarchy]]"
-    type: territorial-conflict
-    period: ""
+- target: '[[Varnathi Pentarchy]]'
+  type: enemy
+  metadata:
+    nature: hostile
+- target: '[[Novaterran Hold System]]'
+  type: rival
+  metadata:
+    nature: estranged
+- target: '[[Kharnzarak Monarchy]]'
+  type: custom
+  metadata:
+    description: territorial-conflict
+- target: '[[Orkin]]'
+  type: controls
+  period: SA
+  metadata:
+    description: Governs the traditionalist Varr-Darg war-clans of the mainland
+- target: '[[Barren Hills]]'
+  type: controls
+  period: SA:210-
+  metadata:
+    description: Rules the fortified Orkin homeland
+- target: '[[Bloodied Fist Clans]]'
+  type: has-member
+  period: SA
+  metadata:
+    description: Majority faction within the Varr-Darg, favoring reclamation through war
+- target: '[[Bloodied Fist Clans]]'
+  type: controls
+  metadata:
+    description: Follow the traditional diarchy of Gral-Kor and Skorn-Kli
 timeline: []
-tags: [government, orkin, varr-darg]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- government
+- orkin
+- varr-darg
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Varr-Darg Diarchy
 
 The harsh, unforgiving [[Barren Hills]] are home to the most traditional and militant [[Orkin]] clans. The Varr-Darg ("Land-Blood Clans") are the keepers of the oldest Orkin traditions, forged by centuries of conflict with expanding human nations like the [[Varnathi Pentarchy|Varnathi]].

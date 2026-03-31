@@ -2,54 +2,196 @@
 wb-type: species
 wb-id: drakona
 name: Drakona
-aliases: [Dragon-Folk, The Scaled, Children of the Eternal Flame, Sky-Lords]
-origin: "Believe they were forged in the Eternal Flame — a primordial fire that burned before creation, shaping the first Drakona from molten stone and living light"
-lifespan: "150-300 years"
-traits: [draconic, heat-resistant, militaristic, proud, hierarchical, fire-affinity, scaled]
-habitat: ["[[Drakenvast]]", "[[Drakograd]]", "[[District of Scales]]"]
+aliases:
+- Dragon-Folk
+- The Scaled
+- Children of the Eternal Flame
+- Sky-Lords
+origin: Believe they were forged in the Eternal Flame — a primordial fire that burned before creation, shaping the first Drakona
+  from molten stone and living light
+lifespan: 150-300 years
+traits:
+- draconic
+- heat-resistant
+- militaristic
+- proud
+- hierarchical
+- fire-affinity
+- scaled
+habitat:
+- '[[Drakenvast]]'
+- '[[Drakograd]]'
+- '[[District of Scales]]'
 population: moderate
 relationships:
-  - target: "[[Humans]]"
-    type: overlord-of
-    period: "SA:2341-SA:2700"
-  - target: "[[Varnathi Pentarchy]]"
-    type: enemy-of
-    period: "SA:2341-"
-  - target: "[[Allied Command]]"
-    type: enemy-of
-    period: "SA:2345-SA:2700"
-  - target: "[[Magocracy]]"
-    type: subjugated-by
-    period: "SA:2700-"
-  - target: "[[Pirate Confederacy]]"
-    type: former-ally
-    period: "SA:2280-SA:2700"
+- target: '[[Humans]]'
+  type: served-by
+  period: SA:2341-SA:2700
+  metadata:
+    nature: overlord
+- target: '[[Varnathi Pentarchy]]'
+  type: enemy
+  period: SA:2341-
+- target: '[[Allied Command]]'
+  type: enemy
+  period: SA:2345-SA:2700
+- target: '[[Magocracy]]'
+  type: controlled-by
+  period: SA:2700-
+  metadata:
+    nature: subjugated
+- target: '[[Pirate Confederacy]]'
+  type: custom
+  period: SA:2280-SA:2700
+  metadata:
+    description: former-ally
+- target: '[[Archmage Elaruniel]]'
+  type: enemy
+  period: SA:2360-2688
+  metadata:
+    description: Elaruniel designed the weapons and ritual that destroyed the Drakona Cloud Cities
+- target: '[[Principality of the Scale]]'
+  type: ally
+  period: SA:2350-2700
+  metadata:
+    description: Human collaborators who accepted Drakona governance over corrupt Republic
+- target: '[[Aethelgard]]'
+  type: homeland
+  period: SA:2341-2688
+  metadata:
+    description: Primary Cloud City, target of Operation Icarus reconnaissance
+- target: '[[Establishment of Drakona Protectorates]]'
+  type: involved-in
+  period: SA:2350
+  metadata:
+    description: Established protectorates over northern Varnathi provinces
+- target: '[[Floating Market of Zure]]'
+  type: involved-in
+  period: SA:2500-2688
+  metadata:
+    description: Drakona defectors traded at the neutral wartime market
+- target: '[[Broken Wing Insurgency]]'
+  type: involved-in
+  period: SA:2950
+  metadata:
+    description: Flightless Drakona launched campaign of magical terrorism
+- target: '[[Kyn-Clans]]'
+  type: related
+  period: SA:2315
+  metadata:
+    description: Claimed the Dragon Shadow was punishment for abandoning nature
+- target: '[[Magocracy]]'
+  type: custom
+  metadata:
+    description: oppressor
+- target: '[[The Frayed Weave]]'
+  type: related
+  period: SA:2715
+- target: '[[Church of the Celestial Word]]'
+  type: related
+  period: SA:2685
+  metadata:
+    description: Church leaders advocated against genocide at the Conclave of Luminas
+- target: '[[Aethelgard]]'
+  type: custom
+  period: SA:1-SA:2688
+  metadata:
+    description: former-capital-of
+- target: '[[Drakograd]]'
+  type: custom
+  period: SA:1-
+  metadata:
+    description: capital-of
+- target: '[[Drakenvast]]'
+  type: native
+- target: '[[Fractured Isles]]'
+  type: ally
+  period: 2280-2688
+- target: '[[Aethelas]]'
+  type: related
+  period: SA:2319-2688
+  metadata:
+    description: Anti-Drakona weapons research conducted here during the war
+- target: '[[Gearhaven]]'
+  type: enemy
+  period: SA:1680-2700
+  metadata:
+    description: Launched the First Fleet of Iron and later fought the Drakona invasion
+- target: '[[Zure]]'
+  type: custom
+  period: SA:2500-SA:2688
+  metadata:
+    description: used-by
+- target: '[[Barren Hills]]'
+  type: related
+  period: SA:2450
+  metadata:
+    description: Varr-Darg Orkin held the pass against Drakona ground invasion for a decade
+- target: '[[Beast of Black Rock]]'
+  type: involved-in
+  period: SA:1805
+  metadata:
+    description: First confirmed military probe by the Drakona against surface defenses
+- target: '[[Cloud-Shadow Incidents]]'
+  type: involved-in
+  period: SA:2200
+  metadata:
+    description: Drakona cloud-cities caused the ship disappearances
+- target: '[[District of Scales]]'
+  type: involved-in
+  period: SA:2725
+  metadata:
+    description: Stripped of dignity; forced into labor as living batteries
+- target: '[[Dragon''s Tithe]]'
+  type: involved-in
+  period: SA:2250
+  metadata:
+    description: Disciplined military wing demanded tribute from surface settlements
+- target: '[[Eve of War]]'
+  type: involved-in
+  period: SA:2340
+  metadata:
+    description: Invasion Fleet crossed the cloud barrier to begin the Dragonfall
+- target: '[[Scaled Pact]]'
+  type: involved-in
+  period: SA:2280
+  metadata:
+    description: Recruited the Pirate Lords as surface intelligence agents
+- target: '[[Magocracy]]'
+  type: controls
+  period: SA:2700-
+  metadata:
+    nature: subjugated
 timeline:
-  - period: "SA:1805"
-    label: "First confirmed contact — Beast of Black Rock incident"
-  - period: "SA:2250"
-    label: "The Dragon's Tithe — resource extraction from remote settlements"
-  - period: "SA:2280"
-    label: "The Scaled Pact — alliance with Pirate Lords of Serpent's Tooth"
-  - period: "SA:2341"
-    label: "The Scouring of the North — full-scale invasion of Vaeloris"
-  - period: "SA:2350"
-    label: "Establishment of Drakona Protectorates over northern Varnathi provinces"
-  - period: "SA:2688"
-    label: "The Earth-Anchor Ritual — Cloud Cities fall, millions perish"
-  - period: "SA:2700"
-    label: "Treaty of the Broken Peaks — Empress Valkiss surrenders"
-  - period: "SA:2725"
-    label: "District of Scales established — segregation and forced labor"
-  - period: "SA:2950"
-    label: "The Broken Wing Insurgency — flightless Drakona uprising"
-  - period: "SA:3100"
-    label: "The Ashfall Secession"
-tags: [species, drakona, dragon-folk, imperial, slavic-analog]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:1805
+  label: First confirmed contact — Beast of Black Rock incident
+- period: SA:2250
+  label: The Dragon's Tithe — resource extraction from remote settlements
+- period: SA:2280
+  label: The Scaled Pact — alliance with Pirate Lords of Serpent's Tooth
+- period: SA:2341
+  label: The Scouring of the North — full-scale invasion of Vaeloris
+- period: SA:2350
+  label: Establishment of Drakona Protectorates over northern Varnathi provinces
+- period: SA:2688
+  label: The Earth-Anchor Ritual — Cloud Cities fall, millions perish
+- period: SA:2700
+  label: Treaty of the Broken Peaks — Empress Valkiss surrenders
+- period: SA:2725
+  label: District of Scales established — segregation and forced labor
+- period: SA:2950
+  label: The Broken Wing Insurgency — flightless Drakona uprising
+- period: SA:3100
+  label: The Ashfall Secession
+tags:
+- species
+- drakona
+- dragon-folk
+- imperial
+- slavic-analog
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Drakona
 
 The **Drakona** are a proud and ancient people of draconic lineage — humanoid in form but unmistakably dragonkind. Once the unchallenged rulers of the sky, they commanded a vast empire of floating Cloud Cities sustained by aeromancy, descending upon the surface world in SA:2341 to subjugate the nations of [[Vaeloris]]. Their empire was shattered in the cataclysm of the **Earth-Anchor Ritual** (SA:2688), and they have since endured centuries of occupation, segregation, and slow cultural erosion — a fallen people whose pride has never broken.

@@ -1,44 +1,74 @@
 ---
 wb-type: person
 wb-id: emperor-titus-ii
-name: "Emperor Titus II"
-aliases: [The Idle Emperor, The Gilded Fool]
-species: "[[Varnathi]]"
+name: Emperor Titus II
+aliases:
+- The Idle Emperor
+- The Gilded Fool
+species: '[[Varnathi]]'
 born: null
 died: null
-birthplace: "[[Vernath]]"
-residence: "[[Vernath]]"
-faction: "[[Varnathi Empire]]"
-role: "Last Emperor of the Varnathi, deposed in the Bloodless Coup"
-title: "Emperor of the Varnathi"
+birthplace: '[[Vernath]]'
+residence: '[[Vernath]]'
+faction: '[[Varnathi Empire]]'
+role: Last Emperor of the Varnathi, deposed in the Bloodless Coup
+title: Emperor of the Varnathi
 gender: male
 relationships:
-  - target: "[[Vernath]]"
-    type: ruler
-    period: "SA:560-581"
-    note: "Last emperor before the Republic was declared"
-  - target: "[[Argentum]]"
-    type: adversary
-    period: "SA:581"
-    note: "Attempted to seize the assets of the Silver Lords, triggering his downfall"
-  - target: "[[Castellum]]"
-    type: adversary
-    period: "SA:581"
-    note: "The fortress-city allied against him in the Bloodless Coup"
+- target: '[[Vernath]]'
+  type: ruler
+  period: SA:560-581
+  metadata:
+    description: Last emperor before the Republic was declared
+- target: '[[Argentum]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: Attempted to seize the assets of the Silver Lords, triggering his downfall
+- target: '[[Castellum]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: The fortress-city allied against him in the Bloodless Coup
+- target: '[[Bloodless Coup]]'
+  type: involved-in
+  period: SA:581
+  metadata:
+    description: His attempted seizure of Silver Lords' assets triggered the coup
+- target: '[[Port Farrick]]'
+  type: enemy
+  period: SA:581
+  metadata:
+    description: Port Farrick's trade administrators allied against him
+- target: '[[Age of City-States]]'
+  type: caused
+  period: SA:600
+  metadata:
+    description: His abdication dissolved the monarchy and created the Republic
+- target: '[[Emperor Caelius I]]'
+  type: successor
+  period: SA:381
+  metadata:
+    description: Last of the imperial line that Caelius I founded
 timeline:
-  - period: "SA:560-581"
-    event: "Reigned as Emperor, spending the treasury on pleasure palaces while neglecting infrastructure and the roads"
-  - period: "SA:581"
-    event: "Attempted to seize the assets of the Silver Lords in Argentum, triggering an alliance of provincial governors against him"
-  - period: "SA:581"
-    event: "Abdicated after being starved of resources and abandoned by his guard in the Bloodless Coup"
-  - period: "SA:581"
-    event: "The monarchy was dissolved and the Varnathi Republic declared, ending the imperial line"
-tags: [person, human, varnathi, emperor, deposed]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:560-581
+  event: Reigned as Emperor, spending the treasury on pleasure palaces while neglecting infrastructure and the roads
+- period: SA:581
+  event: Attempted to seize the assets of the Silver Lords in Argentum, triggering an alliance of provincial governors against
+    him
+- period: SA:581
+  event: Abdicated after being starved of resources and abandoned by his guard in the Bloodless Coup
+- period: SA:581
+  event: The monarchy was dissolved and the Varnathi Republic declared, ending the imperial line
+tags:
+- person
+- human
+- varnathi
+- emperor
+- deposed
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Emperor Titus II
 
 **Emperor Titus II** was the last ruler of the [[Varnathi Empire]], a decadent and negligent monarch whose greed and incompetence provoked the **Bloodless Coup** of **SA 581** -- a coordinated rebellion by the empire's most powerful provincial governors that ended the imperial dynasty and gave birth to the Varnathi Republic.

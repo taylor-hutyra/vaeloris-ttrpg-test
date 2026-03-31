@@ -1,43 +1,41 @@
 ---
 wb-type: faction
-wb-id: "gear-song-harmonists"
-name: "Gear-Song Harmonists"
+wb-id: gear-song-harmonists
+name: Gear-Song Harmonists
 aliases: []
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Nexus]]"
+headquarters: '[[Nexus]]'
 leader: null
 territory:
-  - "[[Nexus]]"
+- '[[Nexus]]'
 influence: dominant
 goals:
-  - "Deepen integration with technomancy and magitech"
-  - "Incorporate the predictable rhythm of machines into The Synthesis"
-  - "Advance the Great Weaving through mechanical innovation"
+- Deepen integration with technomancy and magitech
+- Incorporate the predictable rhythm of machines into The Synthesis
+- Advance the Great Weaving through mechanical innovation
 relationships:
-  - target: "[[Green-Root Accord]]"
-    type: rival
-    period: null
-  - target: "[[Gearhaven]]"
-    type: ally
-    period: null
-  - target: "[[Chartered Kith]]"
-    type: dominant-faction
-    period: null
+- target: '[[Green-Root Accord]]'
+  type: rival
+- target: '[[Gearhaven]]'
+  type: ally
+- target: '[[Chartered Kith]]'
+  type: member
+  metadata:
+    nature: dominant
 timeline:
-  - period: null
-    event: "Rose to dominance within the Weaver's Synod of Nexus"
+- period: null
+  event: Rose to dominance within the Weaver's Synod of Nexus
 tags:
-  - faction
-  - waldkyn
-  - technomancy
-  - novaterra
-  - progressive
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- waldkyn
+- technomancy
+- novaterra
+- progressive
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Gear-Song Harmonists
 
 The dominant political faction within the [[Waldkyn]] city of [[Nexus]], the Gear-Song Harmonists are fascinated by the pure logic and efficiency of [[Gearhaven]]'s Clanks. They advocate for deeper integration with technomancy, believing that the "perfect, predictable rhythm" of machines is a beautiful new note to add to the song of creation.

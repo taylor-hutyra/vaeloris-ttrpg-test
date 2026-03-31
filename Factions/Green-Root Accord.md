@@ -1,43 +1,41 @@
 ---
 wb-type: faction
-wb-id: "green-root-accord"
-name: "Green-Root Accord"
+wb-id: green-root-accord
+name: Green-Root Accord
 aliases: []
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Nexus]]"
+headquarters: '[[Nexus]]'
 leader: null
 territory:
-  - "[[Nexus]]"
+- '[[Nexus]]'
 influence: opposition
 goals:
-  - "Champion bio-technology and symbiotic systems over sterile mechanics"
-  - "Ensure the Great Weaving honors the living half of The Synthesis"
-  - "Prevent Nexus from losing its soul to machine-logic"
+- Champion bio-technology and symbiotic systems over sterile mechanics
+- Ensure the Great Weaving honors the living half of The Synthesis
+- Prevent Nexus from losing its soul to machine-logic
 relationships:
-  - target: "[[Gear-Song Harmonists]]"
-    type: rival
-    period: null
-  - target: "[[Gnomes]]"
-    type: ally
-    period: null
-  - target: "[[Chartered Kith]]"
-    type: opposition-faction
-    period: null
+- target: '[[Gear-Song Harmonists]]'
+  type: rival
+- target: '[[Gnomes]]'
+  type: ally
+- target: '[[Chartered Kith]]'
+  type: custom
+  metadata:
+    description: opposition-faction
 timeline:
-  - period: null
-    event: "Formed as opposition within the Weaver's Synod to counter technomantic overreach"
+- period: null
+  event: Formed as opposition within the Weaver's Synod to counter technomantic overreach
 tags:
-  - faction
-  - waldkyn
-  - bio-technology
-  - novaterra
-  - traditionalist
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- waldkyn
+- bio-technology
+- novaterra
+- traditionalist
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Green-Root Accord
 
 A powerful opposition faction within the [[Waldkyn]] city of [[Nexus]], the Green-Root Accord warns that over-reliance on sterile mechanics is creating an imbalanced, "soulless" song. With strong [[Gnomes|Gnomish]] ties, they champion bio-technology and symbiotic systems, arguing that true progress must always honor the living half of [[The Synthesis]].

@@ -2,44 +2,122 @@
 wb-type: place
 wb-id: greenmeadow
 name: Greenmeadow
-aliases: [The Burrows]
-parent: "[[Vael]]"
+aliases:
+- The Burrows
+parent: '[[Vael]]'
 spatial-type: city
 contains: []
 population: null
-ruler: "[[Town Council]]"
-faction: "[[Hearthfolk Commonwealth]]"
+ruler: '[[Town Council]]'
+faction: '[[Hearthfolk Commonwealth]]'
 climate: temperate, fertile river valley, mild seasons
-resources: [grain, ale, vegetables, livestock, agricultural surplus]
+resources:
+- grain
+- ale
+- vegetables
+- livestock
+- agricultural surplus
 status: Halfling founding settlement, permanently neutral by treaty
 relationships:
-  - target: "[[Mycohollow]]"
-    type: allied
-    period: "SA:980-"
-  - target: "[[Gear-Hollow]]"
-    type: allied
-    period: "SA:980-"
-  - target: "[[Varnathi Imperial Democracy]]"
-    type: neutral-by-treaty
-    period: "SA:1280-"
+- target: '[[Mycohollow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Gear-Hollow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Varnathi Imperial Democracy]]'
+  type: custom
+  period: SA:1280-
+  metadata:
+    description: neutral-by-treaty
+- target: '[[Halflings]]'
+  type: homeland
+  period: SA:980-
+  metadata:
+    description: Founding settlement of the Halfling people
+- target: '[[Forest Gnomes]]'
+  type: contains
+  period: SA:980-
+  metadata:
+    description: Gnomish Hollows established during the Gnomish Unveiling
+- target: '[[Hearthfolk Commonwealth]]'
+  type: controlled-by
+  period: SA:980-
+  metadata:
+    description: Seat of the Halfling Commonwealth
+- target: '[[Green-Thumb Strike]]'
+  type: involved-in
+  period: SA:1280
+  metadata:
+    description: Halflings stopped exporting grain, forcing the Republic to grant neutrality
+- target: '[[Halfling Hearthsong Era]]'
+  type: involved-in
+  period: SA:1320
+  metadata:
+    description: Golden age of Halfling culture; agricultural surpluses fed warring armies
+- target: '[[War of the Barren Hills]]'
+  type: related
+  period: SA:1210
+  metadata:
+    description: Varnathi supply roads trampled Halfling harvest fields
+- target: '[[Bimble Pockets]]'
+  type: related
+  period: SA:1360
+  metadata:
+    description: Nearby Gear-Hollow produced the inventor of the printing press
+- target: '[[Clever Jeni Pipkin]]'
+  type: located-in
+  metadata:
+    description: Based in the Halfling heartland
+- target: '[[Milo]]'
+  type: origin
+  metadata:
+    description: Born in the Halfling heartland but drawn to the wider world by the Itchy-Foot
+- target: '[[Tobin Willow-snap]]'
+  type: founded-by
+  period: SA:980
+  metadata:
+    description: Led the first Halfling families to settle the fertile western river valleys
+- target: '[[Forest Gnomes]]'
+  type: ally
+  period: SA:980-
+  metadata:
+    description: Gnomish Unveiling led to shared Burrows and Hollows community
+- target: '[[Halflings]]'
+  type: native
+  period: SA:980-
+  metadata:
+    description: Founding settlement of the Halfling people in the western river valleys
+- target: '[[Clever Jeni Pipkin]]'
+  type: contains
+  metadata:
+    description: Based in the Halfling heartland
+- target: '[[Milo]]'
+  type: origin-of
+  metadata:
+    description: Born in the Halfling heartland but drawn to the wider world by the Itchy-Foot
 timeline:
-  - period: "SA:980"
-    event: Halfling clans found Greenmeadow in the western river valleys
-  - period: "SA:980"
-    event: The Gnomish Unveiling; Forest Gnomes reveal themselves to the Halflings
-  - period: "SA:980"
-    event: "[[Declaration of Hollowkin Rights]] signed -- shared Halfling/Gnome society established"
-  - period: "SA:1280"
-    event: "The 'Green-Thumb' Strike; Halflings stop exporting grain, forcing the Republic to sign the [[Treaty of the Hearth]]"
-  - period: "SA:1280-"
-    event: Greenmeadow granted permanent neutrality; military boots forbidden on Halfling soil
-  - period: "SA:1320"
-    event: Halfling Hearthsong Era; agricultural surpluses feed warring armies, making Halflings indispensable
-tags: [place, city, halfling, agricultural, neutral]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:980
+  event: Halfling clans found Greenmeadow in the western river valleys
+- period: SA:980
+  event: The Gnomish Unveiling; Forest Gnomes reveal themselves to the Halflings
+- period: SA:980
+  event: '[[Declaration of Hollowkin Rights]] signed -- shared Halfling/Gnome society established'
+- period: SA:1280
+  event: The 'Green-Thumb' Strike; Halflings stop exporting grain, forcing the Republic to sign the [[Treaty of the Hearth]]
+- period: SA:1280-
+  event: Greenmeadow granted permanent neutrality; military boots forbidden on Halfling soil
+- period: SA:1320
+  event: Halfling Hearthsong Era; agricultural surpluses feed warring armies, making Halflings indispensable
+tags:
+- place
+- city
+- halfling
+- agricultural
+- neutral
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Greenmeadow
 
 Greenmeadow is the founding settlement of the [[Halfling]] people, established in SA:980 in the fertile western river valleys of [[Vael]]. Protected by the [[Treaty of the Hearth]], it enjoys permanent neutrality -- a status earned not through military might but through the devastating soft power of controlling the continent's food supply.

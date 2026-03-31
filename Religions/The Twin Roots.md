@@ -1,57 +1,108 @@
 ---
 wb-type: religion
 wb-id: the-twin-roots
-name: "The Twin Roots"
-aliases: [The Quiet Weave]
+name: The Twin Roots
+aliases:
+- The Quiet Weave
 type: spiritual
 founded: null
 founder: null
 deities: []
 headquarters: null
 tenets:
-  - "Ceryn-Maia (life/growth/chaos) — the Green Mother, aspect of living systems"
-  - "Ilys-Tekne (form/structure/order) — the Bright Artisan, aspect of craft and design"
-  - "Creation was a quiet, meticulous act of Germination"
-  - "The purpose of the Gnomes is to be the Quiet Tenders of Vaeloris"
-  - "The deepest roots make no sound"
-  - "Balance between the wild and the crafted is sacred"
-followers: "All Gnomish peoples — Forest Gnomes, Rock Gnomes, and Sand Gnomes"
+- Ceryn-Maia (life/growth/chaos) — the Green Mother, aspect of living systems
+- Ilys-Tekne (form/structure/order) — the Bright Artisan, aspect of craft and design
+- Creation was a quiet, meticulous act of Germination
+- The purpose of the Gnomes is to be the Quiet Tenders of Vaeloris
+- The deepest roots make no sound
+- Balance between the wild and the crafted is sacred
+followers: All Gnomish peoples — Forest Gnomes, Rock Gnomes, and Sand Gnomes
 relationships:
-  - target: "[[Gnomes]]"
-    type: practiced-by
-  - target: "[[Forest Gnomes]]"
-    type: practiced-by
-    note: "The most balanced practitioners — synthesis of naturalism and craft"
-  - target: "[[Rock Gnomes]]"
-    type: practiced-by
-    note: "Emphasis on Ilys-Tekne and the mechanical aspects of creation"
-  - target: "[[Sand Gnomes]]"
-    type: practiced-by
-    note: "Adapted to the austere beauty of the deep desert"
-  - target: "[[Kael'Zorai]]"
-    type: adversary
-    note: "Syn-Thalos — a flawed gear that ground against the machine"
-  - target: "[[Halflings]]"
-    type: allied-faith
-    note: "Cultural kinship through the Declaration of Hollowkin Rights"
-  - target: "[[The Four Pillars]]"
-    type: parallel
-    note: "Farrazul (Gem/Craft) is closely aligned with Ilys-Tekne"
-  - target: "[[The Four Harmonies]]"
-    type: parallel
-    note: "C'rhanna (Forest/Growth) is closely aligned with Ceryn-Maia"
+- target: '[[Gnomes]]'
+  type: worshipped-by
+  metadata:
+    nature: practice
+- target: '[[Forest Gnomes]]'
+  type: worshipped-by
+  metadata:
+    description: The most balanced practitioners — synthesis of naturalism and craft
+    nature: practice
+- target: '[[Rock Gnomes]]'
+  type: worshipped-by
+  metadata:
+    description: Emphasis on Ilys-Tekne and the mechanical aspects of creation
+    nature: practice
+- target: '[[Sand Gnomes]]'
+  type: worshipped-by
+  metadata:
+    description: Adapted to the austere beauty of the deep desert
+    nature: practice
+- target: '[[Kael''Zorai]]'
+  type: enemy
+  metadata:
+    description: Syn-Thalos — a flawed gear that ground against the machine
+- target: '[[Halflings]]'
+  type: ally
+  metadata:
+    description: Cultural kinship through the Declaration of Hollowkin Rights
+    nature: faith alliance
+- target: '[[Ceridara]]'
+  type: worshipped-by
+  metadata:
+    description: Minor deity of Virandros — known to Gnomes as Ceryn-Maia, the Green Mother
+    nature: deity
+- target: '[[Illysia]]'
+  type: worshipped-by
+  metadata:
+    description: Minor deity of Myrasael — known to Gnomes as Ilys-Tekne, the Bright Artisan
+    nature: deity
+- target: '[[Virandros]]'
+  type: related
+  metadata:
+    description: Ceridara is an aspect of Virandros (First Hand of Growth)
+- target: '[[Myrasael]]'
+  type: related
+  metadata:
+    description: Illysia is an aspect of Myrasael (First Hand of Refinement)
+- target: '[[The Hollow Glade]]'
+  type: custom
+  metadata:
+    description: 'sacred-site: Where the Twin Roots grew the first Gnomes'
+- target: '[[The Four Pillars]]'
+  type: related
+  metadata:
+    description: Farrazul (Gem/Craft) is Myrasael — parent of Ilys-Tekne/Illysia
+    nature: parallel
+- target: '[[The Four Harmonies]]'
+  type: related
+  metadata:
+    description: C'rhanna (Forest/Growth) is Virandros — parent of Ceryn-Maia/Ceridara
+    nature: parallel
+- target: '[[Ceridara]]'
+  type: worships
+  metadata:
+    description: Known as Ceryn-Maia (The Green Mother) in Gnomish tradition
+- target: '[[Illysia]]'
+  type: worships
+  metadata:
+    description: Known as Ilys-Tekne (The Bright Artisan) in Gnomish tradition
 timeline:
-  - period: "FA"
-    event: "Syn-Kelos — the First Growth — the Twin Roots grow the Gnomes from deep forest magic"
-  - period: "FA"
-    event: "Syn-Thalos — the Pattern's Undoing — Kael'Zorai disrupts the world's intricate patterns"
-  - period: "SA:1"
-    event: "The Twin Roots withdraw — Gnomes begin their long migration in secrecy"
-tags: [religion, spiritual, gnomish, twin-roots, naturalism, craft]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: FA
+  event: Syn-Kelos — the First Growth — the Twin Roots grow the Gnomes from deep forest magic
+- period: FA
+  event: Syn-Thalos — the Pattern's Undoing — Kael'Zorai disrupts the world's intricate patterns
+- period: SA:1
+  event: The Twin Roots withdraw — Gnomes begin their long migration in secrecy
+tags:
+- religion
+- spiritual
+- gnomish
+- twin-roots
+- naturalism
+- craft
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # The Twin Roots
 
 **The Twin Roots** are the dual divine mothers at the heart of [[Gnomes|Gnomish]] spirituality — the two forces that shaped the Gnomes not through battle or song, but through a quiet, meticulous act of **Germination**. The Gnomes do not speak of a single, grand creator. They speak of two complementary presences: **Ceryn-Maia** (The Green Mother) and **Ilys-Tekne** (The Bright Artisan), whose shared vision created a people dedicated to the silent repair of the world.

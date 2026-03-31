@@ -2,25 +2,38 @@
 wb-type: faction
 wb-id: crimson-banner
 name: Crimson Banner
-aliases: [The Hawks]
+aliases:
+- The Hawks
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Vernath]]"
+headquarters: '[[Vernath]]'
 leader: null
-territory: ["[[Vernath]]", "[[Castellum]]"]
+territory:
+- '[[Vernath]]'
+- '[[Castellum]]'
 influence: strong
 goals:
-  - Expand Varnathi military power
-  - Repeal or weaken the Laws of Accord
-  - Assert Varnathi dominance over rival nations
-relationships: []
+- Expand Varnathi military power
+- Repeal or weaken the Laws of Accord
+- Assert Varnathi dominance over rival nations
+relationships:
+- target: '[[General Valerius]]'
+  type: ruler
+  metadata:
+    description: Political arm of the military hawks pushing for aggressive expansion
+- target: '[[General Valerius]]'
+  type: ruled-by
+  metadata:
+    description: Political arm of the military hawks pushing for aggressive expansion
 timeline: []
-tags: [faction, human, varnathi]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- human
+- varnathi
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Crimson Banner
 
 The **Crimson Banner**, commonly known as **The Hawks**, is the political arm of the [[Varnathi]] military establishment and the power base of the [[Consul of Blades]]. They are the most aggressive faction within the [[Pentarchy of Vernath]], advocating for a strong, proactive military posture and the expansion of [[Vernath]]'s influence across [[Vaeloris]].

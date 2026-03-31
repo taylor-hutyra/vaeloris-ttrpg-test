@@ -3,34 +3,60 @@ wb-type: place
 wb-id: gear-hollow
 name: Gear-Hollow
 aliases: []
-parent: "[[Vael]]"
+parent: '[[Vael]]'
 spatial-type: city
 contains: []
 population: null
 ruler: null
 faction: null
 climate: temperate, sheltered valley
-resources: [clockwork mechanisms, printed materials, ale, agricultural surplus]
+resources:
+- clockwork mechanisms
+- printed materials
+- ale
+- agricultural surplus
 status: thriving Halfling/Gnome mixed settlement, birthplace of the printing press
 relationships:
-  - target: "[[Greenmeadow]]"
-    type: allied
-    period: "SA:980-"
-  - target: "[[Mycohollow]]"
-    type: allied
-    period: "SA:980-"
+- target: '[[Greenmeadow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Mycohollow]]'
+  type: ally
+  period: SA:980-
+- target: '[[Invention of Printing Press]]'
+  type: involved-in
+  period: SA:1360
+  metadata:
+    description: Mixed Halfling/Gnome burrow-city where the press was invented
+- target: '[[Bimble Pockets]]'
+  type: located-in
+  metadata:
+    description: Lived and worked in the mixed Halfling/Gnome burrow-city
+- target: '[[Printing Press]]'
+  type: origin
+- target: '[[Bimble Pockets]]'
+  type: contains
+  metadata:
+    description: Lived and worked in the mixed Halfling/Gnome burrow-city
+- target: '[[Printing Press]]'
+  type: origin-of
 timeline:
-  - period: "SA:980-"
-    event: Established as a mixed Halfling/Gnome settlement following the [[Declaration of Hollowkin Rights]]
-  - period: "SA:1360"
-    event: "[[Bimble Pockets]] invents the movable type printing press in Gear-Hollow"
-  - period: "SA:1360-"
-    event: Explosion of literacy and pamphlets; guild secrets begin leaking to the public
-tags: [place, city, halfling, gnomish, mixed, technology]
-created: "2026-03-15"
-modified: "2026-03-15"
+- period: SA:980-
+  event: Established as a mixed Halfling/Gnome settlement following the [[Declaration of Hollowkin Rights]]
+- period: SA:1360
+  event: '[[Bimble Pockets]] invents the movable type printing press in Gear-Hollow'
+- period: SA:1360-
+  event: Explosion of literacy and pamphlets; guild secrets begin leaking to the public
+tags:
+- place
+- city
+- halfling
+- gnomish
+- mixed
+- technology
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Gear-Hollow
 
 Gear-Hollow is a mixed [[Halfling]]/[[Gnome]] settlement on [[Vael]], best known as the birthplace of the movable type printing press. The town embodies the unique "Burrows and Hollows" society created by the [[Declaration of Hollowkin Rights]] -- a civilization that baffled human tax collectors with its lack of hierarchy.

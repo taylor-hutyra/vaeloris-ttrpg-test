@@ -64,21 +64,21 @@ Determine the content type from `$ARGUMENTS` or user intent:
 ### 2. Load World Context
 
 ```bash
-$WB --vault <vault_root> calendar --pretty
+$WB --vault <vault_root> --pretty calendar
 ```
 
 Then load context specific to the content:
 
 For **chapter/vignette**: Read POV character file, setting file, and files for all involved characters. Query relationships:
 ```bash
-$WB --vault <vault_root> query --related-to "<pov_character>" --pretty
-$WB --vault <vault_root> resolve "<pov_character>" --at "<period>" --pretty
+$WB --vault <vault_root> --pretty query --related-to "<pov_character>"
+$WB --vault <vault_root> --pretty resolve "<pov_character>" --at "<period>"
 ```
 
 For **era**: Query all events in the era's period range, plus key factions and people:
 ```bash
-$WB --vault <vault_root> query --type event --at "<era_start>-<era_end>" --pretty
-$WB --vault <vault_root> query --type faction --pretty
+$WB --vault <vault_root> --pretty query --type event --at "<era_start>-<era_end>"
+$WB --vault <vault_root> --pretty query --type faction
 ```
 
 For **lore**: Read the in-world author's file (if they exist as an entity), the subject entities, and any relevant events.
@@ -165,6 +165,14 @@ Create subdirectories if they do not exist. Write with the Write tool.
 $WB --vault <vault_root> sync "<file_path>"
 ```
 
+### 7.5. Flag Relationship Implications
+
+If the narrative content introduces or implies new relationships between existing world entities (e.g., two characters form an alliance, a character joins a faction), note these in the output and suggest:
+
+> "The narrative implies these new relationships. Consider updating the relevant entity files, or run `/wb-consequences` to propagate."
+
+Do NOT automatically modify world entity files from wb-write. Narrative is exploratory; the user decides what becomes canon.
+
 ### 8. Present
 
 Show the user:
@@ -172,6 +180,13 @@ Show the user:
 - A brief summary (word count, characters involved, period covered)
 - Note that `reviewed: false` is set -- remind them to mark it `true` after review
 - If an external model was used, note which model generated it
+
+## Query Strategy
+
+1. **Vector** (`query --semantic`): Search for scene context, thematic atmosphere, similar existing passages.
+2. **Graph** (`query --related-to`): Map character relationships and faction dynamics for the scene.
+3. **SQLite** (`query --name`, `resolve --at`): Get metadata, timeline for temporal grounding.
+4. **File read**: Read full prose of POV character, setting, and key characters.
 
 ## Guidelines
 

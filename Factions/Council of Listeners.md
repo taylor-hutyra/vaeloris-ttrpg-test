@@ -1,49 +1,52 @@
 ---
 wb-type: faction
-wb-id: "council-of-listeners"
-name: "Council of Listeners"
+wb-id: council-of-listeners
+name: Council of Listeners
 aliases:
-  - "Vorok-Varr"
-  - "The Listener's Clan"
+- Vorok-Varr
+- The Listener's Clan
 type: spiritual
 founded: null
 dissolved: null
-headquarters: "[[Vorok-Varr]], [[Aerin'r']]"
-leader: "Council of shamans and elders"
+headquarters: '[[Vorok-Varr]], [[Aerin''r'']]'
+leader: Council of shamans and elders
 territory:
-  - "[[Vorok-Varr]]"
-  - "[[Aerin'r']]"
+- '[[Vorok-Varr]]'
+- '[[Aerin''r'']]'
 influence: local
 goals:
-  - "Uphold the Vorok-Kal philosophy of peaceful endurance"
-  - "Protect the tribe from external threats and the temptation of violence"
-  - "Practice stewardship of the land in harmony with neighbors"
+- Uphold the Vorok-Kal philosophy of peaceful endurance
+- Protect the tribe from external threats and the temptation of violence
+- Practice stewardship of the land in harmony with neighbors
 relationships:
-  - target: "[[Vorok the Listener]]"
-    type: founded-by
-    period: null
-  - target: "[[Waldkyn]]"
-    type: ally
-    period: null
-  - target: "[[Bloodied Fist Clans]]"
-    type: estranged
-    period: null
-  - target: "[[Whisper-Shamans]]"
-    type: sympathetic
-    period: null
+- target: '[[Vorok the Listener]]'
+  type: founded-by
+- target: '[[Waldkyn]]'
+  type: ally
+- target: '[[Bloodied Fist Clans]]'
+  type: rival
+  metadata:
+    nature: estranged
+- target: '[[Whisper-Shamans]]'
+  type: ally
+  metadata:
+    nature: sympathetic
+- target: '[[Hollowkin Council]]'
+  type: related
+  metadata:
+    nature: neighbor
 timeline:
-  - period: null
-    event: "Founded by Vorok the Listener, who led peaceful Orkin to Aerin'r'"
+- period: null
+  event: Founded by Vorok the Listener, who led peaceful Orkin to Aerin'r'
 tags:
-  - faction
-  - orkin
-  - spiritual
-  - peaceful
-  - aerinre
-created: "2026-03-15"
-modified: "2026-03-15"
+- faction
+- orkin
+- spiritual
+- peaceful
+- aerinre
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Council of Listeners
 
 The governing body of the [[Vorok-Varr]]—the most radical departure from traditional [[Orkin]] society. Founded by the shaman [[Vorok the Listener]], this council of wise shamans and elders guides a peaceful [[Orkin]] community on [[Aerin'r']], practicing a philosophy of non-violence known as [[Vorok-Kal]] (Listener's Peace).
