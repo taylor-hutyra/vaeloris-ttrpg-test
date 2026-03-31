@@ -93,39 +93,148 @@ Track how faction standing changes based on player choices. Key inflection point
 
 ### Adventure Hooks by Character Background
 
-Players should have a reason to be in Lux Aeterna at the campaign's start. Suggested backgrounds:
+Players should have a reason to be in Lux Aeterna at the campaign's start. Each background includes a flavor description, a starting contact, and a **Starting Bonus** — a small mechanical edge reflecting what this life has trained into them.
 
-**Species-specific backgrounds:**
+---
 
-| Background | Hook | Starting Contact |
-|------------|------|------------------|
-| **Persecuted Mage** | Fled the Decree; found Lux Aeterna through underground network | Warden Sabel (fellow deserter) |
-| **Lothari Dreamer** | Vision led you to the desert foothills; something ancient calls | Old Cira (fellow mystic) |
-| **Thulkor'n Exile** | Broke from a mercenary company; drifted into relic work | Rennick Thale (employer) |
-| **Mirennian Deserter** | Refused an Azure Hand order that crossed a line | Vesper Moraine (former handler) |
-| **Waldkyn Wanderer** | Left the Vales seeking answers about the spreading Stillwood | Kael (Lothari guide — shared outsider status) |
-| **Orkin Outcast** | Fled the Quarters in a Varnathi city; survived on the margins | Sergeant Hrothgar in Gearhaven (kindred spirit) |
-| **Halfling Wayfinder** | Thistlewick family connections led to Lux Aeterna's black market | Rennick Thale (trade partner) |
-| **Gnomish Integrator** | Studying the "pattern disturbance" near a First Age ruin | Old Cira (shared interest in anomalies) |
+#### Species-Specific Backgrounds
 
-**Human-specific background:**
+These backgrounds are tied to a particular species' cultural experience in SA 1490.
 
-| Background | Hook | Starting Contact |
-|------------|------|------------------|
-| **Varnathi Ex-Inquisitor** | Was a Legio Null inquisitor who discovered their own spark manifesting six months ago. Knows exactly how the Legio Null hunts — the patrol routes, the informant networks, the interrogation protocols, Thalric's name — because they were one of the hunters. Fled Castellum before anyone noticed. Now the machinery they operated is looking for them. They are haunted not only by what was done to them, but by what they did. Lux Aeterna is the only community that might take them in, and they know they haven't earned it yet. | Warden Sabel (she can use their intelligence; she doesn't fully trust them — yet) |
+---
 
-*Note on the Ex-Inquisitor:* This background carries a built-in complication — the other players may not immediately trust a former inquisitor, and NPCs in Lux Aeterna definitely won't. Sabel will vouch for their usefulness but not their character. That tension is the point. They spend Act I earning trust the hard way. They may know Thalric personally — the GM should decide this before play begins. If yes: every time Thalric appears, the weight of that shared history is present. Thalric may know them too.
+**Persecuted Mage** *(any mage-capable species)*
+> *The Decree of Prohibition made you illegal the day your spark manifested. You have been running ever since — from inquisitors, from informants, from the well-meaning people who told you to hide better. You found Lux Aeterna through the same whisper-network that moves every refugee who makes it this far: a name passed in a market, a symbol chalked on a doorpost, a stranger who looked at you and didn't reach for a blade. You don't know how much longer the running can continue. You know that here, at least, you can stop looking over your shoulder long enough to breathe.*
 
-**Species-agnostic backgrounds (any species):**
+- **Starting Contact:** Warden Sabel — fellow deserter, no questions asked
+- **Starting Bonus:** +1 rank in **Discipline**. Years of suppressing visible reactions — the flicker in the eye, the involuntary glow at the fingertips — have built an iron floor beneath your nerve.
 
-| Background | Hook | Starting Contact |
-|------------|------|------------------|
-| **Underworld Operative** | A job went sideways — the mage-touched person they were hired to find and deliver was a child. They helped instead of turned in. Now both are wanted. Ended up in Lux Aeterna following the same underground network they used to exploit. | Rennick Thale (appreciates flexible ethics and useful skills; may even have hired them once, under other circumstances) |
-| **Survivalist** | Has been living in the desert foothills — knows this landscape better than anyone — and stumbled onto Lux Aeterna by accident or was hired as a guide and stayed. Has no particular ideology about magic; they just know how to keep people alive when the world wants them dead. | Kael (kindred spirit — both live outside walls; Kael respects competence above all else) |
-| **Scholar/Archivist** | Found something in a restricted archive — a reference to the Ulzammar notation, a First Age text that shouldn't exist, a map that predates every known civilization. The wrong people found out they'd read it. Lux Aeterna's relic economy is the only place in the world where what they know has value. | Old Cira (shared fixation on old knowledge; Cira says she was expecting them, which is either comforting or deeply unsettling) |
-| **Disgraced Soldier** | Served in a Varnathi Legion or Mirennian naval unit ordered to participate in a mage purge. Refused the order publicly. Court-martialed. Spent a year in a military prison, then wandered south with nothing but their training and their conscience. | Warden Sabel (recognizes the type instantly; respects the choice; puts them on the militia rotation the same day they arrive) |
-| **Healer** | Couldn't stop treating the Spark-touched — healing magic manifests in ways that are hard to suppress, and eventually someone noticed. Or: kept a condemned mage patient alive past their execution date and ran when the Inquisitors came. The medical skills that made them valuable also made them a target. | Brother Oram (fellow healer who lost his faith but kept his gifts; they understand each other without needing to explain) |
-| **Ruined Merchant** | Built a trade network over a decade, then watched it collapse — either when the Azure Hand moved their route, or when a mage they'd been quietly sheltering was discovered and their assets were seized. Arrived in Lux Aeterna with connections, debts, and the particular resourcefulness of someone who has lost everything once and survived it. | Rennick Thale (pragmatic; commerce is commerce; Rennick has been waiting for someone who understands supply chains) |
+---
+
+**Lothari Dreamer** *(Lothari)*
+> *The Lothari dream-tradition teaches that the desert speaks to those who know how to listen — not in words, but in patterns. Three months ago, your dreams began showing you the same image: a canyon in the foothills, a hidden light, and something buried in the stone that was not supposed to be awake. You followed it the way your people follow all visions: without rushing, without doubt, carrying enough water. When you arrived, you found Lux Aeterna. Old Cira was sitting outside waiting for you as though she'd known exactly when you'd arrive. She probably had.*
+
+- **Starting Contact:** Old Cira — fellow mystic; she speaks your dream-language without needing a translation
+- **Starting Bonus:** +1 rank in **Perception**. The Lothari dream-tradition trains the mind to notice the pattern behind the surface — the detail that doesn't fit, the silence that means something.
+
+---
+
+**Thulkor'n Exile** *(Thulkor'n Dwarf)*
+> *The Thulkor'n are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
+
+- **Starting Contact:** Rennick Thale — your current employer; pragmatic, no judgment, pays on time
+- **Starting Bonus:** +1 rank in **Resilience**. Mercenary years and Dwarven constitution combine into a physical stubbornness that outlasts most things trying to kill you.
+
+---
+
+**Mirennian Deserter** *(Human or Mirennian)*
+> *You worked for the Azure Hand — one of the Mirennian League's most effective intelligence and smuggling networks. You were good at it. The Hand trains its operatives to be comfortable with ambiguity, skilled at wearing many faces, and discreet about what they choose not to know. Then came the order you couldn't unknow. You refused it. The Hand doesn't tolerate refusals — not because of ideology, but because operatives who refuse orders are operatives who might talk. You ran before they could decide what to do with you. Your former handler, Vesper Moraine, has standing orders regarding your status. She hasn't acted on them yet. You don't know why.*
+
+- **Starting Contact:** Vesper Moraine — your former handler; she knows where you are and hasn't reported it. That's either loyalty or leverage, and you're not sure which.
+- **Starting Bonus:** +1 rank in **Deception**. Azure Hand training runs deep: you know how to hold a face, build a story, and keep it consistent under pressure.
+
+---
+
+**Waldkyn Wanderer** *(Waldkyn)*
+> *You grew up in the Whispering Vales — the sheltered Waldkyn homeland where the Song-Wards keep aberrations out and the old ways keep change at bay. You left because something was wrong. The Stillwood — the dead, grey silence spreading from somewhere deep in the Vales — has been growing for years, and the Great Council's response has been to debate its nature rather than address its cause. You needed answers the Vales couldn't give you. You took a pack and a walking staff and you left without saying goodbye, because you knew they'd try to stop you. The desert foothills were as far as your feet had carried you when you found Lux Aeterna.*
+
+- **Starting Contact:** Kael — a Lothari dream-walker who shares the condition of being between worlds; you understand each other without needing to explain
+- **Starting Bonus:** +1 rank in **Survival**. Waldkyn learn early how to read landscape, find water, and stay alive in terrain that doesn't want them.
+
+---
+
+**Orkin Outcast** *(Orkin)*
+> *The Varnathi cities tolerate Orkin as labor. You grew up in an Orkin Quarter — the cramped, underpoliced district of some mainland city where your people are permitted to exist as long as they're useful and invisible. You survived the Quarters on street knowledge, fast reading of people, and the habit of knowing exactly which exits are unlocked. When the purges came for someone you were protecting, you ran together. The underground network that moves persecuted mages also moves Orkin who've run out of options. That's how you found Lux Aeterna.*
+
+- **Starting Contact:** Sergeant Hrothgar in Gearhaven — a kindred spirit you haven't met yet; Rennick knows his name and says he's "the sort of Orkin who makes it"
+- **Starting Bonus:** +1 rank in **Streetwise**. You learned the city's hidden geometry before you learned to read — where power sits, where money moves, and which strangers are safe.
+
+---
+
+**Halfling Wayfinder** *(Halfling)*
+> *The Thistlewick family runs one of the great Halfling Wayfinder networks — cartographers, couriers, and quiet traders who move between communities that can't or won't deal with each other directly. You grew up reading maps before you could read words, and you know trade routes through the desert foothills that aren't on any official chart. The family connection to Lux Aeterna is business: the settlement buys supplies and sells relics through Thistlewick intermediaries. You came to manage a delivery run and stayed because the work was interesting. Or because you saw something in the desert that made you want answers. Or because Rennick offered you enough money to be worth the risk. All three, probably.*
+
+- **Starting Contact:** Rennick Thale — your trade partner; he respects a Wayfinder's logistical mind and the fact that you know how to keep your mouth shut
+- **Starting Bonus:** +1 rank in **Geography**. Wayfinders are the best pathfinders alive. You read maps, cultures, and terrain as second nature.
+
+---
+
+**Gnomish Integrator** *(Gnome)*
+> *Gnomes maintain a quiet philosophy called Integration — the belief that the natural and artificial worlds are not in opposition but in conversation, and that the job of a thinking creature is to understand both sides of that conversation. You came to the desert foothills as a researcher, tracking what the mycelial network under the soil has been calling a "pattern disturbance" for the past forty years. The anomaly near a particular First Age ruin is unlike anything the network has recorded. You set up a temporary camp. That was eight months ago. You're still here because the anomaly keeps getting more interesting. Lux Aeterna's relic work puts you close to the source, and Old Cira's dream-readings correlate with the mycelial data in ways you cannot explain yet.*
+
+- **Starting Contact:** Old Cira — the correlation between her visions and your data is one of the most interesting things you've found here
+- **Starting Bonus:** +1 rank in **Mechanics**. Gnomish tradition blends natural observation with hands-on tinkering. You understand how things are built — and how they fail.
+
+---
+
+#### Human-Specific Background
+
+---
+
+**Varnathi Ex-Inquisitor** *(Human)*
+> *Six months ago, you were a sworn member of the Legio Null — the Varnathi Inquisition's enforcement arm. You believed in the work. You had reasons. The Decree of Prohibition exists because magic is dangerous, and you had seen the evidence of that with your own eyes. You were efficient, professional, and trusted by your commanders. Then your spark manifested during a field interrogation, in front of your unit, and everything you had built — your career, your identity, your certainty — came apart in a single moment. You fled Castellum before your commander could decide whether you were a resource to be managed or a problem to be solved. You know exactly how the Legio Null hunts. You know their patrol routes, their informant networks, their interrogation protocols, the names of every major commander in this region. You know all of it because you were part of it. That knowledge is the only thing keeping you alive now, and it is also the thing you are most ashamed of.*
+>
+> *Lux Aeterna is the only community that might take you in. You know you haven't earned that yet.*
+
+- **Starting Contact:** Warden Sabel — she can use what you know; she doesn't trust who you are, yet. She'll vouch for your usefulness but not your character. That's fair.
+- **Starting Bonus:** +1 rank in **Vigilance**. Inquisitor training means you read rooms, notice inconsistencies, and catch lies before most people know they've been told. The irony is not lost on you.
+- **GM Note:** This background carries a built-in social complication. The other players may not immediately trust a former inquisitor, and NPCs in Lux Aeterna definitely won't. That tension is intentional — they spend Act I earning trust the hard way. Before play begins, the GM should decide whether they personally knew any significant Legio Null figures. If yes, those encounters carry the weight of that shared history.
+
+---
+
+#### Species-Agnostic Backgrounds
+
+These backgrounds fit any species and center on a role or life circumstance rather than cultural identity.
+
+---
+
+**Underworld Operative** *(any species)*
+> *You made your living in the grey spaces — finding people who didn't want to be found, moving goods that official channels wouldn't touch, gathering information that someone powerful needed to stay powerful. You were good at it. Bounty work, acquisitions, courier runs for clients who paid to not be named. You had a code — nothing personal, keep the collateral down, don't ask too many questions. Then a contract required you to find and deliver a mage-touched person, and the person turned out to be a child. You helped them instead. Now you're wanted by whoever hired you, and the underground network you used to exploit is the network moving you toward safety. You arrived in Lux Aeterna carrying two things: skills the settlement can use, and the knowledge that the line you thought you had was further back than you'd been telling yourself.*
+
+- **Starting Contact:** Rennick Thale — he appreciates flexible ethics and useful skills, and he may have hired you once before, under different circumstances
+- **Starting Bonus:** +1 rank in **Skullduggery**. The tools of the trade: picking locks, lifting items, reading security, and setting traps. You learned these before you learned to cook.
+
+---
+
+**Survivalist** *(any species)*
+> *You've been living in the desert foothills for years — alone or nearly so, moving between water sources, mapping the terrain, trading small services for supplies when you need them. You have no particular ideology about magic or the Decree. What you have is a bone-deep knowledge of this landscape: where the Legio Null patrols run, which canyons hold water in the dry season, where the Sand-Stalker dens are, how to navigate by stars and wind and the color of the rocks. Lux Aeterna found you as much as you found it — they needed a guide, you needed occasional company. You stayed because the people here are interesting, and because something in the foothills has been changing. The animals are behaving strangely. The sand patterns are wrong. You don't know why yet, but you intend to find out.*
+
+- **Starting Contact:** Kael — a Lothari dream-walker who also lives outside of walls; you've shared campfires and trust each other's read of the desert
+- **Starting Bonus:** **Forager** (Tier 1 talent). Remove up to ■■ from any checks to find food, water, or shelter. Checks to forage or search take half the normal time. This landscape is your home and it feeds you.
+
+---
+
+**Scholar/Archivist** *(any species)*
+> *You spent your career in a library, a university annex, or a private collector's archive — cataloguing, translating, cross-referencing. You were thorough. That thoroughness is what got you into trouble. In a restricted section, in a sealed sub-vault, in the margin of a text that was supposed to be destroyed, you found something: a notation system that predates every known civilization. A reference to an instrument built by the fifth god. A map of the world drawn before the world had its current shape. You documented it, as you do everything. The wrong people found out you'd read it. It took you three months to lose your pursuers and find Lux Aeterna, which has the only economy in the world where what you know is worth more than what you've done. The relic work is beneath your training. You do it anyway, because the ruin sites are getting more interesting.*
+
+- **Starting Contact:** Old Cira — she was expecting you, which is either comforting or deeply unsettling; your research and her visions keep pointing at the same things
+- **Starting Bonus:** +1 rank in **Forbidden**. You read what you weren't supposed to — proscribed history, purged lineages, things the authorities decided the public shouldn't know. You remember all of it.
+
+---
+
+**Disgraced Soldier** *(any species)*
+> *You served — Varnathi Legion, Mirennian naval infantry, a Free Hold mercenary company, a city guard. You were good at it: disciplined, competent, trusted by your unit. Then came the order to participate in a mage purge. You refused it. Not privately, not quietly — publicly, in front of your commander and your unit, which is the kind of refusal that can't be walked back. You were court-martialed. You spent time in a military prison. When they released you, you had your training, your conscience, and nothing else. You wandered south. The desert seemed like the right direction for someone who had no direction. Lux Aeterna is the first place that's felt like anything worth staying for.*
+
+- **Starting Contact:** Warden Sabel — she recognizes the type the moment she sees you; she respects the choice; she put you on the militia rotation the same day you arrived
+- **Starting Bonus:** +1 rank in **any one combat skill** of the player's choice (Melee, Ranged, Brawl, or a magic combat skill if applicable). Your training didn't leave when everything else did.
+
+---
+
+**Healer** *(any species)*
+> *You trained in medicine — properly, under a physician or surgeon or apothecary, learning anatomy and chemistry and the careful art of not making things worse. In SA 1490, healing and magic are uncomfortably adjacent. Some healing works through chemistry. Some works through touch and will and something that the Decree of Prohibition calls a Spark. You couldn't always tell the difference in the moment. You stopped trying to tell the difference when people were dying. Eventually, an Inquisitor noticed something in your work that you couldn't explain clinically. Or you kept a condemned mage patient alive past their execution date because they were your patient and you do not let patients die when you can prevent it. You ran when the Inquisitors came. Lux Aeterna found you through a refugee network. Brother Oram had been asking for another healer for six months.*
+
+- **Starting Contact:** Brother Oram — former priest, still practices medicine, lost his faith and kept his skills; he understands everything without needing it explained
+- **Starting Bonus:** **Surgeon** rank 1 (Tier 1 talent). When making a Medicine check to heal wounds, the target heals one additional wound. Your training translates directly into lives.
+
+---
+
+**Ruined Merchant** *(any species)*
+> *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Aeterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them. Rennick recognized the type immediately. He offered you work the next morning.*
+
+- **Starting Contact:** Rennick Thale — pragmatic respect between people who understand commerce; he's been waiting for someone who knows how supply chains actually work
+- **Starting Bonus:** +1 rank in **Negotiation**. You learned to trade in survival, not just goods. You know how to find the number that closes the deal.
+
+---
 
 ---
 
