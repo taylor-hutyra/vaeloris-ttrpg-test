@@ -95,6 +95,8 @@ Track how faction standing changes based on player choices. Key inflection point
 
 Players should have a reason to be in Lux Aeterna at the campaign's start. Suggested backgrounds:
 
+**Species-specific backgrounds:**
+
 | Background | Hook | Starting Contact |
 |------------|------|------------------|
 | **Persecuted Mage** | Fled the Decree; found Lux Aeterna through underground network | Warden Sabel (fellow deserter) |
@@ -105,6 +107,25 @@ Players should have a reason to be in Lux Aeterna at the campaign's start. Sugge
 | **Orkin Outcast** | Fled the Quarters in a Varnathi city; survived on the margins | Sergeant Hrothgar in Gearhaven (kindred spirit) |
 | **Halfling Wayfinder** | Thistlewick family connections led to Lux Aeterna's black market | Rennick Thale (trade partner) |
 | **Gnomish Integrator** | Studying the "pattern disturbance" near a First Age ruin | Old Cira (shared interest in anomalies) |
+
+**Human-specific background:**
+
+| Background | Hook | Starting Contact |
+|------------|------|------------------|
+| **Varnathi Ex-Inquisitor** | Was a Legio Null inquisitor who discovered their own spark manifesting six months ago. Knows exactly how the Legio Null hunts — the patrol routes, the informant networks, the interrogation protocols, Thalric's name — because they were one of the hunters. Fled Castellum before anyone noticed. Now the machinery they operated is looking for them. They are haunted not only by what was done to them, but by what they did. Lux Aeterna is the only community that might take them in, and they know they haven't earned it yet. | Warden Sabel (she can use their intelligence; she doesn't fully trust them — yet) |
+
+*Note on the Ex-Inquisitor:* This background carries a built-in complication — the other players may not immediately trust a former inquisitor, and NPCs in Lux Aeterna definitely won't. Sabel will vouch for their usefulness but not their character. That tension is the point. They spend Act I earning trust the hard way. They may know Thalric personally — the GM should decide this before play begins. If yes: every time Thalric appears, the weight of that shared history is present. Thalric may know them too.
+
+**Species-agnostic backgrounds (any species):**
+
+| Background | Hook | Starting Contact |
+|------------|------|------------------|
+| **Underworld Operative** | A job went sideways — the mage-touched person they were hired to find and deliver was a child. They helped instead of turned in. Now both are wanted. Ended up in Lux Aeterna following the same underground network they used to exploit. | Rennick Thale (appreciates flexible ethics and useful skills; may even have hired them once, under other circumstances) |
+| **Survivalist** | Has been living in the desert foothills — knows this landscape better than anyone — and stumbled onto Lux Aeterna by accident or was hired as a guide and stayed. Has no particular ideology about magic; they just know how to keep people alive when the world wants them dead. | Kael (kindred spirit — both live outside walls; Kael respects competence above all else) |
+| **Scholar/Archivist** | Found something in a restricted archive — a reference to the Ulzammar notation, a First Age text that shouldn't exist, a map that predates every known civilization. The wrong people found out they'd read it. Lux Aeterna's relic economy is the only place in the world where what they know has value. | Old Cira (shared fixation on old knowledge; Cira says she was expecting them, which is either comforting or deeply unsettling) |
+| **Disgraced Soldier** | Served in a Varnathi Legion or Mirennian naval unit ordered to participate in a mage purge. Refused the order publicly. Court-martialed. Spent a year in a military prison, then wandered south with nothing but their training and their conscience. | Warden Sabel (recognizes the type instantly; respects the choice; puts them on the militia rotation the same day they arrive) |
+| **Healer** | Couldn't stop treating the Spark-touched — healing magic manifests in ways that are hard to suppress, and eventually someone noticed. Or: kept a condemned mage patient alive past their execution date and ran when the Inquisitors came. The medical skills that made them valuable also made them a target. | Brother Oram (fellow healer who lost his faith but kept his gifts; they understand each other without needing to explain) |
+| **Ruined Merchant** | Built a trade network over a decade, then watched it collapse — either when the Azure Hand moved their route, or when a mage they'd been quietly sheltering was discovered and their assets were seized. Arrived in Lux Aeterna with connections, debts, and the particular resourcefulness of someone who has lost everything once and survived it. | Rennick Thale (pragmatic; commerce is commerce; Rennick has been waiting for someone who understands supply chains) |
 
 ---
 
@@ -472,6 +493,13 @@ Each player background carries a through-line question. The campaign doesn't ans
 | **Orkin Outcast** | "Integration or integrity — can I have both?" | Krag-Vosk: the Orkin who never compromised and paid every day for it |
 | **Halfling Wayfinder** | "My family deals in other people's stories. When does mine start?" | The final scene — this story is theirs |
 | **Gnomish Integrator** | "I came to study the pattern. The pattern studied me back." | The Compass revealing its true nature: they have been observed the whole time |
+| **Varnathi Ex-Inquisitor** | "I built the cage. How do I live inside it — and how do I tear it down?" | Thalric — facing the person who still believes everything they used to believe |
+| **Underworld Operative** | "I've always known the price of everything. What does it cost to stop calculating?" | The Pale Ledger — a mirror of who they were before the job that changed them |
+| **Survivalist** | "I know how to survive alone. Can I survive belonging somewhere?" | Lux Aeterna's destruction and loss — the first place they ever stayed |
+| **Scholar/Archivist** | "I know what knowledge costs. Do I have the right to act on what I know?" | The Sealed Archive in Kharnzarak: knowledge suppressed for millennia, and the question of whether revealing it saves people or destroys them |
+| **Disgraced Soldier** | "I followed orders until I couldn't. How do I know which ones are worth following now?" | The Architect — a voice that always has a reason, always sounds right, always knows what to say |
+| **Healer** | "I save people because I can. What do I do when saving one costs another?" | The Brass Heart — powering Gearhaven kills something elsewhere. Every treatment has a cost. |
+| **Ruined Merchant** | "I built something real and it was taken. What am I when I'm not what I built?" | Kharnzarak's Gatestone Clans — people whose entire identity was also taken, and who chose rage instead of drift |
 
 Thread these through casual dialogue, downtime scenes, and NPC conversations. They should feel like discoveries, not assignments.
 
@@ -986,6 +1014,13 @@ Adapt these to the players' actual backgrounds and histories as established in s
 | **Orkin Outcast** | *"They called it integration. They meant submission. You were right to refuse. You were right about all of it, and you were right before you had words for why."* |
 | **Halfling Wayfinder** | *"The road your family travels is a circle. It returns to comfort, to safety, to the same stories told in the same taverns. You are the first of your line who wanted something the road couldn't give you."* |
 | **Gnomish Integrator** | *"The disturbance you came to study was not anomalous. It was a summons. The pattern has been waiting for minds like yours to find it. You did not choose this work. It chose you."* |
+| **Varnathi Ex-Inquisitor** | *"You know better than anyone in this room what the Decree costs. You counted those costs on behalf of others — and then you discovered the cost firsthand. That accounting will not leave you. But what you know — about the enemy, about the system, about yourself — is exactly why you are here. What you were does not have to be what you are."* |
+| **Underworld Operative** | *"You have spent your life working around systems that were designed to exclude you. You understand power better than the people who wield it. The job that brought you here was not the job you agreed to — it never is, with the jobs that matter. What you are about to do is not so different. Except this time, what you protect is worth the risk."* |
+| **Survivalist** | *"You have never needed anyone's permission to exist. The world has tried to make that a weakness. It is not. The people with you now need someone who knows how to keep them alive when every structure around them is failing. That is what you are. That is what this moment requires."* |
+| **Scholar/Archivist** | *"Everything you have read, every risk taken to read it — it brought you here. The notation on this artifact is in the texts you found. You recognized it before anyone explained it to you. There are no coincidences in a pattern this old. You were always the one who would find this."* |
+| **Disgraced Soldier** | *"You know the difference between discipline and obedience — you proved it the moment you said no. That distinction is rarer than you know. Most people cannot hold it when the pressure comes. You held it. That is why I came to you and not to the ones who followed orders."* |
+| **Healer** | *"You have been spending your gifts quietly, hoping not to be noticed. Hoping to do enough good in the spaces the purge hasn't reached. You have saved more people than you will ever know. The world is larger than those spaces. The work I am asking of you is the same work — at a scale you have never imagined."* |
+| **Ruined Merchant** | *"You understand networks — how things connect, how value moves, how systems sustain themselves or collapse. What was taken from you was real. What you learned while you had it is also real, and it cannot be seized. The task before us requires exactly that understanding. What you built before was practice."* |
 
 These words should feel like relief. Like being seen after years of invisibility.
 
