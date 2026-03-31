@@ -114,7 +114,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Thulkor'n Exile** *(Thulkor'n Dwarf)*
 > *The Thulkor'n are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
 
-- **Starting Contact:** **Gora Ironbreath** — your old company sergeant, still active in the mercenary trade out of Port Farrick. She knows you left on conscience grounds and quietly respects it. She hasn't reported your whereabouts to anyone. She can provide cover identities as "company associates," intelligence on who's hiring in various cities, and access to mercenary channels that move people and goods discreetly.
+- **Starting Contact:** **Gora Ironbreath** — your old company sergeant, now running a small escort company out of **Irongate Crossing** — a surface settlement at the foot of the Dragon's Tooth Mountains where traders cluster near Kharnzarak's sealed trade-gate waiting for cargo that may never come through. She knows you left on conscience grounds and quietly respects it. She hasn't reported your whereabouts to anyone. She can provide cover identities as "company associates," intelligence on who's hiring along the mountain routes, and access to mercenary channels that move people and goods discreetly.
 - **Starting Bonus:** +1 rank in **Resilience**. Mercenary years and Dwarven constitution combine into a physical stubbornness that outlasts most things trying to kill you.
 
 ---
@@ -122,7 +122,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Mirennian Deserter** *(Human or Mirennian)*
 > *You worked for the Azure Hand — one of the Mirennian League's most effective intelligence and smuggling networks. You were good at it. The Hand trains its operatives to be comfortable with ambiguity, skilled at wearing many faces, and discreet about what they choose not to know. Then came the order you couldn't unknow. You refused it. The Hand doesn't tolerate refusals — not because of ideology, but because operatives who refuse orders are operatives who might talk. You ran before they could decide what to do with you.*
 
-- **Starting Contact:** **Corvin Halstow** — an Azure Hand mid-level logistics officer who processed your contracts before the incident. He doesn't know about the desertion yet — he still thinks you're on extended fieldwork. He can provide Azure Hand passage papers, access to Hand-affiliated merchant ships, and introductions to Hand contacts in port cities. This window closes the moment your status propagates up the chain, so use it carefully and early.
+- **Starting Contact:** **Corvin Halstow** — an Azure Hand mid-level logistics officer based out of **Saltwick** — a small Mirennian coastal trading post that serves as one of the Hand's main routing hubs for southbound passenger traffic. He processed your contracts before the incident and doesn't know about the desertion yet — he still thinks you're on extended fieldwork. He can provide Azure Hand passage papers, access to Hand-affiliated merchant ships, and introductions to Hand contacts at waystation ports along the escape route. This window closes the moment your status propagates up the chain, so use it carefully and early.
 - **Starting Bonus:** +1 rank in **Deception**. Azure Hand training runs deep: you know how to hold a face, build a story, and keep it consistent under pressure.
 
 ---
@@ -130,7 +130,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Waldkyn Wanderer** *(Waldkyn)*
 > *You grew up in the Whispering Vales — the sheltered Waldkyn homeland where the Song-Wards keep aberrations out and the old ways keep change at bay. You left because something was wrong. The Stillwood — the dead, grey silence spreading from somewhere deep in the Vales — has been growing for years, and the Great Council's response has been to debate its nature rather than address its cause. You needed answers the Vales couldn't give you. You took a pack and a walking staff and you left without saying goodbye, because you knew they'd try to stop you.*
 
-- **Starting Contact:** **Finnet** — a Waldkyn traveling herbalist who left the Vales years before you did. She trades medicinal compounds across the mainland, moves between cities, and has heard the same rumors about the Stillwood. She can pass messages, provide Waldkyn cultural context when you're operating in unfamiliar places, and connect you to the Waldkyn diaspora scattered across the continent.
+- **Starting Contact:** **Finnet** — a Waldkyn traveling herbalist who left the Vales years before you did. She runs a regular trading circuit along the road between **Thornback** — a market town at the Vales' eastern edge where Waldkyn and mainland merchants deal — and the interior settlements. She's heard the same rumors about the Stillwood's spread that drove you out, and she knows more than she's written down. She can pass messages, provide Waldkyn cultural context when you're operating in unfamiliar places, and connect you to the Waldkyn diaspora scattered across the continent.
 - **Starting Bonus:** +1 rank in **Survival**. Waldkyn learn early how to read landscape, find water, and stay alive in terrain that doesn't want them.
 
 ---
@@ -138,7 +138,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Orkin Outcast** *(Orkin)*
 > *The Varnathi cities tolerate Orkin as labor. You grew up in an Orkin Quarter — the cramped, underpoliced district of some mainland city where your people are permitted to exist as long as they're useful and invisible. You survived the Quarters on street knowledge, fast reading of people, and the habit of knowing exactly which exits are unlocked. When the purges came for someone you were protecting, you ran together. The underground network that moves persecuted mages also moves Orkin who've run out of options. That's how you found Lux Aeterna.*
 
-- **Starting Contact:** **Vosk Two-Names** — a Varr-Darg Orkin who straddles the city world and the Barren Hills clans, operating as a fixer out of Port Farrick's Orkin Quarter. He knows which city guards can be paid off, which clan elders will grant passage through clan territory, and how to move people who don't want to be found. He's not friendly — he's professionally useful, which in his world is worth more.
+- **Starting Contact:** **Vosk Two-Names** — a Varr-Darg Orkin who straddles the clan world and the outside one, working out of **Ashkeld** — a rough crossroads town on the western edge of the Barren Hills where Varr-Darg trading parties and mainland merchants meet under uneasy truce. He knows which clan elders will grant passage through clan territory, which stretches of Barren Hills road can be traveled without a war starting, and how to move people who don't want to be found. He's not friendly — he's professionally useful, which in his world is worth more.
 - **Starting Bonus:** +1 rank in **Streetwise**. You learned the city's hidden geometry before you learned to read — where power sits, where money moves, and which strangers are safe.
 
 ---
@@ -182,7 +182,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Persecuted Mage** *(any mage-capable species)*
 > *The Decree of Prohibition made you illegal the day your spark manifested. You have been running ever since — from inquisitors, from informants, from the well-meaning people who told you to hide better. You found Lux Aeterna through the same whisper-network that moves every refugee who makes it this far: a name passed in a market, a symbol chalked on a doorpost, a stranger who looked at you and didn't reach for a blade. You don't know how much longer the running can continue. You know that here, at least, you can stop looking over your shoulder long enough to breathe.*
 
-- **Starting Contact:** **Maren Saltbrook** — a retired midwife in Port Farrick who has been running a mage-touched safe-house for over twenty years, Azure Hand-adjacent but never formally affiliated. She's the one who passed the party's name toward Lux Aeterna. She maintains a network of sympathetic contacts across Mirennian port cities and can provide forged transit papers, safe harbor, and information on who is being hunted and where.
+- **Starting Contact:** **Maren Saltbrook** — a retired midwife in **Cove Hallow** — a fishing village on the Mirennian coast, a half-day's walk from the smuggler's cove the party escapes through — who has been running a mage-touched safe-house for over twenty years, Azure Hand-adjacent but never formally affiliated. She's the one who passed the party's name toward Lux Aeterna. She maintains a network of sympathetic contacts along the Mirennian coastal road and can provide forged transit papers, safe harbor, and information on who is being hunted and where.
 - **Starting Bonus:** +1 rank in **Discipline**. Years of suppressing visible reactions — the flicker in the eye, the involuntary glow at the fingertips — have built an iron floor beneath your nerve.
 
 ---
@@ -206,7 +206,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Scholar/Archivist** *(any species)*
 > *You spent your career in a library, a university annex, or a private collector's archive — cataloguing, translating, cross-referencing. You were thorough. That thoroughness is what got you into trouble. In a restricted section, in a sealed sub-vault, in the margin of a text that was supposed to be destroyed, you found something: a notation system that predates every known civilization. A reference to an instrument built by the fifth god. A map of the world drawn before the world had its current shape. You documented it, as you do everything. The wrong people found out you'd read it. It took you three months to lose your pursuers and find Lux Aeterna, which has the only economy in the world where what you know is worth more than what you've done.*
 
-- **Starting Contact:** **Archivist Fenwick** — a former colleague still at the institution you fled. He didn't know what you found, but he helped you disappear when the questions started. He's cautious to the point of paralysis, but he can access restricted records, confirm historical details from the inside, and occasionally pass information — slowly, with enormous personal risk. He is the most useful contact you have and the most fragile. Be careful with him.
+- **Starting Contact:** **Archivist Fenwick** — a former colleague still at the **Vernath Imperial Archive** — the largest historical repository on the mainland, where you spent your career. He didn't know what you found, but he helped you disappear when the questions started. He's cautious to the point of paralysis, but he can access restricted records, confirm historical details from the inside, and occasionally pass information — slowly, with enormous personal risk. He is the most useful contact you have and the most fragile. Be careful with him.
 - **Starting Bonus:** +1 rank in **Forbidden**. You read what you weren't supposed to — proscribed history, purged lineages, things the authorities decided the public shouldn't know. You remember all of it.
 
 ---
@@ -214,7 +214,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Disgraced Soldier** *(any species)*
 > *You served — Varnathi Legion, Mirennian naval infantry, a Free Hold mercenary company, a city guard. You were good at it: disciplined, competent, trusted by your unit. Then came the order to participate in a mage purge. You refused it. Not privately, not quietly — publicly, in front of your commander and your unit, which is the kind of refusal that can't be walked back. You were court-martialed. You spent time in a military prison. When they released you, you had your training, your conscience, and nothing else. You wandered south. The desert seemed like the right direction for someone who had no direction. Lux Aeterna is the first place that's felt like anything worth staying for.*
 
-- **Starting Contact:** **Corporal Aenne** — a former unit-mate who voted to acquit at your court-martial and left the service shortly after. She's in the civilian world now — working as a caravan guard on the coastal road — and still believes you made the right call. No military connections, no faction affiliation, no resources beyond her own skills and savings. What she has is your back, unconditionally, without questions, in a world where that is rarer than gold.
+- **Starting Contact:** **Corporal Aenne** — a former unit-mate who voted to acquit at your court-martial and left the service shortly after. She's in the civilian world now — working as a caravan guard on the Dragon's Tooth mountain road, the main supply route to Kharnzarak's sealed trade-gate — and still believes you made the right call. No military connections, no faction affiliation, no resources beyond her own skills and savings. What she has is your back, unconditionally, without questions, in a world where that is rarer than gold.
 - **Starting Bonus:** +1 rank in **any one combat skill** of the player's choice (Melee, Ranged, Brawl, or a magic combat skill if applicable). Your training didn't leave when everything else did.
 
 ---
@@ -222,7 +222,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Healer** *(any species)*
 > *You trained in medicine — properly, under a physician or surgeon or apothecary, learning anatomy and chemistry and the careful art of not making things worse. In SA 1490, healing and magic are uncomfortably adjacent. Some healing works through chemistry. Some works through touch and will and something that the Decree of Prohibition calls a Spark. You couldn't always tell the difference in the moment. You stopped trying to tell the difference when people were dying. Eventually, an Inquisitor noticed something in your work that you couldn't explain clinically. Or you kept a condemned mage patient alive past their execution date because they were your patient and you do not let patients die when you can prevent it. You ran when the Inquisitors came.*
 
-- **Starting Contact:** **Surgeon Halma Dast** — a physician who trained alongside you, currently working as an independent practitioner in Port Farrick. She works for whoever pays her, including occasionally the Azure Hand, which means she hears things. She can provide medical supplies, intelligence gathered through her patients, and the kind of discreet assistance that only someone with legitimate reasons to be anywhere can offer. She won't ask what you need the supplies for.
+- **Starting Contact:** **Surgeon Halma Dast** — a physician who trained alongside you, recently relocated to **Gearhaven**. A frontier boomtown of several thousand people doing experimental arcane-mechanical work, with no established medical infrastructure, was exactly the kind of place that needed her. She works for whoever pays her, including occasionally the Azure Hand, which means she hears things. She can provide medical supplies, intelligence gathered through her patients, and the kind of discreet assistance that only someone with legitimate reasons to be anywhere can offer. She won't ask what you need the supplies for.
 - **Starting Bonus:** **Surgeon** rank 1 (Tier 1 talent). When making a Medicine check to heal wounds, the target heals one additional wound. Your training translates directly into lives.
 
 ---
@@ -230,7 +230,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 **Ruined Merchant** *(any species)*
 > *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Aeterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them.*
 
-- **Starting Contact:** **Iskar Weld** — a shipping factor who handled one of your regular trade routes and still considers the relationship professionally active. He doesn't know the full story of what happened to your operation. He can arrange legitimate cargo transit across the coast, provide cover as "merchant associates" for the party when moving through port cities, and introduce you to harbor masters and port officials who owe him favors. He'll eventually ask what happened to you. You'll have to decide how much to tell him.
+- **Starting Contact:** **Iskar Weld** — a shipping factor who relocated to **Gearhaven** after the same wave of purge-related seizures swept your shared trade network. The boomtown needed logistics people badly, and Iskar needed a fresh start. He still considers your old relationship professionally active and doesn't know the full story of what happened. He can arrange legitimate cargo transit through Gearhaven's harbor, provide cover as "merchant associates" when moving through the city, and introduce you to harbor masters and port officials who owe him favors. He'll eventually ask what happened to you. You'll have to decide how much to tell him.
 - **Starting Bonus:** +1 rank in **Negotiation**. You learned to trade in survival, not just goods. You know how to find the number that closes the deal.
 
 ---
@@ -718,7 +718,7 @@ The following NPCs should feel *real* before the campaign risks them. The GM's j
 
 **Pip Sprocket** — Make the players laugh at Pip. Make them genuinely like Pip. He talks too much, means well, and is infectiously delighted by everything. Then put him in danger and watch the table hold its breath.
 
-**Kael** — Young, competent, carrying a loss the players might learn about gradually. Offer them a moment to save Kael at cost to themselves. Let them make the choice.
+**Soru** — Young, competent, carrying a loss the players might learn about gradually. Offer them a moment to save Soru at cost to themselves. Let them make the choice.
 
 **Miravel** — She is building something real with the players. Seven years of service to the Architect, and for the first time, she has people she actually knows. The betrayal will cost accordingly. So will the return.
 
@@ -731,7 +731,7 @@ The following NPCs should feel *real* before the campaign risks them. The GM's j
 Some NPCs will die. That's part of the story. But death is not the only kind of loss — and often not the most painful.
 
 **Losses that are not death:**
-- Kael's trust, if the players took the Lothari shortcut without permission
+- Soru's trust, if the players took the Lothari shortcut without permission
 - Pip's optimism, if the Heart arc ends in theft and casualties
 - Delva's safety, if the players' cover is blown in Kharnzarak
 - Marga's dream, if Mazrek takes the throne instead of reform happening
@@ -987,10 +987,57 @@ The source: **Scorch-Wraiths** — aberrations that nest near First Age ruins, d
 **After the Fight:**
 Among the wreckage, the players find:
 - The mining crew's last report (half-burned): "Vein is incredible. Purest crystal I've seen in 20 years. Something deeper, though. Under the crystal. Dark stone. Feels wrong. Tomas touched it and his hand went numb for an hour—"
+- **Foreman Torvin Dast's personal journal** — leather-bound, sand-stained, tucked inside his vest. See *The Foreman's Journal* below.
 - A rich Mana-Crystal vein — 200 Sparks worth if fully harvested (would take a week with proper equipment)
 - At the bottom of the excavation: a band of dark crystal shot through with pale metallic veins, partially exposed in the rock. The air near it is thick. Campfire flames freeze mid-flicker. A canteen of water refuses to flow.
 
 This is the **Ulzammar Band**.
+
+#### The Foreman's Journal
+
+The journal belongs to **Torvin Dast**, the mining crew's foreman — a veteran relic-hunter in his fifties. The handwriting is cramped and practical. Most of it is exactly as boring as it looks.
+
+**If players skim the journal or don't read it carefully**, the GM summarizes:
+
+> *"It's a travel journal — distances covered, camp conditions, ration complaints, arguments over watch rotations. They mention sheltering in an old abandoned mine during a dust storm, which apparently connected to some kind of buried ruin or temple — they were chased out by a colony of large bats before they could explore it. There's a rough description of a rough crossing over a stretch of 'moving quicksand' the next day — sounds like an underground river that surfaced. After that, the entries get shorter. The last few are single lines."*
+
+**If players read it in full**, run the journal entries below. This is the version that matters when Tajsh gets his hands on it.
+
+---
+
+*Day 3 — Good ground covered. Water at a rock cistern two hours before camp. Rozen complaining about hardtack again. Told him he can eat sand.*
+
+*Day 4 — Detoured east around a rockfall. Lost half a day. Hit a dust wall around midday and took shelter in an old mine entrance cut into the canyon wall — pre-collapse construction, could be Varr stonework, hard to tell. Waited inside about an hour.*
+
+*Day 4 (continued) — While sheltering, Rozen found a crack in the back wall. Cave-in had widened it at some point. Squeezed through with him and Maret out of curiosity. What we found wasn't a mine shaft.*
+
+*Long corridor — cut stone, very old, not natural. Opened into a large underground chamber. High ceiling, mostly rubble. In the center of the chamber: a chasm. Fifteen feet across, maybe more. Dark all the way down.*
+
+*Across the chasm: a stone pedestal. On the pedestal, an open book. Something else laying in the center of it — couldn't make it out clearly from across the gap. Some kind of object. No obvious way across. We looked, then the bats found us.*
+
+*Not small bats. Big ones — torso-sized, roosting in the ceiling crevices. One of us must have disturbed them. We ran back through the corridor and out. Rozen twisted his ankle on the rubble.*
+
+*Left as soon as the dust cleared. Not our job to investigate ruins. We have a vein to find.*
+
+*Day 5 — Rozen's ankle slowing us. Symbol on that pedestal keeps coming back to me. Geometric — three interlocking rings, or loops, hard to say. Carved deep. Old work. Never seen it before. Can't say why I keep thinking about it.*
+
+*Day 6 — The quicksand stretch. Underground river systems surface sometimes in the dry season — the sand behaves like slow water, moves under your feet. We hit a bad patch, twenty feet across. Maret went in to her knee before we caught her. Rope-and-post method, everyone across. Lost two hours. The sand was warm. Didn't like that.*
+
+*Day 7 — Arrived at the target site. Crystal confirmed. This is real money. Sent the carrier bird back to Tajsh.*
+
+*Day 8 — Strange feeling today. Hard to describe. Like someone standing just behind you. Turned around twice at dinner — nobody there. Rozen said the same. Maret says it's nerves from the bat incident.*
+
+*Day 9 — Still there.*
+
+*Day 10 — Good crystal. Rich vein, purest I've seen. Something underneath it, though — dark stone that doesn't feel right. Keeping that out of the official report until we're back.*
+
+*Day 11 — Nobody's sleeping well. Rozen says he hears footsteps at night. I hear them too. We agreed not to talk about it.*
+
+*(Last entry — written in a shaking hand:)*
+
+*Day 12 — There's something in the dark near the stones. I don't think it followed us from*
+
+*(The entry ends. The line below is blank. The page after that is soaked dark.)*
 
 **The Discovery:**
 Any character who touches the Band must make a **Discipline (Willpower) check, Average (◆◆)**. On failure, they experience a flash of alien sensation: absolute certainty, the feeling of gears meshing with mechanical precision, and a single coherent thought that is not their own: *"Incomplete."* On success, they feel the same sensation but can identify it as external — something in the Band reaching out. On a Triumph, the character also glimpses a fleeting image of four interlocking crystal shapes. On a Despair, the character is Staggered until the end of their next turn.
@@ -1000,11 +1047,11 @@ The Band is cool to the touch and weighs almost nothing. Once held, the characte
 **The Players' Choice:**
 - Take the Band back to Tajsh (their job)
 - Take the crystals, leave the Band
-- Investigate further (the First Age ruin is a quarter-mile east — see "The Ruin of Kel-Thar" below)
+- Investigate further (the First Age ruin is a quarter-mile east — see "The Ruin of Sorath" below)
 
 Regardless of choice, the Band is the story. If the players leave it, they find it in their pack the next morning — it followed them. It wants to be found.
 
-#### Optional Dungeon: The Ruin of Kel-Thar
+#### Optional Dungeon: The Ruin of Sorath
 
 If the players investigate the nearby ruin before returning to Lux Aeterna, they find a half-buried complex of dark stone corridors — First Age construction, pre-Paroxysm. The architectural style is alien: too-regular angles, corridors that curve in mathematically precise arcs, and walls inscribed with notation systems that predate all known languages.
 
@@ -1036,12 +1083,64 @@ The players return with whatever they salvaged. Tajsh is thrilled by the crystal
 - Hask's alchemical equipment near the Vault begins producing unstable results — potions that brew too slowly, or too fast, or not at all
 - Old Cira refuses to enter the Vault. She sits outside and hums tunelessly, louder than usual.
 
-**Tajsh's Decision:**
-Tajsh hires a Shadewalker contact to identify the artifact. The contact is **Ink** — a quiet, sharp-eyed human woman in her 30s who arrives via Lothari caravan two days later. She is a Shadewalker archivist specializing in pre-Paroxysm artifacts. She recognizes the script on the Band as the forbidden Ulzammar notation system — the sealed sections of the Dwarven Stone-Lays that are never spoken aloud.
+**The Journal Changes Everything:**
+
+If the players bring Torvin Dast's journal back to Tajsh, the scene splits in two depending on how they present it.
+
+*If the players hand it over without comment* (or forget about it), Tajsh glances through it while half-focused on the Band. Then he stops. He flips back a few pages. He reads the Day 4 entry again. Then he sets the journal down very carefully, as if it might break, and says nothing for a long moment.
+
+*If players describe the journal to Tajsh*, he interrupts them as soon as they mention the pedestal. "What did the symbol look like." Not a question — a demand. When they describe the three interlocking rings, his expression goes flat. He holds out his hand for the journal.
+
+Either way, what follows is the same: Tajsh reads the relevant entries in silence, jaw tight. When he looks up:
+
+> *"I've seen that symbol twice in my life. Once on a sealed crate that came through a Shadewalker archive when I was twenty-two — we weren't allowed to touch it, which meant I spent three hours memorizing everything I could see through the slats. And once on the wall of a ruin in the Barren Hills that I was paid a great deal of money to never speak about again."*
+
+> *"Both times, everyone in the room treated it the way you treat a cobra. Very still. Very careful. Nobody wanted to be the one who reached for it."*
+
+> *"That book — whatever's on that pedestal — I need it. I need you to go back there and bring it to me."*
+
+He's not explaining why beyond that. Not yet. If pressed, he adds: *"Because the kind of people who use that symbol don't leave things in abandoned mines by accident. They leave them there for someone to find."*
+
+**GM Note — What Tajsh Actually Knows:**
+Tajsh's Shadewalker past includes a single deep-archive briefing on pre-Paroxysm artifact markers. The three-ring symbol appeared in the briefing under a single heading: *"Ulzammar provenance indicators — do not acquire, do not transport, report to senior archivist immediately."* He never learned why. He's been curious for thirty years. The Band now sitting on his desk is wearing the same marker.
+
+He suspects the book across that chasm is a companion piece to the Band. He doesn't say this out loud. He doesn't want the players to understand how urgent it is until they've already said yes.
+
+**The New Mission:**
+Tajsh gives them a rough map of where the mining crew traveled (reconstructed from the journal's distances and directions) and sends them back into the desert. The abandoned mine entrance is approximately a day's travel before the mining camp — the players passed the right canyon on the way out, they just didn't know it.
+
+Key details Tajsh notes from the journal:
+- Giant bat colony in the temple — *"Bring torches. Bats hate smoke more than light."*
+- The chasm is fifteen feet across — *"Figure it out."*
+- The quicksand river is on the return route — *"Go around it this time. It's in the journal."*
+
+He doesn't address the feeling of being watched that the last entries describe. If a player asks, he says: *"Then the sooner you get that book, the sooner we know what we're dealing with."*
+
+**Tajsh's Decision — The Band:**
+Separate from the journal mission, Tajsh hires a Shadewalker contact to identify the Band. The contact is **Ink** — a quiet, sharp-eyed human woman in her 30s who arrives via Lothari caravan two days later. She is a Shadewalker archivist specializing in pre-Paroxysm artifacts. She recognizes the script on the Band as the forbidden Ulzammar notation system — the sealed sections of the Dwarven Stone-Lays that are never spoken aloud.
 
 Ink can't identify the artifact's function, but she can identify its provenance: this is older than the Paroxysm. Older than the Dwarven kingdoms. This was made by a god.
 
 She warns the players: "Possessing this will attract attention. Not from the Legio Null — from things the Legio Null is too small to imagine."
+
+**The Temple Mission — Optional Session:**
+The journey to the abandoned mine and back is a half-session or full session depending on how the players approach it. Key beats:
+
+- *Travel to the mine:* The same desert foothills terrain. Players can use the random encounter table from Session 1. When they reach the canyon where the crew sheltered, a **Survival (Cunning) or Perception (Cunning) check, Average (◆◆)** identifies the mine entrance in the canyon wall — partially obscured by a recent rockslide.
+
+- *The mine:* Dark, dry, smells of guano. The crack in the back wall is wide enough to squeeze through single-file. The carved corridor beyond is undeniably ancient — the same pre-Paroxysm architectural style as Sorath, too-regular angles, notation carvings on the walls.
+
+- *The chamber:* A single large space, high ceiling, rubble floor. The chasm in the center is real — roughly fifteen feet across, depth unknown. Across it: the stone pedestal, the open book, and an object lying in its center (see below). A **Perception (Cunning) check, Hard (◆◆◆)** from across the chasm identifies the object as a crystalline disc, roughly hand-sized, inscribed with the same three-ring symbol.
+
+- *Crossing the chasm:* No obvious bridge. Players need to improvise — grapple and rope, a leap (Athletics [Brawn], **Hard (◆◆◆)**), magical assistance, or creative solutions. The bat colony is roosting in ceiling crevices above the pedestal side. Loud noises, bright light, or disturbing the ceiling will wake them. Torches and smoke, as Tajsh suggested, keep them passive unless physically disturbed.
+
+- *The pedestal:* The open book is written in a script that predates all known languages — the same Ulzammar notation on the Band. The crystalline disc in the center is inert but has the same cool, weightless quality as the Band. Anyone with magical sensitivity immediately notices: these two objects are resonating with each other at a frequency that has no sound.
+
+> **GM Note:** The book is a fragment of the Ulzammar's construction record for the Crown pieces — a technical document, not a narrative. Nobody in the party can read it. But Ink can, partially. And when the Architect appears, it recognizes the book immediately. The crystalline disc is a **resonance key** — one of five made to locate the Crown pieces. The Compass the Architect later gives the players has a slot exactly the disc's size.
+
+- *The bats:* If the party triggers them, use a swarm of **Giant Bats** — two Rival-tier creatures that harry and separate rather than kill. They flee if the party exits the chamber. Their primary effect is time pressure and chaos during the crossing.
+
+- *Return journey — the quicksand:* The surfaced underground river is present on the return route. A **Survival (Cunning) check, Average (◆◆)** identifies the moving sand ahead in time to find a safe path around (adds 30 minutes). On failure, one character sinks to the knee — extracting them requires an **Athletics (Brawn) check, Average (◆◆)** or assistance from another character. The sand is warm. The movement beneath it, barely perceptible, is rhythmic — like slow breathing.
 
 **Downtime in Lux Aeterna (2–3 in-game days):**
 While waiting for Ink's analysis, the players have free time. Use this to run sidequests, explore the settlement, build NPC relationships, and establish what the players care about before it's threatened.
@@ -1166,7 +1265,7 @@ The mirror-charm flicker was noticed. A Legio Null patrol — **Commander Thalri
 The Band is causing the charm instability. As long as it's in Lux Aeterna, the settlement is in danger. Warden Sabel proposes a desperate plan:
 1. The players take the Band and flee south, drawing the Legio Null away from the settlement
 2. While the patrol chases the players, Sabel relocates the Mage-Weave canopy to the emergency fallback position
-3. A Lothari guide — **Kael** — will lead the players through hidden desert paths to a coastal smuggler's cove where Mirennian contacts can provide passage off the mainland
+3. A Lothari guide — **Soru** — will lead the players through hidden desert paths to a coastal smuggler's cove where Mirennian contacts can provide passage off the mainland
 
 **What the Players Must Leave Behind:**
 This is the emotional core of Act I's ending. Lux Aeterna is HOME. The players have built relationships here. Marta's stew. Hask's gruff kindness. The children in the schoolroom. Aldric teaching a nervous teenager to control her first spark.
@@ -1178,7 +1277,7 @@ All of it will survive only if the players leave.
 The chase from Lux Aeterna to the coast should feel like a war-movie extraction. Use the following structure:
 
 **Leg 1: The Foothills (Day 1)**
-- Kael (young Lothari dream-walker, gender-neutral, calm under pressure, terrible at cooking) leads the party through hidden washes and dry riverbeds
+- Soru (young Lothari dream-walker, gender-neutral, calm under pressure, terrible at cooking) leads the party through hidden washes and dry riverbeds
 - Sand-Rider outriders are spotted on the ridgeline — paralleling the party's course but not engaging. They're waiting for the main force.
 - **Encounter Option:** A narrow canyon with only one way through. A Sand-Stalker nest blocks the path. The players must clear it quickly — the Sand-Riders are two hours behind.
 
@@ -1201,7 +1300,7 @@ The chase from Lux Aeterna to the coast should feel like a war-movie extraction.
 
   *Payoff:* If Goss/Tomas was caught, a letter from a Mirennian contact arrives in Act II: a prisoner was released without charge after months of interrogation — insufficient evidence of magic. They're alive. If Goss/Tomas was saved, they arrive in Gearhaven three months later via the Azure Hand route. They find the players. They are alive because someone went back.
 
-- **Decision Point:** Kael spots something troubling — a second set of tracks. Another patrol. The Legio Null is boxing them in. Kael knows a shortcut through Lothari sacred territory (faster but risky — the Silent Network guards their secrets with lethal force), or the party can try to punch through the patrol (direct combat with 6 Sand-Riders and Commander Thalric).
+- **Decision Point:** Soru spots something troubling — a second set of tracks. Another patrol. The Legio Null is boxing them in. Soru knows a shortcut through Lothari sacred territory (faster but risky — the Silent Network guards their secrets with lethal force), or the party can try to punch through the patrol (direct combat with 6 Sand-Riders and Commander Thalric).
 
 **Leg 3: The Coastal Approach (Day 3)**
 - The terrain shifts to rocky scrubland and sea-cliffs. Salt air. The sound of surf.
@@ -1238,7 +1337,7 @@ The players on the *Silk Dagger*, watching the mainland's cliffs shrink behind t
 Yet.
 
 **What the Last Shot Looks Like:**
-The desert. Orange light. Kael standing on the cliff watching the ship go, because Kael stayed — they belong to this coast and this is where the Silent Network needs them. A player might look back. Let them see Kael raise one hand.
+The desert. Orange light. Soru standing on the cliff watching the ship go, because Soru stayed — they belong to this coast and this is where the Silent Network needs them. A player might look back. Let them see Soru raise one hand.
 
 Then the cliffs curve and there's only ocean.
 
@@ -1255,14 +1354,14 @@ The GM should explicitly track these during Act I so they can be deployed at the
 | **Hask's self-test** ("I don't sell what I haven't tried") | In Act II, when the players are weighing trusting the Architect, someone might remember Hask's words and realize: they have been taking the Architect's word for everything without testing anything. |
 | **The Architect's personal address** | In Act III, when the Architect says "Thank you," those same cadences echo. The comfort was real. The use was also real. Every word it said was a key cut to fit a specific lock. |
 | **Goss/Tomas (Salt Flats — caught or saved)** | See above. The result of the players' choice returns to them in Act II. |
-| **Kael raising their hand on the cliff** | If Kael reappears in Act II or III, no grand reunion. Just: they're there. That's enough. |
+| **Soru raising their hand on the cliff** | If Soru reappears in Act II or III, no grand reunion. Just: they're there. That's enough. |
 | **Cira's "it's lighter than you think"** | When a character finally understands what they've been carrying — their wound, their fear, their background's through-line question — this is the moment. It probably happens during or after the final confrontation. Cira was right. She's always right. |
 
 > **Faction Standing Changes — Act I:**
 > - Lux Aeterna: +1 (max 5) if the players chose to leave willingly; unchanged if they had to be convinced
 > - Legio Null: Remains 1 (locked enemies)
 > - Azure Hand: +1 to 4 if the players are cooperative with Vesper; unchanged if hostile
-> - Lothari Silent Network: +1 to 4 if the players respected the waystation and Kael; -1 to 2 if they trespassed on sacred Lothari territory
+> - Lothari Silent Network: +1 to 4 if the players respected the waystation and Soru; -1 to 2 if they trespassed on sacred Lothari territory
 > - Shadewalkers: +1 to 4 if the players cooperated with Ink; unchanged otherwise
 
 ---
@@ -1484,7 +1583,7 @@ The lowest inhabited level — dimly lit tunnels where the Gatestone Clans perfo
 | **The Abandoned Deeps** | Below the active mines — collapsed tunnels, flooded chambers, and sealed passages from the kingdom's earlier, more ambitious days. This is where the Bronr'n Legacy meets in secret. It is also the path to the Adamant Foundations. |
 
 **The Adamant Foundations (First Age Level)**
-Below everything — below the mines, below the collapsed tunnels, below the memory of living Dwarves — lie the Adamant Foundations. The bedrock on which Kharnzarak was built. This is First Age construction: the same dark, too-regular stone as the Ruin of Kel-Thar, the same alien geometry.
+Below everything — below the mines, below the collapsed tunnels, below the memory of living Dwarves — lie the Adamant Foundations. The bedrock on which Kharnzarak was built. This is First Age construction: the same dark, too-regular stone as the Ruin of Sorath, the same alien geometry.
 
 The Deep Measure is here — embedded in a crystalline formation at the mountain's absolute root. It has been here since before the Dwarves built their kingdom above it. The field of Control radiates upward through miles of stone, subtle but relentless, shaping Dwarven society toward rigid order for three thousand years.
 
@@ -1807,7 +1906,7 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
 | **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. |
-| **Lothari Silent Network** | Rep 4+ | Kael arrives with Lothari dream-walkers who can project illusions to confuse the cathedral's construct defenses. |
+| **Lothari Silent Network** | Rep 4+ | Soru arrives with Lothari dream-walkers who can project illusions to confuse the cathedral's construct defenses. |
 | **Commander Thalric** | Convinced in Act III | 20 Sand-Riders in Cold-Iron armor. Their anti-magic equipment provides resistance to the Fifth Harmony wave. Thalric fights beside mages for the first time in his life. |
 | **Vyra Scale-Speaker** | Accepted her message | Arrives with 3 Drakona exiles. They can't fly, but they can breathe fire and their scales resist the Fifth Harmony. |
 
@@ -1980,7 +2079,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Warden Sabel | Head of defense | Lux Aeterna | Quiet, fierce, haunted |
 | Old Cira | Dream-mystic/prophet | Lux Aeterna (mobile) | Cryptic, kind, terrifying |
 | Ink | Shadewalker archivist | Mobile | Precise, quiet, dangerous |
-| Kael | Lothari guide | Desert/mobile | Calm, competent, young |
+| Soru | Lothari guide | Desert/mobile | Calm, competent, young |
 | Commander Thalric | Legio Null hunter | Mainland | Polite, professional, remorseless |
 | Vesper Moraine | Azure Hand smuggler | Ocean/ports | Cold, professional, mercenary |
 | Miravel Ashwine | Spatial mage / Echo-Lord operative (unknowing) | Mobile (travels with party) | Warm, perceptive, deceived |
