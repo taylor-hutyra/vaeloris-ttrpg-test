@@ -337,6 +337,291 @@ These interactions are emergent — let the players be creative. Reward clever f
 
 ---
 
+## Chapter 3.7: Miravel Ashwine — The Friendly Traitor
+
+*Introduced late Act I. Present throughout Act II. Revealed Act III.*
+
+### Who She Is
+
+**Miravel Ashwine** is a human woman in her mid-40s — ash-blonde hair going silver at the temples, wiry and sun-weathered, with the faint smell of ozone that clings to spatial mages. She dresses practically: layered desert clothes, good boots, a leather satchel packed with cartographic tools and correspondence. She moves like someone who has been many places and is comfortable in all of them.
+
+To the players, she is: warm, perceptive, genuinely helpful, and one of the most valuable people they've ever met. A rare spatial-magic specialist who can teleport between "anchor points" she has prepared — cutting weeks of dangerous travel to an instant. An Azure Hand logistics operative who works independently, connects people who need connecting, and asks very little in return.
+
+To the Echo-Lord: an instrument. A true believer who has been providing logistical and intelligence support to "The Architect" for seven years, believing it to be a divine servant of the Four. She doesn't know it is an Echo-entity. She knows the Crown pieces exist and must be gathered. She was told that mages would carry them and that she should help them succeed.
+
+**She is not evil.** She is deceived — as the players are deceived — by something skilled at wearing the face of hope.
+
+### Her Role in the Campaign
+
+Miravel solves the travel problem. Gearhaven is on a different continent — getting there by sea takes months at minimum, and the players are hunted. Miravel's spatial-anchor teleportation cuts that to seconds, at the cost of exhaustion (24-hour recovery between uses) and the advance preparation time to set a destination anchor.
+
+More importantly: she becomes the campaign's **fifth major relationship.** She knows everything the players know. She supports them between arcs. She celebrates their victories and grieves their losses. By Act III, losing her trust — or watching her reckon with what she's done — should feel like losing a limb.
+
+### The Anchor Points (How Her Magic Works)
+
+Miravel uses a form of pre-Paroxysm spatial magic — recovered from First Age texts she found as a young archivist, predating the Arcane Revolution by millennia. In SA 1490, she is one of perhaps three people alive who can do this. The magic requires:
+
+1. **A destination anchor** — a prepared site she visits in advance, inscribed with resonance-notation
+2. **A departure point** — any location she's standing
+3. **24 hours of recovery** between uses
+
+She prepared anchors at Gearhaven through prior Azure Hand business and in other key locations. She cannot teleport to a place she has not anchored. Between arcs, she travels ahead of the party (by conventional means, or via the Azure Hand's network), prepares the next anchor, and meets them at departure.
+
+**The Truth About the Anchors:** Each anchor Miravel prepares also functions as a resonance node that feeds the Crown pieces' energy signatures back to the Echo-Lord. She doesn't know this. She inscribed the notation the Architect gave her, believing it was "spatial stabilization" math. It is, in part. It is also a tracking system. When the Architect reveals itself in Act III, perceptive players will realize: every location they've been, the Echo-Lord knew. Not from the Compass alone. From the anchors. From Miravel.
+
+### Introduction — Late Act I
+
+Miravel arrives at the smuggler's cove by a different path from the players: a small Lothari desert-skiff, travelling alone. She's been moving through the desert's quiet routes, arriving at the same time as the party with suspicious precision. She introduces herself as an Azure Hand logistics coordinator — "I arrange transport for people who can't travel openly" — and says she was told to meet them here.
+
+If pressed on who told her: "A contact. Someone I trust. They said there would be people at this cove carrying something important, and that they needed help getting where they're going." She doesn't mention the Architect by name unless the players do first.
+
+She boards the *Silk Dagger* with them, explaining she has business in the same direction. She offers the group a proposition: she has a prepared anchor point in Gearhaven — the crossing by sea would take months, but she can get them there in a heartbeat once she recovers from the journey here. Twenty-four hours. Then they're gone.
+
+What she reveals over the first voyage:
+- She's originally from Port Farrick, Mirennian League territory
+- She was a minor archivist before her spatial magic manifested at age 28
+- She has no family. "I had colleagues. They became uncomfortable with what I could do."
+- She found First Age texts that changed her understanding of magic entirely
+- She believes the world is at a pivot point and that the right actions now matter enormously
+
+What she does not reveal:
+- The Architect has been guiding her for seven years
+- She prepared anchor points at "important" locations based on the Architect's guidance
+- She keeps a small private journal with notes on each player — their strengths, fears, what they care about most. Not for malice. For the mission.
+
+### Act II — Between Arcs
+
+Between each arc, Miravel provides transport and the 24-hour recovery window becomes downtime. She travels ahead, prepares the next anchor, and meets the party at the departure site. She tracks them via Azure Hand courier when separated.
+
+**Use these scenes for:**
+- Genuine relationship building — she asks personal questions and remembers every answer
+- The players learning her history gradually, in pieces
+- Subtle wrongness: a question she asks that she shouldn't know to ask, a detail about their mission she knows before they told her
+- Her growing unease — in the last arc before Act III, she is beginning to sense that something about the Architect's guidance doesn't add up
+
+**The Moment of Doubt (between second and third arcs):**
+Miravel asks the players something that reveals she knows too much:
+
+> "The Architect told me the last piece is in the Barren Hills. But the piece in [previous arc location] wasn't where it was supposed to be — it was embedded in a community. A living community that depended on it. Did the Architect know that before you arrived? Because it seemed... unsurprised."
+
+If the players engage honestly, this scene becomes the first crack — the beginning of her reckoning with what she's been serving. She will push back, defend the Architect. She's been with it for seven years. That doesn't end in a single conversation. But something in her face changes.
+
+If the players have kept secrets or don't trust her, the question passes quietly. She seems satisfied by whatever answer she gets. The crack doesn't open. And the betrayal, when it comes, is colder.
+
+### Act III — The Absence and Return
+
+When the Architect reveals itself at the Barren Hills, Miravel is gone. She teleported the party to the site and then said she needed to "prepare the return anchor" — leaving before the trap was sprung. Whether this was instructed by the Echo-Lord (to protect her usefulness) or whether she sensed something wrong and withdrew... the players don't know.
+
+**The Return:** In the middle of the Cathedral assault, Miravel arrives — exhausted, half-burned, her satchel held in white-knuckled hands. She has been dismantling her anchor points. The anchors weren't just tracking tools — the Echo-Lord has been using them as relay nodes for the Fifth Harmony wave, amplifying its reach. With the anchors standing, the wave spreads faster and farther. Without them, the Cathedral is the only source, and the players have a chance.
+
+Dismantling the anchors required her to channel massive spatial magic through each one as it collapsed. She's destroyed five. Three remain — two inside the Cathedral itself.
+
+She cannot face the players fully. She says: *"I didn't know. I need you to know that. I didn't know what I was building."* Then: *"What do you need from me?"*
+
+**What she can offer at this point:**
+- Teleport one party member to any of the remaining anchors (costs her most of what she has left)
+- Provide inside intelligence on the Cathedral's spatial architecture (she inscribed it)
+- Fight alongside the party (hurt but functional)
+- **The sacrifice option:** Channel herself through all remaining anchors simultaneously, collapsing them at once. She survives — barely — but permanently loses Spatial Anchor Teleportation. It's her choice. Let her make it.
+
+**The Players' Choice:**
+- Forgive her (she becomes a permanent ally — a mage who has lost her most powerful magic but not her usefulness)
+- Not forgive her (she accepts this, finishes her work, and disappears)
+- Let her make the sacrifice (she loses her magic, lives, and must rebuild a life without the thing that defined her — a character whose story continues past the campaign)
+
+There is no wrong answer. The point is that she faces the choice.
+
+> **MIRAVEL ASHWINE** [Rival — Ally by Act III]
+> *Human, Azure Hand operative / Echo-Lord operative (unknowing)*
+> **Brawn 2 | Agility 3 | Intellect 4 | Cunning 3 | Willpower 4 | Presence 3**
+> Soak: 3 | Wounds: 12 | Strain: 18 | Defense: 0/0
+> **Skills:** Charm 3, Cool 3, Deception 2 (rarely lies outright), Knowledge — Lore 3, Knowledge — Arcana 4, Negotiation 2, Perception 3, Stealth 2, Vigilance 2
+> **Talents:** Nobody's Fool 2, Grit 2
+> **Abilities:**
+> *Spatial Anchor Teleportation:* Miravel can teleport herself and up to six willing creatures to any prepared anchor point. 24-hour recovery between uses. Costs 4 strain.
+> *Anchor Inscription:* Over 4 hours, Miravel can prepare a new anchor at any location. This anchor also (unknown to her) creates a resonance feed to the Echo-Lord.
+> *Spatial Sense:* Miravel passively senses spatial distortions — she always knows when the party enters an area affected by the Ulzammar Band's time-distortion field, the Deep Measure's control field, or the Shard's stillness. She may interpret this as "magic interference" without understanding its source.
+> *Anchor Collapse (Act III only):* Miravel can collapse an anchor she inscribed by channeling spatial energy through herself. Costs 8 strain per anchor. If she reaches 0 strain while collapsing anchors, she may channel into Wounds instead; if she reaches 0 Wounds, the magic stabilizes — she survives, but permanently loses Spatial Anchor Teleportation.
+> **Equipment:** Cartographic tools, spatial notation journals (contain the inscription cipher for all anchors — useful for the party to locate them), Azure Hand correspondence cipher, a lockpick she never uses but always carries
+
+---
+
+## Chapter 3.8: The Emotional Architecture
+
+*This chapter is for the Game Master. The players will never read it. Follow it anyway.*
+
+### The Central Principle
+
+The mechanics of this campaign are solid. The encounters are designed. The dungeons are built. None of that matters if the players don't care about what happens.
+
+Care is built through specificity — not "the settlement is in danger" but "Marta was chopping onions at 4am when you left because she wanted to pretend she wasn't crying." Not "you made allies" but "Sprout made you a crown of leaves and wore a matching one."
+
+Every scene in this campaign has a human detail underneath the plot. The GM's job is to find it and name it.
+
+### Character Arc Threads
+
+Each player background carries a through-line question. The campaign doesn't answer it — the player does, through their choices. These are not quests. They are questions that the world keeps asking.
+
+| Background | The Question | When It Peaks |
+|------------|--------------|---------------|
+| **Persecuted Mage** | "If the persecution ended tomorrow, who would I be?" | Echo-Lord's final offer: *"No more purges."* |
+| **Lothari Dreamer** | "Was my vision a warning or an invitation?" | Discovering the Compass is the Echo-Lord's eye |
+| **Thulkor'n Exile** | "Am I my clan, or am I my choices?" | Kharnzarak — a kingdom of the people they left |
+| **Mirennian Deserter** | "I refused one order. Why do I keep following others?" | Miravel's revelation — another person who served without asking |
+| **Waldkyn Wanderer** | "I left to find answers. Every answer shows a deeper question." | The Vales — finding the home they left is dying |
+| **Orkin Outcast** | "Integration or integrity — can I have both?" | Krag-Vosk: the Orkin who never compromised and paid every day for it |
+| **Halfling Wayfinder** | "My family deals in other people's stories. When does mine start?" | The final scene — this story is theirs |
+| **Gnomish Integrator** | "I came to study the pattern. The pattern studied me back." | The Compass revealing its true nature: they have been observed the whole time |
+
+Thread these through casual dialogue, downtime scenes, and NPC conversations. They should feel like discoveries, not assignments.
+
+### The Gut-Punch Calendar
+
+These scenes are designed to emotionally land. Run each one deliberately — slow down, lower the ambient noise of the table if you can, let the silence sit.
+
+**"The Last Morning" — Act I, Session 5 or 6**
+
+When the players decide to leave Lux Aeterna, pause before the chase begins. Ask each player: *"Before you go — who do you find? What do you say?"* Run two minutes per character, no interruptions. Be specific. Let Marta pretend to be focused on the bread she's baking. Let Aldric call someone by the wrong name and then remember himself. Let Hask hand over an extra tincture without a word and turn back to his work.
+
+Then they leave.
+
+Three sessions later, a letter arrives via Azure Hand courier — Miravel passes it over without reading it. Sabel's handwriting, brief and factual: the settlement relocated successfully. Three people didn't make it — caught in the Legio Null's first sweep. The names are listed. One of them should be someone a player said goodbye to.
+
+Do not make this a quest. Do not let it be fixed. It already happened. It is the cost of what they chose.
+
+**"The Nursery Window" — Arc A, Session 9 or 10**
+
+The Nursery in Gearhaven holds 30 children. The players don't have to visit it. They should.
+
+When they do: a small boy named **Tomlin** is trying to build a mechanical bird from scraps of copper tubing. He's gotten the wings wrong. He asks the players for help. His mother died in the mainland purges; he's been in Gearhaven for two years and is starting to forget her face, which terrifies him more than he has words for.
+
+He will still be building the bird when the players are deciding whether to steal the Brass Heart, negotiate for it, or find a substitute. He will be in the Nursery building when the jungle attacks during the swap.
+
+After the Heart arc resolves: if the substitute works, Tomlin's bird works too. He shows the players. If the arc ended badly, Tomlin is fine but quieter. If the players chose Path 3 (direct theft), the jungle reached his section of the building. The GM decides whether he survived.
+
+The players will remember Tomlin. They should.
+
+**"The King's Name" — Arc B, Session 15 or 16**
+
+When the Deep Measure is removed and High King Thorgar VII blinks in the sudden clarity of his own mind for the first time in years, let the moment breathe. He is 180 years old. He has spent a generation as a puppet of something he could never perceive. He doesn't know that yet.
+
+Marga Stonefist should be there, or nearby. She is 130. Her entire life has been lived under this king's rule — every "Your Majesty," every forced silence, every morning she went to the mines and did not revolt.
+
+She says his name. Just his name. "Thorgar."
+
+Not a challenge. Not a victory cry. Just: he is a person. She is a person. That was always true, and was never allowed to be true, until now.
+
+He looks at her. Blinks. "Have we met?"
+
+"Every day," she says. "You never looked."
+
+This is not combat. This is not a skill check. This is what the dungeon was for.
+
+**"Sprout's Question" — Arc C, Session 20 or 21**
+
+On the morning the players leave for the Vault of Still Measure, a Ribbet-kyn child with a leaf-crown finds them at the Guest-Bower. Her name is **Sprout**. She has been following the party around the Vales since they arrived, watching them with enormous brown eyes, occasionally leaving small gifts (a perfect acorn, a beetle in a jar, a drawing of the players rendered in mud-paint with alarming accuracy).
+
+"Are you going into the grey place?"
+
+Yes.
+
+"Are you coming back?"
+
+The players will answer. They don't know if they're coming back. The dungeon is dangerous. Let them struggle with this. Let the question sit in the room.
+
+After the Vault — if the players survive and return — Sprout is in the same tree she was in when they left, watching the path. She's made them new leaf-crowns. Hers fell apart while she waited, but she kept the stem.
+
+**"Sabel's Armguard" — Act III, Session 26 or 27**
+
+When Sabel arrives in the Barren Hills — eight battle-mages, exhausted, underprepared, here anyway — she looks the same as she always has and slightly different.
+
+The players might notice: her burn-scar armguard is new. Different shade of leather. New symbol pressed into it — not a tactical mark but something personal. A name, if they look closely. "Lira."
+
+She won't explain unless asked. If asked: *"She was six when I deserted. She'd be thirty-two now. Her family was killed three months after I left the Legion."* A pause. *"I couldn't save her then. I can save these people now."*
+
+She changes the subject. She has plans to discuss, a perimeter to establish. She is Warden Sabel, and she will not cry about this.
+
+But she will fight for it.
+
+**The Echo-Lord's Offer — Session 28 or 29**
+
+This moment only works if the preceding sessions have done their job. When the Echo-Lord says:
+
+> *"No more purges. No more wars. No more burning children for the crime of being born with a spark."*
+
+...every player at the table should feel the pull. They have been those children. They held those children in Gearhaven's Nursery. They left behind communities of those children in Lux Aeterna.
+
+The refusal is not "because it's wrong." The refusal is because they know — intimately, personally — that the world the Echo-Lord offers is not the world those children would recognize as worth living in. Stillness is not safety. Peace is not silence.
+
+That understanding has to be earned. The 28 sessions before this moment are how you earn it.
+
+### The Ship Scenes — Between-Arc Downtime
+
+These are the scenes most likely to be skipped and the ones players will remember longest. Each voyage between arcs provides 1–3 days of downtime. Use all of it.
+
+**Conversation Seeds — run one per voyage:**
+
+*Voyage 1 (to Gearhaven):*
+Miravel makes coffee at dawn in the ship's galley — real coffee, not the bark-substitute from Lux Aeterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
+
+*Voyage 2 (between arcs):*
+Someone can't sleep. The Compass is humming faintly in a way they've never heard before — almost like it's *content.* Who is awake? Who finds them? What gets said in the dark that wouldn't get said in the light?
+
+*Voyage 3 (to the last arc):*
+The weather turns. Three days of rough seas. Everyone is seasick or exhausted or both. The Crown pieces in the party's packs feel heavier than their weight. Miravel — who doesn't get seasick — says, without preamble: *"Tell me something you've never told anyone on this ship."* This is optional. But watch who accepts.
+
+**The Rule for Ship Scenes:** No urgency. No skill checks. No monsters. These scenes are about people. The campaign earns its ending in these moments.
+
+### Relationships That Are Worth Losing
+
+The following NPCs should feel *real* before the campaign risks them. The GM's job is to give each one at least one moment of genuine warmth before the world gets harder.
+
+**Warden Sabel** — The parent-figure who respects the players too much to call herself that. She checks their packs instead of saying "I love you." Every player should feel, at some point, that Sabel is proud of them specifically.
+
+**Old Cira** — She is always right, always annoying, always exactly right. Her cryptic warnings should feel like riddles until the moment they're obviously true — and then devastating. The players should want to go back and apologize for every eye-roll.
+
+**Pip Sprocket** — Make the players laugh at Pip. Make them genuinely like Pip. He talks too much, means well, and is infectiously delighted by everything. Then put him in danger and watch the table hold its breath.
+
+**Kael** — Young, competent, carrying a loss the players might learn about gradually. Offer them a moment to save Kael at cost to themselves. Let them make the choice.
+
+**Miravel** — She is building something real with the players. Seven years of service to the Architect, and for the first time, she has people she actually knows. The betrayal will cost accordingly. So will the return.
+
+**Tomlin** — He asked for help with a mechanical bird. The players remember this when the jungle is at the gate.
+
+**Sprout** — She asked one question and kept the stem of a leaf-crown while she waited. The players remember this in the final boss fight.
+
+### NPC Loss Protocol
+
+Some NPCs will die. That's part of the story. But death is not the only kind of loss — and often not the most painful.
+
+**Losses that are not death:**
+- Kael's trust, if the players took the Lothari shortcut without permission
+- Pip's optimism, if the Heart arc ends in theft and casualties
+- Delva's safety, if the players' cover is blown in Kharnzarak
+- Marga's dream, if Mazrek takes the throne instead of reform happening
+- Miravel's magic, if she makes the sacrifice at the anchors
+
+These are not punishments. They are consequences. The players made real choices about real communities, and the world remembers.
+
+**When an NPC dies:** Name it. Give it a moment. Don't move on immediately. Let the players react. Let the table be quiet.
+
+Then continue. Because the story isn't over, and the person who died would know that.
+
+### What the Players Take Home
+
+When the campaign ends, the players should carry:
+
+- **A name they'll always remember** — Lira, Tomlin, Sprout, Miravel, someone specific from the story they lived
+- **A choice they're still thinking about** — something they did or didn't do that doesn't have a clean answer
+- **A relationship that mattered** — one NPC who felt real enough to grieve
+- **The last line** — *"You chose the noise over the silence. I hope you can live with the song you've written."*
+
+If the campaign accomplished what it set out to do, the table will be quiet for a beat after that line. Then someone will say something — probably a joke, because that's what people do when they've felt something real.
+
+Let them.
+
+---
+
 # BOOK TWO: THE CAMPAIGN
 
 ---
@@ -684,6 +969,17 @@ The chase from Lux Aeterna to the coast should feel like a war-movie extraction.
 **The Azure Hand Ship:**
 At the smuggler's cove, a Mirennian fast-cutter waits: the *Silk Dagger*, captained by **Vesper Moraine** — an Azure Hand operative. Mid-30s, dark-haired, Mirennian-accented Common, wears a signet ring with the Azure Hand's symbol (a blue palm clutching a sapphire). Professional and cold. She's not doing this out of kindness — the Azure Hand profits from the refugee trade.
 
+**A Second Arrival:**
+As the players board, a second figure appears from the rocks — on foot, alone, arriving from a different direction. A woman in her mid-40s, ash-blonde, carrying a leather satchel and smelling faintly of ozone. She speaks before anyone can challenge her: *"I was told to find the people at this cove carrying something ancient. I didn't expect it to hum quite so loudly."*
+
+This is **Miravel Ashwine** — an Azure Hand logistics operative and spatial mage. She knows Vesper by name and Vesper trusts her, if warily. Miravel says she was "guided" to this cove by a contact she trusts (she will not name the Architect unless pressed, and even then only if the players have mentioned it first). Her offer is simple: she has a prepared spatial anchor in Gearhaven, on Novaterra's coast. The crossing by sea takes weeks. She can get them there in a heartbeat — once she's recovered from the desert crossing. Twenty-four hours. Then they're gone.
+
+Vesper rolls her eyes and says Miravel is "occasionally useful and always strange," which is the closest she gets to a warm endorsement.
+
+Miravel boards the *Silk Dagger* for the first leg of the journey. She's curious about each player, useful with logistics and navigation, and careful about her own history — sharing it only in pieces, over time. She makes coffee in the ship's galley before dawn. She remembers small things people say and references them later. By the time they reach the first safe port, she already feels like someone who has always been part of the crew.
+
+*See Chapter 3.7 for Miravel's full NPC profile, stat block, and story arc.*
+
 **The Price of Passage:**
 Vesper demands payment: the players must carry a sealed package to a contact in one of the Act II destinations. The package is a lead-lined box the size of a shoebox, sealed with Azure Hand wax. It's heavy. Vesper will not say what's inside. (Contents: a collection of Shadewalker intelligence documents about Gearhaven's Mana-Pylon research, stolen from a Shadewalker courier. The Azure Hand is playing both sides.)
 
@@ -726,6 +1022,41 @@ The Architect appears between each arc — always at moments of doubt. Track the
 | First | Warmly congratulates. "You saved them from a slower death." | Dismisses collateral without empathy |
 | Second | More urgent. "The pieces are calling to each other." | Impatience; less interested in moral struggles |
 | Third | Direct, intense. "One more. Then it ends." | Drops detachment. A Waldkyn NPC says: "It is hungry." |
+
+### Between Arcs: The Voyages
+
+Between each arc, Miravel provides transport. Once she has recovered (24 hours), she opens the spatial anchor and the party moves. But the recovery window is not dead time — it is the campaign's emotional engine. These are the scenes where the story happens between the stories.
+
+**How to run them:**
+- Allocate one full session scene (15–30 minutes) of quiet, no-urgency play
+- No skill checks, no initiative, no monsters
+- Miravel is present for all of them — cooking, working on her notation journals, asking questions, being a person
+
+**Miravel's Presence Between Arcs:**
+
+She adapts to each group, but her core pattern is consistent: she listens more than she talks, she remembers more than she should, and she is genuinely interested in the people carrying the Crown pieces. She is not performing warmth — she is a lonely person who has been doing solitary work for seven years and has, for the first time, a crew.
+
+Use the following specific beats in each voyage:
+
+*After Arc A (departing Gearhaven):*
+Miravel asks who Tomlin is — she heard the name mentioned in passing. If the players answer honestly, she writes it down in her journal. She says: *"I keep track of the people who make these places worth fighting for. Otherwise it all turns abstract and I make worse choices."* She has six pages of names. The players probably won't ask who the others are. They should.
+
+*After Arc B (departing Kharnzarak):*
+Miravel is quiet for longer than usual. She asks, eventually: *"The Architect told me the fourth piece is in the Barren Hills. But the piece in Kharnzarak wasn't where it was supposed to be — it was woven into that whole kingdom. The Deep Measure's been there since before the Dwarves built anything. Did the Architect know that? Before you arrived? Because it seemed... unsurprised when you reported it."*
+
+This is her doubt speaking for the first time. She will push back if challenged. She has seven years of trust to defend. But something in her face has changed.
+
+*After Arc C (departing the Whispering Vales):*
+She is preparing the Barren Hills anchor. She will need to travel ahead — separately. She says goodbye to each player individually in a way that doesn't feel like goodbye, which is how you know it is one.
+
+One player might notice she's worn the same cartography-ink stain on her left hand since they met. She never seems to wash it off. If asked: *"Old habit. I used to mark my hands with the coordinates of the last place I anchored. So I'd know where home was."* A pause. *"I don't do it anymore. I have too many anchors."*
+
+**Conversation Seeds — see Chapter 3.8 for full prompts:**
+- "What's the first thing you'll do when this is over?" (Run this once. Remember the answers. Return to them in Act III.)
+- "Did you believe the Architect when you first met it? Do you still?" (Watch the table argue.)
+- "Tell me about someone you left behind." (Where backstory becomes present-tense stakes.)
+
+**The Rule:** The players will want to skip these scenes to get to the next arc. Don't let them skip every one. One scene — fully committed, no table phones, no meta-jokes — is worth more than three extra combat encounters. The campaign earns its finale in these moments.
 
 **Ocean Travel Random Encounters (d8):**
 
@@ -1359,6 +1690,7 @@ Somewhere, a bird sings.
 | **Song-Ward Tuning Fork** | Rare | When struck, creates Short range area of Song-Ward harmony for 1 minute. Removes 1 level of Stillness Exposure per round. Characters in the area add a Boost die to checks vs. aberration abilities. 3 charges, refreshed after 8 hours rest. | Gift from Weave-Master Thornsilk |
 | **Grukka's Bone-Totem** | Uncommon | Adds a Boost die to Discipline checks vs. charm and compulsion effects. The carrier can sense the direction of the nearest Scar of Dissonance within 10 miles. | Gift from Grukka Ash-Eye |
 | **Pip's Masterwork Communicator** | Rare | Paired devices with 10-mile range, 95% reliability. Can transmit for 1 minute per use, 5 uses per day. | Crafted by Pip if the party helped build the substitute engine |
+| **Miravel's Spatial Notation Journals** | Rare | Three journals containing the anchor inscription cipher for all locations Miravel prepared. With a **Knowledge — Arcana [Intellect], Daunting (◆◆◆◆)** check, a character can identify the location of any surviving anchor. In Act III: reveals the Cathedral's internal anchor locations, allowing targeted disruption of the Fifth Harmony relay network. | Found in Miravel's satchel (gifted or salvaged) |
 
 ## Appendix C: Faction Reputation Tracker
 
@@ -1388,6 +1720,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Kael | Lothari guide | Desert/mobile | Calm, competent, young |
 | Commander Thalric | Legio Null hunter | Mainland | Polite, professional, remorseless |
 | Vesper Moraine | Azure Hand smuggler | Ocean/ports | Cold, professional, mercenary |
+| Miravel Ashwine | Spatial mage / Echo-Lord operative (unknowing) | Mobile (travels with party) | Warm, perceptive, deceived |
 | Thaelra Flame-Eye | Gearhaven leader | Gearhaven | Brilliant, exhausted, immovable |
 | Pip Sprocket | Chief engineer | Gearhaven | Cheerful, scattered, brilliant |
 | Sergeant Hrothgar | Militia commander | Gearhaven | Gruff, pragmatic, protective |
