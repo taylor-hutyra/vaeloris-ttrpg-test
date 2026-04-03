@@ -36,8 +36,7 @@ This campaign takes place 89 years after Melek the Grey first demonstrated morta
 - **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago under the paranoid High King Thorgar VI. Inside, the Bronr'n Legacy plots reform in secret.
 - **Gearhaven** is five years old — a frontier boomtown at Rust-Water Bay, Novaterra. Elm-korin Dwarves, human mages, and Gnomes are inventing technomancy in real time. Not a metropolis — a gold-rush settlement crackling with potential.
 - **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. Inside, High King Thorgar VII rules with paranoid rigidity. The Bronr'n Legacy plots reform in secret. The Barazkor Clan enforces orthodoxy.
-- The **Pirate Confederacy** is well-established — 470 years old, ruling from Serpent's Tooth in the Fractured Isles. They serve as mercenary muscle for whoever pays, and several captains are on Shadewalker retainer.
-- The **Shadewalkers** run the intelligence underworld from Port Farrick.
+- The **Shadewalkers** run the intelligence underworld from Port Farrick, and several of their operatives maintain cover identities in settlements across both continents.
 - The **Lothari Silent Network** controls the overland Silk Road and preserves ancient knowledge in hidden desert vaults.
 - The **Waldkyn** of the Whispering Vales are split between three factions: isolationists, interventionists, and militant purifiers.
 
@@ -322,6 +321,23 @@ The Architect gives the party a crystalline device that pulses with harmonic fre
 - Cannot be destroyed by mundane means
 - If examined with any magic-sensing ability (Knowledge — Arcana [Intellect], **Average [◆◆]**), radiates protective magic overlaying something deeper and older that defies classification
 
+**The Compass's Growing Contentment — Track This Across Act II:**
+
+The Compass is a piece of the Echo-Lord. It reacts to the Crown pieces being gathered. As the party collects more fragments, the Compass changes — and these changes are red flags for observant players.
+
+| Pieces Held | Compass Behavior | Perception Check to Notice |
+|-------------|-----------------|---------------------------|
+| **1 (the Band)** | Steady pulse. Businesslike. Points toward the nearest piece with metronomic regularity. | — (baseline) |
+| **2** | The pulse becomes warmer. The hum shifts from a monotone to something almost melodic — not unpleasant. At night, the Compass glows faintly, as if content. | **Average (◆◆)**: "It sounds... happier." |
+| **3** | The Compass purrs. There is no other word for it. The harmonic frequency has acquired overtones — complex, layered, almost like breathing. When a player holds it, they feel a faint warmth, like holding a sleeping animal. The Waldkyn refuse to be in the same room with it. | **Hard (◆◆◆)**: The hum contains fragments of the Architect's voice, pitched below conscious hearing. A Triumph reveals words: *"Almost. Almost."* |
+| **4 (all pieces)** | The Compass sings. A single, clear, triumphant note — beautiful and terrible. It pulls toward the Barren Hills with physical force. The warmth is now heat. Holding it feels like holding a heart. | **Average (◆◆)**: The Compass is no longer pointing. It is *yearning.* On a Triumph: the note it sings is the opening phrase of the Fifth Harmony. |
+
+**How the Architect Manifests — The Compass Connection:**
+
+The Architect does not physically travel. It manifests THROUGH the Resonance Compass — which is, after all, a piece of its own essence. When it appears to the party, the Compass flickers, the hum intensifies, and the Architect's geometric light unfolds from the device like a hologram projected from a crystal. This is why it can appear in Kharnzarak's sealed depths, past Waldkyn Song-Wards, or in the middle of the ocean — it is already WITH the party, always.
+
+**Red flag:** Perceptive players may notice that the Architect always appears near the Compass, never far from it. If they deliberately leave the Compass in another room and wait, the Architect does not appear. If they bring it back, the Architect arrives within the hour. A **Perception (Cunning), Daunting (◆◆◆◆)** check during any manifestation reveals that the Architect's light originates FROM the Compass and expands outward — it does not arrive from elsewhere.
+
 ---
 
 ## Chapter 3.5: Recurring Antagonists
@@ -381,37 +397,6 @@ The Pale Ledger does not want to destroy the Crown or save the world. She wants 
 > *Vanish:* Once per session, the Pale Ledger may simply disappear from a scene. She was never cornered. She had an exit planned before she entered the room.
 > **Equipment:** Concealed blade (Melee; Damage 3; Crit 2; Engaged; Pierce 2, Vicious 1), the Ledger itself (contains enough blackmail to topple governments)
 
-### Captain Drest "Three-Fingers" Moray — Pirate Mercenary
-
-*Introduced Act II. Recurring combat antagonist.*
-
-Drest is a Thulkor'n Dwarf pirate captain — ambitious, blunt, and perpetually in need of coin. The Pale Ledger hired him and his crew (the corsair ship *Iron Maiden* and 30 pirates) to shadow the party, acquire Crown pieces if possible, and — at minimum — prevent the party from operating freely.
-
-Drest is not evil. He doesn't know what the Crown is. He knows the Shadewalkers are paying him extremely well to chase a group of mage-fugitives across the world and steal specific artifacts from them. He considers this a perfectly normal Tuesday.
-
-**Appearances:**
-- **Act II (first arc):** The *Iron Maiden* appears on the horizon — shadowing the party's ship. Drest doesn't engage immediately; he's assessing.
-- **Act II (second arc):** Drest and a shore party attempt to ambush the players at a critical moment — during the Crystal Deep extraction in Gearhaven, during the approach to Kharnzarak's trade-gate, or on the path to the Whispering Vales. This should be a running battle, not a set-piece — Drest fights to grab a Crown piece and retreat, not to kill.
-- **Act II (third arc):** Drest makes a direct play. He corners the party with his full crew and demands a Crown piece in exchange for leaving them alone. He can be fought (difficult — 30 pirates), negotiated with (he's pragmatic), or tricked.
-- **Act III:** If still alive, Drest shows up at the Barren Hills. The Pale Ledger sent him. When the Fifth Harmony wave begins, Drest's pirates feel it — the stillness, the loss of free will. For a man who lives for freedom, this is intolerable. He switches sides. "I signed on to steal trinkets, not to watch the world die standing up."
-
-> **CAPTAIN DREST "THREE-FINGERS" MORAY** [Nemesis]
-> *Thulkor'n Dwarf, Pirate*
-> **Brawn 4 | Agility 3 | Intellect 2 | Cunning 3 | Willpower 3 | Presence 3**
-> Soak: 6 (heavy leather + Dwarven constitution) | Wounds: 18 | Strain: 14 | Defense: 0/0
-> **Skills:** Athletics 3, Brawl 3, Coercion 2, Cool 2, Leadership 2, Melee 3, Perception 2, Ranged 2, Resilience 3, Survival 2, Vigilance 2
-> **Talents:** Adversary 1, Durable 2, Knockdown, Lethal Blows 2
-> **Abilities:**
-> *Thulkor'n Grit:* Once per encounter, when Drest suffers a Critical Injury, he may downgrade its severity by 20.
-> *Boarding Action:* Drest and his pirates add a Boost die to all combat checks during the first round of any surprise attack or boarding action.
-> **Equipment:** Dwarven war-axe (Melee; Damage 8; Crit 2; Engaged; Vicious 2), heavy pistol (Ranged; Damage 7; Crit 3; Medium; Limited Ammo 1), heavy leather coat
-
-> **DREST'S PIRATES** [Minion group — typically 2 groups of 5]
-> **Brawn 3 | Agility 2 | Intellect 1 | Cunning 2 | Willpower 2 | Presence 1**
-> Soak: 4 | Wounds: 5 each
-> **Skills (group):** Athletics, Brawl, Melee, Ranged, Vigilance
-> **Equipment:** Cutlasses (Melee; Damage 6; Crit 3; Engaged), hand crossbows (Ranged; Damage 6; Crit 4; Medium)
-
 ### Krag-Vosk the Unbroken — Bloodied Fist War-Priest
 
 *Introduced Act II. Ideological foil. Potential tragedy.*
@@ -447,20 +432,19 @@ Krag-Vosk is the campaign's most sympathetic antagonist. His people were driven 
 
 ### How the Antagonists Interact
 
-The four antagonist threads are independent — they are NOT coordinating. This creates chaos that the party can exploit:
+The three antagonist threads are independent — they are NOT coordinating. This creates chaos that the party can exploit:
 
 | Antagonist | Wants | Fears | Can Be Turned? |
 |------------|-------|-------|----------------|
 | **Thalric** | Capture the party; suppress magic | Losing control; a threat bigger than mages | Yes — if convinced the Crown is a world-ending threat |
 | **The Pale Ledger** | Information; leverage; profit | Losing control of the narrative; being irrelevant | No — but can be bargained with or outmaneuvered |
-| **Drest** | Money; reputation; the next score | The Fifth Harmony (loss of free will) | Yes — when the stakes become real, he chooses freedom |
 | **Krag-Vosk** | Resurrect Grom-Kain; Orkin salvation | The Crown being a lie; his faith being wrong | Yes — when the Echo-Lord reveals itself as a perversion of his god |
 
 **Playing them off each other:**
-- Tip off Thalric about Drest's pirate ship → Legio Null attacks the pirates instead of the party
-- Feed the Pale Ledger false information → she redirects Drest to the wrong location
+- Feed the Pale Ledger false information → she redirects her operatives to the wrong location
 - Convince Krag-Vosk that Thalric is desecrating Grom-Kain's artifacts → Orkin attack the Legio Null
-- Lead Drest to the Pale Ledger's position → pirate raids the Shadewalker camp for loot
+- Tip off Thalric about the Pale Ledger's surveillance → Legio Null raids the Shadewalker camp
+- Leak the Crown's existence to Thalric through the Pale Ledger's network → both antagonists collide while the party slips away
 
 These interactions are emergent — let the players be creative. Reward clever faction manipulation with XP and narrative advantage.
 
@@ -546,6 +530,25 @@ When the Architect reveals itself at the Barren Hills, Miravel is gone. She tele
 Dismantling the anchors required her to channel massive spatial magic through each one as it collapsed. She's destroyed five. Three remain — two inside the Cathedral itself.
 
 She cannot face the players fully. She says: *"I didn't know. I need you to know that. I didn't know what I was building."* Then: *"What do you need from me?"*
+
+**Miravel's Journal — The Names:**
+When Miravel arrives, her satchel is open. During the chaos of her entrance, the journal falls. If a player picks it up — or if it falls open at their feet — they see six pages of names. Every community the party has passed through. Every person who mattered. In Miravel's careful, cartographer's handwriting:
+
+> *Tomlin — Gearhaven. Refugee child. Building a mechanical bird. Lost his mother in the purges. Forgets her face. 8 years old.*
+>
+> *Marga Stonefist — Kharnzarak. Gatestone resistance. 130 years under the throne and never broke. Never.*
+>
+> *Sprout — Whispering Vales. Ribbet child. Makes leaf-crowns. Asked if they were coming back. They didn't answer.*
+
+And at the bottom of the last page, the players' own names — each followed by a single line. Not a tactical assessment. Something personal that Miravel noticed and never said aloud:
+
+> *[Player name] — Laughs before they fight. I think they're scared every time. I think that's why they're brave.*
+>
+> *[Player name] — Always checks on the others before sleeping. Doesn't think anyone notices.*
+
+The journal is not for the Architect. It was never for the Architect. It was for HER — a record of the people she was helping to save, because the Architect never mentioned them, and someone had to.
+
+Let the players read it. Let them take as long as they need. Then Miravel asks again: *"What do you need from me?"*
 
 **What she can offer at this point:**
 - Teleport one party member to any of the remaining anchors (costs her most of what she has left)
@@ -1387,12 +1390,22 @@ The Architect appears between each arc — always at moments of doubt. Track the
 
 ### Between Arcs: The Voyages
 
-Between each arc, Miravel provides transport. Once she has recovered (24 hours), she opens the spatial anchor and the party moves. But the recovery window is not dead time — it is the campaign's emotional engine. These are the scenes where the story happens between the stories.
+**How Travel Works — The Rule:**
+Miravel has ONE pre-prepared spatial anchor: Gearhaven. She prepared it through prior Azure Hand business. For every other destination, she must travel there conventionally FIRST, prepare a new anchor (4 hours of inscription work), and then either teleport the party to her or meet them at the departure point. This means:
+
+- **Act I → First Arc (Gearhaven):** Miravel teleports the party from the *Silk Dagger* directly to Gearhaven. Instant. The party skips the ocean crossing entirely — which is itself unsettling. One moment they're on a ship watching the mainland vanish; the next, they're standing in mineral steam on a cliff face 3,000 miles away.
+- **First Arc → Second Arc:** Miravel must travel ahead to the next destination by conventional means (Azure Hand ship, Lothari caravan, or overland). This takes 2–4 weeks. During this time, the party ALSO travels conventionally — by ship if crossing water, overland if staying on Vael. **This is where ship scenes and overland travel happen.** The party arrives at or near the destination and Miravel meets them, anchor prepared.
+- **Second Arc → Third Arc:** Same pattern. Miravel travels ahead; the party follows by conventional means. Another voyage with travel encounters and character scenes.
+- **After Third Arc → Barren Hills:** Miravel prepares the final anchor at the Barren Hills site. She travels ahead — alone, separately — which is why she's absent when the trap is sprung.
+
+This structure gives the campaign BOTH the wonder of Miravel's teleportation (used sparingly) AND the rich travel scenes that build relationships. The first teleportation is a gift. Every subsequent journey is earned on foot or by sea.
+
+**Between-arc downtime** happens during these conventional voyages — whether on a ship, at a waypoint inn, or camped by the road. Allocate one full scene (15–30 minutes) of quiet, no-urgency play per voyage.
 
 **How to run them:**
-- Allocate one full session scene (15–30 minutes) of quiet, no-urgency play
 - No skill checks, no initiative, no monsters
-- Miravel is present for all of them — cooking, working on her notation journals, asking questions, being a person
+- Miravel is present for the journey to the first arc (she teleported with them). For subsequent voyages, she may or may not be present — she's often traveling ahead. Use her absence to let the party miss her, and her return to feel like relief.
+- When Miravel IS present, she is cooking, working on her notation journals, asking questions, being a person
 
 **Miravel's Presence Between Arcs:**
 
@@ -1420,18 +1433,85 @@ One player might notice she's worn the same cartography-ink stain on her left ha
 
 **The Rule:** The players will want to skip these scenes to get to the next arc. Don't let them skip every one. One scene — fully committed, no table phones, no meta-jokes — is worth more than three extra combat encounters. The campaign earns its finale in these moments.
 
+### Letters from the World — Between-Arc Consequences
+
+After each arc, deliver one or two letters or messages to the party during travel. These arrive via Azure Hand courier, Lothari dream-network, Shadewalker dead-drop, or Miravel's contacts. They serve two purposes: they make the world feel alive beyond the party's immediate location, and they make the party's choices echo forward.
+
+**After Arc A (Gearhaven):**
+- **From Pip Sprocket** (if the substitute engine was built): *"The replacement is holding! Sort of. It makes a sound like a cat in a pipe organ every third sunrise, and we can't figure out why. Thaelra says it's 'within acceptable parameters.' I think she means 'I'm too tired to care.' Tomlin asks about you. His bird stopped working the day the Heart left. He's rebuilding it from scratch. He says the new one will be better. He's probably right — he's smarter than all of us. — Pip. P.S. The Clank Servitors miss you. Clank-2 walked into the sea last week. We fished it out. It seemed embarrassed."*
+- **From Sergeant Hrothgar** (if the party earned his respect): *"Jungle breached Pylon 6 two nights after you left. We held. Lost Kenner — new kid, you wouldn't know him. The perimeter's thinner now. We'll manage. We always manage. Don't come back unless you're bringing something that helps. — H."*
+- **If the party stole the Heart (Path 3):** No letter. Silence. Then, three sessions later, a one-line report via Azure Hand: *"Gearhaven evacuation in progress. Estimate 400 survivors. Destination unknown."*
+
+**After Arc B (Kharnzarak):**
+- **From Delva Bronr'n-Kith** (if the party left on good terms): *"The gates cracked. Not open — cracked. Thorgar issued a decree allowing trade-gate access for 'approved surface contacts' — which is the most radical thing a king of Kharnzarak has said in 90 years. Marga's people are on the new council. She says hello. She says it exactly the way you'd expect Marga to say hello."*
+- **From Korrin Gulgrym** (if the party earned his trust): *"The deep levels are unstable. We lost two mine shafts. The Foundry holds. I'm building something with the knowledge your people shared — Elm-korin principles applied to Dwarven stone-craft. It's ugly and it works. That's enough."*
+- **If the party supported Mazrek's coup:** A formal letter bearing the Farrazul seal: *"Lord Mazrek Farrazul, First Among Equals of the Stone-Lay Council, extends his regards and his gratitude. He trusts that your discretion regarding the circumstances of the recent transition will continue."* It is polite. It is also a threat.
+
+**After Arc C (Whispering Vales):**
+- **From Sprout** (if the party befriended the Ribbet child): A leaf pressed into a folded piece of bark. No words. Just the leaf. It's green. The Vales are alive.
+- **From Branch-Speaker Kethra** (if the Scar was sealed): *"The grey is retreating. Slowly — a handspan per week — but retreating. Elm-Thara sang yesterday. She hasn't sung in four years. Ash-Claw brought flowers to the Guest-Bower where you stayed. He didn't say why. He didn't need to."*
+- **If the party stole the Shard:** A message arrives through the Lothari dream-network, not from any specific sender: an image of the Harmony Oak, its leaves falling in perfect stillness. The tree is dying.
+
+**From Lux Aeterna** (arrives during any between-arc travel):
+- **From Warden Sabel** (always): Brief, factual, Sabel. *"Settlement stable. Relocated to secondary position after your departure. Mirror-charms holding. Population 387 — lost 13 in the relocation. Names on the wall. Petra joined the defense rotation last month. She's good. Better than good."* Pause. Then, in smaller handwriting at the bottom: *"Come home when you can."*
+
 **Ocean Travel Random Encounters (d8):**
 
 | Roll | Encounter |
 |------|-----------|
 | 1 | **Storm.** Three-day gale. Athletics (Brawn) or Coordination (Agility), **Average (◆◆)** or suffer strain. The Resonance Compass spins wildly in the eye. |
-| 2 | **Pirate Scout.** A fast sloop shadows the ship. Captain Grelk (laconic Orkin) is "just watching." Friendly interaction: +1 Pirate rep. |
+| 2 | **Shadewalker Skiff.** A nondescript merchant vessel shadows the ship. A woman on deck watches through a brass spyglass. She doesn't respond to hails. If boarded, the crew claims to be traders — but a Perception (Cunning) **Hard (◆◆◆)** check spots coded correspondence bearing the Pale Ledger's cipher. The party is being tracked. |
 | 3 | **Mirennian Patrol.** Golden Compass warship demands cargo inspection. Hide contraband: Deception (Cunning), **Hard (◆◆◆)**. |
 | 4 | **The Deep Song.** Mirelarim migration beneath the hull — haunting singing that falters when passing over the Crown piece. |
 | 5 | **Flotsam.** Old wreckage containing 50 Sparks, a love letter dated SA 850, and a sextant worth 100 Sparks. |
 | 6 | **Calm Seas.** Downtime and character scenes. |
 | 7 | **Azure Hand Rendezvous.** Contact takes Vesper's package, pays 50 Sparks. Reply contains Gearhaven schematics (Perception [Cunning] or Knowledge [Intellect], **Daunting [◆◆◆◆]**). |
 | 8 | **Whale-Sign.** Massive shapes below. The Compass throbs once, pointing straight down. Something responds to the Crown piece. Then it passes. |
+
+### Waypoint Towns — The World Between the Stories
+
+The campaign's major locations are separated by days or weeks of travel. These waypoint towns exist along the travel routes — places the party passes through, resupplies in, hears rumors, and builds the sense that the world is full and alive beyond their immediate mission. Each is designed for a single scene or a short rest stop, not a full arc.
+
+**How to use them:** Drop one waypoint scene into each conventional travel leg. Don't force all of them. Pick the one that fits the party's current emotional state or provides useful foreshadowing. Let the players breathe.
+
+#### Coastal and Maritime Waypoints
+
+**Cove Hallow** — A fishing village of ~100 on the Mirennian coast, a half-day's walk south of the smuggler's cove. Whitewashed stone houses, salt-crusted docks, the smell of dried fish and kelp. **Maren Saltbrook** runs a mage-touched safe house here — her cottage has a root cellar with a false wall leading to a sea cave. The village knows about the underground railroad but doesn't talk about it. Good for: resupply before the Act I escape, or a return point if the party comes back to the mainland. The fishermen here speak of "dead water" — patches of ocean where the current stops and fish float motionless. These have been increasing. (The Crown pieces' resonance is affecting deep ocean currents.)
+
+**Saltwick** — A Mirennian coastal trading post of ~500, built on a rocky headland. Azure Hand logistics hub for southbound passenger traffic. Warehouses, chandlers, a single inn called *The Salt Lamp* (clean beds, terrible food, excellent gossip). **Corvin Halstow** (Mirennian Deserter's starting contact) operates here — he still thinks the player is on extended fieldwork. The town feels like a company town: everything belongs to someone, every transaction is noted, and the Azure Hand's shadow covers everything. Good for: a port stop on the way to or from Novaterra, encountering the Azure Hand's reach, and the Mirennian Deserter's personal story.
+
+**Tidebreak** — A free port of ~200 on a small island roughly halfway between Vael and Novaterra. Built on stilts over a reef, connected by rope bridges and plank walkways. No faction controls it, which means EVERY faction has agents here. Neutral ground for deals that can't happen on land. The inn, *The Undertow*, serves a drink called "reef-water" that's either medicine or poison depending on who mixed it. The bartender, **Coral**, is a scarred Orkin woman who enforces exactly one rule: "No killing inside. Outside is your business." Good for: the Pale Ledger making first contact ("politely, over drinks, in a place where killing is bad for business"), mid-ocean resupply, hearing rumors about all three arc destinations.
+
+**Thornspire** — The first settlement ships see approaching Novaterra's southern coast. A wooden watchtower and a cluster of 40 huts on a rocky promontory above Rust-Water Bay. Originally a lookout post, now a refugee waystation. The dockmaster, **Reva Thistlewick** (Halfling, came on the third ship ever to land at the Bay), knows everyone who arrives and departs. She keeps a chalkboard of names — arrivals on the left, departures on the right. Some names appear only on the left. She doesn't erase them. Good for: first glimpse of Novaterra, establishing the refugee pipeline, the Halfling Wayfinder's family connection. The 4-hour coastal path from Thornspire to Gearhaven passes through jungle that occasionally tries to eat travelers — Reva lends a machete and says "bring it back."
+
+#### Overland Waypoints — Vael Mainland
+
+**Millhaven** — A farming village of ~150 on the road between the Varnathi Highlands and the western Vales. Wheat fields, a water mill on a slow river, stone cottages with slate roofs. The village elder, **Tobias Grenn**, is a decent man terrified of the Legio Null — he'll shelter travelers for one night but panics if they stay longer. A Legio Null informant named **Widow Grell** watches from her cottage window and reports movements to Commander Thalric's network. If the party is heading to the Whispering Vales, Grell will notice and a Sand-Rider patrol will appear on the horizon two days later. Good for: establishing the surveillance state, moral tension (do they expose Grell? She's a widow doing what she thinks keeps her village safe), and the Waldkyn Wanderer encountering the mainland they left. The mill produces a heavy dark bread that lasts weeks. Tobias gives some to anyone heading west. "The Vales don't have wheat," he says, as if that explains the kindness.
+
+**Thornback** — A market town of ~400 at the Whispering Vales' eastern edge. The last mainland settlement before the forest. Where Waldkyn and human merchants trade under ancient truce: Waldkyn bring herbs, carved wood, woven goods, and Song-Ward charms; merchants bring metal tools, salt, cloth, and news. **Finnet** (Waldkyn Wanderer's starting contact) runs a circuit through here. The town has a liminal quality — it exists in the gap between two worlds. Humans and Waldkyn coexist with mutual respect and mutual incomprehension. A Waldkyn healer named **Moss-Touch** runs a clinic that treats both species. Ash-Claw's scouts can be spotted watching from the treeline, and the townsfolk pretend not to notice. Good for: learning Waldkyn customs before entering the Vales, buying Song-Ward charms (add a Boost die to resist Stillness Exposure, 50 Sparks), encountering Ash-Claw's hostility at a distance.
+
+**Irongate Crossing** — A surface settlement of ~300 at the foot of the Dragon's Tooth Mountains. Traders, mercenaries, and hopeful merchants cluster near Kharnzarak's sealed trade-gate, waiting for cargo that may never come. The town has a resigned, waiting-room quality — everyone is here because they can't be anywhere else. **Gora Ironbreath** (Thulkor'n Exile's starting contact) runs a small escort company out of a fortified warehouse. The main tavern, *The Shut Door*, has a painted sign showing the Adamant Gates — closed. The innkeeper, **Brenn**, a grizzled human ex-caravan guard, charges fair prices and asks no questions. A Bronr'n Legacy contact named **Soot** (Thulkor'n, young, restless, tattooed) drinks at the bar most evenings and can be approached if the party shows the right signs. Good for: finding a way into Kharnzarak, encountering Dwarven exile culture, resupply before the mountain. The altitude here is already 6,000 feet. The air is thin. Characters unused to mountains add a Setback die to Athletics checks until they acclimate (1 day).
+
+**Ridgeway** — A mountain hamlet of ~60 on the ascending path to Kharnzarak's trade-gate. Goat herders, charcoal burners, and one very old woman named **Bryn** who claims she was inside Kharnzarak as a child before the sealing. (She wasn't — she's been talking to Thulkor'n traders for 50 years and has absorbed their stories so completely she can't tell the difference.) Her descriptions of the Upper Halls are weirdly accurate, including details the Bronr'n Legacy would prefer stayed secret. Ridgeway's air smells of pine resin and cold stone. The path beyond it narrows to a single-file track carved into the mountainside. Good for: the party's last chance to prepare before entering the mountain, Bryn's accidentally dangerous knowledge, and a visceral sense of ascending into a sealed world.
+
+**Ashkeld** — A rough crossroads town of ~200 on the western edge of the Barren Hills. Where Varr-Darg trading parties and mainland merchants meet under uneasy truce. The town is divided: one side for humans and other species, one side for Orkin, with a neutral market square in the middle. Weapons are technically forbidden in the square. Nobody follows the rule. **Vosk Two-Names** (Orkin Outcast's starting contact) operates here — brokering passage through clan territory and moving people who don't want to be found. The Orkin side of town smells of woodsmoke and rendered fat. The human side smells of horse sweat and anxiety. Good for: encountering Orkin culture firsthand, hiring guides for the Barren Hills, hearing Varr-Darg perspectives on Grom-Kain. A bone-totem at the town's eastern exit marks the border of Bloodied Fist territory. Beyond it, there are no more towns.
+
+**Dusthome** — An abandoned mining camp turned squatter settlement of ~40 on the Barren Hills' northern edge. Deserters, criminals, people who fell off every map. No law, no faction, no hope — except a woman named **Sera** who runs a soup kitchen out of an old mining office because "someone has to." The settlement exists in the shadow of the SA:1210 battlefield — rusted weapons and bleached bones visible in the surrounding scrubland. Sera can describe how the land has been getting "quieter" recently: the wind is less, the animals are leaving, the grass isn't growing back after the dry season. This is the Fifth Harmony's influence bleeding outward from the Scar before the Crown is even assembled. If the party passes through after completing all three arcs, Sera's silence has deepened: "Even the flies stopped." Good for: establishing the Barren Hills' curse, humanizing the wasteland, the Survivalist's connection to marginal places.
+
+#### Overland Travel Random Encounters (d8)
+
+Use these for any overland travel leg on the Vael mainland. Roll once per day of travel.
+
+| Roll | Encounter |
+|------|-----------|
+| 1 | **Lothari Caravan.** 8 camels, 4 traders, spice-and-silk smell. They know the desert routes and will trade information for news. **Elder Soshe** (Lothari Dreamer's starting contact) may be leading this caravan — if so, she has a dream-message for the party: a single image she can't interpret. |
+| 2 | **Legio Null Checkpoint.** 4 Sand-Riders at a crossroads. Demand identification and purpose of travel. Bluffable (Deception [Cunning], **Hard ◆◆◆**) or avoidable (Survival [Cunning], **Average ◆◆** to find a detour). If the party has Cold-Iron manacles or Legio Null equipment, the Sand-Riders become suspicious. |
+| 3 | **Refugee Column.** 20–30 people heading south — mages, families, the desperate. Escorted by a single Halfling Wayfinder named **Pell** (if the party has a Halfling Wayfinder, this is a family member). They share news: the purges are intensifying in [nearest city]. They need food and water. |
+| 4 | **Empty Farmstead.** Recently abandoned. A table set for dinner, food rotted on the plates. The door is open. No signs of violence. The Legio Null came in the night and the family simply... left. A child's drawing on the wall shows a figure with lines radiating from its hands. Spark. |
+| 5 | **Merchant with a Problem.** A trader's wagon has thrown a wheel on a rocky stretch. He'll pay 20 Sparks for help. While working, he gossips: he's heard of strange lights in the Barren Hills, of a sealed Dwarven kingdom that might be cracking open, of trees going grey in the western forests. All true. |
+| 6 | **Nothing.** Wind. Grass. The slow turn of the sky. Let the silence sit. These moments make the encounters matter. |
+| 7 | **Shadewalker Dead-Drop.** A distinctive mark on a milestone. If the party has a Shadewalker contact or an Underworld Operative, they recognize it: a message cache. Inside: intelligence on Legio Null patrol routes (add a Boost die to the next Stealth or Survival check to avoid patrols) and a note in the Pale Ledger's cipher. She knows where they are. |
+| 8 | **The Compass Stirs.** The Resonance Compass pulses hard — not toward a Crown piece, but toward the ground. Something deep beneath them responds to the Crown fragments the party carries. A subsonic hum rises, holds for 10 seconds, and fades. The grass in a 30-foot circle around the party has stopped moving. Then the wind returns. Let the players decide what that means. |
 
 ---
 
@@ -1450,15 +1530,15 @@ One player might notice she's worn the same cartography-ink stain on her left ha
 
 **Districts:**
 
-**The Docks (Harbor Level)** — Carved into the cliff base. Cargo cranes, sulfur-stink, the *Rusty Anchor* tavern (run by Bram "Anchor" Dolm, ex-pirate), Harbormaster Lirel (Aen'valar Elf, meticulous), Azure Hand Storehouse ("The Bookkeeper"), Tidepool Market.
+**The Docks (Harbor Level)** — Carved into the cliff base. Cargo cranes, sulfur-stink, the *Rusty Anchor* tavern (run by Bram "Anchor" Dolm, ex-Mirennian sailor), Harbormaster Lirel (Aen'valar Elf, meticulous), Azure Hand Storehouse ("The Bookkeeper"), Tidepool Market.
 
 **The Gear Quarter (Mid-Level)** — Industrial heart. Catwalks, foundries, workshops.
 - **The Heartworks** — Cathedral-sized cavern housing the Brass Heart. Restricted, guarded by 40 Cog-Guard.
 - **Cogmaster Pip's Workshop** — Cluttered with prototypes. Smells of solder.
 - **The Brass Bazaar** — Main market. Tinker Gaz sells experimental devices.
-- **The Clank Pen** — First 3 Clank Servitors being built. Endearing and occasionally combustible.
+- **The Clank Pen** — First 3 Clank Servitors being built. Endearing and occasionally combustible. (See "The Clanks" below.)
 - **Sparks & Spires** — Alchemist shop. Run by **Whisper** (Forest Gnome Integrator studying the Heart's anomalies).
-- **The Steam Baths** — Geothermal pools. Social hub.
+- **The Steam Baths** — Geothermal pools. Social hub. Hrothgar holds "militia meetings" here that are transparently an excuse to soak.
 
 **The Residences (Upper Levels)** — Honeycomb of cliff chambers. Founders' Terrace, The Nursery (30 children), Refugee Row.
 
@@ -1482,6 +1562,31 @@ One player might notice she's worn the same cartography-ink stain on her left ha
 **Sergeant Hrothgar** — Thulkor'n militia commander. Gruff, pragmatic, darkly funny. "The perimeter's been weakening. Something's getting smarter."
 
 **Tinker Gaz** — Sand Gnome Myco-Whisperer. Senses the Heart's wrongness. "The pattern around it is a scar. Torn apart on purpose."
+
+#### The Clanks — Gearhaven's Comic Relief
+
+The three Clank Servitors in the Clank Pen are Gearhaven's first attempts at autonomous constructs — and they are TERRIBLE at it. They are also deeply endearing. Use them to inject genuine humor into the Gearhaven arc, which otherwise runs heavy on moral weight.
+
+**Clank-1 ("Rusty")** — The oldest. Functions well mechanically but has developed a personality quirk: it follows the last person who gave it an instruction and continues performing that instruction until told to stop. A player who says "hand me that wrench" will find Rusty presenting them with every wrench-shaped object in Gearhaven for the next three days. Pip loves it. Thaelra wants it dismantled.
+
+**Clank-2 ("Wobbles")** — Has a balance calibration error that Pip cannot fix. It walks with a pronounced lurch that makes it look perpetually drunk. It once walked off the harbor dock and had to be fished out by Hrothgar, who was furious. Wobbles seemed embarrassed. It now avoids water. If a player befriends Wobbles, it follows them around the city making a sound that Pip insists is "contentment harmonics" and Hrothgar calls "an insult to engineering."
+
+**Clank-3 ("Sparky")** — The newest and most ambitious. It was designed to assist in the foundries but has developed an inexplicable fascination with BIRDS. It stands at the cliff edge for hours, watching gulls. It has tried to fly twice. Both times were spectacular failures. Pip has installed reinforced plating on its back after the second attempt. Sparky seems undeterred.
+
+**Why the Clanks matter:** They're funny now. They make the players laugh. They make Gearhaven feel alive and lovable. Then, during the swap sequence (when the perimeter goes down and the jungle attacks), the Clanks defend the Nursery. Rusty positions itself in a doorway and does not move. Wobbles lurches into a Maw-Borer larva and trips it. Sparky — for the first time — successfully launches itself off the cliff, crashes into a vine-beast, and both go tumbling. The players will care about these ridiculous machines. The campaign earns the Nursery scene through laughter first.
+
+**Pip's Workshop — Comedy Beats:**
+Pip talks to his inventions. Not metaphorically — he has full conversations with them. When something breaks, he apologizes to it. When something works, he congratulates it. If a player visits his workshop, they witness him explaining to a prototype Arcane Conduit why it needs to "try harder" while patting it consolingly. He is not crazy. He is a Gnome. This is normal for Gnomes. It is also very funny.
+
+**Hrothgar's Dark Humor:**
+Hrothgar's way of dealing with the constant danger of Novaterran megafauna is extremely dry wit. Sample lines to drop into scenes:
+- (After a Maw-Borer breach): *"Well. That's the second time this week the jungle's tried to eat Pylon 4. I'm starting to take it personally."*
+- (About the Clanks): *"If that one follows me to the latrine again, I'm using it for target practice."*
+- (When asked about the perimeter): *"On a scale of 'fine' to 'we're all going to die,' we're at about a 'the jungle is thinking about it.'"*
+- (If a player asks how he sleeps): *"I don't. Next question."*
+
+**The Steam Baths Scene:**
+If the players visit the Steam Baths (the geothermal pools), they find Gearhaven's social hub — a rare place where caste, faction, and species don't matter because everyone is equally miserable in sulfur-scented hot water. Elm-korin engineers argue with Gnomish researchers. Refugee children splash each other. Hrothgar sits in the hottest pool with an expression of grim satisfaction. If a player joins him, he becomes — briefly, impossibly — almost friendly. He tells exactly one joke, badly. This is the only time in the campaign Hrothgar laughs. Remember it.
 
 #### Sidequests
 
@@ -1822,7 +1927,31 @@ With all four pieces, the Resonance Compass points to the Barren Hills. The Arch
 
 ### The Return to the Mainland
 
-The party must cross back to Vael — through hostile waters, past Legio Null patrols, and into Orkin territory. The journey should feel like a homecoming to a place that doesn't want them back.
+The party must cross back to Vael — through hostile waters, past Legio Null patrols, and into Orkin territory. The journey should feel like a homecoming to a place that doesn't want them back. **Do not rush this.** The Act III journey is the last time the campaign breathes before the finale. It should take 2–3 sessions of travel, encounters, and character moments before the trap is sprung.
+
+**The Route:** The party travels by ship from wherever they completed their last arc to a mainland port (Saltwick, Aurumport, or Cove Hallow depending on their Azure Hand contacts), then overland through the Varnathi Highlands toward the Barren Hills. The total overland journey is approximately 10–14 days, passing through settled country that becomes increasingly desolate.
+
+**Travel Leg 1: The Sea Crossing (1–2 days or instant via Miravel)**
+Miravel has prepared the Barren Hills anchor — she traveled ahead after the third arc. She offers to teleport the party directly. But she's visibly hesitant. She says: *"I prepared the anchor where the Architect told me to. The notation... it fought me. The inscription wanted to be written. That's never happened before."*
+
+If the party accepts teleportation, they skip the sea crossing and arrive near Ashkeld. If they choose conventional travel (or if Miravel's hesitation makes them cautious), use the ocean encounter table and ship scenes. Either way, Miravel does NOT accompany them to the final site — she says she needs to "prepare the return anchor" and departs separately. This is why she's absent when the trap is sprung.
+
+**Travel Leg 2: Ashkeld to the Barren Hills (3–5 days overland)**
+The party passes through **Ashkeld** (see Waypoint Towns) and into the Barren Hills proper. Use the overland encounter table, plus these Act III-specific encounters:
+
+**The Returning Contacts:**
+As the party travels toward the Barren Hills, they encounter people from their past — starting contacts and allies who have been drawn toward the same destination by different paths. The Crown pieces' combined resonance is acting like a beacon, pulling everyone who has a connection to the story.
+
+Depending on the party's backgrounds, one or more of these scenes should occur:
+
+- **Gora Ironbreath** (Thulkor'n Exile's contact) appears on the road from Irongate Crossing with a small escort company. She heard about "something happening in the Hills" through mercenary channels and came to investigate. She's not sentimental: *"I don't know what you're carrying, but half the continent seems to want it. That means you need people who know how to fight and don't ask questions. I brought six."*
+- **Finnet** (Waldkyn Wanderer's contact) arrives via the western road from Thornback. She carries a bundle of Song-Ward herbs — *"Kethra sent me. She said you'd need these. She said it the way Kethra says things, which means she was terrified and didn't want me to know."*
+- **Vosk Two-Names** (Orkin Outcast's contact) is waiting at Ashkeld. He knows the Barren Hills better than anyone alive. He doesn't ask why they're going in. He says: *"The Hills have been wrong for weeks. The animals left. The shamans are singing. Something is about to happen, and I'd rather be on the side of it that has a plan."*
+- **Sergeant Cavel** (Ex-Inquisitor's contact) appears — in civilian clothes, having deserted his post. He's pale. He says: *"Thalric knows what you're carrying. He's mobilizing the full Company. I couldn't talk him down. But I can tell you exactly where he'll be and when."* This intelligence is critical for the Thalric encounter below.
+- **Pell Thistlewick** (Halfling Wayfinder's contact) sends a courier with a package: updated route maps of the Barren Hills, annotated with water sources, shelter, and terrain hazards. A note reads: *"The family doesn't go into the Hills. Ever. But you do. So here."*
+- **Yara** (Survivalist's contact) rides up on a camel, alone, and says simply: *"I dreamed about you."* She joins the caravan without further explanation. She knows every water source in the eastern foothills.
+
+**Not all of these need to appear.** Pick 2–3 that match the party's backgrounds. The point is: the world remembers, and the people the players trusted in Act I have been living their own stories. Their return makes the finale feel like a convergence, not an arrival.
 
 **Encounter: Commander Thalric Returns**
 The Legio Null commander from Act I has been promoted. He now commands a full Inquisitorial Company — 100 Sand-Riders. He's been tracking the party since they fled Lux Aeterna. However, the Resonance Compass's pull is now strong enough that the Legio Null's Null-Lanterns can detect it from miles away.
@@ -1830,6 +1959,19 @@ The Legio Null commander from Act I has been promoted. He now commands a full In
 **Decision Point:** The party can try to avoid Thalric entirely (Stealth [Agility] group check, **Daunting (◆◆◆◆)**), or they can attempt contact. Thalric is a zealot, but he's not stupid — if the party can demonstrate that the Crown is a genuine threat to civilization (not just mage nonsense), he might be convinced to redirect his hunters toward the Barren Hills instead of toward the party.
 
 If Thalric becomes an ally (difficult — Charm or Negotiation [Presence], **Formidable (◆◆◆◆◆)** with compelling evidence; a Triumph automatically sways him), he provides 20 Sand-Riders as an escort through the Barren Hills. He will not fight alongside mages, but he will fight alongside people defending the world from something worse than magic.
+
+**"The Night Before" — Act III's Last Campfire:**
+
+The night before the party reaches the Scar of Dissonance, they make camp in the Barren Hills. Grukka's Whisper-Shamans have joined them (see below). Whatever other allies are traveling with them are here. This is the last campfire.
+
+Run this scene the way you ran "The Night the Lantern Was Full" in Act I — a deliberate moment of peace before everything changes. But now the players know what peace costs. They've spent 25 sessions learning.
+
+- Grukka sits apart from the fire, facing east, singing low in Grokh. If asked what she's singing: *"A lullaby. My mother sang it. Her mother sang it. It's older than the clans. It tells the child: the world is hard, but the world is yours."*
+- If Soru is present (brought from the Lothari network), they're sitting near the fire, not looking at anyone, braiding a cord from desert grass. They don't say anything. They don't need to. They're here.
+- If any starting contacts arrived, they're here too — sharing food, sharpening weapons, being human in the shadow of something inhuman.
+- Ask each player: *"What does your character do on the last night? Who do they sit with? What do they say — or not say?"*
+
+Then the dawn comes, and they walk into the trap.
 
 ### The Orkin Encounter
 
@@ -1893,6 +2035,46 @@ The Echo-Lord begins projecting the **Fifth Harmony** — a wave of absolute sys
 
 The wave moves slowly — miles per hour. The players have time. Not much.
 
+### "This Is Not My Father" — Krag-Vosk's Reckoning
+
+**Run this scene immediately after the Fifth Harmony wave begins. It is not optional.**
+
+Krag-Vosk has been traveling with or near the party since the Orkin encounter. When the Echo-Lord dons the Crown and the wave begins, Krag-Vosk feels it before anyone else. He is an Orkin war-priest. Grom-Kain is his creator. The Crown is his god's instrument. When the Fifth Harmony radiates outward, it touches something in his blood — the part of every Orkin that was shaped by Kael'Zorai's hand.
+
+For one heartbeat, Krag-Vosk drops to his knees. His warband drops with him. Every Orkin in the Barren Hills feels it: a wave of absolute belonging, of coming home, of being CLAIMED by the being that made them. It is ecstasy. It is what the Bloodied Fist has been praying for since the exile.
+
+Then the stillness follows. And it is wrong.
+
+Krag-Vosk feels his muscles lock. Feels his thoughts flatten into a single, metronomic frequency. Feels the fire in him — the endurance, the fury, the stubborn, beautiful, Orkin refusal to lie down — go quiet. Not silenced. *Erased.* Replaced by perfect, cold, geometric obedience.
+
+He fights it. Read the following aloud, slowly:
+
+> Krag-Vosk rises. It takes everything he has. His warband is still kneeling. Some are weeping. One has gone perfectly still — Stasis, the first victim. Krag-Vosk is shaking. Every tendon stands out on his neck. His hands clench on the stone maul until his knuckles crack.
+>
+> He looks at the Cathedral. He looks at the Echo-Lord, crowned and radiant, projecting the thing his people have prayed for since before the Barren Hills had a name.
+>
+> And he says — not to the party, not to the Echo-Lord, but to himself, in a voice that sounds like it's tearing free of something:
+>
+> "This is not tempering. This is not endurance. This is not the forge."
+>
+> He looks at his hands. They're shaking.
+>
+> "My Father shaped us to SURVIVE. To FIGHT. To stand up when the world says kneel. He gave us fire in our blood and stone in our bones and the stubbornness to spit in the face of every empire that ever tried to make us small."
+>
+> The stillness pushes. He pushes back.
+>
+> "THIS —" he gestures at the wave, at the frozen animals, at the motionless grass, at his own warriors locked in false worship — "this is not His work. This is His WOUND. And I will not kneel to a wound wearing my Father's face."
+>
+> He turns to the party. His eyes are clear. His voice is a war-drum.
+>
+> "Tell me where to hit it."
+
+Then Krag-Vosk charges. His warband — those who can still move — follow. They do not fight as allies of convenience. They fight as children defending their father's memory from a parasite.
+
+**Mechanical effect:** Krag-Vosk and up to 8 Bloodied Fist warriors (those who resisted the wave) become allied combatants for the remainder of Act III. Krag-Vosk automatically provides the Orkin War-Drums tradition for the Shattering.
+
+**If a player with the Orkin Outcast background is present:** Krag-Vosk looks at them specifically before he charges. He says their name — their Orkin name, the one they may have tried to leave behind. Then: *"I see you, kin. Whatever they told you in the Quarters — you are not small. You were never small."* Then he goes. Let the player react. Do not rush past this.
+
 ### The Call to Arms
 
 **The Ally System:**
@@ -1902,10 +2084,10 @@ The players' Act II choices determine who answers. Each allied faction provides 
 |---------|-------------|-------------|
 | **Gearhaven** | Rep 4+ | Thaelra sends a prototype airship — barely functional, held together by Gnomish ingenuity. Arcane cannon can breach the cathedral's outer defenses. |
 | **Kharnzarak (Bronr'n Legacy)** | Rep 4+ | Delva and Korrin lead a strike team of Dwarven engineers and Gatestone fighters. They bring Dwarven steel, tunnel-warfare expertise, and — critically — runic tools that can interface with First Age architecture, allowing the party to bypass the cathedral's geometric defenses. |
-| **Captain Drest** | Survived + witnessed the Fifth Harmony | Drest and his remaining pirates switch sides. They provide fast-attack harassment, diversionary raids, and a ship for evacuation. "I signed on to steal trinkets, not to watch the world die standing up." |
+| **M'ren'r' Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Elara Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
 | **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
-| **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. |
+| **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. (See "Sabel's Eight" below for the reunion scene.) |
 | **Lothari Silent Network** | Rep 4+ | Soru arrives with Lothari dream-walkers who can project illusions to confuse the cathedral's construct defenses. |
 | **Commander Thalric** | Convinced in Act III | 20 Sand-Riders in Cold-Iron armor. Their anti-magic equipment provides resistance to the Fifth Harmony wave. Thalric fights beside mages for the first time in his life. |
 | **Vyra Scale-Speaker** | Accepted her message | Arrives with 3 Drakona exiles. They can't fly, but they can breathe fire and their scales resist the Fifth Harmony. |
@@ -1913,6 +2095,47 @@ The players' Act II choices determine who answers. Each allied faction provides 
 **Maximum possible allied forces:** 8 factions. Minimum: 2 (Orkin + Lux Aeterna, always).
 
 A party that earned every alliance has a coordinated multi-force assault. A party that burned bridges faces the cathedral with a skeleton crew and must rely on their own strength.
+
+### "Sabel's Eight" — The Lux Aeterna Reunion
+
+Sabel's strike team arrives from the southeast — on foot, dusty, carrying everything they own. They are not an army. They are eight people who walked across the desert because the people they love asked for help.
+
+**Name them. The players should know who came.**
+
+| # | Name | Who They Are | Why They Came |
+|---|------|-------------|---------------|
+| 1 | **Warden Sabel** | The leader. New armguard. New name pressed into the leather: Lira. | Because she wasn't there the first time someone needed her. She will be here now. |
+| 2 | **Petra** | The girl from outside the schoolroom. Now 12. Spark-touched. She is not afraid of herself anymore. | Because someone told her it gets better, and they were right, and she wants to be that person for the next kid. |
+| 3 | **Hask** | The one-eyed Orkin alchemist. Carrying a pack full of Ash-Root Paste and Scorpion-Sting Tinctures. | Because he doesn't sell what he hasn't tried, and he won't let other people test the end of the world without him. |
+| 4 | **Selin "Needles" Voss** | The Gnomish Mage-Weave specialist. Nervous, twitchy, invaluable. | Because she heard the Fifth Harmony disrupts enchantments, and if anyone is going to study that, it should be someone who might survive it. |
+| 5 | **Brother Oram** | The former priest. Lost his faith. Kept his healing. | Because "someone has to stitch them up after, and I'd rather it be someone who knows what he's doing." |
+| 6 | **Aldric Greypen** | The schoolteacher. Elderly, terrible with names, perfect recall for spell theory. | Because Petra was going and he couldn't let her go alone. He will not say this out loud. |
+| 7 | **Tomm Broadback** | The Halfling blacksmith. "Just average-sized for his family." | Because Sabel asked, and because he forged the weapons the militia carries, and he wants to see if they hold. |
+| 8 | **Goss** *(if saved in Act I)* or **Marta Dustborn** *(if Goss was lost)* | The miner they rescued / the tavern keeper who fed them. | Because they owe a debt that can't be paid in Sparks. |
+
+**The Scene:**
+
+Sabel doesn't make a speech. She walks up to the party, looks them over the way she always has — checking packs, checking weapons, checking if they've been eating — and says:
+
+*"You look terrible."*
+
+Then: *"We brought supplies. Oram has medical kits. Hask has enough tinctures for three engagements. Selin says she can interface with First Age architecture if you get her close enough."*
+
+Then she pauses. Her voice changes — barely. Just enough.
+
+*"Petra wanted to come. I told her no. She packed her bag anyway and was on the road before I woke up. Aldric followed her. So."*
+
+She looks at the party. Really looks.
+
+*"You left so we could survive. We came so you could finish."*
+
+Petra, standing behind Sabel, gives the party a small wave. She's wearing a militia armband that's too big for her. Her fingers glow faintly — not with fear, but with purpose.
+
+Hask hands each player a tincture without a word, exactly the way he's always done everything. If a player thanks him, he grunts and turns away.
+
+Aldric gets a player's name wrong, corrects himself, and says: *"I brought books. In case you need reference material. During the... the battle."* He's terrified. He came anyway.
+
+**The Ledger:** If the players remember Sabel's ledger from Act I — the one where she wrote their names and asked about next of kin — she still has it. She's been adding names throughout the campaign. Every person who passed through Lux Aeterna. Every person who left and didn't come back. Every person who left and did. The players' names are on the first page.
 
 ### The Final Dungeon: The Cathedral of Geometry
 
@@ -1944,6 +2167,29 @@ At the cathedral's heart, the Echo-Lord waits. The chamber is a sphere of perfec
 > "Look at what I've built in minutes. Imagine what I could build in centuries. No war. No hunger. No persecution. No Legio Null burning children. Isn't that what you wanted? Isn't that why you fought?"
 
 This is the hardest moment of the campaign. The Echo-Lord is right that the world is broken. Its offer is genuinely tempting to people who've spent their lives hunted.
+
+**The Words Turned to Weapons — GM Instructions:**
+
+After the general offer, the Echo-Lord turns to each player individually and echoes the EXACT words it used when it first addressed them in Act I — the personal address from the tunnels beneath Lux Aeterna. But now the context has shifted. The comfort is the same. The meaning is different.
+
+**Read the original words back to each player, then add the twist.** The GM should have the Act I personal addresses written down and ready. For each player, the Echo-Lord repeats the key phrase, then extends it:
+
+*Example (Persecuted Mage):*
+> "I told you that you were worth more than what they tried to burn out of you. I meant every word. You ARE worth more. You are worth enough to carry my work to completion. Join me, and no one will ever burn again."
+
+*Example (Waldkyn Wanderer):*
+> "I told you the answers were here. They were always going to be here. And they are. The Vales are dying because the world is broken. My way heals it. Your way — the messy, contradictory, beautiful chaos you've chosen — your way lets the Stillwood grow."
+
+*Example (Varnathi Ex-Inquisitor):*
+> "I told you that what you were does not have to be what you are. That is still true. You know better than anyone at this table what the world does to people who are different. You enforced it. You lived it. I am offering you the world where that never happens again. All it costs is the freedom to choose — and hasn't that freedom been the source of every cruelty you've ever witnessed?"
+
+**The Point:** Every gentle word from Act I was a key cut to fit a specific lock. The players should feel — physically, at the table — the recognition that they were being profiled from the first moment. The warmth was real. The use was also real. This is the betrayal of conviction: not "I lied to you," but "I told you the truth and you didn't hear what I was really saying."
+
+Let each player respond. Do not rush this. The Echo-Lord listens to every response with genuine interest. Then, whether they accept or refuse, it says:
+
+> "I hoped you would understand. I have waited 1,489 years for someone to understand."
+
+Then combat begins.
 
 > **THE ECHO-LORD (Zel'Khorath)** [Nemesis]
 > *Aberration (Divine Echo)*
@@ -1977,8 +2223,27 @@ This is the hardest moment of the campaign. The Echo-Lord is right that the worl
 > - Gravity reverses in a Short range area for 1 round (Coordination [Agility], **Hard (◆◆◆)** or become Disoriented)
 > - 2 Geometric Constructs [Minion group] manifest from the walls (Brawn 3, Agility 2, Soak 5, Wounds 5 each; reforms when shattered unless disrupted by the Gearhaven cannon frequency)
 
-**The Shattering:**
-The Crown cannot be destroyed by raw force. It must be shattered the same way it was originally: through collaborative will. Four characters must simultaneously strike it — representing the Four who opposed Kael'Zorai. If the players have earned Waldkyn allies, the Song-Ward choir can amplify the strike. If they have Orkin allies, Grukka can channel the Whisper-Shamans' spiritual authority to weaken the Crown's integrity.
+**The Shattering — A Symphony of Broken Things:**
+
+The Crown cannot be destroyed by raw force — it is a divine artifact, forged to impose one perfect note on creation. It can only be shattered the way it was shattered during the Binding: not with one voice, but with MANY. Not one perfect note, but a gloriously imperfect, chaotic, LOUD act of defiance that embodies everything Kael'Zorai despised — diversity, contradiction, and the refusal to be silent.
+
+**The Mechanic:** The Crown has a Harmony Threshold of 5. Each tradition channeled against it reduces the threshold by 1. When the threshold reaches 0, the Crown shatters. Each tradition requires a character (PC or allied NPC) to perform a specific action:
+
+| Tradition | Who Provides It | Action | Effect |
+|-----------|----------------|--------|--------|
+| **Waldkyn Song-Wards** (the music of balance) | Kethra's choir (if allied) or a Waldkyn PC | Sing a Song-Ward harmony within Short range | -1 Threshold; also suppresses the Echo-Lord's Aura for 1 round |
+| **Elm-korin Forge-Chants** (the rhythm of creation) | Thaelra or a Gearhaven ally (if allied) | Strike metal in the forge-chant cadence | -1 Threshold; also disrupts Geometric Construct reformation |
+| **Orkin War-Drums** (the beat of endurance) | Grukka's shamans (always present) | Pound the war-rhythm of Grom-Kain's Tempering | -1 Threshold; also grants all allies a Boost die to Resilience for 1 round |
+| **Human Magic** (the spark of potential) | Any PC with magical ability | Channel raw, unstructured magic — not a spell, but the Spark itself | -1 Threshold; requires the caster to suffer 4 strain (the cost of being heard) |
+| **Lothari Dream-Singing** (the melody of memory) | Soru or a Lothari contact (if allied), or Old Cira if present | Sing the dream-tradition's memory of what the world sounded like before the Paroxysm | -1 Threshold; also creates a zone of clarity that removes 1 level of Stillness Exposure from all allies |
+| **Dwarven Stone-Lays** (the weight of history) | Delva, Korrin, or Marga (if allied) | Recite the forbidden Ulzammar Verses — the sealed sections of the Stone-Lays | -1 Threshold; also weakens the Crown's structural integrity (-5 Wounds) |
+| **The Players' Own Defiance** | Any PC | Shout, sing, scream, laugh, cry — anything that is THEIRS, not the Echo-Lord's | -1 Threshold (only if at least 3 other traditions are already active) |
+
+The party needs any 5 of 7 possible traditions. A party with all allies has options to spare. A party with few allies must rely more heavily on their own actions and the Orkin (who always come). The minimum-ally scenario (Orkin + Lux Aeterna) means the players must provide human magic, their own defiance, AND find a way to channel at least one more tradition — perhaps through an artifact (the Song-Ward Tuning Fork), a memory (Cira's teaching), or sheer creative improvisation.
+
+**The Moment:** When the fifth tradition joins the cacophony, the sound in the Cathedral changes. The Echo-Lord's Fifth Harmony — that single, perfect, suffocating note — begins to crack. Not because the noise is louder. Because it is MORE. More voices, more rhythms, more ways of being alive. The Crown, designed to impose one law on creation, cannot contain the contradiction of a world that refuses to agree on anything except that it wants to exist.
+
+**Running the Scene:** This should not be a quick mechanical exercise. Each tradition that joins should be narrated. Let the players hear the Song-Ward choir's harmonics rising. Let them feel the floor vibrate when Grukka's war-drums begin. Let the forge-chant ring off the crystalline walls. Let a player's raw, desperate magic flare like a bonfire. And when the last voice joins — whatever it is, whoever it comes from — let the table be quiet for one beat before you describe what happens next.
 
 When the Crown shatters:
 - The Fifth Harmony wave collapses
@@ -2002,7 +2267,7 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 | **Lux Aeterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Aeterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Aeterna survives regardless, but the players never learn what happened to the people they left behind. |
 | **Gearhaven** | Thaelra sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
 | **Kharnzarak** | The gates crack open — for the first time in 90 years. Thorgar VII, clear-eyed and shaken, issues a single edict: "We were sealed by fear. We will open by choice." Trade resumes. The Bronr'n Legacy is legitimized. The Gatestone Clans gain representation on the Stone-Lay Council. It will take generations, but the mountain is breathing again. | Thorgar VII's paranoia returns without the Deep Measure — but differently. He becomes erratic, violent. Mazrek stages a coup. Kharnzarak enters civil war. The gates remain sealed, now by conflict rather than decree. |
-| **Captain Drest** | If he survived and fought alongside the party, Drest sends a message via Azure Hand courier: "I broke my contract for you. The Shadewalkers want my head. Worth it. If you need a ship, you know where to find me." He becomes a permanent ally — a free captain beholden to no one. | If Drest was killed or never turned, the Pale Ledger hires a new pirate captain. The cycle continues. |
+| **M'ren'r' Volunteers** | If allied, Captain Elara Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
 | **Waldkyn** | Sprout (the Ribbet child) sends a letter carried by a Faerie messenger: "The trees are singing again. Come play." The Stillwood retreats. The Vales heal. | The Stillwood reaches the Harmony Oak within four years. The Waldkyn flee. The Vales become the largest Stillwood zone on the continent — a wound that will not heal for centuries. |
 | **Orkin** | Grukka carves the party's names into a bone-totem and places it in the Barren Hills where the cathedral stood. "You fought for a world that never fought for us. We will remember." The Whisper-Shamans gain influence among the clans, tempering the Bloodied Fist's rage. | The Varr-Darg return to their cycle of violence. Nothing changes for the Orkin. It never does. |
 
@@ -2048,7 +2313,7 @@ Somewhere, a bird sings.
 | **Gnomish Geo-Map** | Rare | Creates holographic 3D map of 1-mile radius when placed on stone | Crystal Deep |
 | **Mage-Weave Cloak** | Uncommon | Adds a Boost die to Stealth checks in desert/arid terrain | Lux Aeterna (crafted) |
 | **Cold-Iron Manacles** | Uncommon | Suppress magic actions while worn | Taken from Legio Null |
-| **The Blood Pennant** | Uncommon (social) | Grants automatic audience with any pirate captain | Rum-Runner's Race |
+| **The Pale Ledger's Card** | Uncommon (social) | A calling card bearing the Pale Ledger's cipher. Grants one free audience with any Shadewalker contact — they assume you're working for her. Single use; the second time you flash it, she finds out. | Taken or traded from the Pale Ledger |
 | **Song-Ward Tuning Fork** | Rare | When struck, creates Short range area of Song-Ward harmony for 1 minute. Removes 1 level of Stillness Exposure per round. Characters in the area add a Boost die to checks vs. aberration abilities. 3 charges, refreshed after 8 hours rest. | Gift from Weave-Master Thornsilk |
 | **Grukka's Bone-Totem** | Uncommon | Adds a Boost die to Discipline checks vs. charm and compulsion effects. The carrier can sense the direction of the nearest Scar of Dissonance within 10 miles. | Gift from Grukka Ash-Eye |
 | **Pip's Masterwork Communicator** | Rare | Paired devices with 10-mile range, 95% reliability. Can transmit for 1 minute per use, 5 uses per day. | Crafted by Pip if the party helped build the substitute engine |
@@ -2094,7 +2359,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Marga Stonefist | Gatestone resistance leader | Kharnzarak Lower Deep | Hard, fierce, revolutionary |
 | Commander Thalric | Legio Null hunter | Mainland (pursues) | Polite, professional, remorseless |
 | The Pale Ledger | Shadewalker operative | Mobile (everywhere) | Unremarkable, omniscient, patient |
-| Drest "Three-Fingers" Moray | Pirate mercenary | Mobile (pursues) | Blunt, pragmatic, turnable |
+| Captain Elara Voss | M'ren'r' Volunteer Corps | M'ren'r' / Barren Hills | Precise, principled, dry |
 | Krag-Vosk the Unbroken | Bloodied Fist war-priest | Barren Hills (mobile) | Devout, terrifying, sincere |
 | Root-Speaker Elm-Thara | Stillwood Circle elder | Whispering Vales | Patient, immovable, ancient |
 | Branch-Speaker Kethra | Flowing River leader | Whispering Vales | Quick, frustrated, hopeful |

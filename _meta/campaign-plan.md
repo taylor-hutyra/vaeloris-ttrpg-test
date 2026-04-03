@@ -1,4 +1,6 @@
-# The Broken Harmonies — Campaign Plan
+# The Broken Harmonies — Campaign Plan (SUPERSEDED)
+
+> **NOTE:** This is the original planning document. The canonical, up-to-date campaign document is `the-broken-harmonies.md`. Key differences: the pirate/Leviathan's Eye arc has been replaced with the Kharnzarak/Deep Measure arc; Captain Drest has been removed; the Crown piece count and locations differ. Always refer to `the-broken-harmonies.md` for current content.
 
 > **Setting:** SA:1490 — The Arcane Revolution epoch
 > **Levels:** 1–12 (three acts)
