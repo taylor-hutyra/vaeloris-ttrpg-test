@@ -1438,7 +1438,7 @@ One player might notice she's worn the same cartography-ink stain on her left ha
 After each arc, deliver one or two letters or messages to the party during travel. These arrive via Azure Hand courier, Lothari dream-network, Shadewalker dead-drop, or Miravel's contacts. They serve two purposes: they make the world feel alive beyond the party's immediate location, and they make the party's choices echo forward.
 
 **After Arc A (Gearhaven):**
-- **From Pip Sprocket** (if the substitute engine was built): *"The replacement is holding! Sort of. It makes a sound like a cat in a pipe organ every third sunrise, and we can't figure out why. Thaelra says it's 'within acceptable parameters.' I think she means 'I'm too tired to care.' Tomlin asks about you. His bird stopped working the day the Heart left. He's rebuilding it from scratch. He says the new one will be better. He's probably right — he's smarter than all of us. — Pip. P.S. The Clank Servitors miss you. Clank-2 walked into the sea last week. We fished it out. It seemed embarrassed."*
+- **From Pip Sprocket** (if the substitute engine was built): *"The replacement is holding! Sort of. It makes a sound like a cat in a pipe organ every third sunrise, and we can't figure out why. Thaelra says it's 'within acceptable parameters.' I think she means 'I'm too tired to care.' Tomlin asks about you. His bird stopped working the day the Heart left. He's rebuilding it from scratch. He says the new one will be better. He's probably right — he's smarter than all of us. — Pip. P.S. The Rigs miss you. Wobbles rolled into the sea last week. We fished it out. It seemed embarrassed."*
 - **From Sergeant Hrothgar** (if the party earned his respect): *"Jungle breached Pylon 6 two nights after you left. We held. Lost Kenner — new kid, you wouldn't know him. The perimeter's thinner now. We'll manage. We always manage. Don't come back unless you're bringing something that helps. — H."*
 - **If the party stole the Heart (Path 3):** No letter. Silence. Then, three sessions later, a one-line report via Azure Hand: *"Gearhaven evacuation in progress. Estimate 400 survivors. Destination unknown."*
 
@@ -1536,7 +1536,7 @@ Use these for any overland travel leg on the Vael mainland. Roll once per day of
 - **The Heartworks** — Cathedral-sized cavern housing the Brass Heart. Restricted, guarded by 40 Cog-Guard.
 - **Cogmaster Pip's Workshop** — Cluttered with prototypes. Smells of solder.
 - **The Brass Bazaar** — Main market. Tinker Gaz sells experimental devices.
-- **The Clank Pen** — First 3 Clank Servitors being built. Endearing and occasionally combustible. (See "The Clanks" below.)
+- **The Prototype Yard** — An open-air workshop where Pip tests experimental constructs and devices. Currently home to three prototype **Mana-Rigs** — semi-autonomous tool-carriers powered by crude Arcane Conduits. They're meant to haul ore and assist in the foundries. They do not work well. (See "The Rigs" below.)
 - **Sparks & Spires** — Alchemist shop. Run by **Whisper** (Forest Gnome Integrator studying the Heart's anomalies).
 - **The Steam Baths** — Geothermal pools. Social hub. Hrothgar holds "militia meetings" here that are transparently an excuse to soak.
 
@@ -1563,17 +1563,17 @@ Use these for any overland travel leg on the Vael mainland. Roll once per day of
 
 **Tinker Gaz** — Sand Gnome Myco-Whisperer. Senses the Heart's wrongness. "The pattern around it is a scar. Torn apart on purpose."
 
-#### The Clanks — Gearhaven's Comic Relief
+#### The Rigs — Gearhaven's Comic Relief
 
-The three Clank Servitors in the Clank Pen are Gearhaven's first attempts at autonomous constructs — and they are TERRIBLE at it. They are also deeply endearing. Use them to inject genuine humor into the Gearhaven arc, which otherwise runs heavy on moral weight.
+The three prototype Mana-Rigs in the Prototype Yard are Gearhaven's first attempts at mana-powered tool-carriers — crude, wheeled contraptions with mechanical arms, powered by small Arcane Conduits. They are meant to haul ore and assist in the foundries. They are TERRIBLE at it. They are also deeply endearing. Use them to inject genuine humor into the Gearhaven arc, which otherwise runs heavy on moral weight.
 
-**Clank-1 ("Rusty")** — The oldest. Functions well mechanically but has developed a personality quirk: it follows the last person who gave it an instruction and continues performing that instruction until told to stop. A player who says "hand me that wrench" will find Rusty presenting them with every wrench-shaped object in Gearhaven for the next three days. Pip loves it. Thaelra wants it dismantled.
+**Rig-1 ("Rusty")** — The oldest. Functions well mechanically but has developed a quirk: it follows the last person who gave it an instruction and continues performing that instruction until told to stop. A player who says "bring me that wrench" will find Rusty presenting them with every wrench-shaped object in Gearhaven for the next three days. Pip loves it. Thaelra wants it scrapped.
 
-**Clank-2 ("Wobbles")** — Has a balance calibration error that Pip cannot fix. It walks with a pronounced lurch that makes it look perpetually drunk. It once walked off the harbor dock and had to be fished out by Hrothgar, who was furious. Wobbles seemed embarrassed. It now avoids water. If a player befriends Wobbles, it follows them around the city making a sound that Pip insists is "contentment harmonics" and Hrothgar calls "an insult to engineering."
+**Rig-2 ("Wobbles")** — Has a wheel alignment error that Pip cannot fix. It rolls with a pronounced lurch that makes it look perpetually drunk. It once rolled off the harbor dock and had to be fished out by Hrothgar, who was furious. Wobbles seemed to sag afterward — as if embarrassed. It now avoids the docks. If a player befriends Wobbles, it follows them around the city making a sound that Pip insists is "conduit resonance" and Hrothgar calls "an insult to engineering."
 
-**Clank-3 ("Sparky")** — The newest and most ambitious. It was designed to assist in the foundries but has developed an inexplicable fascination with BIRDS. It stands at the cliff edge for hours, watching gulls. It has tried to fly twice. Both times were spectacular failures. Pip has installed reinforced plating on its back after the second attempt. Sparky seems undeterred.
+**Rig-3 ("Sparky")** — The newest and most ambitious. It was designed for foundry work but has developed an inexplicable fascination with BIRDS. It parks at the cliff edge for hours, its mechanical arm extended toward the gulls. It has tried to roll down the cliff path to the docks twice. Both times were spectacular failures. Pip has installed wheel brakes after the second attempt. Sparky seems undeterred.
 
-**Why the Clanks matter:** They're funny now. They make the players laugh. They make Gearhaven feel alive and lovable. Then, during the swap sequence (when the perimeter goes down and the jungle attacks), the Clanks defend the Nursery. Rusty positions itself in a doorway and does not move. Wobbles lurches into a Maw-Borer larva and trips it. Sparky — for the first time — successfully launches itself off the cliff, crashes into a vine-beast, and both go tumbling. The players will care about these ridiculous machines. The campaign earns the Nursery scene through laughter first.
+**Why the Rigs matter:** They're funny now. They make the players laugh. They make Gearhaven feel alive and lovable. Then, during the swap sequence (when the perimeter goes down and the jungle attacks), the Rigs defend the Nursery. Rusty parks itself in a doorway and does not move. Wobbles lurches into a Maw-Borer larva and trips it with a wildly spinning arm. Sparky — for the first time — successfully makes it down the cliff path at full speed, crashes into a vine-beast, and both go tumbling into the harbor. The players will care about these ridiculous machines. The campaign earns the Nursery scene through laughter first.
 
 **Pip's Workshop — Comedy Beats:**
 Pip talks to his inventions. Not metaphorically — he has full conversations with them. When something breaks, he apologizes to it. When something works, he congratulates it. If a player visits his workshop, they witness him explaining to a prototype Arcane Conduit why it needs to "try harder" while patting it consolingly. He is not crazy. He is a Gnome. This is normal for Gnomes. It is also very funny.
@@ -1581,7 +1581,7 @@ Pip talks to his inventions. Not metaphorically — he has full conversations wi
 **Hrothgar's Dark Humor:**
 Hrothgar's way of dealing with the constant danger of Novaterran megafauna is extremely dry wit. Sample lines to drop into scenes:
 - (After a Maw-Borer breach): *"Well. That's the second time this week the jungle's tried to eat Pylon 4. I'm starting to take it personally."*
-- (About the Clanks): *"If that one follows me to the latrine again, I'm using it for target practice."*
+- (About the Rigs): *"If that one follows me to the latrine again, I'm using it for target practice."*
 - (When asked about the perimeter): *"On a scale of 'fine' to 'we're all going to die,' we're at about a 'the jungle is thinking about it.'"*
 - (If a player asks how he sleeps): *"I don't. Next question."*
 
