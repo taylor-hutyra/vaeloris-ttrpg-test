@@ -537,9 +537,9 @@ When Miravel arrives, her satchel is open. During the chaos of her entrance, the
 
 > *Tomlin — Gearhaven. Refugee child. Building a mechanical bird. Lost his mother in the purges. Forgets her face. 8 years old.*
 >
-> *Marga Stonefist — Kharnzarak. Gatestone resistance. 130 years under the throne and never broke. Never.*
+> *Aelindra — Lanthir Haven. Song-Mother. Watched her world's heartbeat stop and said "Go." Fourteen hundred years of silence, ended in a morning.*
 >
-> *Sprout — Whispering Vales. Ribbet child. Makes leaf-crowns. Asked if they were coming back. They didn't answer.*
+> *Dewdrop — Aerinórë. Brightleaf's sibling. Asked if we could put the singing stone back when we're done. We didn't answer.*
 
 And at the bottom of the last page, the players' own names — each followed by a single line. Not a tactical assessment. Something personal that Miravel noticed and never said aloud:
 
@@ -599,7 +599,7 @@ Each player background carries a through-line question. The campaign doesn't ans
 |------------|--------------|---------------|
 | **Persecuted Mage** | "If the persecution ended tomorrow, who would I be?" | Echo-Lord's final offer: *"No more purges."* |
 | **Lothari Dreamer** | "Was my vision a warning or an invitation?" | Discovering the Compass is the Echo-Lord's eye |
-| **Thulkorûn Exile** | "Am I my clan, or am I my choices?" | Kharnzarak — a kingdom of the people they left |
+| **Thulkorûn Exile** | "Am I my clan, or am I my choices?" | The sealed trade-gate on Dragon's Tooth — hearing forge-hammers through stone, knowing their people are inside and they can't reach them |
 | **Mirennian Deserter** | "I refused one order. Why do I keep following others?" | Miravel's revelation — another person who served without asking |
 | **Waldkyn Wanderer** | "I left to find answers. Every answer shows a deeper question." | The Vales — finding the home they left is dying |
 | **Orkin Outcast** | "Integration or integrity — can I have both?" | Krag-Vosk: the Orkin who never compromised and paid every day for it |
@@ -608,10 +608,10 @@ Each player background carries a through-line question. The campaign doesn't ans
 | **Varnathi Ex-Inquisitor** | "I built the cage. How do I live inside it — and how do I tear it down?" | Thalric — facing the person who still believes everything they used to believe |
 | **Underworld Operative** | "I've always known the price of everything. What does it cost to stop calculating?" | The Pale Ledger — a mirror of who they were before the job that changed them |
 | **Survivalist** | "I know how to survive alone. Can I survive belonging somewhere?" | Lux Aeterna's destruction and loss — the first place they ever stayed |
-| **Scholar/Archivist** | "I know what knowledge costs. Do I have the right to act on what I know?" | The Sealed Archive in Kharnzarak: knowledge suppressed for millennia, and the question of whether revealing it saves people or destroys them |
+| **Scholar/Archivist** | "I know what knowledge costs. Do I have the right to act on what I know?" | The Starfall Peaks Observatory: Vaelric's instruments show a truth the world isn't ready for, and the question of whether revealing it saves people or destroys them |
 | **Disgraced Soldier** | "I followed orders until I couldn't. How do I know which ones are worth following now?" | The Architect — a voice that always has a reason, always sounds right, always knows what to say |
 | **Healer** | "I save people because I can. What do I do when saving one costs another?" | The Brass Heart — powering Gearhaven kills something elsewhere. Every treatment has a cost. |
-| **Ruined Merchant** | "I built something real and it was taken. What am I when I'm not what I built?" | Kharnzarak's Gatestone Clans — people whose entire identity was also taken, and who chose rage instead of drift |
+| **Ruined Merchant** | "I built something real and it was taken. What am I when I'm not what I built?" | Lanthir Haven — a community that built paradise, and the party took the thing it was built around. The Merchant recognizes that loss. |
 
 Thread these through casual dialogue, downtime scenes, and NPC conversations. They should feel like discoveries, not assignments.
 
@@ -641,21 +641,21 @@ After the Heart arc resolves: if the substitute works, Tomlin's bird works too. 
 
 The players will remember Tomlin. They should.
 
-**"The King's Name" — Arc B, Session 15 or 16**
+**"The Last Song" — Arc B (Aerinórë), Session 15 or 16**
 
-When the Deep Measure is removed and High King Thorgar VII blinks in the sudden clarity of his own mind for the first time in years, let the moment breathe. He is 180 years old. He has spent a generation as a puppet of something he could never perceive. He doesn't know that yet.
+When the Gem is removed from the Great Singing Tree, let the moment breathe. The tree shudders. Sap runs from the hollow like tears. The constant, deep harmonic that has underscored every moment in Lanthir Haven — the sound the players have been hearing so long they forgot it was there — goes silent.
 
-Marga Stonefist should be there, or nearby. She is 130. Her entire life has been lived under this king's rule — every "Your Majesty," every forced silence, every morning she went to the mines and did not revolt.
+For the first time in 1,400 years, the air on Aerinórë is quiet.
 
-She says his name. Just his name. "Thorgar."
+Song-Mother Aelindra is standing at the base of the tree. She has been alive longer than the settlement. She watched the first roots grow around the Gem. She taught the first Song-Ward choir. She is not crying. She is beyond crying.
 
-Not a challenge. Not a victory cry. Just: he is a person. She is a person. That was always true, and was never allowed to be true, until now.
+She says: *"It has been singing since before I was born. I didn't know what silence sounded like."*
 
-He looks at her. Blinks. "Have we met?"
+She looks at the party. Not with anger. With something worse — with the full knowledge of what they've done, and the acceptance that it was necessary, and the grief of a person who has just watched their world's heartbeat stop.
 
-"Every day," she says. "You never looked."
+*"Go. Before the mist fails. Go do what you came to do."*
 
-This is not combat. This is not a skill check. This is what the dungeon was for.
+This is not combat. This is not a skill check. This is what the journey was for.
 
 **"Sprout's Question" — Arc C, Session 20 or 21**
 
@@ -737,8 +737,8 @@ Some NPCs will die. That's part of the story. But death is not the only kind of 
 **Losses that are not death:**
 - Soru's trust, if the players took the Lothari shortcut without permission
 - Pip's optimism, if the Heart arc ends in theft and casualties
-- Delva's safety, if the players' cover is blown in Kharnzarak
-- Marga's dream, if Mazrek takes the throne instead of reform happening
+- Aelindra's sanctuary, if the party takes the Gem by force
+- Ilwen's life, if the wind-shaper burns herself out trying to maintain the mist alone
 - Miravel's magic, if she makes the sacrifice at the anchors
 
 These are not punishments. They are consequences. The players made real choices about real communities, and the world remembers.
@@ -865,7 +865,7 @@ Lux Aeterna's market is limited but functional. Prices are 150% of standard for 
 | **Adventuring Gear** | Standard gear, climbing kit, prospecting tools | Luxury items, holy symbols (no organized religion here) |
 | **Potions** | Healing (common), antitoxin, Hask's Desert Remedies (see below) | Greater healing, rare potions |
 | **Magic Components** | Common components (up to 50 Sparks value) | Rare or expensive components |
-| **Special** | Mage-Weave scraps (useful for camouflage), Cold-Iron fragments (salvaged from dead Legio Null), Lothari sand-maps | Anything from Kharnzarak or Hannanórë |
+| **Special** | Mage-Weave scraps (useful for camouflage), Cold-Iron fragments (salvaged from dead Legio Null), Lothari sand-maps | Anything from Kharnzarak, Hannanórë, or Aerinórë |
 
 **Hask's Desert Remedies (Unique Items):**
 
@@ -1201,13 +1201,14 @@ On the third night after the Band arrives, the mirror-charms fail for one heartb
 **The Encounter:**
 The players encounter the Architect in the tunnels beneath the Veiled Market — in the deepest, quietest part of the Warrens, where the stone is oldest. It appears as a tall figure of cold, geometric light — crystal facets rotating slowly around a humanoid core. Its voice resonates with harmonic certainty. It addresses each player by name.
 
-Read or paraphrase the Architect's speech from the existing campaign plan (Part 4, Session 2-3). The key beats:
+The Architect's speech. The key beats:
 
 1. It identifies the Band as a fragment of an instrument that nearly destroyed the world
-2. It claims three more fragments exist and will attract catastrophe if not gathered
+2. It claims two more fragments exist somewhere in the world and will attract catastrophe if not gathered — but it claims NOT to know where they are. "Fifteen hundred years of watching, and even I cannot see everything. The fragments were scattered by gods. They are hidden from sight — even mine."
 3. It claims to be a servant of the Four, left behind to watch
-4. It gives them the Resonance Compass
-5. It tells them the fragments must be brought to a "wound in the world" to be unmade
+4. It gives them the Resonance Compass — "This will sing when the fragments are near. But you must first discover WHERE to search."
+5. It directs them to seek knowledge: "In the northern mountains, where the Dragon's Tooth pierces the sky, there stands an observatory built in the age of gods. Its instruments read the stars as mortals read letters. The fragments disturb the heavens — any lens trained on the sky will see their mark. Go north. Find what the stars know."
+6. It tells them that once all fragments are gathered, they must be brought to a "wound in the world" to be unmade
 
 **The Personal Address — What It Knows**
 
@@ -1329,9 +1330,7 @@ Miravel boards the *Silk Dagger* for the first leg of the journey. She's curious
 Vesper demands payment: the players must carry a sealed package to a contact in one of the Act II destinations. The package is a lead-lined box the size of a shoebox, sealed with Azure Hand wax. It's heavy. Vesper will not say what's inside. (Contents: a collection of Shadewalker intelligence documents about Gearhaven's Mana-Pylon research, stolen from a Shadewalker courier. The Azure Hand is playing both sides.)
 
 The players choose where to go first based on the Resonance Compass's three pulses:
-- Southeast (strongest) — Gearhaven, Novaterra
-- North (steady, deep underground) — Kharnzarak, the sealed Dwarven kingdom
-- West (faintest, muffled by living wards) — Whispering Vales, mainland
+The Compass does NOT point toward the other pieces at this range — they are too far away for its proximity detection (see Compass properties). Instead, it pulses with a general unease, a vibration that says "there is more out there" without indicating direction. The Architect tells the party they must seek other means to locate the remaining fragments — and suggests the Dragon's Tooth Mountains, where "the stars have been read since the age of gods."
 
 Vesper can take them to any of the three.
 
@@ -1497,9 +1496,9 @@ The campaign's major locations are separated by days or weeks of travel. These w
 
 #### Overland Waypoints — Vael Mainland
 
-**Millhaven** — A farming village of ~150 on the road between the Varnathi Highlands and the western Vales. Wheat fields, a water mill on a slow river, stone cottages with slate roofs. The village elder, **Tobias Grenn**, is a decent man terrified of the Legio Null — he'll shelter travelers for one night but panics if they stay longer. A Legio Null informant named **Widow Grell** watches from her cottage window and reports movements to Commander Thalric's network. If the party is heading to the Whispering Vales, Grell will notice and a Sand-Rider patrol will appear on the horizon two days later. Good for: establishing the surveillance state, moral tension (do they expose Grell? She's a widow doing what she thinks keeps her village safe), and the Waldkyn Wanderer encountering the mainland they left. The mill produces a heavy dark bread that lasts weeks. Tobias gives some to anyone heading west. "The Vales don't have wheat," he says, as if that explains the kindness.
+**Millhaven** — A farming village of ~150 on the road between the Varnathi Highlands and the northeast. Wheat fields, a water mill on a slow river, stone cottages with slate roofs. The village elder, **Tobias Grenn**, is a decent man terrified of the Legio Null — he'll shelter travelers for one night but panics if they stay longer. A Legio Null informant named **Widow Grell** watches from her cottage window and reports movements to Commander Thalric's network. If the party passes through, Grell will notice and a Sand-Rider patrol will appear on the horizon two days later. Good for: establishing the surveillance state, moral tension (do they expose Grell? She's a widow doing what she thinks keeps her village safe), and any PC encountering the human cost of the purges. The mill produces a heavy dark bread that lasts weeks. Tobias gives some to anyone heading north. "The mountains don't have wheat," he says, as if that explains the kindness.
 
-**Thornback** — A market town of ~400 at the Whispering Vales' eastern edge. The last mainland settlement before the forest. Where Waldkyn and human merchants trade under ancient truce: Waldkyn bring herbs, carved wood, woven goods, and Song-Ward charms; merchants bring metal tools, salt, cloth, and news. **Finnet** (Waldkyn Wanderer's starting contact) runs a circuit through here. The town has a liminal quality — it exists in the gap between two worlds. Humans and Waldkyn coexist with mutual respect and mutual incomprehension. A Waldkyn healer named **Moss-Touch** runs a clinic that treats both species. Ash-Claw's scouts can be spotted watching from the treeline, and the townsfolk pretend not to notice. Good for: learning Waldkyn customs before entering the Vales, buying Song-Ward charms (add a Boost die to resist Stillness Exposure, 50 Sparks), encountering Ash-Claw's hostility at a distance.
+**Thornback** — A market town of ~400 on the road between the mountains and the coast, near Waldkyn trading territory. Where Waldkyn diaspora and human merchants trade under ancient truce: Waldkyn bring herbs, carved wood, woven goods, and Song-Ward charms; merchants bring metal tools, salt, cloth, and news. **Finnet** (Waldkyn Wanderer's starting contact) runs a circuit through here. The town has a liminal quality — it exists in the gap between two worlds. Humans and Waldkyn coexist with mutual respect and mutual incomprehension. A Waldkyn healer named **Moss-Touch** runs a clinic that treats both species. Good for: learning Waldkyn customs before seeking passage to Aerinórë, buying Song-Ward charms (add a Boost die to resist aberration effects, 50 Sparks), encountering the Waldkyn diaspora on the mainland.
 
 **Irongate Crossing** — A surface settlement of ~300 at the foot of the Dragon's Tooth Mountains. Traders, mercenaries, and hopeful merchants cluster near Kharnzarak's sealed trade-gate, waiting for cargo that may never come. The town has a resigned, waiting-room quality — everyone is here because they can't be anywhere else. **Gora Ironbreath** (Thulkorûn Exile's starting contact) runs a small escort company out of a fortified warehouse. The main tavern, *The Shut Door*, has a painted sign showing the Adamant Gates — closed. The innkeeper, **Brenn**, a grizzled human ex-caravan guard, charges fair prices and asks no questions. A Bronrûn Legacy contact named **Soot** (Thulkorûn, young, restless, tattooed) drinks at the bar most evenings and can be approached if the party shows the right signs. Good for: finding a way into Kharnzarak, encountering Dwarven exile culture, resupply before the mountain. The altitude here is already 6,000 feet. The air is thin. Characters unused to mountains add a Setback die to Athletics checks until they acclimate (1 day).
 
@@ -1738,7 +1737,7 @@ The air smells of salt, pine resin, and baking bread. The loudest sounds are bir
 - Violence is **unthinkable**. Aerinórë has not seen a weapon drawn in anger for over 400 years. The party's weapons will draw stares and discomfort.
 - The Song-Wards are **sacred**. The Gem is embedded in the root-heart of the Great Singing Tree — a 600-foot coastal redwood that anchors the settlement's ward network. Touching the tree without permission is the only act the Aerinórë peoples consider a crime.
 - Outsiders are **rare but not forbidden**. The settlement receives occasional Mirennian visitors (by Sael'anir permission). The party will be treated with gentle curiosity — fed, housed, welcomed. Which makes betraying that welcome harder.
-- Caste determines everything. High Clans speak to High Clans. Guild Clans do not address High Clans without permission. Gatestone Clans are invisible.
+
 #### Key Locations
 
 **The Great Singing Tree** — A 600-foot coastal redwood at the settlement's heart. Its root system extends a quarter-mile in every direction, threading through every building's foundation. The Gem is embedded 30 feet up the trunk, nestled in a natural hollow where root meets heartwood. The tree hums constantly — a deep, subsonic vibration that IS the Song-Ward. When the wind blows through its canopy, the humming resolves into something almost like words. Waldkyn children are conceived near this tree. The dying are carried to its roots. It is not worshipped — it is PART OF the community, in the way a heart is part of a body.
@@ -1904,7 +1903,7 @@ As the party travels toward the Barren Hills, they encounter people from their p
 Depending on the party's backgrounds, one or more of these scenes should occur:
 
 - **Gora Ironbreath** (Thulkorûn Exile's contact) appears on the road from Irongate Crossing with a small escort company. She heard about "something happening in the Hills" through mercenary channels and came to investigate. She's not sentimental: *"I don't know what you're carrying, but half the continent seems to want it. That means you need people who know how to fight and don't ask questions. I brought six."*
-- **Finnet** (Waldkyn Wanderer's contact) arrives via the western road from Thornback. She carries a bundle of Song-Ward herbs — *"Kethra sent me. She said you'd need these. She said it the way Kethra says things, which means she was terrified and didn't want me to know."*
+- **Finnet** (Waldkyn Wanderer's contact) arrives via the western road from Mórenórë. She carries a bundle of Song-Ward herbs — *"Aelindra sent these through the wind-runner network. She said you'd need them. She said it the way she says everything — like she's already accepted what's coming."*
 - **Vosk Two-Names** (Orkin Outcast's contact) is waiting at Ashkeld. He knows the Barren Hills better than anyone alive. He doesn't ask why they're going in. He says: *"The Hills have been wrong for weeks. The animals left. The shamans are singing. Something is about to happen, and I'd rather be on the side of it that has a plan."*
 - **Sergeant Cavel** (Ex-Inquisitor's contact) appears — in civilian clothes, having deserted his post. He's pale. He says: *"Thalric knows what you're carrying. He's mobilizing the full Company. I couldn't talk him down. But I can tell you exactly where he'll be and when."* This intelligence is critical for the Thalric encounter below.
 - **Pell Thistlewick** (Halfling Wayfinder's contact) sends a courier with a package: updated route maps of the Barren Hills, annotated with water sources, shelter, and terrain hazards. A note reads: *"The family doesn't go into the Hills. Ever. But you do. So here."*
@@ -2044,7 +2043,7 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | **Gearhaven** | Rep 4+ | Thaelra sends a prototype airship — barely functional, held together by Gnomish ingenuity. Arcane cannon can breach the cathedral's outer defenses. |
 | **Lanthir Haven Waldkyn** | Rep 4+ | Song-Mother Aelindra sends a Song-Ward choir — the settlement's most powerful singers, carrying the memory of what they lost. Their harmonics can temporarily push back the Fifth Harmony wave, creating safe corridors for the assault and disrupting the Crown's resonance at close range. Brightleaf leads them if she traveled with the party. |
 | **Mórenórë Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Elara Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
-| **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
+| **Aerinórë Waldkyn** | Rep 4+ (Lanthir Haven) | Song-Mother Aelindra's choir (see Lanthir Haven ally entry above). If both this and the Lanthir Haven entry trigger, combine them — the choir is the same group. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
 | **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. (See "Sabel's Eight" below for the reunion scene.) |
 | **Lothari Silent Network** | Rep 4+ | Soru arrives with Lothari dream-walkers who can project illusions to confuse the cathedral's construct defenses. |
@@ -2137,7 +2136,7 @@ After the general offer, the Echo-Lord turns to each player individually and ech
 > "I told you that you were worth more than what they tried to burn out of you. I meant every word. You ARE worth more. You are worth enough to carry my work to completion. Join me, and no one will ever burn again."
 
 *Example (Waldkyn Wanderer):*
-> "I told you the answers were here. They were always going to be here. And they are. The Vales are dying because the world is broken. My way heals it. Your way — the messy, contradictory, beautiful chaos you've chosen — your way lets the Stillwood grow."
+> "I told you the answers were here. They were always going to be here. And they are. Aerinórë is exposed now because the world is broken. My way heals it. My way means the mist returns, the sanctuary holds, no one ever finds them. Your way — the messy, contradictory, beautiful chaos you've chosen — your way lets the ships come."
 
 *Example (Varnathi Ex-Inquisitor):*
 > "I told you that what you were does not have to be what you are. That is still true. You know better than anyone at this table what the world does to people who are different. You enforced it. You lived it. I am offering you the world where that never happens again. All it costs is the freedom to choose — and hasn't that freedom been the source of every cruelty you've ever witnessed?"
@@ -2190,7 +2189,7 @@ The Crown cannot be destroyed by raw force — it is a divine artifact, forged t
 
 | Tradition | Who Provides It | Action | Effect |
 |-----------|----------------|--------|--------|
-| **Waldkyn Song-Wards** (the music of balance) | Kethra's choir (if allied) or a Waldkyn PC | Sing a Song-Ward harmony within Short range | -1 Threshold; also suppresses the Echo-Lord's Aura for 1 round |
+| **Waldkyn Song-Wards** (the music of balance) | Aelindra's choir from Lanthir Haven (if allied), Brightleaf (if she traveled with the party), or a Waldkyn PC | Sing a Song-Ward harmony within Short range | -1 Threshold; also suppresses the Echo-Lord's Aura for 1 round |
 | **Elm-korin Forge-Chants** (the rhythm of creation) | Thaelra or a Gearhaven ally (if allied) | Strike metal in the forge-chant cadence | -1 Threshold; also disrupts Geometric Construct reformation |
 | **Orkin War-Drums** (the beat of endurance) | Grukka's shamans (always present) | Pound the war-rhythm of Grom-Kain's Tempering | -1 Threshold; also grants all allies a Boost die to Resilience for 1 round |
 | **Human Magic** (the spark of potential) | Any PC with magical ability | Channel raw, unstructured magic — not a spell, but the Spark itself | -1 Threshold; requires the caster to suffer 4 strain (the cost of being heard) |
@@ -2227,7 +2226,7 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 | **Gearhaven** | Thaelra sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
 | **Aerinórë / Lanthir Haven** | If the party took the Gem honestly, the Waldkyn send word: the mist is gone but the settlement endures. Aelindra's message: *"We are learning to live with an open sky. It is harder than we expected. It is also more beautiful."* Trade ships from Mórenórë arrive for the first time. The isolation is over — but so is the innocence. | If the party stole the Gem, no message comes. The wind-shapers sealed the coast entirely. Rumors reach the mainland of Mirennian prospectors exploring "a newly discovered northern continent." The sanctuary is over. What replaces it is anyone's guess. |
 | **Mórenórë Volunteers** | If allied, Captain Elara Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
-| **Waldkyn** | Sprout (the Ribbet child) sends a letter carried by a Faerie messenger: "The trees are singing again. Come play." The Stillwood retreats. The Vales heal. | The Stillwood reaches the Harmony Oak within four years. The Waldkyn flee. The Vales become the largest Stillwood zone on the continent — a wound that will not heal for centuries. |
+| **Waldkyn (Aerinórë)** | Dewdrop sends a shell carried by a Sael'anir wind-runner. Inside, a tiny voice: *"The tree is still here. It's quieter now. But it's still here."* Lanthir Haven endures. The mist is gone, but the people remain. | If the Gem was stolen: silence from Aerinórë. Mirennian traders report "a newly discovered northern continent, rich in timber." The sanctuary is over. |
 | **Orkin** | Grukka carves the party's names into a bone-totem and places it in the Barren Hills where the cathedral stood. "You fought for a world that never fought for us. We will remember." The Whisper-Shamans gain influence among the clans, tempering the Bloodied Fist's rage. | The Varr-Darg return to their cycle of violence. Nothing changes for the Orkin. It never does. |
 
 **The Final Scene:**
@@ -2256,8 +2255,7 @@ Somewhere, a bird sings.
 | Crystal Golem | Construct | Rival | Resonance Pulse stun, Shard Burst | Crystal Deep |
 | Geode Warden | Construct | Nemesis | Regeneration in geode, negotiable | Crystal Deep |
 | Maw-Borer | Monstrosity | Rival | Burrow, acid, attracted to mana | Novaterra jungle |
-| Stone-Lurker | Beast | Minion | Tremor-sense, ambush, blind | Kharnzarak Abandoned Deeps |
-| Law-Echo | Construct (Divine) | Nemesis | Aura of Authority, Edict, Adamant Strike, Immutable Form | Adamant Foundations |
+| Vorok-Varr Sentinel | Orkin | Rival | Territorial containment, non-lethal grapple, patient pursuit | Aerinórë interior |
 | Stillness Sentinel | Construct | Nemesis | Aura of Stillness, Orderly Strike, Perfect Defense | Vault of Still Measure |
 | Chrono-Sentinel | Construct | Rival | Time manipulation, Immobilize/Extra maneuver | Cathedral of Geometry |
 | Silence Wraith | Aberration | Rival | Feeds on sound, empowered in silence zones | Cathedral of Geometry |
@@ -2287,8 +2285,8 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Lux Aeterna | 4 | | | | | |
 | Legio Null | 1 | 1 | 1 | 1 | 1 | |
 | Azure Hand | 3 | | | | | |
-| Kharnzarak (Bronrûn) | 2 | 2 | | | | |
-| Kharnzarak (Throne) | 1 | 1 | | | | |
+| Lanthir Haven | 3 | 3 | | | | |
+| Vorok-Varr (Aerinórë) | 2 | 2 | | | | |
 | Gearhaven | 3 | 3 | | | | |
 | Waldkyn Quiet Vales | 3 | 3 | | | | |
 | Lothari Silent Network | 3 | | | | | |
@@ -2311,18 +2309,18 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Pip Sprocket | Chief engineer | Gearhaven | Cheerful, scattered, brilliant |
 | Sergeant Hrothgar | Militia commander | Gearhaven | Gruff, pragmatic, protective |
 | Tinker Gaz | Sand Gnome inventor | Gearhaven | Ancient, perceptive, cryptic |
-| High King Thorgar VII | Controlled monarch | Kharnzarak | Brittle, gifted, crumbling |
-| Lord Mazrek Farrazul | Ambitious clan lord | Kharnzarak | Smooth, pragmatic, dangerous |
-| Delva Bronrûn-Kith | Bronrûn Legacy mole | Kharnzarak Trade-Gate | Nervous, brave, fast-talking |
-| Korrin Gulgrym | Foundry-Master | Kharnzarak Guild Halls | Quiet, competent, cautious |
-| Marga Stonefist | Gatestone resistance leader | Kharnzarak Lower Deep | Hard, fierce, revolutionary |
+| Song-Mother Aelindra | Song-Ward keeper / settlement leader | Lanthir Haven | Ancient, patient, grieving |
+| Brightleaf | Waldkyn ambassador / traveling companion | Lanthir Haven / mobile | Curious, warm, loyal |
+| Vorok-Kal | Vorok-Varr elder | Aerinórë interior | Gentle, enormous, disappointed |
+| Thistlebottom | Halfling baker | Lanthir Haven kitchens | Cheerful, relentless, kind |
+| Vaelric Star-Eye | Astronomer at Starfall Peaks | Dragon's Tooth Mountains | Brilliant, terrified, frost-bitten |
 | Commander Thalric | Legio Null hunter | Mainland (pursues) | Polite, professional, remorseless |
 | The Pale Ledger | Shadewalker operative | Mobile (everywhere) | Unremarkable, omniscient, patient |
 | Captain Elara Voss | Mórenórë Volunteer Corps | Mórenórë / Barren Hills | Precise, principled, dry |
 | Krag-Vosk the Unbroken | Bloodied Fist war-priest | Barren Hills (mobile) | Devout, terrifying, sincere |
-| Root-Speaker Elm-Thara | Stillwood Circle elder | Whispering Vales | Patient, immovable, ancient |
-| Branch-Speaker Kethra | Flowing River leader | Whispering Vales | Quick, frustrated, hopeful |
-| Ash-Claw | Kyn-Clan war-chief | Whispering Vales border | Intense, certain, turnable |
+| Ilwen | Sael'anir wind-shaper | Lanthir Haven | Silent, precise, self-sacrificing |
+| Dewdrop | Brightleaf's sibling (child) | Lanthir Haven | Enormous-eyed, gift-leaving, devastating |
+| Fern-Tongue | Waldkyn guide to Aerinórë | Mórenórë / ocean crossing | Mossy, ancient, metaphorical |
 | Grukka Ash-Eye | Whisper-Shaman elder | Barren Hills | Wise, blunt, sacred |
 | The Echo-Lord (Zel'Khorath) | BBEG | Mobile/Barren Hills | Certain, patient, tragic |
 
@@ -2336,11 +2334,17 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Zel'Khorath | ZEL kor-ATH | The Echo-Lord's true name |
 | Grom-Kain | GROM-kayn | Orkin name for Kael'Zorai ("Will-Forge") |
 | Durâk Thul | DOO-rak THOOL | "Fracture of Law" — Dwarven name for the Paroxysm |
+| Aerinórë | AIR-in-OR-ay | The sanctuary continent to the north |
 | Hannanórë | hah-nah-NOR-ay | The hidden Elven forest |
-| Mórenórë | mor-en-OR-ay | The City of Silver Tongues |
+| Mórenórë | MOR-en-OR-ay | The Free City / City of Silver Tongues |
+| Lanthir Haven | LAN-thir HAY-ven | Coastal settlement on Aerinórë |
 | Thulkorûn | THOOL-kor-oon | "The Broken-Crafted" — exiled Dwarves |
+| Bronrûn | BRON-roon | Dwarven Pillar of Growth; also a clan name |
+| Nûm-Khazalûn | NOOM-kah-ZAL-oon | "The Stone-Sworn" — orthodox mainland Dwarves |
+| Thamédran | thah-MAY-dran | First Hand of Stability |
 | Elm-korin | ELM-kor-in | "The Flame-Struck" — technomancer Dwarves |
 | Varr-Darg | VAR-darg | "Land-Blood" — mainland Orkin clans |
+| Vorok-Varr | VOR-ok VAR | "The Listener's Clan" — peaceful Orkin of Aerinórë |
 
 ---
 
