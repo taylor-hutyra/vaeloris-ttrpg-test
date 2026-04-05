@@ -354,7 +354,20 @@ Thalric commands the Legio Null's Desert Division — 100 Cold-Iron-armored Sand
 **Appearances:**
 - **Act I:** Primary pursuer during the desert chase. Narrowly misses the party at the Lothari waystation.
 - **Act II (Dragon's Tooth Mountains):** Thalric's outriders are spotted near the mountain approach. He's tracked the Compass's resonance northward. The party must avoid or outmaneuver his patrols to reach the Starfall Peaks.
-- **Act II (Mórenórë):** A Legio Null agent, **Inquisitor Dorn**, arrives in Mórenórë posing as a scholar. He's Thalric's forward scout, tracking the party's movements. If discovered, he fights to the death rather than surrender intelligence. The Free City's neutrality means Thalric can't send soldiers openly — but Dorn is enough.
+- **Act II (Mórenórë):** A Legio Null agent, **Inquisitor Dorn**, arrives in Mórenórë posing as a scholar. He's a thin, scholarly-looking man with ink-stained fingers and spectacles — indistinguishable from the academics who fill the Ink Quarter. He's Thalric's best infiltrator, trained to blend where armor would fail. He follows the party, maps their contacts, and sends coded reports via Azure Hand courier (which the Hand reads before passing along — everyone is being watched by someone). If discovered, he fights with surprising ferocity — Cold-Iron daggers and alchemical smoke bombs — to the death rather than surrender intelligence. The Free City's neutrality means Thalric can't send soldiers openly. Dorn is enough.
+
+> **INQUISITOR DORN** [Rival]
+> *Human, Legio Null infiltrator*
+> **Brawn 2 | Agility 3 | Intellect 3 | Cunning 4 | Willpower 3 | Presence 3**
+> Soak: 3 (concealed leather) | Wounds: 12 | Strain: 14 | Defense: 0/1
+> **Skills:** Charm 2, Cool 3, Deception 4, Melee 2, Perception 3, Skulduggery 3, Stealth 3, Vigilance 3
+> **Talents:** Adversary 1, Nobody's Fool 2, Plausible Deniability 1
+> **Abilities:**
+> *Deep Cover:* Add 2 Setback dice to any check to identify Dorn as Legio Null while he maintains his scholar persona.
+> *Cold-Iron Daggers:* Magic actions targeting Dorn at Engaged range upgrade difficulty once.
+> *Smoke and Fade:* Once per encounter, Dorn throws an alchemical smoke bomb (Short range obscurement for 2 rounds) and may immediately make a Stealth check to disengage.
+> *Death Before Capture:* When Dorn exceeds his Wound threshold, he may spend his final action to destroy his coded correspondence (Discipline [Willpower], **Easy ◆**). If successful, the party gains no intelligence from his body.
+> **Equipment:** 2 Cold-Iron daggers (Melee; Damage 4; Crit 2; Engaged; Pierce 1), 3 alchemical smoke bombs, coded correspondence, forged Mórenórë scholar credentials, 50 Sparks
 - **Act II (Gearhaven):** Thalric has crossed the ocean. A Sand-Rider patrol appears on Novaterra — unprecedented. He's been tracking the Compass's resonance for months. The players know he's close.
 - **Act III:** If convinced the Crown is a genuine world-ending threat (Charm [Presence] or Negotiation [Presence], **Formidable ◆◆◆◆◆**, reduced to **Hard ◆◆◆** with physical evidence), Thalric redirects his hunters toward the Barren Hills. His Cold-Iron armor provides natural resistance to the Fifth Harmony wave.
 
@@ -1589,24 +1602,73 @@ He gives the party a **star-chart** — a crystalline disc inscribed with the tr
 
 After the observatory, the party descends the mountains and travels northeast toward **Mórenórë** — the Free City on the neutral peninsula. This overland journey takes 5–7 days. Use the overland encounter table and waypoint towns (Irongate Crossing is on this route).
 
-At Mórenórë, the party can:
-- Confirm Vaelric's findings with Waldkyn scholars (the Waldkyn in Mórenórë know of Aerinórë, though they are discreet about it)
-- Arrange passage across the northern ocean (see Arc B: Getting to Aerinórë)
-- Resupply, gather intelligence, and encounter background-specific contacts
-- Experience the Free City's cosmopolitan neutrality — Aen'valar Elves, Humans, and Waldkyn governing together in a place where the Decree of Prohibition is ignored
+#### Mountain Travel Encounter Table (d8)
 
-**First Major Emotional Beat:** During the journey from the mountains to Mórenórë, or in Mórenórë itself, run one of the following (choose based on party composition):
+Use once per day of mountain travel. The Dragon's Tooth range is hostile, vertical, and ancient.
+
+| Roll | Encounter |
+|------|-----------|
+| 1 | **Avalanche Zone.** A recent slide has narrowed the path to a 2-foot ledge above a 200-foot drop. Athletics (Brawn) or Coordination (Agility), **Hard (◆◆◆)** to cross safely. On failure: 8 damage from falling rubble, or a Despair sends one character sliding — Athletics **Daunting (◆◆◆◆)** to catch them. |
+| 2 | **Frost-Wraith Nest.** 3 Echo-Wisps adapted to the cold — translucent, ice-blue, and they mimic the sound of wind howling through crevasses. They try to lure characters off the path. Perception (Cunning), **Average (◆◆)** to notice they're not real wind. If engaged: fragile but unsettling (Minion group, Soak 1, Wounds 3 each, voice mimicry). |
+| 3 | **Thulkorûn Outcasts.** A small camp of 4 exiled Dwarves eking out a living mining copper from exposed seams. They're suspicious of strangers but will trade information for food or tools. They know the path to the Starfall Peaks — the "old temple up top" — and warn: *"Something lives up there. We hear the glass singing at night."* |
+| 4 | **Giant's Ruins.** The remnants of a cyclopean fortress, abandoned since SA:1775 when the Giants vanished. Massive stone blocks, doorways 30 feet high, and a melancholy silence. A **Perception (Cunning), Hard (◆◆◆)** check reveals a cache of Giant-forged tools — too large for normal use, but the metal is extraordinary. Worth 200 Sparks to a Gearhaven engineer. |
+| 5 | **Legio Null Outriders.** 2 Sand-Riders on mountain ponies, far from home and miserable. They're part of Thalric's expanded search. They don't expect to find the party HERE. If spotted first (Stealth [Agility], **Average ◆◆**), the party can avoid them. If confronted: they fight competently but aren't fanatics — they'll retreat if outmatched. |
+| 6 | **The Weeping Wall.** A cliff face where geothermal water seeps through rock, freezing into curtains of ice that catch the light like stained glass. The water is warm at the source — one of the few places to camp comfortably. If the party rests here: each character recovers 2 additional strain. The Compass hums louder near the water. Something deep in the mountain responds to the Band. |
+| 7 | **Altitude Sickness.** The air thins dramatically. Each character makes Resilience (Brawn), **Average (◆◆)**. Failure: 2 strain and Disoriented until they descend or acclimate (8 hours rest). Triumph: the character adapts permanently — no further altitude checks this campaign. |
+| 8 | **The View.** The clouds part. From this height, the party can see three countries — the Varnathi Highlands to the south, the shimmer of the Mirennian coast to the east, and to the north, barely visible, a line of white that might be more mountains or might be mist. Aerinórë? No one knows. The world is vast and they are very small. Let the silence sit. |
+
+> **SAND-RIDER** [Rival]
+> *Human, Legio Null*
+> **Brawn 3 | Agility 3 | Intellect 2 | Cunning 2 | Willpower 3 | Presence 2**
+> Soak: 5 (Cold-Iron chain) | Wounds: 12 | Strain: 10 | Defense: 1/0
+> **Skills:** Athletics 2, Melee 2, Perception 2, Ranged 2, Resilience 2, Survival 2, Vigilance 2
+> **Talents:** Adversary 1
+> **Abilities:**
+> *Cold-Iron Armor:* Magic actions targeting the Sand-Rider or originating within Short range upgrade difficulty once.
+> **Equipment:** Cold-Iron sword (Melee; Damage 6; Crit 3; Engaged), Cold-Iron crossbow (Ranged; Damage 7; Crit 3; Medium), signal flares (summon reinforcements within 24 hours)
+
+#### Mórenórë — The Free City (Waypoint Gazetteer)
+
+**Overview:** Mórenórë ("Haven of Quiet Thought") sits on a neutral peninsula jutting into the northern sea — a city of ~8,000 souls governed jointly by Aen'valar Elves, Humans, and Waldkyn. Founded SA:900 as the world's first "Open City," it is the one place on Vael where the Decree of Prohibition is openly ignored. Mages walk freely. Ideas flow without censorship. The Grand University won't exist for another 260 years, but the intellectual spirit is already here — scholars, dissidents, and dreamers from every nation, arguing in coffee houses and debating in the public square.
+
+The air smells of sea salt, old paper, and the spiced coffee that Aen'valar traders introduced three centuries ago. The city is built in concentric rings around a central harbor, with pale sandstone buildings topped with blue-tiled roofs that catch the light like scattered sapphires. Narrow streets wind between bookshops, apothecaries, and establishments that serve food from six different cultures. The loudest sounds are seabirds, the clatter of printing presses (Gnomish invention, recently adopted), and passionate arguments in at least four languages.
+
+**Population:** ~8,000 (30% Human, 25% Aen'valar Elves, 20% Waldkyn diaspora, 10% Gnomes, 10% Halflings, 5% other)
+**Government:** The Mórenórë Triumvirate — three co-equal governors (one Aen'valar, one Human, one Waldkyn), elected by the city's guilds
+**Currency:** Standard Mirennian coinage and Mana-Crystal Sparks (both accepted)
+
+**Key Locations:**
+
+**The Ink Quarter** — The scholarly district. Bookshops, scriptoriums, and a dozen small academies teaching everything from celestial mechanics to herbalism. **Archivist Fenwick** (Scholar/Archivist's starting contact) works at the largest library here — a three-story building crammed with texts the Varnathi would burn on sight. He is thin, cautious, and terrified of his own usefulness.
+
+**The Harbor Ring** — The commercial district surrounding the central harbor. Azure Hand offices (discreet), Mirennian trading houses (less discreet), and a bustling fish market. **Corvin Halstow** (Mirennian Deserter's contact) operates from a small shipping office here — he still thinks the player is on extended fieldwork. The clock is ticking.
+
+**The Green Terrace** — A Waldkyn-maintained garden district built on the peninsula's highest ground. Herbs, medicinal plants, and a Waldkyn meeting circle where diaspora elders gather weekly. This is where the party confirms Vaelric's findings — a Waldkyn scholar named **Lorekeeper Theren** (Aen'valar Elf, male, 300s, speaks seven languages, drinks too much coffee) cross-references the star-chart with ancient texts and says, with poorly concealed excitement: *"You're looking for Aerinórë. Nobody asks about Aerinórë. I've been waiting thirty years for someone to ask about Aerinórë."*
+
+**The Lantern Inn** — The best inn the party has stayed at since Lux Aeterna. Clean beds, hot water, and a proprietor named **Dalish** (Human, female, mid-40s, ex-Azure Hand, retired to "somewhere with good coffee and no one trying to kill me"). She doesn't ask questions. She charges fair prices. She makes the best spiced coffee on the peninsula. If the party mentions Lux Aeterna, she goes quiet for a moment: *"I passed through there once, on my way out. Good people. I hope they're still there."*
+
+**The Whale-Bone Dock** — The departure point for northbound voyages. The few captains willing to sail toward Aerinórë's mist can be found here. Fern-Tongue (the Waldkyn guide) and any Sael'anir contacts arrange passage from this dock.
+
+**Sidequests in Mórenórë (1–2 sessions):**
+
+**"The Scholar's Debt"** — Archivist Fenwick has been hiding a Waldkyn text that describes Aerinórë's location in detail — but a Shadewalker operative has been pressuring him to hand it over. The party can protect Fenwick (combat or social), convince the operative to back off (Negotiation [Presence], **Hard ◆◆◆**), or let Fenwick make his own choice. If the party helps, Fenwick provides the text — which includes a detailed description of Lanthir Haven's Song-Ward structure and the Gem's location within it. **15 XP, +1 Shadewalker rep (if dealt with diplomatically), Fenwick's gratitude and the text.**
+
+**"The Refugee Ship"** — A Mirennian vessel arrives in harbor carrying 40 mage-refugees from the mainland. The city's resources are strained. The Triumvirate debates whether to accept them. The party can intervene — arguing for acceptance (Charm [Presence], **Average ◆◆**), helping with logistics (any practical skill, **Average ◆◆**), or simply helping carry luggage and distribute food. **10 XP, +1 Mórenórë rep.** Among the refugees: a 12-year-old girl with soot-stained fingers who looks EXACTLY like Petra from Lux Aeterna. She is not Petra. But the resemblance is a knife.
+
+**First Major Emotional Beat:** During the journey from the mountains to Mórenórë, or in the city itself, run one of the following (choose based on party composition):
 
 - A starting contact appears unexpectedly — **Corporal Aenne** (Disgraced Soldier's contact) has been working as a caravan guard on this very road. She sees the player and freezes. She doesn't say "I missed you." She says: *"You look like you've been somewhere hard."* Then she walks with them. That's enough.
 - A letter arrives from Lux Aeterna (the Sabel letter from the Letters section — *"Come home when you can."*)
-- The party encounters refugees from the purges heading to Mórenórë — families with children, mages hiding their sparks. The players see, in these strangers, exactly what they were six months ago. Let them decide what to do.
+- The party encounters the refugee ship (see sidequest above) — families with children, mages hiding their sparks. The players see, in these strangers, exactly what they were six months ago.
 
 ---
 
-### Arc A: The Brass Heart — Gearhaven, Novaterra
+### The Setting — Gearhaven, Novaterra (Final Crown Piece)
 
-*Theme: Progress vs. Consequence | Who deserves safety?*
-**Pacing:** 6–10 sessions | **Adventurer Tier (150–300 XP)**
+*Theme: Progress vs. Consequence | Who deserves safety? | Can you steal hope from the hopeless — again?*
+**Pacing:** 6–10 sessions | **Adventurer Tier (350–450 XP)**
+
+**Narrative Context:** The party arrives at Gearhaven carrying two Crown pieces and the weight of what they did to Lanthir Haven. They are about to do it again — take a community's lifeblood for a mission they're not sure they believe in anymore. The Architect is more urgent, less patient. Miravel is quieter. The Compass is warm. The repetition is deliberate. The escalating cost is the point.
 
 #### Gearhaven — Gazetteer
 
@@ -1791,16 +1853,29 @@ If the party is honest and compelling (Charm or Negotiation [Presence], **Formid
 
 Regardless of which path, the departure from Aerinórë is chaotic. If the party took the Gem honestly, the emotional devastation of watching the wards fail drives them to leave quickly — staying is too painful. If they stole it, the entire settlement is in pursuit.
 
-**The Chase:** The party flees eastward across Aerinórë — through dense coastal forest, along unfamiliar trails, toward... they don't know where. The Resonance Compass is useless here (no Crown pieces to point toward). They are running blind.
+**The Chase:** The party flees eastward across Aerinórë — through dense coastal forest, along unfamiliar trails, toward... they don't know where. The Resonance Compass is useless here (no Crown pieces to point toward — the only piece is the Gem, which they're carrying). They are running blind through pristine old-growth forest: towering redwoods, fern-choked ravines, crystal streams, and absolute silence broken only by birdsong and the party's own ragged breathing.
 
-**The Vorok-Varr Encounter:** The eastern interior of Aerinórë is Vorok-Varr territory — the tribal Orkin who have lived here for 790 years. They are peaceful but TERRITORIAL. The party stumbles into Vorok-Varr lands exhausted, lost, and carrying a sacred artifact that the Orkin can FEEL (Grom-Kain's resonance in the Gem calls to Orkin blood).
+**Aerinórë Chase Encounters (d6 — roll once per hour of flight):**
 
-**The Capture:** The Vorok-Varr surround the party — not with violence, but with overwhelming numbers and patient containment. They do not fight. They sit down. They wait. They ask the party to explain themselves. This is the Listener's Way: no one acts until everyone has spoken.
+| Roll | Encounter |
+|------|-----------|
+| 1 | **Sael'anir Wind-Wall.** The wind-shapers redirect the fog inland to confuse the party. Visibility drops to 10 feet. Survival (Cunning), **Hard (◆◆◆)** to navigate. Failure: the party circles back and loses 2 hours. |
+| 2 | **Ravine Crossing.** A 15-foot gap with a rushing stream at the bottom. Athletics (Brawn), **Average (◆◆)** to jump, or spend 30 minutes finding a crossing point. |
+| 3 | **Waldkyn Tracker.** A single Katari Waldkyn (cat-folk) follows the party from the canopy. She doesn't attack — she calls out in Valespeech. If a Waldkyn PC is present, they understand: *"Why? We trusted you. Why?"* She drops away if confronted. She doesn't need to fight. Her words are the weapon. |
+| 4 | **The Forest Resists.** Song-Ward residue in the trees responds to the Gem's removal — roots shift underfoot, branches snag clothing, the path seems to close behind them. Coordination (Agility), **Average (◆◆)** or suffer 2 strain from exhaustion and entanglement. |
+| 5 | **Hollowkin Homestead.** The party stumbles through a clearing containing a Halfling burrow with a round green door. Smoke rises from the chimney. Inside: a family eating breakfast. They look up at the armed, panting strangers bursting from the tree line. The children go silent. The mother pulls them behind her. The party can ask for directions (the coast is 4 hours east) or keep running. If they stop, the Halfling offers water and bread. She doesn't ask why they're running. She knows. |
+| 6 | **Clear Path.** The forest opens into a deer trail heading east. The Gem pulses in the pack — warm, heavy, as if it knows it's leaving home. No encounter. Let the party run. |
+
+**The Vorok-Varr Encounter:** The eastern interior of Aerinórë is Vorok-Varr territory — the Orkin who have lived here for 790 years. They are peaceful but TERRITORIAL. The party stumbles into Vorok-Varr lands exhausted, lost, and carrying a sacred artifact that the Orkin can FEEL (Grom-Kain's resonance in the Gem calls to Orkin blood).
+
+**The Capture:** Thirty Vorok-Varr warriors materialize from the forest — enormous, green-skinned, armed with stone-tipped spears, and absolutely calm. They form a circle. They do not advance. They sit down on the forest floor, spears across their laps, and wait. Their leader — an Orkin woman with grey-streaked hair and a face like carved granite — says, in accented Common: *"You are running. We are not. Sit. Speak. Then we decide."*
+
+This is the Listener's Way. The Vorok-Varr do not act until everyone has spoken. The party is surrounded by 30 warriors who will not attack, will not move, and will not let them pass until the conversation is finished. Combat is POSSIBLE but inadvisable — the Vorok-Varr are not aggressors, and attacking peaceful people who are trying to listen is the kind of action that follows a party to the end of the campaign.
 
 The party can:
-- **Talk their way out** (Charm or Negotiation [Presence], **Hard ◆◆◆**, modified by how they treated Lanthir Haven)
-- **Wait for an opening** — the Vorok-Varr are patient, but they sleep. Stealth [Agility] group check, **Daunting ◆◆◆◆**.
-- **Help Miravel escape first** — Miravel is also captured. If the party creates a distraction and gets Miravel to the coast, she can attempt something desperate...
+- **Talk their way out** (Charm or Negotiation [Presence], **Hard ◆◆◆**). If the party took the Gem honestly from Lanthir Haven: reduce to **Average ◆◆** — the Vorok-Varr respect a community's decision, even a painful one. If the party stole the Gem: upgrade to **Daunting ◆◆◆◆** — the Vorok-Varr can feel the violation in the Gem's resonance.
+- **Wait for an opening** — The Vorok-Varr are patient, but they sleep in shifts. At nightfall, 10 remain awake. Stealth [Agility] group check, **Daunting ◆◆◆◆**, to slip the circle. Failure means the conversation starts over — and the Vorok-Varr add: *"We gave you rest. You chose deception. Speak again."*
+- **Help Miravel escape** — Miravel is also being held (gently — they gave her a blanket). The party needs to create a distraction: a loud argument (Deception [Cunning], **Hard ◆◆◆**), a Spark-flare into the canopy (any magic ability, **Average ◆◆** but draws Sael'anir attention within hours), or simply asking if Miravel can "walk to the stream for water" (Charm [Presence], **Average ◆◆** — the Vorok-Varr are polite). Miravel needs 3 minutes alone and access to open ground (the stream leads to the coast, 10 minutes downhill). The party STAYS while she runs. They are choosing to be captured so she can escape.
 
 #### Miravel's Revelation
 
@@ -1822,7 +1897,9 @@ Miravel collapses. She's pale, shaking, and her nose is bleeding. She says: *"Th
 
 *Theme: Breath between storms | The cost of momentum | What do you do when you can stop?*
 
-**Overview:** Aurumport is one of the Mirennian League's great ports — a sprawling harbor city of 20,000+ souls, reeking of fish and ambition. After Lanthir Haven's paradise and the Vorok-Varr's quiet containment, Aurumport is an assault on the senses. It is loud, dirty, commercial, morally ambiguous, and ALIVE in a way that reminds the players what the messy, imperfect world actually looks like.
+**Overview:** Aurumport is one of the Mirennian League's great ports — a sprawling harbor city of 20,000+ souls built where the Great River meets the Mirennian Sea. The smell hits first: brine, rendered fat, tar, woodsmoke, and the sweet rot of overripe fruit from the market stalls. Then the sound: gulls screaming, hawkers shouting in three languages, the rhythmic clang of shipwrights' hammers, a drunk singing badly in an alley. Then the sight: a crescent harbor jammed with masted ships, warehouses stacked like children's blocks along the waterfront, and above it all, the Golden Compass Syndicate's headquarters — a marble-faced tower that catches the sun and throws gold light across the harbor at dawn.
+
+After Lanthir Haven's paradise and the Vorok-Varr's quiet containment, Aurumport is a punch to the senses. It is loud, dirty, commercial, morally ambiguous, and ALIVE in a way that reminds the players what the messy, imperfect world actually looks like. This is what the Echo-Lord wants to silence. Look at it. Listen to it. It's ugly and beautiful and it BREATHES.
 
 The party has 3–5 days here before moving on. Use this time for:
 
@@ -2114,7 +2191,22 @@ Three chambers, each themed to a domain of Kael'Zorai:
 **The Hall of Control** — A chamber where the floor is a chessboard and the players must solve a tactical puzzle to open the next door while being attacked by constructs that move according to chess rules. The constructs cannot be defeated by combat alone — they must be maneuvered into positions where they cancel each other out.
 - Puzzle: Logic puzzle using the chess-constructs' predictable movement patterns
 
-**The Hall of Silence** — A chamber where sound does not exist. All verbal magic actions fail. Communication is impossible. The players must fight 2 **Silence Wraiths** [Rival] (powerful echo-entities that feed on sound — in this room, they are at full strength) using only non-verbal coordination.
+**The Hall of Silence** — A chamber where sound does not exist. The moment the party crosses the threshold, everything goes quiet — not muffled, but ABSENT. Footsteps make no sound. Swords meeting metal are silent. Players cannot speak, shout, or cast verbal spells. All verbal magic actions fail. Communication requires gestures, touch, or written notes.
+
+Two **Silence Wraiths** inhabit this room — echo-entities that feed on absorbed sound. In the Hall of Silence, they are at full strength: faster, stronger, and invisible until they attack (they ARE the silence).
+
+> **SILENCE WRAITH** [Rival]
+> *Aberration (Echo-entity)*
+> **Brawn 2 | Agility 4 | Intellect 2 | Cunning 3 | Willpower 3 | Presence 1**
+> Soak: 3 | Wounds: 14 | Strain: 10 | Defense: 1/1
+> **Skills:** Brawl 3, Coordination 3, Stealth 4, Vigilance 3
+> **Talents:** Adversary 2
+> **Abilities:**
+> *Sound-Drinker:* In a silence zone, the Wraith is invisible (add 3 Setback dice to checks to detect or target it). Outside a silence zone, it is visible but weakened (loses 1 rank of Adversary).
+> *Silent Strike:* Brawl; Damage 8; Crit 2; Engaged; Pierce 2. On a hit, the target loses their next maneuver (the sound of their reaction is swallowed).
+> *Resonance Drain:* At the start of each round, each creature in the chamber suffers 2 strain (the silence presses in, draining willpower). Song-Ward harmonics or the Song-Ward Tuning Fork negates this for characters in its area.
+> *Weakness:* Any source of SOUND that penetrates the silence zone (the Song-Ward Tuning Fork, Orkin war-drums, a character deliberately smashing a Crown piece against the wall) stuns the Wraith for 1 round and makes it visible.
+> **Equipment:** None (they ARE the weapon)
 
 **Phase 2: The Inner Sanctum (~600 XP)**
 
@@ -2173,7 +2265,7 @@ Then combat begins.
 > *Orderly Rebuke:* One creature that damaged the Echo-Lord since its last turn suffers 9 force damage (no check to resist).
 > *Crown Pulse (counts as 2 uses):* The Crown flares. All creatures at Short range make a **Discipline (Willpower) check, Daunting (◆◆◆◆)** or are Staggered until end of their next turn.
 >
-> **Vulnerability:** The Crown can be targeted directly (Adversary 5; Wounds 15). If the Crown takes wounds, the Echo-Lord loses one use of Legendary Resilience. If the Crown is destroyed, the Echo-Lord loses all Crown abilities and the Fifth Harmony wave ceases. However, destroying the Crown requires a specific action: four creatures must simultaneously strike it (one for each fragment) in the same round — representing the collaborative will that shattered it in the First Age.
+> **Vulnerability:** The Crown can be targeted directly (Adversary 5; Wounds 15). If the Crown takes wounds, the Echo-Lord loses one use of Legendary Resilience. If the Crown is destroyed, the Echo-Lord loses all Crown abilities and the Fifth Harmony wave ceases. However, destroying the Crown requires a specific action: three creatures must simultaneously strike it (one for each fragment) in the same round — representing the collaborative will that shattered it in the First Age.
 >
 > **Lair Effects (at the start of each round, the GM may activate one):**
 > The cathedral reshapes. Choose one:
