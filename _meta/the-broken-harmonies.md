@@ -33,12 +33,13 @@ This campaign takes place 89 years after Melek the Grey first demonstrated morta
 **What exists:**
 - The **Varnathi Pentarchy** rules the mainland — a fractured republic paralyzed between hawks, traditionalists, and reformists. The Legio Null (the Inquisitors) hunt mages with Cold-Iron armor and fanatical zeal.
 - The **Mirennian League** controls the seas — a thalassocracy of merchant houses that publicly condemns magic while privately profiting from it. The Azure Hand smuggles refugees for gold.
-- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago under the paranoid High King Thorgar VI. Inside, the Bronrûn Legacy plots reform in secret.
+- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. The trade-gate at the mountain's foot is the only point of contact with the outside world.
 - **Gearhaven** is five years old — a frontier boomtown at Rust-Water Bay, Novaterra. Elm-korin Dwarves, human mages, and Gnomes are inventing technomancy in real time. Not a metropolis — a gold-rush settlement crackling with potential.
-- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. Inside, High King Thorgar VII rules with paranoid rigidity. The Bronrûn Legacy plots reform in secret. The Barazkor Clan enforces orthodoxy.
+- **Aerinórë** is a secret — the sanctuary continent to the north, protected by Sael'anir wind-shapers and perpetual mist. Home to peaceful Waldkyn, Vorok-Varr Orkin, and Hollowkin communities. Most people on Vael don't know it exists.
+- **Mórenórë** (the Free City) — a neutral peninsula city co-governed by Aen'valar Elves, Humans, and Waldkyn. Center of intellectual life and a crossroads for anyone seeking knowledge the Varnathi have suppressed.
 - The **Shadewalkers** run the intelligence underworld from Port Farrick, and several of their operatives maintain cover identities in settlements across both continents.
 - The **Lothari Silent Network** controls the overland Silk Road and preserves ancient knowledge in hidden desert vaults.
-- The **Waldkyn** of the Whispering Vales are split between three factions: isolationists, interventionists, and militant purifiers.
+- The **Waldkyn** are split across three branches: the Quiet Vales Kith (mainland isolationists), the Aerinórë Kith (sanctuary harmonists on the northern continent), and the emerging Chartered Kith (progressives, not yet organized into Nexus).
 
 **What does NOT exist yet:**
 - Aetheris (born SA 2032 — 540 years away)
@@ -80,10 +81,10 @@ Throughout the campaign, track the party's standing with each major faction. The
 - Lux Aeterna: 4 (Trusted — they work for Tajsh)
 - Legio Null: 1 (Enemies — the party are mages)
 - Azure Hand: 3 (Known — business relationship via passage)
-- Kharnzarak (Bronrûn Legacy): 2 (Distrusted — outsiders in a sealed kingdom)
-- Kharnzarak (Barazkor Throne): 1 (Enemies — surface-dwellers are forbidden)
+- Mórenórë: 3 (Known — neutral cosmopolitan city)
+- Lanthir Haven (Aerinórë Waldkyn): 3 (Known — neutral until contact)
+- Vorok-Varr (Aerinórë Orkin): 2 (Distrusted — outsiders in their territory)
 - Gearhaven: 3 (Known — neutral until arrival)
-- Waldkyn Quiet Vales: 3 (Known — neutral until contact)
 - Lothari Silent Network: 3 (Known — peripheral contact)
 - Shadewalkers: 3 (Known — business relationship via Ink)
 - Varr-Darg Orkin: 2 (Distrusted — outsiders in their territory)
@@ -291,32 +292,33 @@ The tragedy is that it's not entirely wrong. The world IS fractured. Magic IS da
 
 ### Origin
 
-During the First Age, Kael'Zorai created an instrument to impose systematic order on the raw magic of creation. The Dwarves call it the **Ulzammar-Krûn** ("Crown of the Sealed One"). It is not literally a crown — it is four interlocking components that, when assembled, form a circlet of dark crystal and pale metal.
+During the First Age, Kael'Zorai created an instrument to impose systematic order on the raw magic of creation. The Dwarves call it the **Ulzammar-Krûn** ("Crown of the Sealed One"). It is literally a crown — three interlocking components that, when assembled, form a circlet of dark crystal and pale metal with a single blazing gemstone at its apex.
 
-When the Four bound Kael'Zorai during the Paroxysm, they shattered the instrument and scattered its four pieces across the world, each sealed in a location where its energy would be contained by the surrounding environment.
+When the Four bound Kael'Zorai during the Paroxysm, they shattered the instrument and scattered its three pieces across the world, each sealed in a location where its energy would be contained by the surrounding environment.
 
-### The Four Pieces
+### The Three Pieces
 
-| Piece | Domain | Location | Containment |
-|-------|--------|----------|-------------|
-| **The Ulzammar Band** | Time | Desert foothills near Lux Aeterna | Buried in First Age stone, stabilized by the Lothari's dream-magic and the desert's mana scarcity |
-| **The Brass Heart** | Systematization | Gearhaven, Novaterra | Unknowingly used as a power source for the city's infant Mana-Pylon network |
-| **The Deep Measure** | Control | The Adamant Foundations, Kharnzarak | Embedded in the mountain's roots since the First Age; its field of Control has unknowingly reinforced Dwarven isolationism and the kingdom's rigid hierarchy for millennia |
-| **The Singing Shard** | Silence | Sacred grove, Whispering Vales | Woven into the Waldkyn Song-Wards, its silence balanced by constant harmonic singing |
+| Piece | Domain | Physical Form | Location | Containment |
+|-------|--------|---------------|----------|-------------|
+| **The Ulzammar Band** | Time | The circlet base — a ring of dark crystal shot through with pale metallic veins | Desert foothills near Lux Aeterna | Buried in First Age stone, stabilized by the Lothari's dream-magic and the desert's mana scarcity |
+| **The Setting** | Systematization | The decorative framework — an intricate lattice of pale metal that clasps the Band and holds the Gem | Gearhaven, Novaterra | Unknowingly used as a power source for the city's infant Mana-Pylon network. The Gearhaven engineers call it "the Brass Heart" |
+| **The Gem** | Silence | A large faceted gemstone of dark crystal, cold to the touch, that sockets into the Setting's apex | Lanthir Haven, Aerinórë | Woven into the Waldkyn Song-Wards of the sanctuary continent, its silence balanced by constant harmonic singing |
 
 ### Properties
 
-- **Individually:** Each piece radiates a field effect related to its domain. The Band slows aging nearby. The Heart makes machines more efficient. The Deep Measure enforces rigid obedience and hierarchy in its vicinity. The Shard creates zones of perfect stillness.
-- **Proximity effect:** Two pieces in close proximity create localized distortions — time skips, objects animating, water behaving strangely, patches of absolute silence.
+- **Individually:** Each piece radiates a field effect related to its domain. The Band slows aging nearby. The Setting makes machines more efficient and imposes systematic patterns on nearby processes. The Gem creates zones of perfect stillness where nothing changes.
+- **Proximity effect:** Two pieces in close proximity create localized distortions — time skips, objects animating on their own, patches of absolute silence.
 - **Assembled:** The full Crown grants the wielder the ability to rewrite the laws of magic itself — to impose a single, unified order on the entire ambient mana field. In mortal hands, this burns the wielder's mind in seconds (like Melek the Grey). The Echo-Lord, as a shard of divine consciousness, can sustain it.
 
 ### The Resonance Compass
 
-The Architect gives the party a crystalline device that pulses with harmonic frequencies, pointing toward the Crown pieces. It appears to be a divine gift. In truth, the Compass is a piece of the Echo-Lord's own essence — allowing it to track the players and monitor their progress at all times.
+The Architect gives the party a crystalline device that pulses with harmonic frequencies. It claims the device will "sing when the fragments are near" — a proximity detector, not a map. The Architect says it does not know where the other pieces came to rest after 1,500 years, only that this device will recognize them when the party draws close. This is a half-truth: the Compass DOES detect Crown pieces at close range, but its primary function is as a piece of the Echo-Lord's own essence — allowing it to track the players, monitor their progress, and manifest through it at all times.
+
+**Why the Architect claims ignorance:** The Echo-Lord has been growing in awareness for 1,500 years, feeding on ambient dissonance. It has a GENERAL sense of where the Crown pieces are (they disturb the mana field), but not precise locations. More importantly, claiming ignorance gives it a reason to direct the party to intermediaries — like the Starfall Peaks observatory — where it can manipulate the discovery process while appearing uninvolved. If it simply said "go here, here, and here," perceptive players would wonder how a being of light knows the precise locations of artifacts sealed by the Four.
 
 **Properties:**
-- Points unerringly toward the nearest Crown piece
-- Pulses faster as the party approaches
+- Resonates when within approximately 10 miles of a Crown piece — vibrating, humming, pulling gently in the right direction
+- Pulses faster as the party approaches; becomes warm to the touch at close range
 - Emits a soft hum that the Waldkyn find deeply unsettling
 - Cannot be destroyed by mundane means
 - If examined with any magic-sensing ability (Knowledge — Arcana [Intellect], **Average [◆◆]**), radiates protective magic overlaying something deeper and older that defies classification
@@ -327,14 +329,13 @@ The Compass is a piece of the Echo-Lord. It reacts to the Crown pieces being gat
 
 | Pieces Held | Compass Behavior | Perception Check to Notice |
 |-------------|-----------------|---------------------------|
-| **1 (the Band)** | Steady pulse. Businesslike. Points toward the nearest piece with metronomic regularity. | — (baseline) |
-| **2** | The pulse becomes warmer. The hum shifts from a monotone to something almost melodic — not unpleasant. At night, the Compass glows faintly, as if content. | **Average (◆◆)**: "It sounds... happier." |
-| **3** | The Compass purrs. There is no other word for it. The harmonic frequency has acquired overtones — complex, layered, almost like breathing. When a player holds it, they feel a faint warmth, like holding a sleeping animal. The Waldkyn refuse to be in the same room with it. | **Hard (◆◆◆)**: The hum contains fragments of the Architect's voice, pitched below conscious hearing. A Triumph reveals words: *"Almost. Almost."* |
-| **4 (all pieces)** | The Compass sings. A single, clear, triumphant note — beautiful and terrible. It pulls toward the Barren Hills with physical force. The warmth is now heat. Holding it feels like holding a heart. | **Average (◆◆)**: The Compass is no longer pointing. It is *yearning.* On a Triumph: the note it sings is the opening phrase of the Fifth Harmony. |
+| **1 (the Band)** | Steady pulse. Businesslike. Resonates faintly — a baseline hum, nothing more. | — (baseline) |
+| **2 (Band + one other)** | The pulse becomes warmer. The hum shifts from a monotone to something almost melodic — not unpleasant. At night, the Compass glows faintly, as if content. When a player holds it, they feel a faint warmth, like holding a sleeping animal. The Waldkyn refuse to be in the same room with it. | **Average (◆◆)**: "It sounds... happier." On a **Hard (◆◆◆)**: The hum contains fragments of the Architect's voice, pitched below conscious hearing. A Triumph reveals words: *"Almost. Almost."* |
+| **3 (all pieces)** | The Compass sings. A single, clear, triumphant note — beautiful and terrible. It pulls toward the Barren Hills with physical force. The warmth is now heat. Holding it feels like holding a heart. | **Average (◆◆)**: The Compass is no longer pointing. It is *yearning.* On a Triumph: the note it sings is the opening phrase of the Fifth Harmony. |
 
 **How the Architect Manifests — The Compass Connection:**
 
-The Architect does not physically travel. It manifests THROUGH the Resonance Compass — which is, after all, a piece of its own essence. When it appears to the party, the Compass flickers, the hum intensifies, and the Architect's geometric light unfolds from the device like a hologram projected from a crystal. This is why it can appear in Kharnzarak's sealed depths, past Waldkyn Song-Wards, or in the middle of the ocean — it is already WITH the party, always.
+The Architect does not physically travel. It manifests THROUGH the Resonance Compass — which is, after all, a piece of its own essence. When it appears to the party, the Compass flickers, the hum intensifies, and the Architect's geometric light unfolds from the device like a hologram projected from a crystal. This is why it can appear past Waldkyn Song-Wards, on remote mountaintops, or in the middle of the ocean — it is already WITH the party, always.
 
 **Red flag:** Perceptive players may notice that the Architect always appears near the Compass, never far from it. If they deliberately leave the Compass in another room and wait, the Architect does not appear. If they bring it back, the Architect arrives within the hour. A **Perception (Cunning), Daunting (◆◆◆◆)** check during any manifestation reveals that the Architect's light originates FROM the Compass and expands outward — it does not arrive from elsewhere.
 
@@ -352,9 +353,9 @@ Thalric commands the Legio Null's Desert Division — 100 Cold-Iron-armored Sand
 
 **Appearances:**
 - **Act I:** Primary pursuer during the desert chase. Narrowly misses the party at the Lothari waystation.
-- **Act II (Gearhaven):** A Legio Null agent, **Inquisitor Dorn**, arrives in Gearhaven posing as a refugee. He's Thalric's forward scout, tracking the party's ocean crossing. If discovered, he fights to the death rather than surrender intelligence.
-- **Act II (Kharnzarak):** Thalric himself appears at the trade-gate entrance to Kharnzarak. He's tracked the Compass's resonance to the mountain and is attempting to convince the Dwarves to let him in. The Barazkor Clan is considering it — an alliance of convenience against mutual enemies.
-- **Act II (Whispering Vales):** A Sand-Rider patrol skirts the Vales' border, unable to enter due to Song-Wards but visibly watching. The players know he's out there.
+- **Act II (Dragon's Tooth Mountains):** Thalric's outriders are spotted near the mountain approach. He's tracked the Compass's resonance northward. The party must avoid or outmaneuver his patrols to reach the Starfall Peaks.
+- **Act II (Mórenórë):** A Legio Null agent, **Inquisitor Dorn**, arrives in Mórenórë posing as a scholar. He's Thalric's forward scout, tracking the party's movements. If discovered, he fights to the death rather than surrender intelligence. The Free City's neutrality means Thalric can't send soldiers openly — but Dorn is enough.
+- **Act II (Gearhaven):** Thalric has crossed the ocean. A Sand-Rider patrol appears on Novaterra — unprecedented. He's been tracking the Compass's resonance for months. The players know he's close.
 - **Act III:** If convinced the Crown is a genuine world-ending threat (Charm [Presence] or Negotiation [Presence], **Formidable ◆◆◆◆◆**, reduced to **Hard ◆◆◆** with physical evidence), Thalric redirects his hunters toward the Barren Hills. His Cold-Iron armor provides natural resistance to the Fifth Harmony wave.
 
 > **COMMANDER THALRIC** [Nemesis]
@@ -379,8 +380,8 @@ The Pale Ledger does not want to destroy the Crown or save the world. She wants 
 
 **Appearances:**
 - **Late Act I:** The players learn Ink "reported to her superiors." Ink is now off the board — recalled. A new Shadewalker presence is felt: subtle signs of surveillance (a footprint near camp, a message intercepted, a contact who suddenly won't talk).
-- **Act II (any arc):** The Pale Ledger makes contact — politely. She offers information, resources, or help in exchange for the party keeping her informed about the Crown pieces. She is genuinely useful. She is also recording everything.
-- **Act II (Kharnzarak):** She has an agent inside the mountain — a Thulkorûn smuggler named **Grik** who operates through the trade-gate. Grik can help the party get in... but everything Grik knows, the Ledger knows.
+- **Act II (Mórenórë or Aurumport):** The Pale Ledger makes contact — politely, in a neutral city, over drinks. She offers information, resources, or help in exchange for the party keeping her informed about the Crown pieces. She is genuinely useful. She is also recording everything.
+- **Act II (Aerinórë):** She has an agent on the sanctuary continent — a Sael'anir wind-shaper who owes her a debt. The agent fed the Ledger intelligence on the party's arrival. Everything the party does on Aerinórë, the Ledger knows within days.
 - **Act III:** The Pale Ledger appears at the Barren Hills with a small team. She is not there to help or hinder — she is there to *document*. If the party wins, she'll sell the story of their heroism. If they lose, she'll sell the secret of the Crown to the Magocracy (which doesn't exist yet but will). She is the most dangerous kind of enemy: one who is on nobody's side.
 
 **The Ledger's Leverage:** Throughout Act II, the Pale Ledger acquires leverage on the party — secrets overheard, deals witnessed, debts tracked. If the party tries to cut her out, she threatens to reveal their location to Thalric, expose their actions to whatever community they're currently embedded in, or simply sell the Crown's existence to the Varnathi Senate.
@@ -572,7 +573,7 @@ There is no wrong answer. The point is that she faces the choice.
 > **Abilities:**
 > *Spatial Anchor Teleportation:* Miravel can teleport herself and up to six willing creatures to any prepared anchor point. 24-hour recovery between uses. Costs 4 strain.
 > *Anchor Inscription:* Over 4 hours, Miravel can prepare a new anchor at any location. This anchor also (unknown to her) creates a resonance feed to the Echo-Lord.
-> *Spatial Sense:* Miravel passively senses spatial distortions — she always knows when the party enters an area affected by the Ulzammar Band's time-distortion field, the Deep Measure's control field, or the Shard's stillness. She may interpret this as "magic interference" without understanding its source.
+> *Spatial Sense:* Miravel passively senses spatial distortions — she always knows when the party enters an area affected by the Ulzammar Band's time-distortion field, the Setting's systematic resonance, or the Gem's stillness. She may interpret this as "magic interference" without understanding its source.
 > *Anchor Collapse (Act III only):* Miravel can collapse an anchor she inscribed by channeling spatial energy through herself. Costs 8 strain per anchor. If she reaches 0 strain while collapsing anchors, she may channel into Wounds instead; if she reaches 0 Wounds, the magic stabilizes — she survives, but permanently loses Spatial Anchor Teleportation.
 > **Equipment:** Cartographic tools, spatial notation journals (contain the inscription cipher for all anchors — useful for the party to locate them), Azure Hand correspondence cipher, a lockpick she never uses but always carries
 
@@ -1043,7 +1044,7 @@ The journal belongs to **Torvin Dast**, the mining crew's foreman — a veteran 
 *(The entry ends. The line below is blank. The page after that is soaked dark.)*
 
 **The Discovery:**
-Any character who touches the Band must make a **Discipline (Willpower) check, Average (◆◆)**. On failure, they experience a flash of alien sensation: absolute certainty, the feeling of gears meshing with mechanical precision, and a single coherent thought that is not their own: *"Incomplete."* On success, they feel the same sensation but can identify it as external — something in the Band reaching out. On a Triumph, the character also glimpses a fleeting image of four interlocking crystal shapes. On a Despair, the character is Staggered until the end of their next turn.
+Any character who touches the Band must make a **Discipline (Willpower) check, Average (◆◆)**. On failure, they experience a flash of alien sensation: absolute certainty, the feeling of gears meshing with mechanical precision, and a single coherent thought that is not their own: *"Incomplete."* On success, they feel the same sensation but can identify it as external — something in the Band reaching out. On a Triumph, the character also glimpses a fleeting image of three interlocking crystal shapes. On a Despair, the character is Staggered until the end of their next turn.
 
 The Band is cool to the touch and weighs almost nothing. Once held, the character notices that time near the Band is subtly warped — a dropped pebble falls slightly slower, flame flickers in slow motion, their own heartbeat seems to lag behind their breathing.
 
@@ -1369,91 +1370,101 @@ The GM should explicitly track these during Act I so they can be deployed at the
 
 ---
 
-## Chapter 5: Act II — The Scatter (Adventurer Tier, 150–450 XP)
+## Chapter 5: Act II — The Journey (Adventurer Tier, 150–450 XP)
 
-*Every piece you take leaves a wound.*
+*Every piece you take leaves a wound. Every road teaches you what you're willing to pay.*
 
 ### Overview
 
-Act II is the heart of the campaign — three self-contained arcs that can be played in any order. Each takes the players to a different continent and culture, presents a Crown fragment embedded in a community that depends on it, and forces an impossible moral choice. Each arc should take 6–10 sessions.
+Act II is a single, continuous journey that takes the players across two continents and an ocean. Unlike a modular structure, this is a linear narrative — each destination leads to the next, and the party's choices ripple forward through every subsequent arc. The journey is: **Dragon's Tooth Mountains → Mórenórë → Aerinórë (Lanthir Haven) → Aurumport (interlude) → Gearhaven**.
 
-**XP Progression:** First arc: ~250 XP | Second arc: ~350 XP | Third arc: ~450 XP
+**XP Progression:** ~150 XP (start) → ~250 XP (after Mountains) → ~350 XP (after Aerinórë) → ~450 XP (after Gearhaven)
 
-**The Architect Between Arcs:**
-The Architect appears between each arc — always at moments of doubt. Track the escalation:
+**The Architect Through Act II:**
+The Architect appears at key moments — always through the Compass, always at moments of doubt. Track the escalation:
 
-| After Arc | Behavior | Red Flag |
-|-----------|----------|----------|
-| First | Warmly congratulates. "You saved them from a slower death." | Dismisses collateral without empathy |
-| Second | More urgent. "The pieces are calling to each other." | Impatience; less interested in moral struggles |
-| Third | Direct, intense. "One more. Then it ends." | Drops detachment. A Waldkyn NPC says: "It is hungry." |
+| After | Behavior | Red Flag |
+|-------|----------|----------|
+| Mountains | Satisfied. "Now you know where to look. The stars do not lie." | It already knew what the astronomer would find. It sent them there on purpose. |
+| Aerinórë | Warmly congratulates. "You saved them from a slower death." | Dismisses the destruction of a 1,400-year sanctuary without empathy |
+| Aurumport | More urgent. "The pieces are calling to each other. One more." | Impatience; less interested in moral struggles |
+| Gearhaven | Direct, intense. "It is nearly done." | Drops detachment. A Waldkyn NPC who escaped Lanthir Haven says: "It is hungry." |
 
-### Between Arcs: The Voyages
+### How Travel Works — Ley-Line Anchoring
 
-**How Travel Works — The Rule:**
-Miravel has ONE pre-prepared spatial anchor: Gearhaven. She prepared it through prior Azure Hand business. For every other destination, she must travel there conventionally FIRST, prepare a new anchor (4 hours of inscription work), and then either teleport the party to her or meet them at the departure point. This means:
+Miravel's spatial magic is not arbitrary. She can ONLY teleport to locations where ley lines converge strongly enough to sustain a spatial fold — **ley-line nexuses**. These are fixed geographic features, not chosen destinations. She must physically visit a nexus, attune to it (4 hours of inscription work), and can then fold space between attuned nexuses.
 
-- **Act I → First Arc (Gearhaven):** Miravel teleports the party from the *Silk Dagger* directly to Gearhaven. Instant. The party skips the ocean crossing entirely — which is itself unsettling. One moment they're on a ship watching the mainland vanish; the next, they're standing in mineral steam on a cliff face 3,000 miles away.
-- **First Arc → Second Arc:** Miravel must travel ahead to the next destination by conventional means (Azure Hand ship, Lothari caravan, or overland). This takes 2–4 weeks. During this time, the party ALSO travels conventionally — by ship if crossing water, overland if staying on Vael. **This is where ship scenes and overland travel happen.** The party arrives at or near the destination and Miravel meets them, anchor prepared.
-- **Second Arc → Third Arc:** Same pattern. Miravel travels ahead; the party follows by conventional means. Another voyage with travel encounters and character scenes.
-- **After Third Arc → Barren Hills:** Miravel prepares the final anchor at the Barren Hills site. She travels ahead — alone, separately — which is why she's absent when the trap is sprung.
+**Known Ley-Line Nexuses:**
+- **Rust-Water Bay (Gearhaven)** — Geothermal vents mark a powerful nexus. Miravel attuned to this through prior Azure Hand business. This is her ONE pre-prepared anchor at campaign start.
+- **Aurumport Harbor** — The ancient port sits on a nexus where the Great River meets the sea. Miravel discovers this during the campaign and attunes to it during the Aurumport interlude.
+- **The Barren Hills** — The Scar of Dissonance at the Hills' center is a massive nexus of corrupted energy. Miravel attunes to this for the Act III journey — and the inscription "fights her," wanting to be written.
 
-This structure gives the campaign BOTH the wonder of Miravel's teleportation (used sparingly) AND the rich travel scenes that build relationships. The first teleportation is a gift. Every subsequent journey is earned on foot or by sea.
+**Nexuses the party cannot teleport to:**
+- Aerinórë has no accessible nexus — the Sael'anir wind-shapers' mist disrupts spatial magic. You must travel there by sea.
+- The Dragon's Tooth Mountains have no strong nexus — the party travels there by ship from the coast.
+- Lux Aeterna's desert foothills have weak, scattered energy — insufficient for anchoring.
+
+This means:
+- **Act I → Mountains:** The party travels by ship up the coast (the one long conventional voyage). Miravel accompanies them.
+- **Aerinórë → Aurumport:** Miravel reveals her teleportation for the first time, taking them to the Aurumport nexus in a desperate escape from the Vorok-Varr.
+- **Aurumport → Gearhaven:** Miravel teleports them to her pre-prepared Gearhaven anchor. The second use of teleportation — now routine, but the players know the cost.
+- **Gearhaven → Barren Hills:** Miravel prepares the final anchor. She travels ahead — alone — which is why she's absent when the trap is sprung.
 
 **Between-arc downtime** happens during these conventional voyages — whether on a ship, at a waypoint inn, or camped by the road. Allocate one full scene (15–30 minutes) of quiet, no-urgency play per voyage.
 
-**How to run them:**
+**How to run travel scenes:**
 - No skill checks, no initiative, no monsters
-- Miravel is present for the journey to the first arc (she teleported with them). For subsequent voyages, she may or may not be present — she's often traveling ahead. Use her absence to let the party miss her, and her return to feel like relief.
+- Miravel is present for the entire journey through the Mountains and Aerinórë — she travels WITH the party, not ahead of them
+- After the Aurumport interlude, she teleports them to Gearhaven and accompanies them through that arc
 - When Miravel IS present, she is cooking, working on her notation journals, asking questions, being a person
 
-**Miravel's Presence Between Arcs:**
+**Miravel's Presence Along the Journey:**
 
 She adapts to each group, but her core pattern is consistent: she listens more than she talks, she remembers more than she should, and she is genuinely interested in the people carrying the Crown pieces. She is not performing warmth — she is a lonely person who has been doing solitary work for seven years and has, for the first time, a crew.
 
-Use the following specific beats in each voyage:
+Use the following specific beats at key journey moments:
 
-*After Arc A (departing Gearhaven):*
-Miravel asks who Tomlin is — she heard the name mentioned in passing. If the players answer honestly, she writes it down in her journal. She says: *"I keep track of the people who make these places worth fighting for. Otherwise it all turns abstract and I make worse choices."* She has six pages of names. The players probably won't ask who the others are. They should.
+*On the ship north (Act I → Mountains):*
+Miravel makes coffee at dawn in the ship's galley — real coffee, not the bark-substitute from Lux Aeterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
 
-*After Arc B (departing Kharnzarak):*
-Miravel is quiet for longer than usual. She asks, eventually: *"The Architect told me the fourth piece is in the Barren Hills. But the piece in Kharnzarak wasn't where it was supposed to be — it was woven into that whole kingdom. The Deep Measure's been there since before the Dwarves built anything. Did the Architect know that? Before you arrived? Because it seemed... unsurprised when you reported it."*
+*During the mountain climb:*
+Miravel is not a mountaineer. She's competent but visibly out of her element — panting at altitude, gripping ropes too tightly, asking "Is it always this cold?" She is used to being the most capable person in the room. Here she is not. Let the players take care of her for once. She will remember who helped her, and she will write it down.
+
+*On Aerinórë:*
+Miravel is shaken by Lanthir Haven's beauty. She sits in the Waldkyn groves and cries, quietly, when she thinks no one is watching. If a player finds her: *"I've been to a lot of places. I've never been to one that didn't want anything from me."* She does not want to take the Gem. She will help because the Architect told her to. But something in her is breaking.
+
+*During the Aurumport interlude:*
+She is quiet for longer than usual. She asks, eventually: *"The Architect told me the last piece is at Gearhaven. But the Gem on Aerinórë wasn't where it was supposed to be — it was woven into a community. A paradise that depended on it. Did the Architect know that? Before we arrived? Because it seemed... unsurprised."*
 
 This is her doubt speaking for the first time. She will push back if challenged. She has seven years of trust to defend. But something in her face has changed.
 
-*After Arc C (departing the Whispering Vales):*
+*After Gearhaven (preparing for Act III):*
 She is preparing the Barren Hills anchor. She will need to travel ahead — separately. She says goodbye to each player individually in a way that doesn't feel like goodbye, which is how you know it is one.
 
 One player might notice she's worn the same cartography-ink stain on her left hand since they met. She never seems to wash it off. If asked: *"Old habit. I used to mark my hands with the coordinates of the last place I anchored. So I'd know where home was."* A pause. *"I don't do it anymore. I have too many anchors."*
 
-**Conversation Seeds — see Chapter 3.8 for full prompts:**
-- "What's the first thing you'll do when this is over?" (Run this once. Remember the answers. Return to them in Act III.)
-- "Did you believe the Architect when you first met it? Do you still?" (Watch the table argue.)
-- "Tell me about someone you left behind." (Where backstory becomes present-tense stakes.)
+**Conversation Seeds — run one per major travel leg:**
+- "What's the first thing you'll do when this is over?" (Run on the ship north. Remember the answers. Return to them in Act III.)
+- "Did you believe the Architect when you first met it? Do you still?" (Run during the Aurumport interlude. Watch the table argue.)
+- "Tell me about someone you left behind." (Run on Aerinórë, in the groves, at night. Where backstory becomes present-tense stakes.)
 
-**The Rule:** The players will want to skip these scenes to get to the next arc. Don't let them skip every one. One scene — fully committed, no table phones, no meta-jokes — is worth more than three extra combat encounters. The campaign earns its finale in these moments.
+**The Rule:** The players will want to skip travel scenes to get to the next destination. Don't let them skip every one. One scene — fully committed, no table phones, no meta-jokes — is worth more than three extra combat encounters. The campaign earns its finale in these moments.
 
-### Letters from the World — Between-Arc Consequences
+### Letters from the World — Consequences in Transit
 
-After each arc, deliver one or two letters or messages to the party during travel. These arrive via Azure Hand courier, Lothari dream-network, Shadewalker dead-drop, or Miravel's contacts. They serve two purposes: they make the world feel alive beyond the party's immediate location, and they make the party's choices echo forward.
+Deliver letters or messages during travel legs. They arrive via Azure Hand courier, Lothari dream-network, Shadewalker dead-drop, or Miravel's contacts. They make the world feel alive beyond the party's immediate location.
 
-**After Arc A (Gearhaven):**
-- **From Pip Sprocket** (if the substitute engine was built): *"The replacement is holding! Sort of. It makes a sound like a cat in a pipe organ every third sunrise, and we can't figure out why. Thaelra says it's 'within acceptable parameters.' I think she means 'I'm too tired to care.' Tomlin asks about you. His bird stopped working the day the Heart left. He's rebuilding it from scratch. He says the new one will be better. He's probably right — he's smarter than all of us. — Pip. P.S. The Rigs miss you. Wobbles rolled into the sea last week. We fished it out. It seemed embarrassed."*
-- **From Sergeant Hrothgar** (if the party earned his respect): *"Jungle breached Pylon 6 two nights after you left. We held. Lost Kenner — new kid, you wouldn't know him. The perimeter's thinner now. We'll manage. We always manage. Don't come back unless you're bringing something that helps. — H."*
-- **If the party stole the Heart (Path 3):** No letter. Silence. Then, three sessions later, a one-line report via Azure Hand: *"Gearhaven evacuation in progress. Estimate 400 survivors. Destination unknown."*
-
-**After Arc B (Kharnzarak):**
-- **From Delva Bronrûn-Kith** (if the party left on good terms): *"The gates cracked. Not open — cracked. Thorgar issued a decree allowing trade-gate access for 'approved surface contacts' — which is the most radical thing a king of Kharnzarak has said in 90 years. Marga's people are on the new council. She says hello. She says it exactly the way you'd expect Marga to say hello."*
-- **From Korrin Gulgrym** (if the party earned his trust): *"The deep levels are unstable. We lost two mine shafts. The Foundry holds. I'm building something with the knowledge your people shared — Elm-korin principles applied to Dwarven stone-craft. It's ugly and it works. That's enough."*
-- **If the party supported Mazrek's coup:** A formal letter bearing the Farrazul seal: *"Lord Mazrek Farrazul, First Among Equals of the Stone-Lay Council, extends his regards and his gratitude. He trusts that your discretion regarding the circumstances of the recent transition will continue."* It is polite. It is also a threat.
-
-**After Arc C (Whispering Vales):**
-- **From Sprout** (if the party befriended the Ribbet child): A leaf pressed into a folded piece of bark. No words. Just the leaf. It's green. The Vales are alive.
-- **From Branch-Speaker Kethra** (if the Scar was sealed): *"The grey is retreating. Slowly — a handspan per week — but retreating. Elm-Thara sang yesterday. She hasn't sung in four years. Ash-Claw brought flowers to the Guest-Bower where you stayed. He didn't say why. He didn't need to."*
-- **If the party stole the Shard:** A message arrives through the Lothari dream-network, not from any specific sender: an image of the Harmony Oak, its leaves falling in perfect stillness. The tree is dying.
-
-**From Lux Aeterna** (arrives during any between-arc travel):
+**From Lux Aeterna** (arrives during the ship voyage north):
 - **From Warden Sabel** (always): Brief, factual, Sabel. *"Settlement stable. Relocated to secondary position after your departure. Mirror-charms holding. Population 387 — lost 13 in the relocation. Names on the wall. Petra joined the defense rotation last month. She's good. Better than good."* Pause. Then, in smaller handwriting at the bottom: *"Come home when you can."*
+
+**After Aerinórë** (arrives in Aurumport):
+- **From Lanthir Haven** (if the party left allies behind): A message carried by a Sael'anir wind-runner — rare, precious. *"The mist is thinning. Ships have been spotted on the horizon — Mirennian traders, we think. For the first time in fourteen centuries, someone outside knows where we are. We are not angry. We are afraid."*
+- **If the party took the Gem by force:** No message. Silence from Aerinórë. The wind-shapers have sealed the coast entirely. Nothing gets in or out. The party will not know what happened until Act III — if they learn at all.
+
+**After Gearhaven** (arrives during Act III journey):
+- **From Pip Sprocket** (if the substitute engine was built): *"The replacement is holding! Sort of. It makes a sound like a cat in a pipe organ every third sunrise, and we can't figure out why. Thaelra says it's 'within acceptable parameters.' I think she means 'I'm too tired to care.' Tomlin asks about you. His bird stopped working the day the Setting left. He's rebuilding it from scratch. He says the new one will be better. He's probably right — he's smarter than all of us. — Pip. P.S. The Rigs miss you. Wobbles rolled into the sea last week. We fished it out. It seemed embarrassed."*
+- **From Sergeant Hrothgar** (if the party earned his respect): *"Jungle breached Pylon 6 two nights after you left. We held. Lost Kenner — new kid, you wouldn't know him. The perimeter's thinner now. We'll manage. We always manage. Don't come back unless you're bringing something that helps. — H."*
+- **If the party stole the Setting (Path 3):** No letter. Silence. Then, during Act III, a one-line report via Azure Hand: *"Gearhaven evacuation in progress. Estimate 400 survivors. Destination unknown."*
 
 **Ocean Travel Random Encounters (d8):**
 
@@ -1512,6 +1523,84 @@ Use these for any overland travel leg on the Vael mainland. Roll once per day of
 | 6 | **Nothing.** Wind. Grass. The slow turn of the sky. Let the silence sit. These moments make the encounters matter. |
 | 7 | **Shadewalker Dead-Drop.** A distinctive mark on a milestone. If the party has a Shadewalker contact or an Underworld Operative, they recognize it: a message cache. Inside: intelligence on Legio Null patrol routes (add a Boost die to the next Stealth or Survival check to avoid patrols) and a note in the Pale Ledger's cipher. She knows where they are. |
 | 8 | **The Compass Stirs.** The Resonance Compass pulses hard — not toward a Crown piece, but toward the ground. Something deep beneath them responds to the Crown fragments the party carries. A subsonic hum rises, holds for 10 seconds, and fades. The grass in a 30-foot circle around the party has stopped moving. Then the wind returns. Let the players decide what that means. |
+
+---
+
+### The Dragon's Tooth Mountains — The Starfall Peaks Observatory
+
+*Theme: Seeking knowledge in a world that has forgotten its gods | What do the stars know that mortals have lost?*
+**Pacing:** 2–3 sessions | **Adventurer Tier (150–200 XP)**
+
+This is not a full arc — it is a pivotal waypoint. The party arrives at the Dragon's Tooth Mountains seeking the wisdom the Architect directed them toward. What they find is Stellion's abandoned observatory, occupied by a mortal astronomer who has been watching the stars shift in ways that should not be possible.
+
+#### Getting There
+
+The party travels by ship from the coast near Lux Aeterna (or from a Mirennian port, depending on how Act I's escape resolves) northward along Vael's coast to a port town near the Dragon's Tooth range. The voyage takes 5–7 days. Use the ocean encounter table for this leg.
+
+**The Approach:** From the port, the party ascends into the mountains on foot — 2-3 days of climbing through increasingly hostile terrain. The Dragon's Tooth Mountains are the northernmost peaks of Vael: arctic alpine, perpetual ice above the treeline, sheer granite faces and howling winds. The path is ancient — a Stone-Road-era trail, crumbling but navigable.
+
+**The Sealed Trade-Gate (Optional Encounter):** If the party's route passes near Kharnzarak (which sits within the same mountain range), they encounter the sealed Dwarven trade-gate. A fortified antechamber at the mountain's eastern foot where Nûm-Khazalûn merchants exchange goods with surface traders through a barred window. Armed guards in adamant armor watch every interaction. Non-Dwarves are permitted in a 50-foot antechamber and no further.
+
+The party CANNOT get in. The gates have been sealed for 90 years. A Thulkorûn Exile PC may feel the weight of this — a kingdom of their people, locked behind stone, and they can hear the forge-hammers echoing through the rock. Let the moment sit. They are not here for Kharnzarak. But knowing it's here — sealed, suffering, unreachable — adds depth.
+
+#### The Starfall Peaks Observatory
+
+Above the treeline, past the last habitable altitude, a path of fitted stone leads to a structure that should not exist: **Stellion's Observatory** — a First Age construction of dark stone and crystal, built into the mountain's summit like a crown on a skull. The architecture is familiar to anyone who has been in the Ruin of Sorath or seen Ulzammar notation: too-regular angles, mathematical precision, walls inscribed with celestial charts in a language that predates all known writing.
+
+The observatory's instruments still work. Massive crystalline lenses — each taller than a person — are mounted in rotating brackets that track the stars with mechanical precision. The ceiling is open to the sky through a retractable dome mechanism that still functions after 1,500 years. The cold up here is lethal, but the observatory's interior is warm — residual First Age energy keeps the temperature stable.
+
+**The Astronomer: Vaelric Star-Eye**
+
+A mortal sits among the instruments. **Vaelric Star-Eye** — human male, mid-50s, gaunt, frost-bitten fingers wrapped in bandages, wild grey hair, eyes that have spent too many years looking at things too bright and too far away. He was a professor of celestial mechanics at the academy in Mórenórë before the Decree of Prohibition made his work illegal (astronomical observation was deemed "adjacent to divination," which was deemed "adjacent to magic"). He fled north. He found this place. He stayed.
+
+He has been living in Stellion's observatory for eleven years. He understands perhaps 30% of the instruments. The other 70% do things he cannot explain. He is the smartest person the players have ever met, and he is TERRIFIED.
+
+**What Vaelric Knows:**
+- The stars have been wrong for six months — subtle shifts in known constellations that correspond to no natural phenomenon
+- The shifts form a pattern: three points of intense stellar distortion, arranged in a triangle across the world's sky. Two are active. One is dormant.
+- He doesn't know what the points represent, but he can triangulate their approximate locations: one to the far north (Aerinórë — the Gem), one to the far southwest across the ocean (Gearhaven — the Setting), and one nearby in the foothills (the Band — which the party is carrying, and which has been disturbing his readings for weeks)
+- When the party shows him the Band, he goes very quiet. Then: *"You're carrying one of them. That's why my instruments have been screaming."*
+
+**What Vaelric Suspects But Won't Say Directly:**
+- The stellar distortions started approximately when the Band was discovered. Something is being ASSEMBLED.
+- The instruments have been recording a fourth signal — not a point but a LINE, connecting the three distortions to a location in the Barren Hills. This line has been growing stronger.
+- Something is WATCHING through the instruments. He's felt it. He's found the lenses repositioned in the morning when he didn't move them. He thinks the observatory is being used by something else.
+
+**Red Flag:** A **Perception (Cunning), Hard (◆◆◆)** check while examining the instruments reveals that one lens is pointed not at the sky but at the Resonance Compass. The Echo-Lord has been using the First Age instruments — through the Compass — to refine its knowledge of the other pieces' locations. The Architect didn't send the party here to LEARN where the pieces are. It sent them here so IT could use the observatory to pinpoint them precisely.
+
+**Vaelric's Direction:**
+After studying the stellar patterns and consulting with the party, Vaelric tells them: *"The northern signal is strongest. It's in the ocean — or beyond it. If I had to guess, I'd say it's on the continent the Mirennian sailors won't talk about."* He doesn't know the name Aerinórë. But he knows the Waldkyn have knowledge of places the mainland has forgotten. *"Seek the Waldkyn to the east. Mórenórë — the Free City — is where their scholars gather. If anyone knows what lies across the northern sea, they will."*
+
+He gives the party a **star-chart** — a crystalline disc inscribed with the triangulation data. It's not a map, but it confirms where to look. **This is the piece of evidence that makes the search for the Crown pieces feel earned, not handed to the party by a convenient being of light.**
+
+> **VAELRIC STAR-EYE** [Rival — Ally]
+> *Human, astronomer*
+> **Brawn 1 | Agility 2 | Intellect 5 | Cunning 3 | Willpower 3 | Presence 2**
+> Soak: 2 | Wounds: 10 | Strain: 16 | Defense: 0/0
+> **Skills:** Cool 2, Knowledge — Arcana 4, Knowledge — Lore 3, Perception 4, Survival 2, Vigilance 3
+> **Talents:** Nobody's Fool 2, Researcher 3
+> **Abilities:**
+> *Star-Reader:* Vaelric can interpret celestial phenomena with First Age instruments. Given 8 hours of observation, he can determine the approximate direction and distance of any Crown piece (accuracy: within 50 miles). This ability only works at the observatory.
+> *Haunted by the Lens:* Vaelric adds a Boost die to Perception checks to notice the Architect's influence or Echo-entity phenomena. Eleven years of watching things he can't explain have sharpened his instincts.
+> **Equipment:** First Age star-chart (crystalline disc), astronomer's journals (11 years of observations), warm clothing that's falling apart
+
+---
+
+### The Journey to Mórenórë and Beyond
+
+After the observatory, the party descends the mountains and travels northeast toward **Mórenórë** — the Free City on the neutral peninsula. This overland journey takes 5–7 days. Use the overland encounter table and waypoint towns (Irongate Crossing is on this route).
+
+At Mórenórë, the party can:
+- Confirm Vaelric's findings with Waldkyn scholars (the Waldkyn in Mórenórë know of Aerinórë, though they are discreet about it)
+- Arrange passage across the northern ocean (see Arc B: Getting to Aerinórë)
+- Resupply, gather intelligence, and encounter background-specific contacts
+- Experience the Free City's cosmopolitan neutrality — Aen'valar Elves, Humans, and Waldkyn governing together in a place where the Decree of Prohibition is ignored
+
+**First Major Emotional Beat:** During the journey from the mountains to Mórenórë, or in Mórenórë itself, run one of the following (choose based on party composition):
+
+- A starting contact appears unexpectedly — **Corporal Aenne** (Disgraced Soldier's contact) has been working as a caravan guard on this very road. She sees the player and freezes. She doesn't say "I missed you." She says: *"You look like you've been somewhere hard."* Then she walks with them. That's enough.
+- A letter arrives from Lux Aeterna (the Sabel letter from the Letters section — *"Come home when you can."*)
+- The party encounters refugees from the purges heading to Mórenórë — families with children, mages hiding their sparks. The players see, in these strangers, exactly what they were six months ago. Let them decide what to do.
 
 ---
 
@@ -1617,300 +1706,170 @@ If the players visit the Steam Baths (the geothermal pools), they find Gearhaven
 
 ---
 
-### Arc B: The Deep Measure — Kharnzarak, the Sealed Kingdom
+### Arc B: The Gem — Aerinórë, the Sanctuary Continent
 
-*Theme: Tradition vs. truth | Obedience vs. conscience | What does a sealed door protect — the world, or a lie?*
-**Pacing:** 6–10 sessions | **Adventurer Tier (150–300 XP)**
+*Theme: Innocence vs. necessity | What do you owe a paradise? | The cost of revealing what was hidden*
+**Pacing:** 6–8 sessions | **Adventurer Tier (250–350 XP)**
 
-#### Getting Inside
+#### Getting to Aerinórë
 
-Kharnzarak has been sealed for 90 years. The Adamant Gates are shut, runed, and guarded. No outsider has entered since High King Thorgar VI's decree. There is exactly one opening: the **Trade-Gate** — a small, heavily guarded portal at the mountain's eastern foot where Dwarven merchants exchange steel and gold for surface goods. Non-Dwarves are permitted in a 50-foot antechamber and no further.
+The party has learned (from the astronomer at the Starfall Peaks, confirmed by Waldkyn contacts in Mórenórë) that the Gem — the final visible Crown piece — is on Aerinórë, the sanctuary continent to the north. It is woven into the Song-Wards of **Lanthir Haven**, a diverse coastal settlement where the Waldkyn, Sael'anir Elves, Vorok-Varr Orkin, and Hollowkin live in peaceful coexistence.
 
-**Methods of Entry:**
-- **The Bronrûn Legacy contact:** If the party has Thulkorûn or Elm-korin connections (character background, Gearhaven contacts), they can reach **Delva Bronrûn-Kith** — a Bronrûn Legacy operative who works in the Trade-Gate's customs office. She can smuggle the party inside in ore-carts. Risky but direct.
-- **The Shadewalker route:** The Pale Ledger's agent **Grik** (Thulkorûn smuggler) maintains a hidden passage through an abandoned mine shaft that connects to the kingdom's Lower Deep. Grik demands payment: 500 Sparks or a favor owed to the Pale Ledger (she always collects).
-- **The Hard Way:** The party finds another entrance — an old ventilation shaft, a sealed emergency exit, a forgotten tunnel from the Stone-Road era. Survival [Cunning] **Daunting (◆◆◆◆)** to locate; multiple hazards inside.
+**The Problem:** Aerinórë is a secret. Most people on Vael don't know it exists. The coastline is wreathed in perpetual mist generated by Sael'anir wind-shapers, and the Waldkyn Song-Wards further confuse intruders. You cannot sail there without a guide.
 
-#### Kharnzarak — Gazetteer
+**Methods of Passage:**
+- **Waldkyn guides from Mórenórë:** If the party earned Waldkyn trust during their time in Mórenórë, a Waldkyn elder named **Fern-Tongue** (Ribbet-kyn, elderly, speaks in mossy metaphors) offers to guide them through the mist. She has made the crossing before — once, decades ago — and knows the current patterns.
+- **Sael'anir wind-shaper:** If the party has impressed the Sael'anir (through the Starfall Peaks astronomer, who has Sael'anir contacts), a wind-shaper named **Ilwen** agrees to part the mist for one crossing. She warns: "The mist returns behind you. Coming back is your problem."
+- **Azure Hand smuggler route:** Vesper Moraine (returning from Act I) maintains that the Azure Hand has "occasionally done business in places that don't officially exist." For 500 Sparks or a favor, she provides coordinates and a Mirennian chart marked with wind-shaper gap patterns.
 
-**Overview:** The greatest Dwarven city in the world — carved into the roots of the Dragon's Tooth Mountains over three thousand years. A vertical city descending miles into the earth, with each level reflecting the rigid hierarchy of Dwarven society. At SA 1490, it is a kingdom frozen in amber: magnificent, ancient, suffocating, and slowly dying from within. The Deep Measure's field of Control permeates everything — the strict obedience, the refusal to change, the paranoid certainty that the outside world is corruption.
+#### Lanthir Haven — Gazetteer
 
-**Population:** ~15,000 (exclusively Nûm-Khazalûn Dwarves, plus ~200 Gatestone-Clan laborers who are functionally an underclass)
+**Overview:** A coastal settlement on the western shore of Aerinórë — not a city in any mainland sense, but a living community of ~800 souls nestled where ancient forest meets white sand beach. Lanthir Haven ("Haven of Song-Light") was established organically over centuries as the natural meeting point between the continent's four peoples. There are no walls. The buildings are a mix of Waldkyn tree-woven structures, Hollowkin burrows with round doors and flower boxes, Vorok-Varr earthen longhouses, and Sael'anir wind-tents that shift with the breeze.
 
-**Government:** Hereditary Monarchy under the Stone-Lays. High King Thorgar VII of the Barazkor Clan rules from the Adamant Throne with absolute authority. The Stone-Lay Council (9 clan-lords) advises but cannot override.
+The air smells of salt, pine resin, and baking bread. The loudest sounds are birdsong, the surf, and the constant low harmony of the Song-Wards woven into the great trees that ring the settlement. It is the most beautiful place the players have ever been. That is what makes taking the Gem so devastating.
 
-**Economy:** Self-sufficient. Mining (iron, gold, gems), internal agriculture (fungal farms, underground livestock), master smithing. The only external trade happens through the Trade-Gate.
+**Population:** ~800 (35% Waldkyn of all eight variants, 25% Hollowkin — Halflings and Gnomes, 20% Vorok-Varr Orkin, 15% Sael'anir Elves, 5% other — occasional Mirennian visitors who found the place and couldn't bring themselves to leave)
 
-**Currency:** Stone-Marks (small iron tokens stamped with the Crown of the Mountain). The party's Mana-Crystal Sparks are illegal inside Kharnzarak — possession of mana-crystals is treated as "surface taint."
+**Government:** None, formally. Decisions emerge through consensus among the four peoples' elders. The closest thing to a leader is **Song-Mother Aelindra** (Waldkyn Galapa, ancient, patient as stone), who maintains the Song-Wards and is the only person all four communities defer to.
+
+**Economy:** Gift economy. No currency. The Hollowkin grow food. The Vorok-Varr tend livestock and build structures. The Waldkyn maintain the Song-Wards. The Sael'anir navigate and defend. Everyone contributes. Nobody counts.
 
 **Social Rules (critical for gameplay):**
-- Non-Dwarves are **forbidden**. Discovery means immediate imprisonment and possible execution.
-- Magic is **heretical**. The Elm-korin were exiled for practicing it. Any visible spellcasting triggers an armed response.
+- Violence is **unthinkable**. Aerinórë has not seen a weapon drawn in anger for over 400 years. The party's weapons will draw stares and discomfort.
+- The Song-Wards are **sacred**. The Gem is embedded in the root-heart of the Great Singing Tree — a 600-foot coastal redwood that anchors the settlement's ward network. Touching the tree without permission is the only act the Aerinórë peoples consider a crime.
+- Outsiders are **rare but not forbidden**. The settlement receives occasional Mirennian visitors (by Sael'anir permission). The party will be treated with gentle curiosity — fed, housed, welcomed. Which makes betraying that welcome harder.
 - Caste determines everything. High Clans speak to High Clans. Guild Clans do not address High Clans without permission. Gatestone Clans are invisible.
-- The name **Ulzammar** is forbidden. Speaking it aloud draws the attention of the King's Enforcers.
+#### Key Locations
 
-#### Levels of Kharnzarak
+**The Great Singing Tree** — A 600-foot coastal redwood at the settlement's heart. Its root system extends a quarter-mile in every direction, threading through every building's foundation. The Gem is embedded 30 feet up the trunk, nestled in a natural hollow where root meets heartwood. The tree hums constantly — a deep, subsonic vibration that IS the Song-Ward. When the wind blows through its canopy, the humming resolves into something almost like words. Waldkyn children are conceived near this tree. The dying are carried to its roots. It is not worshipped — it is PART OF the community, in the way a heart is part of a body.
 
-**The Trade-Gate (Surface Level)**
-The only point of contact with the outside world. A fortified antechamber where surface merchants exchange goods with Dwarven traders through a barred window. Guards (Barazkor Enforcers) watch every interaction.
+**The Listening Circle** — A natural amphitheater on the beach where the four peoples gather for decisions. No stage, no elevation — every seat is equal. A ring of smooth stones marks the speaking area. Anyone may enter and speak. The circle has been used to resolve every dispute in Lanthir Haven's history. It has never failed. (It will fail when the party comes.)
 
-| Location | Description |
-|----------|-------------|
-| **The Customs Hall** | Where goods are inspected. Run by Delva Bronrûn-Kith (secretly a Bronrûn Legacy operative). |
-| **The Weigh-Master's Office** | Where Stone-Marks are exchanged for surface goods at fixed rates. The Weigh-Master, **Tharn Gulgrym**, is a Gulgrym Clan elder who hates the Barazkor but follows the rules. He can be bribed with rare surface metals. |
+**The Mist-Wall** — Visible from the settlement's high ground: the perpetual fog that rings Aerinórë's coastline, a pale curtain between paradise and the world. The Sael'anir wind-shapers maintain it through constant, exhausting shifts. Without the Gem's silence field stabilizing the Song-Wards, the ward network weakens — and the mist thins. Ships begin to see through it. The outside world begins to notice.
 
-**The Upper Halls (High Clans)**
-Magnificent carved galleries, soaring vaulted ceilings, rune-light chandeliers. The residences and workspaces of the Barazkor (royal), Farrazul (gem-cutters), and other High Clans. Everything is pristine, ordered, oppressively perfect.
-
-| Location | Description |
-|----------|-------------|
-| **The Adamant Throne Room** | The seat of power. A massive hall with a ceiling lost in shadow. The Adamant Throne sits on a dais of dark stone — and beneath the dais, carved into the mountain's bedrock, the Deep Measure pulses. The throne room feels HEAVY — visitors experience an overwhelming compulsion to kneel, to obey, to be silent. This is the Crown piece's field of Control. |
-| **The Hall of Names** | Where clan lineages are carved into walls of polished granite. Thousands of names, going back to the First Age. Names that have been chiseled away (Thulkorûn, Elm-korin) leave visible scars in the stone. |
-| **The King's Forge** | Thorgar VII's personal smithy. He forges here when he cannot sleep — which is often. The King is not well. The Crown piece's influence has made him rigid, paranoid, and unable to tolerate any deviation from routine. He is not evil. He is a man being slowly crushed by a force he cannot perceive. |
-| **The Farrazul Galleries** | The gem-cutters' quarter. Wealth beyond imagining — vaults of cut gems, showcases of legendary craft. The Farrazul Clan is the only power that rivals the throne, and their leader, **Lord Mazrek Farrazul**, is a pragmatist quietly considering whether Thorgar VII's reign is sustainable. |
-
-**The Guild Halls (Mid-Level)**
-The working heart of the kingdom. Foundries, workshops, training halls. The Guild Clans — smiths, miners, engineers, stone-carvers — do the work that keeps Kharnzarak alive. Conditions are crowded but functional. The atmosphere is tense — guild-masters chafe under regulations that grow stricter every year.
-
-| Location | Description |
-|----------|-------------|
-| **The Great Foundry** | A cavern of roaring forge-fires where the kingdom's steel is made. The heat is intense. Hundreds of smiths work in rotating shifts. The Foundry-Master, **Korrin Gulgrym**, is Tharn's cousin and a secret Bronrûn Legacy sympathizer. |
-| **The Rune-Archive** | A library of stone tablets containing the kingdom's technical knowledge. Heavily restricted — only approved scholars may enter. The Archive-Keeper, **Elder Varn**, is ancient and nearly blind but has memorized every tablet. He knows where the forbidden Ulzammar records are sealed. |
-| **The Mead-Hall of Iron** | The guild-workers' tavern. Loud, crowded, the one place in Kharnzarak where caste rules relax slightly. Good Dwarven ale (strong enough to strip paint). The bartender, **Hamm One-Ear**, hears everything. |
-
-**The Lower Deep (Gatestone Clans & Mines)**
-The lowest inhabited level — dimly lit tunnels where the Gatestone Clans perform the most dangerous labor: deep mining, waste removal, tunnel maintenance. Conditions are grim. The Gatestone Dwarves are effectively serfs.
-
-| Location | Description |
-|----------|-------------|
-| **The Deep Mines** | Miles of tunnels descending into the earth. Rich in iron and coal. Increasingly unstable at the lowest levels — the Earthwake of SA 1200 damaged the deep infrastructure and it was never fully repaired. |
-| **Gatestone Barracks** | Cramped communal housing. No privacy, no luxuries. The Gatestone Dwarves are bitter, proud, and quietly furious. Their informal leader, **Marga Stonefist**, runs an underground resistance that dreams of caste reform. |
-| **The Abandoned Deeps** | Below the active mines — collapsed tunnels, flooded chambers, and sealed passages from the kingdom's earlier, more ambitious days. This is where the Bronrûn Legacy meets in secret. It is also the path to the Adamant Foundations. |
-
-**The Adamant Foundations (First Age Level)**
-Below everything — below the mines, below the collapsed tunnels, below the memory of living Dwarves — lie the Adamant Foundations. The bedrock on which Kharnzarak was built. This is First Age construction: the same dark, too-regular stone as the Ruin of Sorath, the same alien geometry.
-
-The Deep Measure is here — embedded in a crystalline formation at the mountain's absolute root. It has been here since before the Dwarves built their kingdom above it. The field of Control radiates upward through miles of stone, subtle but relentless, shaping Dwarven society toward rigid order for three thousand years.
-
-#### Key NPCs of Kharnzarak
-
-**High King Thorgar VII** — *The Throne That Does Not Rest*
-- Nûm-Khazalûn Dwarf male, 180s (middle-aged for a Dwarf), gaunt, dark circles under his eyes
-- Grandson of Thorgar VI (who sealed the gates). Inherited his grandfather's paranoia — amplified by the Deep Measure's field. He does not sleep well. He forges compulsively. He issues increasingly irrational edicts (last month: all left-handed tools must be re-forged right-handed, because "asymmetry invites disorder").
-- **Not a villain.** A man being slowly destroyed by a force he cannot see. If the Deep Measure is removed, the paranoia lifts like fog — and Thorgar VII might become the reformer Kharnzarak desperately needs.
-- **Personality:** Brittle. Formal. Occasionally reveals flashes of warmth (especially when discussing craft — he is a genuinely gifted smith). Then the rigidity snaps back.
-
-**Lord Mazrek Farrazul** — *The Richest Dwarf in the Mountain*
-- Farrazul Clan lord, 200s, impeccably dressed, voice like honey over gravel
-- Controls the kingdom's gem and precious metal wealth. A political realist who sees Thorgar VII crumbling and is positioning the Farrazul Clan to fill the vacuum.
-- **Not an ally.** Mazrek is happy to use the party to destabilize the Barazkor, but he wants the Deep Measure for himself. He doesn't know what it truly is — he thinks it's a powerful Dwarven artifact that grants authority. If he gets it, Kharnzarak trades one form of rigid control for another.
-- **Quest Connection:** Mazrek can provide access to the Upper Halls and political cover — but his help always comes with strings.
-
-**Delva Bronrûn-Kith** — *The Mole*
-- Bronrûn Dwarf female, 90s (young), customs clerk, freckled, nervous energy
-- A true believer in the Bronrûn Legacy's reform mission. She's been waiting years for a chance to act. The party's arrival is that chance.
-- **Personality:** Talks fast when nervous (always). Brave beyond her apparent timidity. Will risk her life for the cause but is terrified of being caught.
-- **Quest Connection:** The party's primary inside contact. She provides disguises (Gatestone Clan work-clothes), forged caste-papers, and knowledge of patrol schedules. She can also connect the party to the Bronrûn Legacy's hidden leadership.
-
-**Korrin Gulgrym** — *The Foundry-Master*
-- Gulgrym Clan elder, 160s, massive, soot-stained, missing half his left ear
-- Runs the Great Foundry with quiet competence. Secretly sympathizes with the Bronrûn Legacy but won't act unless he's certain of success — too many people depend on him.
-- **Quest Connection:** Can provide access to the Deep Mines and technical knowledge about the Adamant Foundations' structure. If the party earns his trust, he'll provide tools and a distraction (a controlled foundry "accident" that draws the King's Enforcers away from the lower levels).
-
-**Marga Stonefist** — *Voice of the Forgotten*
-- Gatestone Dwarf female, 130s, lean and hard, eyes like nails
-- Unofficial leader of the Gatestone Clans' resistance. She doesn't dream of reform — she dreams of revolution. She's been mapping the Abandoned Deeps for years, looking for leverage.
-- **Quest Connection:** Knows the Abandoned Deeps better than anyone alive. Can guide the party to the Adamant Foundations — but she wants payment: when the party leaves Kharnzarak, she wants them to carry a message to the surface Dwarves (the Wandering Kin, the Elm-korin) telling them the gates can be opened from within.
-
-#### Sidequests in Kharnzarak
-
-**"The Forge-Test" (Social/Skill Challenge)**
-- **Hook:** To move freely in the Guild Halls, the party needs to pass as Gatestone workers. But Gatestone Dwarves are identifiable by their calluses, their smell (sulfur and iron), and their knowledge of mining procedures. Delva can provide papers, but the party needs to pass a spot-inspection.
-- **Challenge:** A series of social and knowledge checks: Deception [Cunning] **Hard (◆◆◆)** to maintain the disguise, Knowledge — Engineering [Intellect] **Average (◆◆)** to answer technical questions, Athletics [Brawn] **Average (◆◆)** to demonstrate mining technique, and a Discipline [Willpower] **Hard (◆◆◆)** to resist the Deep Measure's ambient compulsion to submit to authority.
-- **Failure consequence:** The Enforcers become suspicious. Increased patrols in the Guild Halls. Future Stealth checks in the area add a Setback die.
-- **Reward:** 10 XP, freedom of movement in the Guild Halls, Korrin's grudging respect.
-
-**"The King's Madness" (Investigation/Lore)**
-- **Hook:** Korrin confides that the King's behavior has worsened dramatically in the past year. He's issuing contradictory edicts. He forges the same blade over and over — a perfect replica of the Crown of the Mountain's centerpiece — then destroys it and starts again. Something is wrong.
-- **Investigation:** The party can access the King's Forge (Stealth [Agility] **Daunting ◆◆◆◆** or Deception [Cunning] **Hard ◆◆◆** with Farrazul's help). Inside, they find dozens of destroyed blade replicas — and on the King's workbench, sketches. Not of the Crown of the Mountain. Of something else. Four interlocking shapes. The King is unconsciously drawing the Crown of the Ulzammar. The Deep Measure is calling to him in his sleep.
-- **Reward:** 15 XP. Critical evidence that the Crown piece is real and is affecting the King directly. This can be used to convince Korrin, Marga, or even Mazrek to help.
-
-**"The Sealed Archive" (Exploration/Puzzle)**
-- **Hook:** Elder Varn in the Rune-Archive mentions that the forbidden Ulzammar records were sealed in a sub-vault "beneath the third pillar" centuries ago. He's too old and blind to retrieve them himself, but he can describe the location and the ward-mechanism.
-- **The Vault:** A small chamber sealed by a Dwarven rune-lock — a physical puzzle requiring the manipulation of stone gears in a specific sequence (Skulduggery [Cunning] **Hard ◆◆◆** or Knowledge — Engineering [Intellect] **Average ◆◆** if a Dwarf character assists). Inside: stone tablets describing the Adamant Foundations in detail, including a map to the Deep Measure's chamber and the chilling note: *"It was here before us. We built upon it. Perhaps it built upon us."*
-- **Reward:** 15 XP. The map to the Adamant Foundations (essential for the main quest). Lore confirmation that the Dwarves have always known something was beneath them — and chose to forget.
-
-**"Marga's Price" (Social/Moral)**
-- **Hook:** Marga Stonefist will guide the party to the Adamant Foundations, but first, she wants proof of their commitment. She asks them to sabotage a specific mine shaft — one that the Barazkor Clan uses to extract gold for the King's personal vault. Collapsing it would humiliate the throne and embolden the Gatestone resistance.
-- **The Dilemma:** The sabotage is relatively easy (Athletics [Brawn] **Average ◆◆** to weaken the supports, then a controlled detonation). But the shaft is active — Gatestone miners work there. Marga says she'll clear them out, but the timing is tight. If the party delays or botches the timing, miners could be trapped or killed.
-- **Resolution Options:**
-  - Complete the sabotage cleanly: Marga guides them. +1 Bronrûn Legacy rep, but the Barazkor increase patrols.
-  - Refuse and find another way to earn Marga's trust (complete "The King's Madness" sidequest and show her the sketches — proof that something IS wrong with the throne): Marga guides them without the sabotage. Slower, but cleaner.
-  - Sabotage but warn the miners yourself: Marga is furious (you compromised her plan) but respects the moral conviction. She guides them, grudgingly.
-- **Reward:** 10 XP, Marga's guidance to the Foundations.
-
-#### Main Quest: The Deep Measure
-
-**The Problem:**
-The Deep Measure is embedded in the crystalline bedrock at the Adamant Foundations — the absolute root of the mountain. Its field of Control radiates upward, reinforcing rigid hierarchy, obedience, and isolation throughout the kingdom. Removing it will:
-1. Immediately destabilize the King's mental state (for the better — the paranoia lifts, but the withdrawal may cause confusion and vulnerability)
-2. Weaken the mountain's structural integrity in the deep levels (the Measure's energy has been holding unstable geology in place)
-3. Shatter the invisible social order that keeps the caste system functioning — the Gatestone Clans will feel the compulsion lift and may revolt immediately
-
-**Path 1: The Deep Descent** (Recommended — Most Content)
-Navigate the Abandoned Deeps, breach the Adamant Foundations, and extract the Deep Measure.
-
-*THE ADAMANT FOUNDATIONS (Dungeon — 3–4 sessions)*
-
-**Approach — The Abandoned Deeps:**
-Below the active mines, the tunnels become ancient, unstable, and dark. Marga (or the party's own mapping from the Sealed Archive) guides them through collapsed passages, flooded chambers, and zones where the stone itself seems to resist intrusion.
-
-**Hazards:**
-- **Collapse zones:** Weakened ceilings that threaten cave-ins (Perception [Cunning] **Average ◆◆** to spot, Coordination [Agility] **Hard ◆◆◆** to dodge falling stone; damage 10 on failure)
-- **Rust-Gas pockets:** Invisible, odorless gas that corrodes metal (Survival [Cunning] **Hard ◆◆◆** to detect; undetected, metal equipment degrades — weapons lose 1 damage, armor loses 1 soak until repaired)
-- **Deep Tremors:** The mountain shudders periodically. Each tremor: Resilience [Brawn] **Average (◆◆)** or become Disoriented for 1 round
-
-**Level 1 — The Drowned Galleries:**
-Flooded tunnels from the Earthwake of SA 1200. Knee-to-chest-deep water, cold, dark. Ancient Dwarven carvings on the walls — depicting the founding of Kharnzarak, the raising of the Adamant Throne, and — on the oldest, deepest wall — a shape beneath the mountain. Four interlocking curves. The Crown.
-
-**Encounter:** **Stone-Lurkers** — blind, pale, crab-like creatures that have evolved in the lightless deeps for centuries. They attack vibration sources (movement, speech, metalwork). 2 groups of 4 [Minion groups].
-
-> **STONE-LURKERS** [Minion group]
-> **Brawn 3 | Agility 3 | Intellect 1 | Cunning 2 | Willpower 1 | Presence 1**
-> Soak: 4 (chitinous shell) | Wounds: 5 each
-> **Skills (group):** Brawl, Stealth, Perception
-> **Abilities:** *Tremor-Sense* — detects movement within Medium range through vibration. Cannot be surprised by moving creatures. *Ambush* — add a Boost die to first attack from hiding.
-> **Equipment:** Mandibles (Brawl; Damage 6; Crit 3; Engaged; Pierce 1)
-
-**Level 2 — The Threshold:**
-The transition from Dwarven to First Age architecture. The stone changes — darker, smoother, with the same unsettling mathematical precision the party has seen before. The temperature drops. Sound carries strangely. The ambient hum of the Deep Measure is audible now — not a sound, but a vibration in the bones.
-
-**The Control Field Intensifies:**
-From this point, all characters make a **Discipline [Willpower] check, Hard (◆◆◆)** every 30 minutes or suffer Control Exposure:
-
-| Level | Effect |
-|-------|--------|
-| 1 | Must obey the last direct order given by any authority figure (resist with Discipline **Hard ◆◆◆**) |
-| 2 | Cannot initiate actions that contradict established hierarchy. Must wait for permission to act. |
-| 3 | Compelled to kneel and submit. Cannot attack the "rightful ruler" (the nearest authority figure). Discipline **Daunting (◆◆◆◆)** to act freely. |
-| Recovery | Leaving the Foundations removes all levels over 10 minutes. A Triumph on any Discipline check removes 1 level. |
-
-**Puzzle:** A massive stone door inscribed with Ulzammar notation — similar to the Vault of Still Measure in the Whispering Vales. The inscription reads: *"Only the unruled may pass."* The door opens for characters who are NOT under Control Exposure. Characters at level 1+ find the door immovable. This forces the party to manage their exposure carefully — someone must stay "free" to open the way.
-
-**Level 3 — The Chamber of the Deep Measure:**
-A hemispherical cavern of First Age stone. At its center, a crystalline formation rises from the bedrock like a frozen geyser — dark crystal shot through with pale metallic veins, identical in composition to the Ulzammar Band. The Deep Measure sits within this formation, pulsing with slow, metronomic certainty.
-
-The chamber is beautiful and terrible. The symmetry is perfect. The silence is total. Standing here, the party feels the full weight of the Crown piece's domain: **absolute, unquestionable order.** It is not malicious. It is simply *correct.* The strongest voice in every character's mind says: *"This is where you belong. Kneel. Serve. Be still. Be perfect."*
-
-**Guardian:** The Deep Measure is guarded not by a creature but by a **Law-Echo** — a semi-sentient manifestation of Kael'Zorai's will, shaped by 1,500 years of Dwarven culture into the form of a massive, stern Dwarven king in adamant armor. It does not speak. It judges. Characters who fail a **Discipline [Willpower] check, Formidable (◆◆◆◆◆)** upon entering the chamber are Staggered for 1 round by the sheer psychic weight of its authority.
-
-> **LAW-ECHO** [Nemesis]
-> *Construct (Divine Echo), shaped by Dwarven cultural resonance*
-> **Brawn 5 | Agility 2 | Intellect 3 | Cunning 2 | Willpower 5 | Presence 5**
-> Soak: 8 (adamant form) | Wounds: 25 | Strain: 18 | Defense: 2/0
-> **Skills:** Brawl 4, Coercion 4, Cool 4, Discipline 5, Melee 4, Resilience 4, Vigilance 3
-> **Talents:** Adversary 3, Durable 3, Enduring 3
-> **Abilities:**
-> *Aura of Authority:* All creatures within Short range add 2 Setback dice to checks that defy authority, break rules, or act independently. Characters who have resisted Control Exposure reduce this to 1 Setback die.
-> *Edict:* As an action, the Law-Echo issues a command (Coercion [Willpower] vs. target's Discipline [Willpower]). On success, the target must obey a single simple command ("Stop," "Kneel," "Drop your weapon") for 1 round.
-> *Adamant Strike:* Melee; Damage 12; Crit 2; Engaged; Concussive 2, Sunder. On a Triumph: the target gains 1 level of Control Exposure.
-> *Immutable Form:* The Law-Echo halves damage from all non-magical sources before soak. It cannot be moved, knocked down, or repositioned by any force.
-> *Shatter the Unruled:* Once per encounter, the Law-Echo channels the Deep Measure's full power in a Medium range pulse. All creatures: **Discipline [Willpower], Formidable (◆◆◆◆◆)** or gain 2 levels of Control Exposure and suffer 10 strain.
-> **Weakness:** Characters who have overcome ALL levels of Control Exposure (reached level 3 and recovered through successful checks) are "proven unruled" — the Law-Echo's Aura of Authority does not affect them, and their attacks deal +3 damage to the Echo. The chamber punishes obedience and rewards defiance.
-> **Equipment:** Adamant warhammer (see Adamant Strike above)
-
-**The Extraction:**
-Once the Law-Echo is defeated (or — for very clever parties — bypassed by proving every party member "unruled"), the Deep Measure can be extracted. It resists — the crystalline formation cracks and groans as the piece is pulled free. The mountain shudders. Dust falls from the ceiling.
-
-**Immediate Consequences:**
-- The tremors intensify. The party has approximately 1 hour to ascend before the deep levels become dangerously unstable.
-- Above, the social order cracks. Gatestone workers put down their tools and refuse orders for the first time in living memory. Barazkor Enforcers respond with force. The beginnings of revolution.
-- The King staggers from his forge, blinking, confused. The fog is lifting. He says to no one in particular: "What... what year is it?"
-
-**Path 2: The Political Overthrow**
-Convince Lord Mazrek Farrazul to stage a coup against Thorgar VII. In the chaos of regime change, the party descends to the Foundations while every Enforcer is occupied above. Faster, but Mazrek takes the throne — trading one form of control for another. The Deep Measure is extracted, but Kharnzarak's future is darker.
-
-**Path 3: The Smash-and-Grab**
-No subtlety. Fight through every level, smash the Law-Echo, take the piece, and flee. Possible with a high-power party but devastatingly costly. Every Enforcer in the kingdom is on alert. The party leaves behind a trail of casualties and a kingdom in chaos — not reform, just destruction.
-
-> **Faction Standing Changes — Arc B:**
-> - Kharnzarak (Bronrûn Legacy): Variable (+2 for Deep Descent with reform, +1 for Political Overthrow, -2 for Smash-and-Grab)
-> - Kharnzarak (Barazkor Throne): Always -1 or worse (the party violated the kingdom's most sacred law)
-> - Shadewalkers: +1 if the party used Grik's route (the Pale Ledger now knows how to enter Kharnzarak — valuable intelligence)
-> - Gearhaven: +1 if the party shares knowledge of the Adamant Foundations' technomantic potential with Elm-korin contacts
-
----
-
-### Arc C: The Singing Shard — Whispering Vales, Mainland
-
-*Theme: Balance vs. purity | What do we owe the natural world?*
-**Pacing:** 6–10 sessions | **Adventurer Tier (150–300 XP)**
-
-#### The Whispering Vales — Gazetteer
-
-**Overview:** Ancestral Waldkyn homeland. Network of sheltered, forested valleys on mainland Vael. Song-Wards woven into ancient trees repel aberrations. The most peaceful place the players have ever been — but the Stillwood is eating it alive.
-
-**Population:** ~5,000 Waldkyn, small Gnomish Hollowkin community
-**Government:** Great Council of the Vales, Triumvirate of Seasons
-**Economy:** Gift economy. No currency.
-
-**Regions:**
-
-**The Outer Vales** — Lush, green, alive. Border Stones (Song-Ward markers), Welcome-Fire campsite, Ash-Claw's hostile territory.
-
-**The Heart Vales** — Spiritual center.
-- **The Harmony Oak** — 500-ft tree, 100-ft trunk. The Singing Shard is embedded 50 ft up. The tree hums.
-- **The Council Glade** — Eight carved thrones, central fire pit.
-- **The Singing Stones** — Ritual hilltop with perfect acoustics.
-- **The Weavers' Hall** — Where Song-Ward weavers work. Only 12 exist. Weave-Master Thornsilk can teach basics.
-- **The Guest-Bower** — Living tree shaped into rooms. Food appears when hungry. The forest provides.
-- **The Myco-Hollow** — Gnomish root-caves beneath the Oak. Whisper-Root monitors the mycelial network.
-
-**The Stillwood** — Horror zone. Grey trees, frozen animals, motionless streams. Advancing 10 ft/month. At its heart: the Scar of Dissonance and the cracking First Age Vault.
-
-**Stillness Exposure Table:**
-
-| Level | Effect |
-|-------|--------|
-| 1 | 1 fewer maneuver per turn; speak slowly |
-| 2 | Add a Setback die to all Agility-based checks |
-| 3 | Cannot perform out-of-turn incidentals; overwhelming urge to rest |
-| 4 | Immobilized and Staggered for 1d4 rounds (**Discipline [Willpower], Hard (◆◆◆)** each turn to end early). If 1 minute: Stasis — a custom condition requiring external intervention to end |
-| Recovery | 1 hour outside Stillwood removes all. Song-Ward harmonics: 1 level/minute. |
+**The Hollowkin Kitchens** — The settlement's social hub. Round-doored burrows built into a hillside where Halfling cooks and Gnomish bakers produce food that is — without exaggeration — the best the players have ever tasted. Mushroom soup, fresh bread, honey-glazed root vegetables, and a Halfling berry wine that makes you homesick for a place you've never been. **Use this.** Make the players love the food. Make them sit at a table with a family. Then make them leave.
 
 #### Key NPCs
 
-**Root-Speaker Elm-Thara** — Ancient Galapa Waldkyn (tortoise-person). Stillwood Circle isolationist. When she says "no," it is bedrock.
+**Song-Mother Aelindra** — Galapa Waldkyn (tortoise-person), ancient, patient as geology. She maintains the Song-Wards and is the closest thing Lanthir Haven has to a leader, though she would reject the word. She senses the Band and Compass immediately — her eyes go very still when the party arrives. She says nothing for two days. When she finally speaks: *"You carry a wound. I can hear it singing."* She will not surrender the Gem willingly. But she is wise enough to listen, and old enough to know that protecting something forever is not the same as saving it.
 
-**Branch-Speaker Kethra** — Young Katari Waldkyn (cat-folk). Flowing River interventionist. Has been arguing for years that the Shard is failing. Nobody listens.
+**Brightleaf** — Katari Waldkyn (cat-folk), young, curious, the settlement's unofficial ambassador to visitors. She greets the party, shows them around, translates customs, laughs easily. She is the first person the players befriend on Aerinórë. She has a younger sibling named **Dewdrop** who follows the party with enormous eyes and leaves small gifts (a perfect shell, a carved stick, a beetle in a jar). **Remember Dewdrop. The players will.**
 
-**Ash-Claw** — Firbolg Kyn-Clan war-chief. Militant purifier. Hostile to Single-Forms. Can be turned if the party proves the Stillwood's source is a First Age vault, not mortal corruption.
+**Vorok-Kal** — Vorok-Varr Orkin elder, male, enormous, gentle voice. Named for the Listener's Peace. He leads the Vorok-Varr community and speaks for them in the Listening Circle. He regards the party with grave compassion: *"You have carried pain a long way. Put it down here, for a while."* He does not understand why anyone would choose violence. This is not naïveté — it is faith, tested across 790 years of peaceful existence. When the party's mission threatens Lanthir Haven, his disappointment is more devastating than anger.
 
-#### Sidequests
+**Thistlebottom** — Halfling baker, female, stout, relentlessly cheerful. Runs the main kitchen. Feeds everyone regardless of species, politics, or whether they asked. She will feed the party until they are physically unable to move, then suggest dessert. She represents what Lanthir Haven IS at its simplest: people taking care of other people because it's the obvious thing to do.
 
-**"The Song-Wrong"** — Discordant Song-Wards. A Simiah saboteur (Cogwheel) cut roots to force technomantic adoption. Mediate, report, or help. 15 XP.
+**Ilwen** — Sael'anir wind-shaper, female, tall, silver-haired, speaks rarely and precisely. She maintains the mist-wall on the settlement's western flank. She is the first to notice if the Gem's removal weakens the wards — the mist begins to thin within hours. She is terrified but will not show it. If the party took the Gem by force, Ilwen's response is to work harder — pushing herself to maintain the mist alone, burning through her own vitality. She will die doing this if no one stops her.
 
-**"The Primalkyn Visitor"** — An Earthkin appears at the Grey Line, listening. Communicate its knowledge. Gain a massive stone ally for the dungeon. 10 XP.
+#### Sidequests in Lanthir Haven
 
-**"The Children's Game"** — Waldkyn children teach the party Leaf-Chase (canopy racing). Humbling, endearing, teaches skills for the Stillwood. A child named Sprout asks: "Will you come back?" 5 XP, +1 Waldkyn rep.
+**"The Weight of Welcome"** — The party is invited to participate in the settlement's daily life. No quest-giver, no reward — just being present. Help Thistlebottom in the kitchens. Sit in the Listening Circle while the elders debate whether to repair a footpath or redirect the stream. Play with the children (Brightleaf organizes a canopy-climbing game that the players will be terrible at). Listen to Vorok-Kal tell a story about the founding of the Vorok-Varr. Each activity deepens the emotional investment. The "sidequest" is falling in love with the place. **5 XP per activity, maximum 15 XP.**
 
-#### Main Quest: The Singing Shard
+**"The Mist-Reader's Worry"** — Ilwen asks for help strengthening a section of mist-wall where a storm damaged the ward-pattern. Requires learning basic Song-Ward harmonics (Perception [Cunning], **Hard ◆◆◆**) and singing alongside the Waldkyn (Charm [Presence], **Average ◆◆** — it's not about skill, it's about willingness). Success earns Ilwen's trust and +1 Lanthir Haven rep. She confides: the mist has been "thinner" for months. She doesn't know why. (The Crown pieces' growing resonance is pulling at the Gem from across the ocean.)
 
-**The Problem:** The Shard counteracts the Scar. Taking it collapses Song-Wards, floods Stillwood corruption inward, and may kill the Harmony Oak.
+**"Dewdrop's Question"** — Brightleaf's sibling Dewdrop asks the party a question, privately, away from the adults: *"Are you going to take the singing stone?"* The child has overheard the elders talking. The party can lie, deflect, or tell the truth. **No XP. No mechanical benefit. This scene exists purely to make the players feel the weight of what they're about to do.** Dewdrop's response to the truth: a long silence, then: *"Can you put it back when you're done?"*
 
-**Path 1: Heal the Source** (Best content and outcome)
-THE VAULT OF STILL MEASURE dungeon (3–4 sessions):
-- Stillwood trek — escalating horror and Stillness Exposure saves
-- Level 1: Anteroom of Law — moving Ulzammar notation (mathematical proof for universal stasis)
-- Level 2: Workshop — half-finished Crown prototypes, harmonic lock puzzle
-- Level 3: Seal Chamber — cracking crystal. Re-sealing ritual requires coordinated skill challenge, three-faction Waldkyn cooperation, and combat defense vs. escalating waves
+#### Main Quest: The Gem
 
-Enemies: Echo-Wisps [Minion], Scorch-Wraiths [Rival], Stillness Sentinel [Nemesis] (Soak 5, Defense 1, Wounds 18, Strain 12, Aura of Stillness, Orderly Strike)
+**The Problem:** The Gem is embedded in the Great Singing Tree — the anchor of Lanthir Haven's entire Song-Ward network. Removing it will:
+1. Collapse the Song-Wards within hours
+2. Thin the Sael'anir mist-wall, eventually exposing Aerinórë to the outside world
+3. Weaken the Great Singing Tree (which has grown around the Gem for 1,400 years)
+4. End the sanctuary. For the first time since SA:80, Aerinórë will be visible. The Varnathi, the Mirennian League, the timber syndicates, the Legio Null — they will all come.
 
-Success: Scar sealed. Stillwood heals. Waldkyn surrender the Shard gratefully. +3 rep. Act III allies: Song-Ward choir.
+**Path 1: The Honest Approach** (Best content and hardest emotionally)
+The party presents their case to the Listening Circle. They explain the Crown, the Echo-Lord, and the threat of the Fifth Harmony. Song-Mother Aelindra listens. Vorok-Kal listens. The debate takes three days (compressed to one session of intense roleplay). The Waldkyn ask: *"If we give you this, what becomes of us?"* The party must answer honestly. There IS no substitute. There IS no workaround. Taking the Gem ends the sanctuary.
 
-**Path 2: Compromise** — Take the Shard, leave substitute knowledge. Diminished allies.
-**Path 3: Theft** — Harmony Oak may die. Waldkyn become enemies.
+If the party is honest and compelling (Charm or Negotiation [Presence], **Formidable ◆◆◆◆◆**, reduced to **Hard ◆◆◆** if the party completed all sidequests and demonstrated genuine respect for the community): Aelindra gives them the Gem. She says: *"We have lived in safety for fourteen hundred years. Perhaps it is time we learned to live without it."* The Waldkyn begin singing — not a ward, but a farewell. The tree shudders when the Gem is removed. Sap runs from the hollow like tears.
+
++3 Lanthir Haven rep. In Act III, the Aerinórë Waldkyn send a Song-Ward choir to help — their most powerful singers, carrying the memory of what they lost.
+
+**Path 2: The Theft** — Take the Gem and run. This triggers the chase sequence (see below). The wards collapse. Ilwen burns herself out trying to maintain the mist. The settlement is exposed. In Act III, no Waldkyn allies come from Aerinórë. The players carry the weight.
+
+**Path 3: The Deception** — Convince the community you're taking the Gem temporarily, with intent to return it. This buys time but creates a delayed betrayal — the Waldkyn discover the truth weeks later. In Act III, a single Waldkyn arrives at the Barren Hills: Brightleaf. She came alone. She says: *"You lied to us. I came anyway. Because Dewdrop asked me to."*
+
+#### The Chase from Lanthir Haven
+
+Regardless of which path, the departure from Aerinórë is chaotic. If the party took the Gem honestly, the emotional devastation of watching the wards fail drives them to leave quickly — staying is too painful. If they stole it, the entire settlement is in pursuit.
+
+**The Chase:** The party flees eastward across Aerinórë — through dense coastal forest, along unfamiliar trails, toward... they don't know where. The Resonance Compass is useless here (no Crown pieces to point toward). They are running blind.
+
+**The Vorok-Varr Encounter:** The eastern interior of Aerinórë is Vorok-Varr territory — the tribal Orkin who have lived here for 790 years. They are peaceful but TERRITORIAL. The party stumbles into Vorok-Varr lands exhausted, lost, and carrying a sacred artifact that the Orkin can FEEL (Grom-Kain's resonance in the Gem calls to Orkin blood).
+
+**The Capture:** The Vorok-Varr surround the party — not with violence, but with overwhelming numbers and patient containment. They do not fight. They sit down. They wait. They ask the party to explain themselves. This is the Listener's Way: no one acts until everyone has spoken.
+
+The party can:
+- **Talk their way out** (Charm or Negotiation [Presence], **Hard ◆◆◆**, modified by how they treated Lanthir Haven)
+- **Wait for an opening** — the Vorok-Varr are patient, but they sleep. Stealth [Agility] group check, **Daunting ◆◆◆◆**.
+- **Help Miravel escape first** — Miravel is also captured. If the party creates a distraction and gets Miravel to the coast, she can attempt something desperate...
+
+#### Miravel's Revelation
+
+This is the moment Miravel reveals her teleportation. She has been concealing it — partially because the Architect told her to keep it hidden ("for emergencies"), partially because she is afraid of what it means about her. Spatial magic of this caliber marks her as something extraordinary, and in an era of mage-purges, extraordinary means hunted.
+
+**The Scene:** The party gets Miravel to the coastline. She looks at the ocean — the mainland is weeks away by ship, and they have no ship. The Vorok-Varr are closing in. There is no escape.
+
+Miravel says: *"There's something I haven't told you."*
+
+She pulls out her spatial notation journals. She touches the sand. And the air FOLDS — reality creasing like paper, the world turning sideways for one disorienting heartbeat — and they are standing on a cobblestone dock in Aurumport, 3,000 miles south, the salt air of the Mirennian coast replacing the pine scent of Aerinórë.
+
+Miravel collapses. She's pale, shaking, and her nose is bleeding. She says: *"That one... I hadn't prepared. It won't be that bad next time."* Then: *"I anchored Aurumport three years ago, on Azure Hand business. It was supposed to be for emergencies."* She looks at the party. *"This counts."*
+
+**Impact:** The teleportation is VISCERAL. Let the table feel the whiplash — one moment they're trapped on a secret continent, the next they're in a bustling mainland port. The juxtaposition of Lanthir Haven's gentle silence and Aurumport's chaotic commerce is a punch to the gut.
+
+---
+
+### Interlude: Aurumport (2–3 sessions)
+
+*Theme: Breath between storms | The cost of momentum | What do you do when you can stop?*
+
+**Overview:** Aurumport is one of the Mirennian League's great ports — a sprawling harbor city of 20,000+ souls, reeking of fish and ambition. After Lanthir Haven's paradise and the Vorok-Varr's quiet containment, Aurumport is an assault on the senses. It is loud, dirty, commercial, morally ambiguous, and ALIVE in a way that reminds the players what the messy, imperfect world actually looks like.
+
+The party has 3–5 days here before moving on. Use this time for:
+
+**1. Downtime and Recovery**
+- Miravel needs 48 hours to recover from the unprepared teleportation
+- The party can resupply, sell loot, buy equipment at mainland prices (not Lux Aeterna's 150% markup)
+- Letters can be sent to Lux Aeterna via Azure Hand courier (arrive in 2 weeks)
+
+**2. The Architect Appears**
+The Architect manifests through the Compass in the party's room at whatever inn they're staying at. It is pleased — two pieces gathered, one remaining. It directs them to Gearhaven: *"The last fragment sings from across the ocean. A settlement built on geothermal fire, where mortals have been channeling energies they do not understand. The piece powers their city. It calls itself progress."*
+
+The Architect's tone is more urgent now. Less patient. **Red flag:** It doesn't ask how the party is doing. It doesn't acknowledge what they lost on Aerinórë. It moves directly to logistics.
+
+**3. Emotional Reconnection**
+This is where background-specific contacts and emotional threads converge:
+
+- **A friend from Lux Aeterna** is in Aurumport — someone who left the settlement separately and ended up here through the refugee pipeline. Could be a player's starting contact or an NPC from Act I (Goss, if he survived the Salt Flats; a family member; a friend). Their presence is a reminder of home and the life the party left behind.
+- **Someone from Lanthir Haven** — if the party left on good terms, **Brightleaf** appears in Aurumport 2 days after the party. She crossed the ocean by conventional means (Sael'anir boat). She came because: *"Aelindra said someone should go with you. To remember what you're fighting for."* She becomes a traveling companion for the rest of the campaign — a living reminder of what the party took and what they're trying to protect.
+- **The Pale Ledger** may make contact here (see Recurring Antagonists)
+
+**4. Miravel Attunes to Aurumport**
+Miravel spends 4 hours at the harbor (sitting on the dock, drawing spatial notation in the sand) attuning to the Aurumport ley-line nexus. She now has TWO anchors: Aurumport and Gearhaven. She offers to teleport the party to Gearhaven when they're ready. This time it will be smoother — she's prepared.
+
+**5. Learning About Gearhaven**
+The party gathers intelligence:
+- Azure Hand contacts describe Gearhaven as "a boomtown of 2,000 desperate geniuses building impossible things out of steam and crystal"
+- A Mirennian trader mentions that Gearhaven's power source is "some kind of artifact — old, powerful, and nobody asks where it came from"
+- Miravel notes: *"I've been there. The energy signature is... familiar. Like the Band. Like the Gem. It's another piece."*
+
+The Resonance Compass confirms it — pulsing hard toward the southwest, across the ocean, toward Novaterra.
+
+> **Faction Standing Changes — Aerinórë + Aurumport:**
+> - Lanthir Haven Waldkyn: Variable (+3 for honest approach, -3 for theft, -1 for deception)
+> - Vorok-Varr: -1 for entering their territory; +1 if the party submitted to the Listening and spoke honestly
+> - Azure Hand: +1 if cooperative in Aurumport
+> - Shadewalkers: +1 if the party interacted with the Pale Ledger
+
+---
+
+### Arc C: The Setting — Gearhaven, Novaterra
+
+**Note:** The Gearhaven arc is the campaign's FINAL Crown piece retrieval. The party arrives here after the emotional devastation of Aerinórë. They are carrying two Crown pieces, the weight of what they did to a paradise, and the growing suspicion that the Architect's mission may not be what it claims. Gearhaven's moral dilemma — stealing a city's power source — hits differently when the players have already done something similar to Lanthir Haven. The repetition is deliberate. The escalating cost is the point.
+
+The Gearhaven content below was originally written as "Arc A" when the campaign was modular. It now serves as the final Act II destination. The Setting (called "the Brass Heart" by Gearhaven's engineers) is identical to the artifact described below — the name simply reflects what the locals call it.
+
+*See the existing Arc A section above for the full Gearhaven gazetteer, NPCs, sidequests, and main quest. The content remains unchanged — only its position in the campaign sequence has shifted.*
 
 ---
 
@@ -1920,7 +1879,7 @@ Success: Scar sealed. Stillwood heals. Waldkyn surrender the Shard gratefully. +
 
 ### Overview
 
-With all four pieces, the Resonance Compass points to the Barren Hills. The Architect tells the players this scarred wasteland — the wound left by the War of the Barren Hills — contains a Scar of Dissonance large enough to "unmake" the Crown. This is a lie. The Barren Hills are where Kael'Zorai's influence is strongest. The players are walking into a trap.
+With all three pieces, the Resonance Compass points to the Barren Hills. The Architect tells the players this scarred wasteland — the wound left by the War of the Barren Hills — contains a Scar of Dissonance large enough to "unmake" the Crown. This is a lie. The Barren Hills are where Kael'Zorai's influence is strongest. The players are walking into a trap.
 
 **Pacing:** 6–8 sessions
 **XP Progression:** ~450 XP (arrival), ~500 XP (assault begins), ~600 XP (final confrontation)
@@ -1999,10 +1958,10 @@ Grukka and 12 Whisper-Shaman warriors join the party regardless of faction stand
 Desolate scrubland scarred by ancient war. Rusted weapons, bleached bones from the SA 1210 conflict. At the center: a massive Scar of Dissonance — a rift in reality humming with subsonic vibration. The ground within 100 yards is perfectly flat, perfectly smooth. Nothing grows.
 
 **The Architect's Instructions:**
-"Place the four pieces at the cardinal points around the Scar. The dissonance will tear them apart. Stand back."
+"Place the three pieces at the cardinal points around the Scar. The dissonance will tear them apart. Stand back."
 
 **The Assembly:**
-As the players place the pieces, the four components magnetically snap together — flying from their positions to the Scar's center. Time, Systematization, Control, Silence interlock with terrible precision. The Scar doesn't unmake them. It FEEDS them. The rift widens.
+As the players place the pieces, the three components magnetically snap together — flying from their positions to the Scar's center. Time, Systematization, Silence interlock with terrible precision. The Scar doesn't unmake them. It FEEDS them. The rift widens.
 
 **The Reveal:**
 Read or paraphrase:
@@ -2083,7 +2042,7 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | Faction | Requirement | Contribution |
 |---------|-------------|-------------|
 | **Gearhaven** | Rep 4+ | Thaelra sends a prototype airship — barely functional, held together by Gnomish ingenuity. Arcane cannon can breach the cathedral's outer defenses. |
-| **Kharnzarak (Bronrûn Legacy)** | Rep 4+ | Delva and Korrin lead a strike team of Dwarven engineers and Gatestone fighters. They bring Dwarven steel, tunnel-warfare expertise, and — critically — runic tools that can interface with First Age architecture, allowing the party to bypass the cathedral's geometric defenses. |
+| **Lanthir Haven Waldkyn** | Rep 4+ | Song-Mother Aelindra sends a Song-Ward choir — the settlement's most powerful singers, carrying the memory of what they lost. Their harmonics can temporarily push back the Fifth Harmony wave, creating safe corridors for the assault and disrupting the Crown's resonance at close range. Brightleaf leads them if she traveled with the party. |
 | **Mórenórë Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Elara Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
 | **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
@@ -2266,7 +2225,7 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 |---------|-----------|-------------------|
 | **Lux Aeterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Aeterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Aeterna survives regardless, but the players never learn what happened to the people they left behind. |
 | **Gearhaven** | Thaelra sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
-| **Kharnzarak** | The gates crack open — for the first time in 90 years. Thorgar VII, clear-eyed and shaken, issues a single edict: "We were sealed by fear. We will open by choice." Trade resumes. The Bronrûn Legacy is legitimized. The Gatestone Clans gain representation on the Stone-Lay Council. It will take generations, but the mountain is breathing again. | Thorgar VII's paranoia returns without the Deep Measure — but differently. He becomes erratic, violent. Mazrek stages a coup. Kharnzarak enters civil war. The gates remain sealed, now by conflict rather than decree. |
+| **Aerinórë / Lanthir Haven** | If the party took the Gem honestly, the Waldkyn send word: the mist is gone but the settlement endures. Aelindra's message: *"We are learning to live with an open sky. It is harder than we expected. It is also more beautiful."* Trade ships from Mórenórë arrive for the first time. The isolation is over — but so is the innocence. | If the party stole the Gem, no message comes. The wind-shapers sealed the coast entirely. Rumors reach the mainland of Mirennian prospectors exploring "a newly discovered northern continent." The sanctuary is over. What replaces it is anyone's guess. |
 | **Mórenórë Volunteers** | If allied, Captain Elara Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
 | **Waldkyn** | Sprout (the Ribbet child) sends a letter carried by a Faerie messenger: "The trees are singing again. Come play." The Stillwood retreats. The Vales heal. | The Stillwood reaches the Harmony Oak within four years. The Waldkyn flee. The Vales become the largest Stillwood zone on the continent — a wound that will not heal for centuries. |
 | **Orkin** | Grukka carves the party's names into a bone-totem and places it in the Barren Hills where the cathedral stood. "You fought for a world that never fought for us. We will remember." The Whisper-Shamans gain influence among the clans, tempering the Bloodied Fist's rage. | The Varr-Darg return to their cycle of violence. Nothing changes for the Orkin. It never does. |
