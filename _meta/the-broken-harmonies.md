@@ -1505,7 +1505,7 @@ The campaign's major locations are separated by days or weeks of travel. These w
 
 **Tidebreak** — A free port of ~200 on a small island roughly halfway between Vael and Novaterra. Built on stilts over a reef, connected by rope bridges and plank walkways. No faction controls it, which means EVERY faction has agents here. Neutral ground for deals that can't happen on land. The inn, *The Undertow*, serves a drink called "reef-water" that's either medicine or poison depending on who mixed it. The bartender, **Coral**, is a scarred Orkin woman who enforces exactly one rule: "No killing inside. Outside is your business." Good for: the Pale Ledger making first contact ("politely, over drinks, in a place where killing is bad for business"), mid-ocean resupply, hearing rumors about all three arc destinations.
 
-**Thornspire** — The first settlement ships see approaching Novaterra's southern coast. A wooden watchtower and a cluster of 40 huts on a rocky promontory above Rust-Water Bay. Originally a lookout post, now a refugee waystation. The dockmaster, **Reva Thistlewick** (Halfling, came on the third ship ever to land at the Bay), knows everyone who arrives and departs. She keeps a chalkboard of names — arrivals on the left, departures on the right. Some names appear only on the left. She doesn't erase them. Good for: first glimpse of Novaterra, establishing the refugee pipeline, the Halfling Wayfinder's family connection. The 4-hour coastal path from Thornspire to Gearhaven passes through jungle that occasionally tries to eat travelers — Reva lends a machete and says "bring it back."
+**Thornspire** — The first settlement ships see approaching Novaterra's southern coast. A wooden watchtower and a cluster of 40 huts on a rocky promontory above Rust-Water Bay. Originally a lookout post, now a refugee waystation. The dockmaster, **Reva Thistlewick**, is a Halfling woman in her 60s — sun-darkened skin, silver hair in a practical braid, and reading spectacles she wears on a chain around her neck. She came on the third ship ever to land at Rust-Water Bay and has outlasted every subsequent crisis. She keeps a chalkboard of names — arrivals on the left, departures on the right. Some names appear only on the left. She doesn't erase them. She has a habit of studying newcomers for exactly three seconds before deciding whether they're "useful, dangerous, or both." She categorizes the party immediately and tells them so. She also makes the best fish stew on Novaterra, which she shares only with people who carry their own bowls. Good for: first glimpse of Novaterra, establishing the refugee pipeline, the Halfling Wayfinder's family connection. The 4-hour coastal path from Thornspire to Gearhaven passes through jungle that occasionally tries to eat travelers — Reva lends a machete and says "bring it back."
 
 #### Overland Waypoints — Vael Mainland
 
@@ -1515,11 +1515,11 @@ The campaign's major locations are separated by days or weeks of travel. These w
 
 **Irongate Crossing** — A surface settlement of ~300 at the foot of the Dragon's Tooth Mountains. Traders, mercenaries, and hopeful merchants cluster near Kharnzarak's sealed trade-gate, waiting for cargo that may never come. The town has a resigned, waiting-room quality — everyone is here because they can't be anywhere else. **Gora Ironbreath** (Thulkorûn Exile's starting contact) runs a small escort company out of a fortified warehouse. The main tavern, *The Shut Door*, has a painted sign showing the Adamant Gates — closed. The innkeeper, **Brenn**, a grizzled human ex-caravan guard, charges fair prices and asks no questions. A Bronrûn Legacy contact named **Soot** (Thulkorûn, young, restless, tattooed) drinks at the bar most evenings and can be approached if the party shows the right signs. Good for: finding a way into Kharnzarak, encountering Dwarven exile culture, resupply before the mountain. The altitude here is already 6,000 feet. The air is thin. Characters unused to mountains add a Setback die to Athletics checks until they acclimate (1 day).
 
-**Ridgeway** — A mountain hamlet of ~60 on the ascending path to Kharnzarak's trade-gate. Goat herders, charcoal burners, and one very old woman named **Bryn** who claims she was inside Kharnzarak as a child before the sealing. (She wasn't — she's been talking to Thulkorûn traders for 50 years and has absorbed their stories so completely she can't tell the difference.) Her descriptions of the Upper Halls are weirdly accurate, including details the Bronrûn Legacy would prefer stayed secret. Ridgeway's air smells of pine resin and cold stone. The path beyond it narrows to a single-file track carved into the mountainside. Good for: the party's last chance to prepare before entering the mountain, Bryn's accidentally dangerous knowledge, and a visceral sense of ascending into a sealed world.
+**Ridgeway** — A mountain hamlet of ~60 on the ascending path to Kharnzarak's trade-gate. Goat herders, charcoal burners, and one very old woman named **Bryn** who claims she was inside Kharnzarak as a child before the sealing. She is 95, deaf in one ear, and has a face like a dried apple — wrinkled, brown, and somehow sweet. She wasn't actually inside the mountain. She's been talking to Thulkorûn traders for 50 years and has absorbed their stories so completely she can't tell the difference. Her descriptions of the Upper Halls are weirdly accurate, including details the Bronrûn Legacy would prefer stayed secret. She serves visitors a medicinal tea that tastes terrible and works miraculously on altitude sickness. She will talk for hours if anyone listens. Most people don't. A Thulkorûn Exile PC who listens to her stories will recognize the details — and realize this old woman has kept the memory of their lost home alive for half a century, quietly, in a village nobody visits. Ridgeway's air smells of pine resin and cold stone. The path beyond it narrows to a single-file track carved into the mountainside. Good for: the party's last chance to prepare before entering the mountain, Bryn's accidentally dangerous knowledge, and a visceral sense of ascending into a sealed world.
 
 **Ashkeld** — A rough crossroads town of ~200 on the western edge of the Barren Hills. Where Varr-Darg trading parties and mainland merchants meet under uneasy truce. The town is divided: one side for humans and other species, one side for Orkin, with a neutral market square in the middle. Weapons are technically forbidden in the square. Nobody follows the rule. **Vosk Two-Names** (Orkin Outcast's starting contact) operates here — brokering passage through clan territory and moving people who don't want to be found. The Orkin side of town smells of woodsmoke and rendered fat. The human side smells of horse sweat and anxiety. Good for: encountering Orkin culture firsthand, hiring guides for the Barren Hills, hearing Varr-Darg perspectives on Grom-Kain. A bone-totem at the town's eastern exit marks the border of Bloodied Fist territory. Beyond it, there are no more towns.
 
-**Dusthome** — An abandoned mining camp turned squatter settlement of ~40 on the Barren Hills' northern edge. Deserters, criminals, people who fell off every map. No law, no faction, no hope — except a woman named **Sera** who runs a soup kitchen out of an old mining office because "someone has to." The settlement exists in the shadow of the SA:1210 battlefield — rusted weapons and bleached bones visible in the surrounding scrubland. Sera can describe how the land has been getting "quieter" recently: the wind is less, the animals are leaving, the grass isn't growing back after the dry season. This is the Fifth Harmony's influence bleeding outward from the Scar before the Crown is even assembled. If the party passes through after completing all three arcs, Sera's silence has deepened: "Even the flies stopped." Good for: establishing the Barren Hills' curse, humanizing the wasteland, the Survivalist's connection to marginal places.
+**Dusthome** — An abandoned mining camp turned squatter settlement of ~40 on the Barren Hills' northern edge. Deserters, criminals, people who fell off every map. No law, no faction, no hope — except a woman named **Sera** who runs a soup kitchen out of an old mining office because "someone has to." Sera is human, mid-30s, with calloused hands and a face that has decided smiling is a waste of energy. She was a farmer's wife before the purges took her husband for sheltering a Spark-touched nephew. She walked south until she found a place too broken for anyone to bother chasing her. She feeds whoever shows up. She doesn't ask names. She doesn't ask why. If a player helps her chop vegetables, she says nothing for twenty minutes and then: *"You're carrying something heavy. I can tell. I carried mine to here and then I put it down."* She changes the subject immediately. She is the campaign's quietest reminder that ordinary people choose kindness in places where kindness costs everything. The settlement exists in the shadow of the SA:1210 battlefield — rusted weapons and bleached bones visible in the surrounding scrubland. Sera can describe how the land has been getting "quieter" recently: the wind is less, the animals are leaving, the grass isn't growing back after the dry season. This is the Fifth Harmony's influence bleeding outward from the Scar before the Crown is even assembled. If the party passes through after completing all three arcs, Sera's silence has deepened: "Even the flies stopped." Good for: establishing the Barren Hills' curse, humanizing the wasteland, the Survivalist's connection to marginal places.
 
 #### Overland Travel Random Encounters (d8)
 
@@ -1752,15 +1752,90 @@ If the players visit the Steam Baths (the geothermal pools), they find Gearhaven
 
 **The Problem:** The Heart powers perimeter barriers, geothermal regulators, and the harbor beacon. Removing it collapses all three.
 
-**Path 1: The Substitute Engine** (Best content)
-1. Harvest a mana-crystal geode from THE CRYSTAL DEEP dungeon (3–4 sessions):
-   - Level 1: Bore-tunnel with larvae
-   - Level 2: Crystal Garden with 2 Crystal Golems [Rival] (Soak 5, Wounds 14, Resonance Pulse stun)
-   - Level 3: Geode Chamber with the Geode Warden [Nemesis] (negotiable or fightable)
-   - Treasure: 500 Sparks in crystals, Crystal Resonance Blade (longsword; Damage +2, adds Sunder quality; glows near Scars), Gnomish Geo-Map
+**Path 1: The Substitute Engine** (Best content — 3–4 sessions)
 
-2. Build the substitute (3 days, Knowledge — Arcana [Intellect], **Hard (◆◆◆)** daily)
-3. The Swap — timed skill challenge while the jungle assaults the city
+**Step 1: The Crystal Deep Dungeon**
+
+The Crystal Deep is a natural cave system beneath Gearhaven, extending into the volcanic roots of Rust-Water Bay. Pip has mapped the upper levels; the lower levels are unmapped and hostile. The party must descend to harvest a mana-crystal geode large enough to power a substitute engine.
+
+**Level 1 — The Bore-Tunnels**
+The uppermost caves are tunnels bored through volcanic rock by **Maw-Borer larvae** — larval-stage megafauna that eat stone and excrete crystal-laced waste. The tunnels are warm (geothermal), dark, and threaded with bioluminescent fungal growth that provides dim green light. The smell is sulfur and hot metal.
+
+*Encounter:* 2 groups of 4 **Maw-Borer Larvae** [Minion] guard the tunnels. They attack anything that disturbs the bore-walls.
+
+> **MAW-BORER LARVA** [Minion group]
+> **Brawn 3 | Agility 1 | Intellect 1 | Cunning 1 | Willpower 2 | Presence 1**
+> Soak: 4 (chitinous shell) | Wounds: 5 each
+> **Skills (group):** Brawl, Resilience
+> **Abilities:** *Acid Spit:* Ranged (Short); Damage 5; ignores 2 soak (acid). *Burrow:* Can disappear into bore-walls as a maneuver; re-emerge from any wall within Short range next turn.
+> **Equipment:** Mandibles (Brawl; Damage 6; Crit 4; Engaged)
+
+*Hazard:* Unstable bore-tunnels. Loud sounds (combat, explosions) trigger a **collapse check**: Perception (Cunning), **Average (◆◆)** to notice the warning cracks, then Coordination (Agility), **Average (◆◆)** to dodge falling stone (Damage 8 on failure).
+
+**Level 2 — The Crystal Garden**
+Below the bore-tunnels, the caves open into a cathedral-sized chamber where raw mana-crystals have grown from the walls, floor, and ceiling like a frozen forest. The crystals pulse with soft blue-white light. The air tastes of ozone. It is beautiful — and guarded.
+
+Two **Crystal Golems** patrol the Garden. They are not creatures — they are formations of living crystal that respond to vibration. They ignore anyone who moves slowly and quietly. They attack anything that mines, breaks, or harvests crystal.
+
+> **CRYSTAL GOLEM** [Rival]
+> **Brawn 4 | Agility 2 | Intellect 1 | Cunning 1 | Willpower 3 | Presence 1**
+> Soak: 5 (crystalline body) | Wounds: 14 | Strain: 8 | Defense: 1/0
+> **Skills:** Brawl 3, Perception 2 (vibration-based), Vigilance 2
+> **Talents:** Adversary 1, Durable 2
+> **Abilities:**
+> *Resonance Pulse:* As an action, the Golem emits a subsonic pulse. All creatures at Short range: Resilience (Brawn), **Average (◆◆)** or Staggered for 1 round and knocked to Medium range. On a Triumph: the target drops whatever they're holding.
+> *Shard Burst:* When the Golem is destroyed, it explodes in a shower of crystal. All at Engaged range: Coordination (Agility), **Average (◆◆)** or suffer 6 piercing damage (Pierce 2).
+> *Crystal Regeneration:* While in the Crystal Garden, the Golem heals 3 Wounds at the start of each round. Removing it from the Garden (luring it into the bore-tunnels) disables this.
+> **Equipment:** Crystal fists (Brawl; Damage 8; Crit 3; Engaged; Knockdown)
+
+*Puzzle — The Harmonic Lock:* The passage to Level 3 is sealed by a crystal wall that vibrates at a specific frequency. Pip's instruments detect the frequency but can't replicate it. The party needs to:
+- Strike three different crystals in the Garden in the correct sequence (Knowledge — Arcana [Intellect], **Hard ◆◆◆** to identify the notes; Perception [Cunning], **Average ◆◆** to find the right crystals)
+- OR force the wall (Athletics [Brawn], **Daunting ◆◆◆◆** — triggers both Crystal Golems simultaneously)
+- OR use the Resonance Compass near the wall (it vibrates sympathetically — the Echo-Lord's essence recognizes First Age construction). The wall opens. Red flag: the Compass hums with satisfaction.
+
+**Level 3 — The Geode Chamber**
+At the cave system's deepest point: a spherical chamber completely lined with raw mana-crystal — a geode the size of a house. The light in here is blinding white-blue. The air vibrates. In the chamber's center, embedded in the floor like a throne, sits the largest single crystal formation the party has ever seen: the geode core. This is what they need.
+
+The **Geode Warden** guards it. Not a construct — a **crystalline intelligence** that has grown in the geode over centuries. It appears as a humanoid shape of translucent crystal, 10 feet tall, with a face that shifts between expressions like light through a prism. It speaks in harmonics — multiple tones simultaneously, requiring a **Perception (Cunning), Average (◆◆)** check to understand as language.
+
+> **GEODE WARDEN** [Nemesis]
+> **Brawn 5 | Agility 2 | Intellect 3 | Cunning 2 | Willpower 4 | Presence 3**
+> Soak: 6 (crystalline body) | Wounds: 20 | Strain: 14 | Defense: 1/1
+> **Skills:** Brawl 4, Cool 3, Discipline 3, Perception 3, Resilience 4, Vigilance 3
+> **Talents:** Adversary 2, Durable 3, Enduring 2
+> **Abilities:**
+> *Crystal Regeneration:* Heals 5 Wounds at the start of each round while in the Geode Chamber. Cannot regenerate outside it.
+> *Prism Beam:* Ranged (Medium); Damage 10; Crit 3. The Warden refracts light through its body into a focused beam. On a Triumph: the beam splits, hitting a second target at Short range for half damage.
+> *Resonant Shockwave:* Once per encounter. All creatures in the chamber: Resilience (Brawn), **Hard (◆◆◆)** or suffer 8 damage and Disoriented for 2 rounds. Crystals in the chamber crack and dim — the regeneration is disrupted for 3 rounds.
+> **Equipment:** Crystal arms (Brawl; Damage 9; Crit 2; Engaged; Sunder)
+
+**The Negotiation Path:** The Warden does not WANT to fight. It is a guardian, not a warrior. If the party attempts communication (Charm [Presence], **Hard ◆◆◆** to initiate; reduce to **Average ◆◆** if a Gnomish Integrator PC is present — Gnomes understand crystalline resonance intuitively), the Warden conveys:
+- It has been growing here for 800 years. This is its home.
+- The geode is not a resource — it is a LIVING SYSTEM that the Warden is part of.
+- Taking the core will not kill the Warden, but it will diminish it — like cutting a limb.
+- It will surrender a portion of the core (enough for the substitute engine) if the party promises: "Do not return. Let what remains grow."
+
+If the party agrees (sincerely — the Warden can sense deception; Deception check opposed by its Discipline 3): it carves a section of core free and offers it. The chamber dims but does not die. The Warden shrinks visibly — smaller, dimmer, older. It says nothing else. It turns away.
+
+If the party takes more than offered, or breaks the promise: the Warden fights with the grief of something that trusted and was betrayed. It will pursue them to Level 2 (losing regeneration) if necessary.
+
+*Treasure:* 500 Sparks in loose crystals (scattered throughout all three levels), **Crystal Resonance Blade** (longsword; Damage +2, Sunder quality; glows bright blue near Scars of Dissonance — found embedded in a wall on Level 2), **Gnomish Geo-Map** (a crystalline disc that projects a holographic 3D map of 1-mile radius when placed on stone — found in the Geode Chamber, a previous explorer's abandoned tool).
+
+**Step 2: Building the Substitute (3 days)**
+Pip and Thaelra work with the party to construct a replacement power source using the geode core and Gearhaven's prototype Arcane Conduits. Each day requires a **Knowledge — Arcana (Intellect), Hard (◆◆◆)** check from a participating PC. Three successes over three days = functional substitute. Two successes = functional but unstable (the cat-in-a-pipe-organ sound). One success = barely functional, will fail within a year. Zero = the substitute doesn't work and Thaelra must improvise with inferior materials (**Formidable ◆◆◆◆◆** final check from her).
+
+**Step 3: The Swap — Timed Skill Challenge**
+The Brass Heart (the Setting) must be physically removed from its housing and the substitute installed before the perimeter barriers fail. The swap takes 10 minutes. The jungle knows.
+
+*Structure:* 5 rounds. Each round = 2 minutes. Each round, one of the following happens (GM chooses or rolls d4):
+1. **Maw-Borer adult** breaches Pylon 4 perimeter (combat encounter — Rival, use Maw-Borer stats from Creature Appendix with +2 Brawn, +4 Wounds)
+2. **Vine-crawlers** scale the cliff face toward the Nursery (Athletics [Brawn] or Ranged combat check to repel, **Average ◆◆**)
+3. **Power fluctuation** — the swap procedure destabilizes; Pip needs help (Knowledge — Arcana [Intellect] or Mechanics [Intellect], **Hard ◆◆◆** to stabilize; failure = add 1 round to the timer)
+4. **Structural failure** — a section of cliff face crumbles; civilians in danger (Athletics [Brawn], **Average ◆◆** to shore up, or Coordination [Agility] to evacuate people)
+
+**The Rigs defend the Nursery.** Rusty parks itself in the doorway. Wobbles lurches into a vine-crawler. Sparky makes it down the cliff path at full speed and crashes into a Maw-Borer. The players will care.
+
+After 5 rounds (or whenever the swap completes): the substitute activates. The perimeter barriers flicker back to life. The jungle retreats. Gearhaven is diminished but alive.
 
 **Path 2: Diplomacy** — Earn Thaelra's respect (2+ sidequests), present evidence (Charm or Negotiation [Presence], **Hard (◆◆◆)** to **Formidable (◆◆◆◆◆)**).
 **Path 3: Theft** — Fast, catastrophic. Dozens of civilians die (GM determines exact toll). -3 Gearhaven rep. No Act III allies.
@@ -1779,7 +1854,7 @@ The party has learned (from the astronomer at the Starfall Peaks, confirmed by W
 **The Problem:** Aerinórë is a secret. Most people on Vael don't know it exists. The coastline is wreathed in perpetual mist generated by Sael'anir wind-shapers, and the Waldkyn Song-Wards further confuse intruders. You cannot sail there without a guide.
 
 **Methods of Passage:**
-- **Waldkyn guides from Mórenórë:** If the party earned Waldkyn trust during their time in Mórenórë, a Waldkyn elder named **Fern-Tongue** (Ribbet-kyn, elderly, speaks in mossy metaphors) offers to guide them through the mist. She has made the crossing before — once, decades ago — and knows the current patterns.
+- **Waldkyn guides from Mórenórë:** If the party earned Waldkyn trust during their time in Mórenórë, a Waldkyn elder named **Fern-Tongue** offers to guide them through the mist. She is a Ribbet-kyn woman of indeterminate age — green-grey skin, enormous liquid eyes, a voice like water over stones. She speaks exclusively in nature metaphors that take 30 seconds to parse and are always exactly right. ("The current does not argue with the rock. It goes around. We will go around.") She has made the crossing once, decades ago, and still dreams about it. She moves slowly, hums constantly, and carries a staff carved with tide-charts that she reads by touch. She is the calmest person the party has ever met, and her calm is contagious — even the Compass's hum quiets near her.
 - **Sael'anir wind-shaper:** If the party has impressed the Sael'anir (through the Starfall Peaks astronomer, who has Sael'anir contacts), a wind-shaper named **Ilwen** agrees to part the mist for one crossing. She warns: "The mist returns behind you. Coming back is your problem."
 - **Azure Hand smuggler route:** Vesper Moraine (returning from Act I) maintains that the Azure Hand has "occasionally done business in places that don't officially exist." For 500 Sparks or a favor, she provides coordinates and a Mirennian chart marked with wind-shaper gap patterns.
 
@@ -2031,7 +2106,14 @@ Grukka and 12 Whisper-Shaman warriors join the party regardless of faction stand
 ### The Trap
 
 **The Heart of the Barren Hills:**
-Desolate scrubland scarred by ancient war. Rusted weapons, bleached bones from the SA 1210 conflict. At the center: a massive Scar of Dissonance — a rift in reality humming with subsonic vibration. The ground within 100 yards is perfectly flat, perfectly smooth. Nothing grows.
+
+Read this to the players as they approach:
+
+*The land changes gradually and then all at once. The scrubland thins. The soil turns grey, then white, then the color of ash that has never been rained on. The wind carries a smell like hot metal and old bone. Rusted swords jut from the earth at angles — planted upright by hands that rotted away centuries ago. A helmet lies in a dry streambed, its visor staring at the sky. Fragments of armor are scattered like seed.*
+
+*Then the sound: a hum below hearing, a vibration in the teeth and sternum. The Compass in your pack is singing — a single sustained note, warm and desperate and YEARNING. The ground underfoot is smooth. Perfectly smooth. As if a god reached down and pressed the world flat with an open palm. Within this circle — a hundred yards across — nothing grows. Nothing has grown here in 280 years. The earth is not dead. It has been SILENCED.*
+
+*At the circle's center: a crack in the world. Not a canyon or a fissure — a crack in REALITY. The air above it shimmers the way air shimmers above a forge, but the distortion has geometry — faint lines, angles, the ghost of a structure that doesn't exist yet. It hums. Everything hums. The world is holding its breath.*
 
 **The Architect's Instructions:**
 "Place the three pieces at the cardinal points around the Scar. The dissonance will tear them apart. Stand back."
@@ -2131,6 +2213,17 @@ The players' Act II choices determine who answers. Each allied faction provides 
 
 A party that earned every alliance has a coordinated multi-force assault. A party that burned bridges faces the cathedral with a skeleton crew and must rely on their own strength.
 
+> **CAPTAIN ELARA VOSS** [Rival — Ally]
+> *Human, Mórenórë Volunteer Corps*
+> **Brawn 2 | Agility 2 | Intellect 4 | Cunning 3 | Willpower 3 | Presence 3**
+> Soak: 3 (leather + determination) | Wounds: 12 | Strain: 16 | Defense: 0/0
+> **Skills:** Cool 3, Discipline 3, Knowledge — Lore 4, Leadership 3, Melee 2, Perception 3, Ranged 2, Vigilance 3
+> **Talents:** Adversary 1, Command 2, Nobody's Fool 1
+> **Abilities:**
+> *Tactical Coordination:* Once per encounter, Elara may grant all allies within Short range a Boost die to their next combat check. She reads the battlefield the way she reads a text — analytically, precisely, and slightly faster than everyone else.
+> *"I Studied This":* Elara has read extensively about First Age architecture, siege warfare, and divine constructs. She can provide a Boost die to Knowledge — Arcana or Knowledge — Lore checks related to the Cathedral's structure or the Echo-Lord's nature.
+> **Equipment:** Rapier (Melee; Damage 5; Crit 2; Engaged; Defensive 1), hand crossbow (Ranged; Damage 5; Crit 4; Medium), three academic texts she brought to a battlefield, spectacles she refuses to remove even during combat
+
 ### "Sabel's Eight" — The Lux Aeterna Reunion
 
 Sabel's strike team arrives from the southeast — on foot, dusty, carrying everything they own. They are not an army. They are eight people who walked across the desert because the people they love asked for help.
@@ -2188,8 +2281,33 @@ Three chambers, each themed to a domain of Kael'Zorai:
 **The Hall of Time** — A corridor where time runs differently in different sections. Some patches run fast (aging the players' gear, rusting metal, crumbling leather). Others run slow (player movements become sluggish, enemies gain extra actions). Navigating requires **Perception (Cunning), Hard (◆◆◆)** to identify time-zones and creative routing.
 - Combat: 4 **Chrono-Sentinels** (use Stillness Sentinel stats but with time-manipulation abilities instead of stillness aura — they can inflict Immobilized on targets or grant themselves an extra maneuver per turn)
 
-**The Hall of Control** — A chamber where the floor is a chessboard and the players must solve a tactical puzzle to open the next door while being attacked by constructs that move according to chess rules. The constructs cannot be defeated by combat alone — they must be maneuvered into positions where they cancel each other out.
-- Puzzle: Logic puzzle using the chess-constructs' predictable movement patterns
+**The Hall of Control** — A square chamber, 60 feet on a side, with a floor of alternating black and white crystal tiles — an 8×8 grid. The exit door is on the far wall, sealed by a rune that reads (in Ulzammar notation): *"Order prevails when every piece is in its place."*
+
+Six **Geometric Constructs** stand motionless on the grid — humanoid shapes of dark crystal, each on a specific tile. They activate when any creature steps onto the grid. Each Construct moves according to a FIXED PATTERN based on its position:
+- **2 Towers** (corners) — move in straight lines only (horizontal or vertical), any number of tiles
+- **2 Bishops** (flanking the door) — move diagonally only, any number of tiles
+- **2 Knights** (center) — move in L-shapes (2 tiles + 1 tile perpendicular), can leap over other pieces
+
+The Constructs move ONE AT A TIME at the end of each player's turn (GM chooses which Construct moves, cycling through all six). They always move TOWARD the nearest player character, following their movement pattern. If a Construct occupies the same tile as a player, it attacks (Brawl; Damage 7; Crit 3; Engaged; Knockdown).
+
+**The Rule:** The Constructs cannot be destroyed by damage — they reform at the start of the next round on their original tile. But if TWO Constructs occupy the SAME tile (because their patterns converge), they cancel each other out — both shatter permanently. The players' job is to position themselves on the grid so that the Constructs' predictable movements cause them to collide.
+
+**Solving the Puzzle:**
+- **Knowledge — Arcana (Intellect), Hard (◆◆◆)** to recognize the movement patterns after 1 round of observation
+- **Intellect-based check (any), Average (◆◆)** each round to predict where Constructs will move next
+- The minimum solution requires 3 rounds of correct positioning to cause 3 collisions (eliminating all 6)
+- Once all Constructs are eliminated, the exit rune activates and the door opens
+- **Brute-force alternative:** A character who reaches the exit door can attempt to force the rune (Knowledge — Arcana [Intellect], **Daunting ◆◆◆◆**) while allies distract the Constructs. On success, the door opens regardless of Construct status — but the Constructs pursue into the next chamber.
+
+> **GEOMETRIC CONSTRUCT** [Rival — Special]
+> **Brawn 3 | Agility 2 | Intellect 1 | Cunning 1 | Willpower 3 | Presence 1**
+> Soak: 5 (crystal body) | Wounds: 10 | Strain: — | Defense: 0/0
+> **Skills:** Brawl 2, Vigilance 2
+> **Abilities:**
+> *Patterned Movement:* The Construct moves according to its type (Tower/Bishop/Knight) and always moves toward the nearest PC. It cannot deviate.
+> *Reformation:* If destroyed by damage, the Construct reforms on its starting tile at the start of the next round. Only cancellation (collision with another Construct) destroys it permanently.
+> *Collision Cancel:* If two Constructs occupy the same tile, both shatter permanently in a burst of crystal fragments (all at Engaged range: Coordination [Agility], **Easy ◆** or suffer 4 damage).
+> **Equipment:** Crystal limbs (Brawl; Damage 7; Crit 3; Engaged; Knockdown)
 
 **The Hall of Silence** — A chamber where sound does not exist. The moment the party crosses the threshold, everything goes quiet — not muffled, but ABSENT. Footsteps make no sound. Swords meeting metal are silent. Players cannot speak, shout, or cast verbal spells. All verbal magic actions fail. Communication requires gestures, touch, or written notes.
 
