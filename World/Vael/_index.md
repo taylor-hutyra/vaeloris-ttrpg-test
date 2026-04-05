@@ -14,8 +14,8 @@ contains:
 - '[[Castellum]]'
 - '[[Port Farrick]]'
 - '[[Kharnzarak]]'
-- '[[Hannan''r'']]'
-- '[[M''ren''r'']]'
+- '[[Hannanórë]]'
+- '[[Mórenórë]]'
 - '[[Whispering Vales]]'
 - '[[Greenmeadow]]'
 - '[[Barren Hills]]'
@@ -86,7 +86,7 @@ Vael is the primary landmass of [[Vaeloris]], the continent where mortal civiliz
 
 ## Geography
 
-The continent stretches from the windswept northern highlands — seat of [[Vernath]] and the heart of [[Varnathi]] culture — down through fertile central plains to the arid [[Southern Sands]] of the [[Desertborn Confederacy]]. The [[Dragon's Tooth Mountains]] run along the eastern spine, housing the sealed Dwarven kingdom of [[Kharnzarak]] in their roots. West of the highlands, the [[Whispering Vales]] shelter the [[Waldkyn]], while the enchanted forest of [[Hannan'r']] hides the [[Cirhannim]] Elves behind the Great Weaving. The [[Iron-Peak Range]] divides the highlands from the eastern coast, where the [[Mirennian League]] controls its port cities.
+The continent stretches from the windswept northern highlands — seat of [[Vernath]] and the heart of [[Varnathi]] culture — down through fertile central plains to the arid [[Southern Sands]] of the [[Desertborn Confederacy]]. The [[Dragon's Tooth Mountains]] run along the eastern spine, housing the sealed Dwarven kingdom of [[Kharnzarak]] in their roots. West of the highlands, the [[Whispering Vales]] shelter the [[Waldkyn]], while the enchanted forest of [[Hannanórë]] hides the [[Cirhannim]] Elves behind the Great Weaving. The [[Iron-Peak Range]] divides the highlands from the eastern coast, where the [[Mirennian League]] controls its port cities.
 
 ## The Great Powers
 
@@ -96,12 +96,12 @@ Vael's political landscape is a patchwork of competing factions held together by
 - **[[Argentum]]** — The Silver City, built atop the Deep-Vein, where the [[Silver Lords]] wield economic power rivaling any army.
 - **[[Castellum]]** — The Iron Fist of the south, a fortress-city of military discipline that has dominated Varnathi politics since the age of the Republic.
 - **[[Port Farrick]]** — The Gateway, a cosmopolitan trade hub with deep separatist roots, sitting where river meets sea.
-- **[[M'ren'r']]** — The City of Silver Tongues, a neutral Elven-Human-Waldkyn city founded in 900 S.A., home to the [[Grand University]] and the intellectual conscience of the world.
+- **[[Mórenórë]]** — The City of Silver Tongues, a neutral Elven-Human-Waldkyn city founded in 900 S.A., home to the [[Grand University]] and the intellectual conscience of the world.
 - **[[Luminas]]** — The Holy City, birthplace of the [[Church of the Celestial Word]], where [[Iovan]] first preached and the [[Aetheris]] first appeared.
 
 ## The Hidden and the Sealed
 
-Not all of Vael's inhabitants dwell in the open. The [[Cirhannim]] Elves of [[Hannan'r']] have hidden behind the Great Weaving since 55 S.A. The [[Dwarves]] of [[Kharnzarak]] sealed their Adamant Gates in 1400 S.A. and only cracked them open again around 3050 S.A. The [[Gnomes]] tend the world from their Hollows beneath the great-trees, their mycelial networks sensing every tremor across the continent. And the [[Shadewalkers]] operate from the shadows of every city, their fingers in every treasury and their ears at every keyhole.
+Not all of Vael's inhabitants dwell in the open. The [[Cirhannim]] Elves of [[Hannanórë]] have hidden behind the Great Weaving since 55 S.A. The [[Dwarves]] of [[Kharnzarak]] sealed their Adamant Gates in 1400 S.A. and only cracked them open again around 3050 S.A. The [[Gnomes]] tend the world from their Hollows beneath the great-trees, their mycelial networks sensing every tremor across the continent. And the [[Shadewalkers]] operate from the shadows of every city, their fingers in every treasury and their ears at every keyhole.
 
 ## The Wounds
 

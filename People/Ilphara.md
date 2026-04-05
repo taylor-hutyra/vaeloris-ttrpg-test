@@ -8,7 +8,7 @@ aliases:
 species: '[[Sael''anir]]'
 born: null
 died: null
-birthplace: '[[Hannan''r'']]'
+birthplace: '[[Hannanórë]]'
 residence: null
 faction: '[[Sael''anir]]'
 role: Founder of the Sael'anir branch, nomadic philosopher
@@ -19,8 +19,8 @@ relationships:
   type: founder
   period: SA:80
   metadata:
-    description: Led the first Elves to leave Hannan'r' and become nomadic wanderers
-- target: '[[Hannan''r'']]'
+    description: Led the first Elves to leave Hannanórë and become nomadic wanderers
+- target: '[[Hannanórë]]'
   type: custom
   period: SA:80
   metadata:
@@ -34,7 +34,7 @@ relationships:
   metadata:
     description: Born among the Wood-Spirit People before departing
     nature: former
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: custom
   metadata:
     description: 'spiritual-connection: The Sael''anir eventually settled on the pristine continent she sought'
@@ -42,7 +42,7 @@ relationships:
   type: involved-in
   period: SA:80
   metadata:
-    description: Led the departure of dissident Elves from Hannan'r'
+    description: Led the departure of dissident Elves from Hannanórë
 - target: '[[Completion of the Great Weaving]]'
   type: related
   period: SA:55
@@ -74,7 +74,7 @@ timeline:
 - period: SA:55-80
   event: Grew increasingly vocal in opposing the Great Weaving's isolationism after its completion
 - period: SA:80
-  event: Led a faction of Elves out of Hannan'r', founding the Sael'anir (Sky-Wanderers) as a permanent cultural split
+  event: Led a faction of Elves out of Hannanórë, founding the Sael'anir (Sky-Wanderers) as a permanent cultural split
 - period: SA:80-
   event: Began mapping the stars and winds with her followers, laying the groundwork for future celestial navigation
 tags:
@@ -88,11 +88,11 @@ modified: '2026-03-15'
 ---
 # Ilphara
 
-**Ilphara**, known as the **Star-Gazer**, was the [[Elves|Elven]] visionary who, in **SA 80**, led a faction of dissidents out of the magically concealed forest of [[Hannan'r']] and founded the [[Sael'anir]] -- the Sky-Wanderers, the nomadic Elven branch whose philosophy of constant movement and open perception stands in deliberate contrast to the isolationism of the [[Cirhannim]].
+**Ilphara**, known as the **Star-Gazer**, was the [[Elves|Elven]] visionary who, in **SA 80**, led a faction of dissidents out of the magically concealed forest of [[Hannanórë]] and founded the [[Sael'anir]] -- the Sky-Wanderers, the nomadic Elven branch whose philosophy of constant movement and open perception stands in deliberate contrast to the isolationism of the [[Cirhannim]].
 
 ## The Philosophical Rift
 
-When Queen [[Lelyariel]] completed the **Great Weaving** in **SA 55**, sealing [[Hannan'r']] behind a permanent barrier of illusory mist, most [[Cirhannim]] celebrated the act as a necessary preservation of their sacred homeland. Ilphara saw something different: a cage disguised as a sanctuary.
+When Queen [[Lelyariel]] completed the **Great Weaving** in **SA 55**, sealing [[Hannanórë]] behind a permanent barrier of illusory mist, most [[Cirhannim]] celebrated the act as a necessary preservation of their sacred homeland. Ilphara saw something different: a cage disguised as a sanctuary.
 
 Her argument was rooted in the deepest principles of Elven cosmology. The world-song -- the resonance set in motion by [[Aenareth]] and sustained by the [[The Four Harmonies|Four Harmonies]] -- was not a fixed composition to be preserved under glass. It was a living, evolving melody that could only be truly heard by those willing to move through the world and listen from every possible angle. A wall, no matter how beautiful, was an admission that the song had stopped.
 

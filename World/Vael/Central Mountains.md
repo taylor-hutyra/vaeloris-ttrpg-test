@@ -79,7 +79,7 @@ The Dwarven clans were the first to claim the Central Mountains, beginning the b
 
 Human interest in the range grew with the discovery of massive silver deposits in SA:230. The [[Treaty of Coin]] between Vernath and Kharnzarak established mining rights and standardized the "Vernathi Silver Mark" as currency. When the Deep-Vein was discovered in SA:485, the mining camp of [[Argentum]] exploded into a metropolis that would eventually rival [[Vernath]] in political power.
 
-The catastrophic Earthwake of SA:1200 shattered major clan halls within Kharnzarak, triggering the Bronr'n Exodus. The paranoid [[High King Thorgar VI]] sealed the Great Adamant Gates in SA:1400, cutting the Dwarven kingdom off from the surface world for centuries. The Rock Gnomes of [[Lithos]] remained hidden throughout, their silent clockwork city unknown to most surface-dwellers.
+The catastrophic Earthwake of SA:1200 shattered major clan halls within Kharnzarak, triggering the Bronrûn Exodus. The paranoid [[High King Thorgar VI]] sealed the Great Adamant Gates in SA:1400, cutting the Dwarven kingdom off from the surface world for centuries. The Rock Gnomes of [[Lithos]] remained hidden throughout, their silent clockwork city unknown to most surface-dwellers.
 
 ## Present Day
 

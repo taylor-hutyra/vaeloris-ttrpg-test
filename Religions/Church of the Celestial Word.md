@@ -110,7 +110,7 @@ timeline:
 - period: SA:2032
   event: The Herald in Flame — first Aetheris appears, defending refugees outside Luminas
 - period: SA:2188
-  event: The Hymn of the Hidden Star — blind musician Sylla in M'ren'r' reveals herself as an Aetheris, validating the Velo
+  event: The Hymn of the Hidden Star — blind musician Sylla in Mórenórë reveals herself as an Aetheris, validating the Velo
     Aspectus doctrine; Sylla's Hymn becomes the anthem of the Church
 - period: SA:2685
   event: Church leaders plead for mercy at the Conclave of Luminas before the Skyfall
@@ -164,7 +164,7 @@ The Aetheris themselves call the Church **Veridia Caelus** — the Celestial Wor
 
 ## The Hymn of the Hidden Star (SA:2188)
 
-In [[M'ren'r']], a blind musician named **Sylla** gained fame for her haunting compositions. Upon her deathbed, she revealed herself as an [[Aetheris]] who had lived a mortal life to understand human suffering. The revelation that Aetheris could walk among mortals in disguise -- the **Velo Aspectus** -- caused a religious fervor. "Sylla's Hymn" became the anthem of the Church, and conversion rates soared.
+In [[Mórenórë]], a blind musician named **Sylla** gained fame for her haunting compositions. Upon her deathbed, she revealed herself as an [[Aetheris]] who had lived a mortal life to understand human suffering. The revelation that Aetheris could walk among mortals in disguise -- the **Velo Aspectus** -- caused a religious fervor. "Sylla's Hymn" became the anthem of the Church, and conversion rates soared.
 
 ## Historical Role
 

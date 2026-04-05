@@ -10,7 +10,7 @@ spatial-type: city
 contains: []
 population: null
 ruler: '[[Kharnzarak Monarchy]]'
-faction: '[[N''m-Khazal''n]]'
+faction: '[[N''m-Khazalûn]]'
 climate: subterranean, geothermally heated
 resources:
 - star-metal
@@ -34,7 +34,7 @@ relationships:
   period: SA:1-
   metadata:
     description: coexistence
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: homeland
   period: SA:91-
   metadata:
@@ -59,7 +59,7 @@ relationships:
   period: SA
   metadata:
     description: Most powerful Guild Clan, the economic backbone
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: contains
   period: SA:1200-
   metadata:
@@ -79,7 +79,7 @@ relationships:
   period: SA:1370-1400
   metadata:
     description: Paranoid king who sealed the Great Adamant Gates
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: related
   period: SA:365-
   metadata:
@@ -148,7 +148,7 @@ relationships:
   type: origin-of
   period: SA:485
   metadata:
-    description: Exiled from Kharnzarak as a Thulkor'n before becoming a surface prospector
+    description: Exiled from Kharnzarak as a Thulkorûn before becoming a surface prospector
 - target: '[[High King Thorgar VII]]'
   type: ruled-by
   period: SA:3050-
@@ -163,14 +163,14 @@ relationships:
   type: native
   period: SA:91-
   metadata:
-    description: Primary homeland of the N'nm-Khazal'n, the orthodox Stone-Sworn clans
+    description: Primary homeland of the Nûm-Khazalûn, the orthodox Stone-Sworn clans
 - target: '[[Elm-korin]]'
   type: custom
   metadata:
     description: exiled-from
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: controlled-by
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: custom
   metadata:
     description: exiled-from
@@ -228,7 +228,7 @@ timeline:
 - period: SA:290
   event: Rise of the Thul (The Broken); crime spikes in the deep halls
 - period: SA:365
-  event: Ritual of Shattering formalized; Thulkor'n exile codified
+  event: Ritual of Shattering formalized; Thulkorûn exile codified
 - period: SA:615
   event: High King orders the Lower Deep sealed; non-Dwarves barred from cities proper
 - period: SA:690
@@ -260,11 +260,11 @@ The Dwarven clans began reclaiming their ancestral halls from [[Skitter-Gloom]] 
 
 ## The Caste System
 
-Kharnzarak's society is rigidly hierarchical, governed by ancient laws carved into the [[Stone-Lays]]. Clan and craft are inextricably linked, organized into High Clans, Guild Clans, and Gatestone Clans. The highest virtue is [[Thral'k]] (Endurance) -- the ability to maintain cultural and structural integrity against the pressures of time and change.
+Kharnzarak's society is rigidly hierarchical, governed by ancient laws carved into the [[Stone-Lays]]. Clan and craft are inextricably linked, organized into High Clans, Guild Clans, and Gatestone Clans. The highest virtue is [[Thralûk]] (Endurance) -- the ability to maintain cultural and structural integrity against the pressures of time and change.
 
 ## History of Exile
 
-Kharnzarak's rigid perfectionism produced two waves of exile. The [[Thulkor'n]] ("The Broken-Crafted") were criminals and oath-breakers publicly stripped of clan names through the [[Ritual of Shattering]] (SA:365). The [[Elm-korin]] ("The Flame-Struck") were visionary reformists exiled in SA:690 for the heretical belief that mortal magic could achieve perfect order. Both groups enriched human civilization with Dwarven skill.
+Kharnzarak's rigid perfectionism produced two waves of exile. The [[Thulkorûn]] ("The Broken-Crafted") were criminals and oath-breakers publicly stripped of clan names through the [[Ritual of Shattering]] (SA:365). The [[Elm-korin]] ("The Flame-Struck") were visionary reformists exiled in SA:690 for the heretical belief that mortal magic could achieve perfect order. Both groups enriched human civilization with Dwarven skill.
 
 ## The Sealing
 

@@ -18,12 +18,12 @@ role: First Hand — embodiment of consciousness, spirit, and transcendent meani
 title: First Hand of Inspiration
 gender: null
 relationships:
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: created-by
   period: FA
   metadata:
     description: Brought forth in the Second Creation
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: sibling
   metadata:
     description: Fellow First Hand — created together in the Second Creation
@@ -144,7 +144,7 @@ relationships:
     description: Stellion, who built these peaks, is an aspect of Elaraieth
 timeline:
 - period: FA
-  event: Brought forth by A'rastheon in the Second Creation
+  event: Brought forth by Aúrastheon in the Second Creation
 - period: FA
   event: 'First great work: established principles of consciousness throughout reality'
 - period: FA
@@ -169,7 +169,7 @@ modified: '2026-03-28'
 ---
 # Elaraieth
 
-**Elaraieth** is the First Hand of Inspiration — one of the four divine beings brought forth by [[A'rastheon]] in the Second Creation. Elaraieth embodies consciousness, spirit, and transcendent meaning. Of all the First Hands, Elaraieth is that which grants awareness and purpose to creation.
+**Elaraieth** is the First Hand of Inspiration — one of the four divine beings brought forth by [[Aúrastheon]] in the Second Creation. Elaraieth embodies consciousness, spirit, and transcendent meaning. Of all the First Hands, Elaraieth is that which grants awareness and purpose to creation.
 
 ## Domain and Essence
 

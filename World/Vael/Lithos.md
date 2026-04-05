@@ -23,7 +23,7 @@ relationships:
   period: SA:1-
   metadata:
     description: coexistence
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   period: SA:89-
   metadata:
@@ -72,7 +72,7 @@ timeline:
 - period: SA:1-
   event: Rock Gnomes inhabit the deep root systems of the Central Mountains, tending stone and crystal
 - period: SA:89
-  event: Rock Gnomes secretly aid in stabilizing the wards around [[Hannan'r']] with bronze lattice-work
+  event: Rock Gnomes secretly aid in stabilizing the wards around [[Hannanórë]] with bronze lattice-work
 tags:
 - place
 - city
@@ -106,4 +106,4 @@ Two philosophical schools compete for influence:
 
 ## Relationship with Other Races
 
-The [[N'm-Khazal'n]] Dwarves of [[Kharnzarak]] know the Rock Gnomes as the [[N'm-kith]] ("Stone-kin"), treating them with quiet, almost invisible respect. It was Rock Gnomes who secretly aided the Elves in stabilizing the wards around [[Hannan'r']] in SA:89. This pattern of hidden, essential contribution defines Lithos's relationship with the wider world: always present, rarely seen, indispensable.
+The [[N'm-Khazal'n]] Dwarves of [[Kharnzarak]] know the Rock Gnomes as the [[Nûm-kith]] ("Stone-kin"), treating them with quiet, almost invisible respect. It was Rock Gnomes who secretly aided the Elves in stabilizing the wards around [[Hannanórë]] in SA:89. This pattern of hidden, essential contribution defines Lithos's relationship with the wider world: always present, rarely seen, indispensable.

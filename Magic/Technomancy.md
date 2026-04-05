@@ -49,7 +49,7 @@ relationships:
   period: SA:2360
   metadata:
     description: advanced-by
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: created-by
   period: SA:1485
   metadata:
@@ -120,7 +120,7 @@ The result was a city of brass, steam, and glowing runes built vertically into t
 
 Technomancy operates on the understanding that magic and machinery are not opposed forces but complementary systems. A steam turbine converts heat to motion; a technomantic turbine converts mana to motion. A clockwork gear transmits force with mechanical precision; a rune-inscribed gear transmits force and magical intent simultaneously.
 
-The key innovation was the development of [[Arcane Conduits]] -- focusing crystals that could channel raw magical energy into stable, predictable outputs. These crystals, refined by the [[Crystal-Singers of M'ren'r']], allowed technomancers to build systems that non-magical operators could safely use.
+The key innovation was the development of [[Arcane Conduits]] -- focusing crystals that could channel raw magical energy into stable, predictable outputs. These crystals, refined by the [[Crystal-Singers of Mórenórë]], allowed technomancers to build systems that non-magical operators could safely use.
 
 ## Applications
 

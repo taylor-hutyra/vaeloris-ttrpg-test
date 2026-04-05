@@ -47,7 +47,7 @@ relationships:
   period: SA:410
   metadata:
     description: Fortress-city founded on the southern frontier to hold conquered territory
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: involved
   period: SA:395
   metadata:
@@ -114,7 +114,7 @@ Emperor [[Caelius I]], great-grandson of [[Vardas the Elder|Vardas]] and first r
 
 ## The Campaign
 
-Using the new steel legions — standardized armor and weapons perfected with [[Thulkor'n]] Dwarven consultants — and rigid phalanx tactics, the Empire shattered the disorganized Orkin warbands. [[Caelius I]] claimed a "Mandate of Order": since the gods had left, it was Man's duty to impose structure upon the chaotic world.
+Using the new steel legions — standardized armor and weapons perfected with [[Thulkorûn]] Dwarven consultants — and rigid phalanx tactics, the Empire shattered the disorganized Orkin warbands. [[Caelius I]] claimed a "Mandate of Order": since the gods had left, it was Man's duty to impose structure upon the chaotic world.
 
 ## Founding of Castellum
 

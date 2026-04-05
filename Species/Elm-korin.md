@@ -25,7 +25,7 @@ relationships:
   type: child
 - target: '[[Gearhaven]]'
   type: controls
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: custom
   metadata:
     description: exiled-from
@@ -72,7 +72,7 @@ relationships:
   metadata:
     description: View Elm-korin with contempt as dangerous heretics
     nature: hostile
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: ally
   period: SA:1200-
   metadata:
@@ -91,15 +91,15 @@ relationships:
   metadata:
     description: Reinterpreted through the lens of technomancy
     nature: practice
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: custom
   metadata:
     description: exiled
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: sibling
   period: SA
   metadata:
-    description: Will work for Gearhaven Elm-korin if the pay is right; Brenna is Thulkor'n by law but Elm-korin in spirit
+    description: Will work for Gearhaven Elm-korin if the pay is right; Brenna is Thulkorûn by law but Elm-korin in spirit
     nature: kindred
 - target: '[[Clank Servitors]]'
   type: custom
@@ -134,13 +134,13 @@ The **Elm-korin**, or **Flame-Struck**, are the descendants of a reformist [[Dwa
 
 ## Origin and Heresy
 
-The Elm-korin's exile stems from a fundamental philosophical break with [[N'nm-Khazal'n]] orthodoxy. Where the Stone-Sworn see mortal magic as chaotic corruption, the Elm-korin see it as the missing key to completing creation's design. They believe the other [[Four Pillars of Craft|Pillars]] failed by stopping short of true perfection -- that the [[Ulzammar]]'s vision of flawless order was not wrong, merely incomplete.
+The Elm-korin's exile stems from a fundamental philosophical break with [[Nûm-Khazalûn]] orthodoxy. Where the Stone-Sworn see mortal magic as chaotic corruption, the Elm-korin see it as the missing key to completing creation's design. They believe the other [[Four Pillars of Craft|Pillars]] failed by stopping short of true perfection -- that the [[Ulzammar]]'s vision of flawless order was not wrong, merely incomplete.
 
 The name **Elm-korin** translates roughly as "Flame-Struck" -- those who have been touched by the Truth-Flame of magical insight. In [[Kharnzarak]], the name is spoken as an insult. In [[Gearhaven]], it is a badge of pride.
 
 ## Core Philosophy: Perfection
 
-The Elm-korin seek to complete the work the [[Ulzammar]] began, using logic, magic, and technology to create a world of flawless order and efficiency. Where the [[N'nm-Khazal'n]] preserve the past and the [[Thulkor'n]] survive the present, the Elm-korin build the future.
+The Elm-korin seek to complete the work the [[Ulzammar]] began, using logic, magic, and technology to create a world of flawless order and efficiency. Where the [[Nûm-Khazalûn]] preserve the past and the [[Thulkorûn]] survive the present, the Elm-korin build the future.
 
 Their philosophy holds that **technomancy** -- the synthesis of Dwarven craftsmanship and arcane law -- is the ultimate expression of the Four Pillars. A perfectly designed machine is a prayer. A flawlessly integrated magical circuit is a hymn to the deep structure of reality.
 
@@ -170,15 +170,15 @@ The Elm-korin's most visible achievement is the **Clank** -- autonomous mechanic
 
 ## View of Other Dwarves
 
-The Elm-korin view the [[N'nm-Khazal'n]] as **fearful traditionalists** who cling to an incomplete design. They see [[Kharnzarak]]'s obsession with preservation as a slow form of death -- a civilization that refuses to grow is a machine that has stopped turning.
+The Elm-korin view the [[Nûm-Khazalûn]] as **fearful traditionalists** who cling to an incomplete design. They see [[Kharnzarak]]'s obsession with preservation as a slow form of death -- a civilization that refuses to grow is a machine that has stopped turning.
 
-They see the [[Thulkor'n]] as a reminder of the personal failings their ordered society seeks to eliminate -- chaos without purpose, survival without direction.
+They see the [[Thulkorûn]] as a reminder of the personal failings their ordered society seeks to eliminate -- chaos without purpose, survival without direction.
 
 They are **fascinated** by the [[Gnomes]]' intricate work, particularly the [[Rock Gnomes]] of [[Lithos]], seeing it as a primitive but promising form of their own philosophy. The Symbiotic Weave faction has the deepest ties to Gnomish innovation.
 
 ## Relations with the Wider World
 
-[[Gearhaven]] was founded alongside **human mages**, and the city remains a joint venture. Human scholars, artificers, and merchants are integral to its economy and its intellectual culture. This openness to collaboration sets the Elm-korin apart from both orthodox Dwarven isolationism and Thulkor'n suspicion.
+[[Gearhaven]] was founded alongside **human mages**, and the city remains a joint venture. Human scholars, artificers, and merchants are integral to its economy and its intellectual culture. This openness to collaboration sets the Elm-korin apart from both orthodox Dwarven isolationism and Thulkorûn suspicion.
 
 The city maintains complex relations with the [[Magocracy]], whose views on arcane regulation clash with [[Gearhaven]]'s philosophy of unrestricted magical innovation.
 

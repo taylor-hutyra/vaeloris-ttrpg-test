@@ -21,7 +21,7 @@ relationships:
 - target: '[[Varnathi Highlands]]'
   type: borders
   period: 1-
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: 20-
 - target: '[[The Fens]]'
@@ -137,7 +137,7 @@ After [[The Great Withdrawal]], the Waldkyn sought to heal the land scarred by t
 
 The Waldkyn played a crucial diplomatic role in SA:195, mediating the [[First Council of Races]] at the Stone-Circle of Oth, which led to the [[Pact of the Wardens]] and the creation of the [[Wardens of the Wild]]. Their reputation as neutral mediators persisted for centuries.
 
-The first major cultural schism occurred in SA:925 when the [[Chartered Kith]] departed the Vales, drawn to the cosmopolitan success of [[M'ren'r']]. Those who remained became the [[Quiet Vales Kith]], traditionalists who view civilization as a Song-Wrong.
+The first major cultural schism occurred in SA:925 when the [[Chartered Kith]] departed the Vales, drawn to the cosmopolitan success of [[Mórenórë]]. Those who remained became the [[Quiet Vales Kith]], traditionalists who view civilization as a Song-Wrong.
 
 ## Government
 

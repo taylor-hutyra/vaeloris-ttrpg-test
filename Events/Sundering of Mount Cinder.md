@@ -17,11 +17,11 @@ consequences:
 - The Gloom Famine — ash choked skies for three years
 - Tsunami of Tears destroyed 40% of Mirennian fleet and harbors
 - Collapse of the Mirennian economy
-- Bronr'n Exodus from Kharnzarak
+- Bronrûn Exodus from Kharnzarak
 affected-entities:
 - '[[Mirennian League]]'
 - '[[Vol]]'
-- '[[Bronr''n]]'
+- '[[Bronrûn]]'
 status: historical
 relationships:
 - target: '[[Perfection of Wind-Shaping]]'
@@ -82,6 +82,6 @@ Volcanic ash choked the skies for three years, devastating agriculture across th
 
 Massive waves destroyed forty percent of the [[Mirennian League]]'s fleet and harbor infrastructure. The economic backbone of the League was shattered in a single day. This devastation left the Mirennians vulnerable and reshaped the balance of power between land and sea for generations.
 
-## The Bronr'n Connection
+## The Bronrûn Connection
 
-The seismic shockwaves from the eruption were felt as far as [[Kharnzarak]], contributing to the geological instability that would eventually cause the Earthwake and the [[Bronr'n]] Exodus centuries later.
+The seismic shockwaves from the eruption were felt as far as [[Kharnzarak]], contributing to the geological instability that would eventually cause the Earthwake and the [[Bronrûn]] Exodus centuries later.

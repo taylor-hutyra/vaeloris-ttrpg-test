@@ -7,14 +7,14 @@ aliases:
 species: '[[Cirhannim]]'
 born: null
 died: null
-birthplace: '[[Hannan''r'']]'
-residence: '[[Hannan''r'']]'
+birthplace: '[[Hannanórë]]'
+residence: '[[Hannanórë]]'
 faction: '[[Cirhannim]]'
 role: Queen of the Cirhannim, creator of the Great Weaving
-title: Queen of Hannan'r'
+title: Queen of Hannanórë
 gender: female
 relationships:
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ruler
   period: SA:1-
   metadata:
@@ -37,7 +37,7 @@ relationships:
   type: involved-in
   period: SA:55
   metadata:
-    description: Directed the two-decade ritual that concealed Hannan'r' behind illusory mist
+    description: Directed the two-decade ritual that concealed Hannanórë behind illusory mist
 - target: '[[Sael''anir Separation]]'
   type: caused
   period: SA:80
@@ -52,7 +52,7 @@ relationships:
   type: creator
   period: SA:55
   metadata:
-    description: Created the permanent illusionary barrier protecting Hannan'r'
+    description: Created the permanent illusionary barrier protecting Hannanórë
 - target: '[[Mist-Lanterns]]'
   type: creator
   period: SA:55
@@ -80,7 +80,7 @@ timeline:
 - period: SA:35-55
   event: Directed two decades of labor with the Mages of the Sun-Leaf Conclave to complete the Great Weaving
 - period: SA:55
-  event: Completed the Great Weaving, a permanent illusionary barrier that concealed Hannan'r' from mortal maps
+  event: Completed the Great Weaving, a permanent illusionary barrier that concealed Hannanórë from mortal maps
 - period: SA:55
   event: Initiated the Long Silence between Elves and Humans
 - period: SA:89
@@ -96,7 +96,7 @@ modified: '2026-03-15'
 ---
 # Lelyariel
 
-**Lelyariel**, known as the **Radiant Dreamer**, was the legendary [[Cirhannim]] Queen who completed the **Great Weaving** in **SA 55** -- the month-long moonlight ritual that concealed the forest of [[Hannan'r']] behind a permanent veil of impenetrable mist, shielding the Elven homeland from the chaotic ambitions of the younger races.
+**Lelyariel**, known as the **Radiant Dreamer**, was the legendary [[Cirhannim]] Queen who completed the **Great Weaving** in **SA 55** -- the month-long moonlight ritual that concealed the forest of [[Hannanórë]] behind a permanent veil of impenetrable mist, shielding the Elven homeland from the chaotic ambitions of the younger races.
 
 ## The Fear of Dissonance
 
@@ -106,7 +106,7 @@ Her name itself -- derived from the Elven root *lelya-* (dream, flow, journey) a
 
 ## The Great Weaving
 
-Beginning around **SA 35**, Lelyariel and the Mages of the **Sun-Leaf Conclave** embarked on two decades of painstaking labor. The ritual drew magic from moonlight itself, weaving it into a permanent illusionary barrier along the borders of [[Hannan'r']]. When completed in **SA 55**, the forest simply vanished from mortal maps, appearing only as a bank of impenetrable mist. Crystalline beacons called **Mist-Lanterns** were placed along the forest border to anchor the enchantment; only those carrying a specific harmonic token could perceive the path through.
+Beginning around **SA 35**, Lelyariel and the Mages of the **Sun-Leaf Conclave** embarked on two decades of painstaking labor. The ritual drew magic from moonlight itself, weaving it into a permanent illusionary barrier along the borders of [[Hannanórë]]. When completed in **SA 55**, the forest simply vanished from mortal maps, appearing only as a bank of impenetrable mist. Crystalline beacons called **Mist-Lanterns** were placed along the forest border to anchor the enchantment; only those carrying a specific harmonic token could perceive the path through.
 
 The Weaving's completion marked the beginning of the **Long Silence** between [[Elves]] and [[Humans]] -- a withdrawal that would last for centuries and shape the political landscape of [[Vaeloris]].
 
@@ -114,10 +114,10 @@ The Weaving's completion marked the beginning of the **Long Silence** between [[
 
 The Great Weaving was not without flaw. By **SA 89**, iron ore deposits in the forest floor had begun destabilizing the wards. It was then that a reclusive [[Gnomes|Gnome]] artisan, [[Tinbrel Quillroot]], revealed himself to the Elven high council. He proposed weaving a bronze lattice into the roots of the border trees to ground the magic against the iron's interference. Lelyariel, recognizing the elegant simplicity of the solution, approved the work in secret.
 
-This **Pact of Bark and Bronze** stabilized [[Hannan'r']]'s defenses and established the first "Hollows" -- [[Gnomes|Gnomish]] homes beneath the roots of Elven great-trees -- creating a symbiotic relationship between the two peoples that endures to the present day.
+This **Pact of Bark and Bronze** stabilized [[Hannanórë]]'s defenses and established the first "Hollows" -- [[Gnomes|Gnomish]] homes beneath the roots of Elven great-trees -- creating a symbiotic relationship between the two peoples that endures to the present day.
 
 ## Legacy
 
-Lelyariel's decision to hide [[Hannan'r']] behind the Great Weaving is both celebrated and debated among the [[Elves]]. The [[Cirhannim]] revere her as the savior who preserved the world's most sacred forest from the destructive ambitions of the younger races. The [[Aen'valar]], however, view the Weaving as the beginning of a tragic isolation -- a song interrupted, a conversation abandoned. The [[Sael'anir]], who departed [[Hannan'r']] shortly after the Weaving's completion, saw in Lelyariel's wall the very thing they sought to escape: a harmony so determined to remain pure that it refused to listen.
+Lelyariel's decision to hide [[Hannanórë]] behind the Great Weaving is both celebrated and debated among the [[Elves]]. The [[Cirhannim]] revere her as the savior who preserved the world's most sacred forest from the destructive ambitions of the younger races. The [[Aen'valar]], however, view the Weaving as the beginning of a tragic isolation -- a song interrupted, a conversation abandoned. The [[Sael'anir]], who departed [[Hannanórë]] shortly after the Weaving's completion, saw in Lelyariel's wall the very thing they sought to escape: a harmony so determined to remain pure that it refused to listen.
 
 Her name endures in the Elven lexicon as a word for both *radiant dreaming* and *beautiful stubbornness*.

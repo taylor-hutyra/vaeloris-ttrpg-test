@@ -4,7 +4,7 @@ wb-id: rock-gnomes
 name: Rock Gnomes
 aliases:
 - Deep-Weavers
-- N'mm-kith
+- Nûm-kith
 - Stone-kin
 - Mountain Gnomes
 origin: Gnomish offshoot that migrated into deep mountain root systems, becoming tenders of stone, crystal, and geothermal
@@ -33,7 +33,7 @@ relationships:
   type: sibling
   metadata:
     nature: kindred
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: ally
 - target: '[[Elm-korin]]'
   type: ally
@@ -42,7 +42,7 @@ relationships:
   period: SA
   metadata:
     description: Governed by the Technocratic Guild-Conclave of Lithos
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: SA:89-
   metadata:
@@ -51,12 +51,12 @@ relationships:
   type: ally
   period: SA:89-
   metadata:
-    description: Symbiotic relationship with Cirhannim Elves; hidden Gnomish Hollows in Hannan'r'
+    description: Symbiotic relationship with Cirhannim Elves; hidden Gnomish Hollows in Hannanórë
 - target: '[[Dwarves]]'
   type: sibling
   period: SA
   metadata:
-    description: N'nm-Khazal'n Dwarves call them N'mm-kith (Stone-kin); quiet mutual respect
+    description: Nûm-Khazalûn Dwarves call them Nûm-kith (Stone-kin); quiet mutual respect
     nature: stone-kin
 - target: '[[Dragon''s Tooth Mountains]]'
   type: located-in
@@ -84,7 +84,7 @@ relationships:
   type: custom
   metadata:
     description: originated-by
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: located-in
   period: SA:89-
   metadata:
@@ -106,7 +106,7 @@ modified: '2026-03-15'
 ---
 # Rock Gnomes
 
-The **Rock Gnomes**, or **Deep-Weavers**, are a [[Gnomes|Gnomish]] offshoot that migrated into the deep root systems of the world's mountains, becoming tenders of stone, crystal, and geothermal patterns. They live in breathtaking, silent cities carved into subterranean caverns, lit by phosphorescent fungi and powered by volcanic vents. The [[N'nm-Khazal'n]] [[Dwarves]] know them by the respectful name **N'mm-kith** ("Stone-kin"), recognizing them as fellow children of a Stone-based Pillar.
+The **Rock Gnomes**, or **Deep-Weavers**, are a [[Gnomes|Gnomish]] offshoot that migrated into the deep root systems of the world's mountains, becoming tenders of stone, crystal, and geothermal patterns. They live in breathtaking, silent cities carved into subterranean caverns, lit by phosphorescent fungi and powered by volcanic vents. The [[Nûm-Khazalûn]] [[Dwarves]] know them by the respectful name **Nûm-kith** ("Stone-kin"), recognizing them as fellow children of a Stone-based Pillar.
 
 ## Origin and Migration
 
@@ -151,7 +151,7 @@ There is little room for sentiment in guild culture. Excellence is expected, med
 
 ## The Secret Art: Aiding The Great Weaving
 
-One of the Rock Gnomes' most closely guarded secrets is their role in the creation of [[The Great Weaving]] -- the vast magical ward that shields the [[Cirhannim]]'s homeland of [[Hannan'r']]. Rock Gnome artisans secretly provided the crystalline focusing matrices and deep-earth anchor-runes that give the Weaving its stability. This collaboration is known to only a handful of individuals in either culture.
+One of the Rock Gnomes' most closely guarded secrets is their role in the creation of [[The Great Weaving]] -- the vast magical ward that shields the [[Cirhannim]]'s homeland of [[Hannanórë]]. Rock Gnome artisans secretly provided the crystalline focusing matrices and deep-earth anchor-runes that give the Weaving its stability. This collaboration is known to only a handful of individuals in either culture.
 
 ## The Silent Weavers
 
@@ -165,7 +165,7 @@ They have almost no concept of the [[Sand Gnomes]], whose desert existence is so
 
 ## View of the Dwarves
 
-The Rock Gnomes respect the skill of the [[Dwarves]] but find them terribly loud. The [[N'nm-Khazal'n]]'s forges, with their ringing hammers and roaring bellows, are an assault on Rock Gnome sensibilities. Still, there is a quiet, deep kinship between the two peoples -- both understand the language of stone, even if they speak it at very different volumes.
+The Rock Gnomes respect the skill of the [[Dwarves]] but find them terribly loud. The [[Nûm-Khazalûn]]'s forges, with their ringing hammers and roaring bellows, are an assault on Rock Gnome sensibilities. Still, there is a quiet, deep kinship between the two peoples -- both understand the language of stone, even if they speak it at very different volumes.
 
 The [[Elm-korin]] of [[Gearhaven]] fascinate the Rock Gnomes. The Symbiotic Weave faction within [[Gearhaven]] has the closest ties to Rock Gnome innovation, and the two groups exchange ideas through carefully guarded channels.
 

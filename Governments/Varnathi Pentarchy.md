@@ -116,7 +116,7 @@ relationships:
   type: custom
   metadata:
     description: limited-trade
-- target: '[[M''ren''r'' Triumvirate]]'
+- target: '[[Mórenórë Triumvirate]]'
   type: ally
   metadata:
     nature: diplomatic

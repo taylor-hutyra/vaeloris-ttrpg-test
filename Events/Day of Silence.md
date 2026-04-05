@@ -166,7 +166,7 @@ The Day of Silence marks the precise moment the [[The Twelve Minor Deities|twelv
 
 ## Context — The Great Withdrawal
 
-The Day of Silence was preceded by the [[The Great Withdrawal|Great Withdrawal]], in which the four First Hands — [[Tham'dran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] — receded into the metaphysical structure of reality. The twelve minor deities initially assumed expanded responsibilities as the primary sources of divine guidance. The Day of Silence marks the subsequent moment when even these minor deities departed the physical plane.
+The Day of Silence was preceded by the [[The Great Withdrawal|Great Withdrawal]], in which the four First Hands — [[Thamédran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] — receded into the metaphysical structure of reality. The twelve minor deities initially assumed expanded responsibilities as the primary sources of divine guidance. The Day of Silence marks the subsequent moment when even these minor deities departed the physical plane.
 
 ## The Withdrawal
 

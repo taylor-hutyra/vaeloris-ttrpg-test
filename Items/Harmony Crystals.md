@@ -19,11 +19,11 @@ relationships:
 - target: '[[The First Forge]]'
   type: origin
   period: FA
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: related
   period: FA
   metadata:
-    description: Korthak, who created these crystals, is an aspect of Tham'dran
+    description: Korthak, who created these crystals, is an aspect of Thamédran
 - target: '[[The Great Withdrawal]]'
   type: related
   period: FA

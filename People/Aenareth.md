@@ -6,7 +6,7 @@ aliases:
 - The Prime Voice
 - The Great Smith
 - The First Striker
-- A'rastheon
+- Aúrastheon
 species: divine
 born: null
 died: null
@@ -21,16 +21,16 @@ relationships:
   type: creator
   metadata:
     description: Set the resonance from which the Elves emerged
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: identity
   metadata:
-    description: Aenareth is the Elven cultural name for A'rastheon, the prime pre-existent creator
+    description: Aenareth is the Elven cultural name for Aúrastheon, the prime pre-existent creator
 - target: '[[Kael''Zorai]]'
   type: creator
   metadata:
     description: Fellow First Hand, later adversary in the Paroxysm
     nature: collaborative
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: identity
   metadata:
     description: Dwarven cultural name for the same prime creator
@@ -50,7 +50,7 @@ relationships:
 - target: '[[The Four Pillars]]'
   type: worshipped-by
   metadata:
-    description: Paralleled as Aen'r-Khadaz in Dwarven tradition
+    description: Paralleled as Aenûr-Khadaz in Dwarven tradition
 - target: '[[Church of the Celestial Word]]'
   type: worshipped-by
   metadata:
@@ -77,7 +77,7 @@ relationships:
 - target: '[[Kael''Zorai]]'
   type: created-by
   metadata:
-    description: Fellow First Hand (cultural name for A'rastheon)
+    description: Fellow First Hand (cultural name for Aúrastheon)
     nature: collaborative
 - target: '[[Grom-Kain Worship]]'
   type: enemy
@@ -90,12 +90,12 @@ relationships:
 - target: '[[The Four Makers]]'
   type: related
   metadata:
-    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for A'rastheon
+    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for Aúrastheon
     nature: parallel
 - target: '[[Elves]]'
   type: created-by
   metadata:
-    description: Elven cultural name for A'rastheon, the prime creator
+    description: Elven cultural name for Aúrastheon, the prime creator
 timeline:
 - period: FA
   event: Strummed the Heartwood of Silence, initiating the resonance of creation
@@ -138,7 +138,7 @@ The [[Elves]] trace their essence to the harmonious intertwining of **C'rhanna**
 Aenareth is recognized across cultures under different names and aspects, though each tradition emphasizes a different facet of the same creative act:
 
 - **The Great Smith** in [[The Four Makers|Human tradition]] — who roused the world from formless stillness by ringing the First Flame upon the Foundation Bell
-- **[[Aen'r-Khadaz]]** in [[The Four Pillars|Dwarven tradition]] — the Deep Shaper whose Pulse awakened the bones of existence
+- **[[Aenûr-Khadaz]]** in [[The Four Pillars|Dwarven tradition]] — the Deep Shaper whose Pulse awakened the bones of existence
 - **The Primi Caelus** of the [[Aetheris]] — who count Aenareth among the First Harmonies of existence
 
 Whether the Great Smith, the Prime Voice, and the Deep Shaper are truly the same entity seen through different cultural lenses, or distinct First Hands misidentified across traditions, remains one of the great unresolved theological questions of Vaeloris.

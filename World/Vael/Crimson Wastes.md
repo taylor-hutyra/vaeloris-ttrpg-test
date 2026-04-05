@@ -15,7 +15,7 @@ resources:
 - war materiel
 status: territory of exiled Cirhannim militants
 relationships:
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   period: 1-
   metadata:
@@ -27,7 +27,7 @@ relationships:
     description: mercenary-contracts
 timeline:
 - period: SA:1-
-  event: Exiled Cirhannim warriors settle the Crimson Wastes after banishment from [[Hannan'r']]
+  event: Exiled Cirhannim warriors settle the Crimson Wastes after banishment from [[Hannanórë]]
 tags:
 - place
 - region
@@ -38,7 +38,7 @@ modified: '2026-03-15'
 ---
 # Crimson Wastes
 
-The Crimson Wastes are a desolate stretch of arid scrubland on [[Vael]], home to the [[Exiled Blades]] -- a band of [[Cirhannim]] warriors banished from [[Hannan'r']] for their extreme militancy.
+The Crimson Wastes are a desolate stretch of arid scrubland on [[Vael]], home to the [[Exiled Blades]] -- a band of [[Cirhannim]] warriors banished from [[Hannanórë]] for their extreme militancy.
 
 ## Geography
 
@@ -46,7 +46,7 @@ The Crimson Wastes are a harsh, sun-scorched landscape of red-tinged earth, rock
 
 ## The Exiled Blades
 
-The Exiled Blades are Cirhannim Elves who were cast out of Hannan'r' for their belief that harmony can only be achieved by surgically excising all dissonance from the world with steel. Where the Cirhannim preserve through isolation, the Exiled Blades preserve through elimination.
+The Exiled Blades are Cirhannim Elves who were cast out of Hannanórë for their belief that harmony can only be achieved by surgically excising all dissonance from the world with steel. Where the Cirhannim preserve through isolation, the Exiled Blades preserve through elimination.
 
 Their government is a military meritocracy led by a single [[Warlord]], whose position is earned and held through duels of honor. They are fanatical, disciplined mercenaries who maintain the ancient Elven martial traditions in their purest, most lethal form. Their camps are spartan, their training relentless, and their code of honor absolute.
 
@@ -54,6 +54,6 @@ Their government is a military meritocracy led by a single [[Warlord]], whose po
 
 The Exiled Blades operate as elite mercenaries, offering their services to those who can meet their price and whose cause they deem sufficiently aligned with "excising dissonance." They have been known to work for the [[Varnathi Imperial Democracy]], particularly for leaders like [[General Valerius]] who require forces capable of the most brutal operations. This puts them in direct conflict with more nuanced approaches to the world's problems.
 
-## Relationship to Hannan'r'
+## Relationship to Hannanórë
 
 The Exiled Blades view their banishment not as punishment but as liberation. They believe the Cirhannim have become cowards, hiding behind the [[Great Weaving]] rather than confronting the world's dissonance directly. They retain Cirhannim speech patterns, martial traditions, and an unwavering belief in the sanctity of the "original harmony" -- they simply disagree violently on how to protect it.

@@ -7,7 +7,7 @@ species: '[[Gnomes]]'
 born: null
 died: null
 birthplace: null
-residence: '[[Hannan''r'']]'
+residence: '[[Hannanórë]]'
 faction: '[[Forest Gnomes]]'
 role: Artisan, stabilizer of the Great Weaving
 title: null
@@ -18,7 +18,7 @@ relationships:
   period: SA:89
   metadata:
     description: Revealed himself to the Elven high council and offered his solution
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   period: SA:89
   metadata:
@@ -50,14 +50,14 @@ relationships:
   type: custom
   metadata:
     description: stabilized-by
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: related
   period: SA:89
   metadata:
     description: Gnome artisan who revealed himself to stabilize the Great Weaving
 timeline:
 - period: SA:89
-  event: Revealed himself to the Cirhannim high council after decades of hidden existence in Hannan'r'
+  event: Revealed himself to the Cirhannim high council after decades of hidden existence in Hannanórë
 - period: SA:89
   event: Wove a bronze lattice into the roots of the border trees to ground the Great Weaving against iron ore interference
 - period: SA:89
@@ -72,11 +72,11 @@ modified: '2026-03-15'
 ---
 # Tinbrel Quillroot
 
-**Tinbrel Quillroot** was a reclusive [[Gnomes|Gnome]] artisan who, in **SA 89**, emerged from decades of hidden habitation within the forest of [[Hannan'r']] to solve a crisis that threatened to unravel the Great Weaving -- the magical barrier protecting the [[Cirhannim]] homeland from the outside world.
+**Tinbrel Quillroot** was a reclusive [[Gnomes|Gnome]] artisan who, in **SA 89**, emerged from decades of hidden habitation within the forest of [[Hannanórë]] to solve a crisis that threatened to unravel the Great Weaving -- the magical barrier protecting the [[Cirhannim]] homeland from the outside world.
 
 ## The Hidden Observer
 
-Like all [[Forest Gnomes]], Tinbrel embodied the principle of the *Mori-Syna* -- the Quiet Work, the sacred duty of tending to the world's subtle mechanics without being noticed. For years, perhaps decades, he had lived undetected within [[Hannan'r']], observing the intricate magical infrastructure of the Great Weaving with the practiced eye of a master craftsman studying another's design. The [[Elves]] never knew he was there. This was, to Tinbrel, simply the natural order of things: a Gnome does not announce himself; a Gnome *mends*.
+Like all [[Forest Gnomes]], Tinbrel embodied the principle of the *Mori-Syna* -- the Quiet Work, the sacred duty of tending to the world's subtle mechanics without being noticed. For years, perhaps decades, he had lived undetected within [[Hannanórë]], observing the intricate magical infrastructure of the Great Weaving with the practiced eye of a master craftsman studying another's design. The [[Elves]] never knew he was there. This was, to Tinbrel, simply the natural order of things: a Gnome does not announce himself; a Gnome *mends*.
 
 ## The Crisis of Iron
 
@@ -90,7 +90,7 @@ The work was done in secret, with only the Elven high council and Queen [[Lelyar
 
 ## The Pact of Bark and Bronze
 
-Tinbrel's intervention led to the **Pact of Bark and Bronze**, a historic agreement between the [[Cirhannim]] and the [[Gnomes]]. In recognition of his service, the [[Elves]] permitted [[Gnomes|Gnomish]] families to establish permanent homes -- called **Hollows** -- beneath the roots of the great-trees along [[Hannan'r']]'s border. This created a symbiotic relationship: the Gnomes maintained the Weaving's physical infrastructure while the Elves provided magical oversight and protection.
+Tinbrel's intervention led to the **Pact of Bark and Bronze**, a historic agreement between the [[Cirhannim]] and the [[Gnomes]]. In recognition of his service, the [[Elves]] permitted [[Gnomes|Gnomish]] families to establish permanent homes -- called **Hollows** -- beneath the roots of the great-trees along [[Hannanórë]]'s border. This created a symbiotic relationship: the Gnomes maintained the Weaving's physical infrastructure while the Elves provided magical oversight and protection.
 
 ## Legacy
 

@@ -8,7 +8,7 @@ aliases:
 parent: '[[Vaeloris]]'
 spatial-type: continent
 contains:
-- '[[M''ren''r'']]'
+- '[[Mórenórë]]'
 - '[[Aethelas]]'
 - '[[Gearhaven]]'
 - '[[Nexus]]'
@@ -66,13 +66,13 @@ relationships:
   type: homeland
   period: SA:365-
   metadata:
-    description: Thulkor'n diaspora settled across Novaterra after exile from Kharnzarak
+    description: Thulkorûn diaspora settled across Novaterra after exile from Kharnzarak
 - target: '[[Orkin]]'
   type: homeland
   period: SA
   metadata:
     description: Novaterran Holds organized as mercenary corporations on the new continent
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: located-in
 - target: '[[Deep-Hull Ships]]'
   type: custom
@@ -83,7 +83,7 @@ relationships:
   period: SA:1475
   metadata:
     description: Massive flotilla landed in a desolate bay rich in geothermal vents
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: contains
 timeline:
 - period: '752'
@@ -91,13 +91,13 @@ timeline:
 - period: '835'
   event: Founding of Windsail — first permanent settlement
 - period: '850'
-  event: First non-human settlers arrive — Thulkor'n Dwarves at Iron-Beach
+  event: First non-human settlers arrive — Thulkorûn Dwarves at Iron-Beach
 - period: '1115'
   event: The Secret is Sold — Republic learns of Novaterra
 - period: '1150'
   event: Skirmish of Red Clay — first colonial battle
 - period: '1250'
-  event: Rise of the Free Holds — Orkin and Bronr'n Dwarves claim the central highlands
+  event: Rise of the Free Holds — Orkin and Bronrûn Dwarves claim the central highlands
 - period: '1475'
   event: Refugee flotilla lands at Rust-Water Bay
 - period: '1485'
@@ -126,12 +126,12 @@ The continent's western coast is temperate and hospitable, where the original [[
 
 Novaterra's political landscape is a mosaic of independent city-states bound by the [[Free Peoples Alliance]]:
 
-- **[[Gearhaven]]** — The Brass City, built vertically into the sea cliffs of Rust-Water Bay. Founded in 1485 S.A. through the "Great Collaboration" of [[Bronr'n]] Dwarves, [[Elm-korin]] technomancers, human mages, and [[Gnomes|Gnomish]] clockworkers. Governed by the Cog-Council, it is the birthplace of technomancy — the fusion of magic and machine — and the most technologically advanced city in the world.
+- **[[Gearhaven]]** — The Brass City, built vertically into the sea cliffs of Rust-Water Bay. Founded in 1485 S.A. through the "Great Collaboration" of [[Bronrûn]] Dwarves, [[Elm-korin]] technomancers, human mages, and [[Gnomes|Gnomish]] clockworkers. Governed by the Cog-Council, it is the birthplace of technomancy — the fusion of magic and machine — and the most technologically advanced city in the world.
 - **[[Nexus]]** — The Living City, grown from genetically modified trees reinforced with living steel by the [[Chartered Kith]] Waldkyn. It serves as the agricultural and biological research hub of the new world, a testament to the synthesis of nature and civilization.
 - **[[Aethelas]]** — The city-sized library and observatory of the [[Aen'valar]] Elves, founded in 2175 S.A. Dedicated to the pursuit of future knowledge, it became the global center for magical research and attracted the most brilliant minds from all races. Under [[Elaruniel]]'s leadership, it drifted from the [[Magocracy]]'s influence to become a bastion of independent thought.
-- **[[Free Holds]]** — Fortified city-states in the central highlands, established in 1250 S.A. by displaced [[Orkin]] and [[Bronr'n]] Dwarves. Built on meritocracy and survival, they reject the authority of both colonial powers.
+- **[[Free Holds]]** — Fortified city-states in the central highlands, established in 1250 S.A. by displaced [[Orkin]] and [[Bronrûn]] Dwarves. Built on meritocracy and survival, they reject the authority of both colonial powers.
 - **[[Windsail]]** — The oldest settlement, a Mirennian colony on the western coast with an aristocratic culture shaped by its secretive founding.
-- **[[Iron-Beach]]** — The first Dwarven enclave, established in 850 S.A. by [[Thulkor'n]] settlers who traded their silence for passage.
+- **[[Iron-Beach]]** — The first Dwarven enclave, established in 850 S.A. by [[Thulkorûn]] settlers who traded their silence for passage.
 
 ## The Floating Ruin of Zure
 

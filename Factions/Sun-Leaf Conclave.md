@@ -7,14 +7,14 @@ aliases:
 type: magical/political
 founded: null
 dissolved: null
-headquarters: '[[Hannan''r'']]'
+headquarters: '[[Hannanórë]]'
 leader: null
 territory:
-- '[[Hannan''r'']]'
+- '[[Hannanórë]]'
 influence: dominant
 goals:
 - Preserve the First Song of creation unchanged
-- Maintain [[The Great Weaving]] that conceals and protects Hannan'r'
+- Maintain [[The Great Weaving]] that conceals and protects Hannanórë
 - Guard against dissonance and outside corruption
 relationships:
 - target: '[[Cirhannim]]'
@@ -47,7 +47,7 @@ relationships:
   type: custom
   metadata:
     description: maintained-by
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: located-in
   period: SA:55-
   metadata:
@@ -58,7 +58,7 @@ relationships:
     description: Directed the mages of the Sun-Leaf Conclave in the Great Weaving ritual
 timeline:
 - period: ''
-  event: Established as the theocratic governing council of Hannan'r'
+  event: Established as the theocratic governing council of Hannanórë
 - period: ''
   event: Maintained magical wards concealing the forest from outsiders
 tags:
@@ -71,7 +71,7 @@ modified: '2026-03-15'
 ---
 # Sun-Leaf Conclave
 
-The Sun-Leaf Conclave is the supreme governing body of [[Hannan'r']], the sacred homeland of the [[Cirhannim]]. Composed of the eldest and most powerful mystics from the three great houses, the Conclave interprets the will of the forest, divines the meaning of the seasons, and maintains [[The Great Weaving]]---the intricate magical ward that conceals and protects the ancient woodland.
+The Sun-Leaf Conclave is the supreme governing body of [[Hannanórë]], the sacred homeland of the [[Cirhannim]]. Composed of the eldest and most powerful mystics from the three great houses, the Conclave interprets the will of the forest, divines the meaning of the seasons, and maintains [[The Great Weaving]]---the intricate magical ward that conceals and protects the ancient woodland.
 
 ## Purpose & Goals
 
@@ -79,7 +79,7 @@ The Conclave exists to preserve the original harmonies of the world in their pur
 
 ## Structure
 
-The Conclave operates as a theocratic council above even the [[Monarch of the Verdant Throne]]. Its members are drawn from the three great houses of [[Hannan'r']]:
+The Conclave operates as a theocratic council above even the [[Monarch of the Verdant Throne]]. Its members are drawn from the three great houses of [[Hannanórë]]:
 
 - **[[House Valerion]]** (The Silent Weavers) --- the most powerful and staunchly isolationist house
 - **[[House Silvanus]]** (The Sunken-Leaf Faction) --- a younger house that secretly questions rigid isolation
@@ -89,7 +89,7 @@ Beneath the mystics, [[Cirhannim]] society stratifies into the Silent Sentinels 
 
 ## History
 
-The Conclave has governed [[Hannan'r']] since the earliest days of [[Cirhannim]] settlement on the mainland. Their authority derives from their perceived closeness to the [[Lainorel|Four Harmonies]] and their mastery of the seasonal rites known as the [[Talanvarë]].
+The Conclave has governed [[Hannanórë]] since the earliest days of [[Cirhannim]] settlement on the mainland. Their authority derives from their perceived closeness to the [[Lainorel|Four Harmonies]] and their mastery of the seasonal rites known as the [[Talanvarë]].
 
 ## Notable Members
 

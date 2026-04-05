@@ -41,11 +41,11 @@ relationships:
   period: SA
   metadata:
     description: Green-Root Accord faction has strong Gnomish ties championing bio-technology
-- target: '[[Aerin''r'' Path of Consensus]]'
+- target: '[[Aerinórë Path of Consensus]]'
   type: custom
   metadata:
     description: gentle-sorrow
-- target: '[[M''ren''r'' Triumvirate]]'
+- target: '[[Mórenórë Triumvirate]]'
   type: custom
   metadata:
     description: cultural-exchange

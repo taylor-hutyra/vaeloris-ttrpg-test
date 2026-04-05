@@ -82,7 +82,7 @@ Milo's web of contacts is extensive and deliberately obscured:
 - The **[[Spicers' Guild]]** serves as his safety net and intelligence source in major cities
 - The **[[Azure Hand]]** of the [[Mirennian League]] values his discretion and his ability to move goods and information without attracting attention
 - His [[Thistlewick Family]] connections provide him with a network of cousins, second cousins, and friends-of-friends in nearly every port of significance
-- He likely maintains contacts within the [[Orkin]] Quarters and [[Thulkor'n]] communities, whose black-market expertise complements his own
+- He likely maintains contacts within the [[Orkin]] Quarters and [[Thulkorûn]] communities, whose black-market expertise complements his own
 
 ## Legacy
 

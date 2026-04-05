@@ -92,11 +92,11 @@ relationships:
   period: SA:1485-
   metadata:
     description: Human mages co-founded Gearhaven alongside Elm-korin Dwarves
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: native
   period: SA:900-
   metadata:
-    description: Humans co-govern M'ren'r' through the Guild-Chancellor position
+    description: Humans co-govern Mórenórë through the Guild-Chancellor position
 - target: '[[The Paroxysm]]'
   type: involved-in
   period: FA
@@ -152,7 +152,7 @@ relationships:
     nature: curious frustration
 - target: '[[Varnathi]]'
   type: parent
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: related
   period: SA:900-
   metadata:

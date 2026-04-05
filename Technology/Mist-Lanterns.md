@@ -20,7 +20,7 @@ relationships:
   type: custom
   metadata:
     description: anchors
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   metadata:
     description: protects
@@ -59,7 +59,7 @@ relationships:
   period: SA:89
   metadata:
     description: His bronze lattice protected the Mist-Lanterns from destabilization
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: located-in
   period: SA:55-
   metadata:
@@ -71,7 +71,7 @@ modified: '2026-03-15'
 ---
 # Mist-Lanterns
 
-Mist-Lanterns are crystalline beacons placed along the border of the Elven forest of [[Hannan'r']] that project and anchor [[The Great Weaving]] -- the permanent illusionary barrier that conceals the [[Cirhannim]] homeland from the outside world. Created in SA:55 as part of Queen [[Lelyariel]]'s great ritual, they represent a fusion of Elven crystal-shaping and harmonic magic.
+Mist-Lanterns are crystalline beacons placed along the border of the Elven forest of [[Hannanórë]] that project and anchor [[The Great Weaving]] -- the permanent illusionary barrier that conceals the [[Cirhannim]] homeland from the outside world. Created in SA:55 as part of Queen [[Lelyariel]]'s great ritual, they represent a fusion of Elven crystal-shaping and harmonic magic.
 
 ## Design
 
@@ -99,4 +99,4 @@ The [[Sun-Leaf Conclave]] performs seasonal rituals -- the [[Talanvar'e]] -- to 
 
 ## Legacy
 
-The Mist-Lanterns have guarded Hannan'r' for over three thousand years. They are a testament to Elven craftsmanship and the Cirhannim commitment to preservation -- and to the quiet, essential partnership between Elves and Gnomes that sustains the Great Weaving to this day.
+The Mist-Lanterns have guarded Hannanórë for over three thousand years. They are a testament to Elven craftsmanship and the Cirhannim commitment to preservation -- and to the quiet, essential partnership between Elves and Gnomes that sustains the Great Weaving to this day.

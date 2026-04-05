@@ -57,7 +57,7 @@ Bjalmund's Spire is a monastery and pilgrimage site perched among the northern p
 
 ## The Battle of the Scar
 
-In SA:375, the "Echo-Beasts" -- semi-translucent monsters spawned from the Scars of Dissonance -- coalesced into a unified threat led by the Echo-Lord, a psychic entity occupying a massive Scar. A call went out across [[Vael]]. Heroes from all races -- Human knights, Dwarven defenders, Elven archers, and [[Thulkor'n]] mercenaries -- gathered at the Scar.
+In SA:375, the "Echo-Beasts" -- semi-translucent monsters spawned from the Scars of Dissonance -- coalesced into a unified threat led by the Echo-Lord, a psychic entity occupying a massive Scar. A call went out across [[Vael]]. Heroes from all races -- Human knights, Dwarven defenders, Elven archers, and [[Thulkorûn]] mercenaries -- gathered at the Scar.
 
 The battle raged for three days. The avatar of Bjalmund the Shieldbearer appeared to lead the charge. In the final engagement, Bjalmund sacrificed his physical form to trap the Echo-Lord's essence inside a shield of crystallized despair. The Scar was sealed by the combined magic of Elven weavers and Dwarven runesmiths.
 

@@ -27,7 +27,7 @@ relationships:
   type: enemy
   metadata:
     description: One of the 'Soft Hands' who struck Grom-Kain down, in Orkin tradition
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: enemy
   metadata:
     description: One of the 'Soft Hands' in Orkin tradition
@@ -56,11 +56,11 @@ relationships:
   period: FA
   metadata:
     description: Created beasts and dragons as forces of raw power
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: identity
   metadata:
-    description: Orkin cultural name for A'rastheon filtered through Kael'Zorai identification — the Soft Hands tradition
-- target: '[[Aen''r-Khadaz]]'
+    description: Orkin cultural name for Aúrastheon filtered through Kael'Zorai identification — the Soft Hands tradition
+- target: '[[Aenûr-Khadaz]]'
   type: created-by
   metadata:
     description: Fellow First Hand (Kael'Zorai in Orkin tradition)
@@ -128,7 +128,7 @@ This is why Grom-Kain's identification with [[Kael'Zorai]] is the most dangerous
 
 - The **Bloodied Fist Clans** of the [[Barren Hills|Varr-Darg]] embrace the returning influence. They see [[Kael'Zorai]] as the returned Grom-Kain who will lead them to righteous victory. To serve Him is to reclaim their original, sacred purpose.
 - The **Whisper-Shamans**, a smaller but influential faction, are wary. They sense the "silent, unnatural order" of the new voice and believe it is a **perversion** of Grom-Kain's true will — endurance through strength, not through the annihilation of all life.
-- The **[[Vorok-Varr]]** of [[Aerin'r']], who transformed Grom-Kain's mandate into a philosophy of peace, view the Blight with deep suspicion. They believe Grom-Kain's true test was the endurance of **spirit**, not of arms.
+- The **[[Vorok-Varr]]** of [[Aerinórë]], who transformed Grom-Kain's mandate into a philosophy of peace, view the Blight with deep suspicion. They believe Grom-Kain's true test was the endurance of **spirit**, not of arms.
 
 ## The Question That Haunts Vaeloris
 

@@ -15,9 +15,9 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 
 | Wikilink | Resolves To |
 |----------|-------------|
-| `[[Aerin'r']]` | World/Aerin'r'/_index.md (folder reference) |
+| `[[Aerinórë]]` | World/Aerinórë/_index.md (folder reference) |
 | `[[Azure Deeps]]` | World/Azure Deeps/_index.md (folder reference) |
-| `[[Bronr'n]]` | Bronr'n Legacy (faction) |
+| `[[Bronrûn]]` | Bronrûn Legacy (faction) |
 | `[[Broken Wing]]` | Broken Wing Insurgency |
 | `[[Caelius I]]` | Emperor Caelius I |
 | `[[Chartered Kith]]` | Chartered Kith Weaver's Synod |
@@ -25,7 +25,7 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 | `[[Clanks]]` | Clank Servitors (plural) |
 | `[[Cog-Council]]` | Gearhaven Cog-Council |
 | `[[Crag-Striders]]` | Crag-Striders of Grey Peaks |
-| `[[Crystal-Singers]]` | Crystal-Singers of M'ren'r' |
+| `[[Crystal-Singers]]` | Crystal-Singers of Mórenórë |
 | `[[Drakenvast]]` | World/Drakenvast/_index.md (folder reference) |
 | `[[Elaruniel]]` | Archmage Elaruniel |
 | `[[Elvish]]` | Elves (adjectival form) |
@@ -101,10 +101,10 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 - Skorn
 - Skorn-Kli
 - Tharn'am
-- Tharn'm
+- Tharnûm
 - Tharn'om
 - Tharum Flame-Touched
-- Thral'k
+- Thralûk
 - Trak
 - Tynna Swift-Tide
 - Voronwe
@@ -168,11 +168,11 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 ## Factions (75)
 
 - Admiralty Council
-- Aerin're Kith
+- Aerinórë Kith
 - Allied Command
 - Allied Fleet
 - Assimilated
-- Bronr'n Clan
+- Bronrûn Clan
 - Bronr'on
 - Bronr'on Legacy
 - Citizenry
@@ -210,7 +210,7 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 - Mycelial Collective
 - Myco-Whisperer
 - Myco-Whisperers
-- N'm-kith
+- Nûm-kith
 - Neighborhood Council
 - Novaterran Holds
 - Pillar Houses
@@ -231,7 +231,7 @@ These are not truly missing — they use a shorter wikilink form or variant spel
 - The Masked
 - The Vozhdate
 - Town Council
-- Triumvirate of M'ren'r'
+- Triumvirate of Mórenórë
 - Triumvirate of Seasons
 - Twin Speakers
 - Varnathi Democracy

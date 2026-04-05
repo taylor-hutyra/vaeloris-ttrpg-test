@@ -8,11 +8,11 @@ aliases:
 type: spiritual
 founded: null
 dissolved: null
-headquarters: '[[Vorok-Varr]], [[Aerin''r'']]'
+headquarters: '[[Vorok-Varr]], [[Aerinórë]]'
 leader: Council of shamans and elders
 territory:
 - '[[Vorok-Varr]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 influence: local
 goals:
 - Uphold the Vorok-Kal philosophy of peaceful endurance
@@ -37,7 +37,7 @@ relationships:
     nature: neighbor
 timeline:
 - period: null
-  event: Founded by Vorok the Listener, who led peaceful Orkin to Aerin'r'
+  event: Founded by Vorok the Listener, who led peaceful Orkin to Aerinórë
 tags:
 - faction
 - orkin
@@ -49,11 +49,11 @@ modified: '2026-03-15'
 ---
 # Council of Listeners
 
-The governing body of the [[Vorok-Varr]]—the most radical departure from traditional [[Orkin]] society. Founded by the shaman [[Vorok the Listener]], this council of wise shamans and elders guides a peaceful [[Orkin]] community on [[Aerin'r']], practicing a philosophy of non-violence known as [[Vorok-Kal]] (Listener's Peace).
+The governing body of the [[Vorok-Varr]]—the most radical departure from traditional [[Orkin]] society. Founded by the shaman [[Vorok the Listener]], this council of wise shamans and elders guides a peaceful [[Orkin]] community on [[Aerinórë]], practicing a philosophy of non-violence known as [[Vorok-Kal]] (Listener's Peace).
 
 ## Purpose & Goals
 
-The Council of Listeners guides the tribe through spiritual wisdom, meditation, and communion with the spirits of [[Aerin'r']]. They do not command but advise, believing that [[Grom-Kain]]'s true test was the endurance of spirit, not of arms. Their interpretation of [[Trak]] is not about withstanding blows, but about withstanding the temptation of violence.
+The Council of Listeners guides the tribe through spiritual wisdom, meditation, and communion with the spirits of [[Aerinórë]]. They do not command but advise, believing that [[Grom-Kain]]'s true test was the endurance of spirit, not of arms. Their interpretation of [[Trak]] is not about withstanding blows, but about withstanding the temptation of violence.
 
 ## Structure
 
@@ -61,7 +61,7 @@ The Council is composed of the tribe's wisest shamans and elders. They do not co
 
 ## History
 
-[[Vorok the Listener]] made a vow of peace and led his followers to [[Aerin'r']], where they settled alongside [[Waldkyn]] and [[Mirennians]]. The Council emerged as the natural governing structure for a people who had transformed their creator's mandate of endurance into a philosophy of peace, stewardship, and spiritual discipline.
+[[Vorok the Listener]] made a vow of peace and led his followers to [[Aerinórë]], where they settled alongside [[Waldkyn]] and [[Mirennians]]. The Council emerged as the natural governing structure for a people who had transformed their creator's mandate of endurance into a philosophy of peace, stewardship, and spiritual discipline.
 
 ## Notable Members
 

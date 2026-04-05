@@ -44,7 +44,7 @@ relationships:
   period: SA:91
   metadata:
     description: Meteorite iron monopoly was key to Korin Barazkor's political leverage
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: involved
   period: SA:91
   metadata:
@@ -79,4 +79,4 @@ To symbolize unity, a heavy geometric crown was forged from seven distinct metal
 
 ## The Caste System
 
-The unification ended the inter-clan "Tunnel Wars" but established the rigid Caste System: High Clans (ruling), Guild Clans (artisan), and Gatestone Clans (defense). This stratification brought order but would eventually sow the seeds of the [[Thulkor'n]] exile and the internal fractures that plagued [[Kharnzarak]] for centuries.
+The unification ended the inter-clan "Tunnel Wars" but established the rigid Caste System: High Clans (ruling), Guild Clans (artisan), and Gatestone Clans (defense). This stratification brought order but would eventually sow the seeds of the [[Thulkorûn]] exile and the internal fractures that plagued [[Kharnzarak]] for centuries.

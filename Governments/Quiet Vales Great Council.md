@@ -19,7 +19,7 @@ relationships:
   type: custom
   metadata:
     description: philosophical-tension
-- target: '[[Aerin''r'' Path of Consensus]]'
+- target: '[[Aerinórë Path of Consensus]]'
   type: custom
   metadata:
     description: spiritual-kinship
@@ -43,7 +43,7 @@ relationships:
   metadata:
     description: Kyn-Clans operate outside Council authority as dangerous extremists
     nature: hostile
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: SA:20-
   metadata:

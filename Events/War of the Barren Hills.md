@@ -103,7 +103,7 @@ The legions used "Scorched Earth" tactics, burning the limited food sources of t
 
 ## The Mirennian Passage
 
-Desperate and starving, thousands of [[Orkin]] paid [[Mirennian League|Mirennian]] smugglers — who cared only for coin — to ferry them to [[Novaterra]]. This diaspora would reshape the new continent's politics, as the displaced Orkin joined with [[Bronr'n]] [[Dwarves]] to establish the [[Rise of the Free Holds|Free Holds]].
+Desperate and starving, thousands of [[Orkin]] paid [[Mirennian League|Mirennian]] smugglers — who cared only for coin — to ferry them to [[Novaterra]]. This diaspora would reshape the new continent's politics, as the displaced Orkin joined with [[Bronrûn]] [[Dwarves]] to establish the [[Rise of the Free Holds|Free Holds]].
 
 ## Legacy
 

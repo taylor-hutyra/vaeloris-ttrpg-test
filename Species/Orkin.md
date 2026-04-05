@@ -19,7 +19,7 @@ traits:
 habitat:
 - '[[Barren Hills]]'
 - '[[Novaterra]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 - '[[Luminas]]'
 population: moderate
 relationships:
@@ -67,11 +67,11 @@ relationships:
   period: SA
   metadata:
     description: Novaterran Holds organized as mercenary corporations on the new continent
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: native
   period: SA
   metadata:
-    description: Vorok-Varr pacifist clan settled on Aerin'r' alongside Waldkyn and Mirennians
+    description: Vorok-Varr pacifist clan settled on Aerinórë alongside Waldkyn and Mirennians
 - target: '[[Gearhaven]]'
   type: trade
   period: SA
@@ -81,7 +81,7 @@ relationships:
   type: related
   period: SA
   metadata:
-    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerin'r'
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerinórë
 - target: '[[Silent Blight]]'
   type: related
   period: SA
@@ -106,7 +106,7 @@ relationships:
   type: involved-in
   period: SA:1250
   metadata:
-    description: Displaced Orkin co-founded the Free Holds on Novaterra with Bronr'n Dwarves
+    description: Displaced Orkin co-founded the Free Holds on Novaterra with Bronrûn Dwarves
 - target: '[[Emperor Caelius I]]'
   type: enemy
   period: SA:410
@@ -143,7 +143,7 @@ relationships:
   type: ally
   period: SA
   metadata:
-    description: Coexist with the peaceful Vorok-Varr Orkin on Aerin'r'
+    description: Coexist with the peaceful Vorok-Varr Orkin on Aerinórë
     nature: coexistent
 - target: '[[Varnathi]]'
   type: enemy
@@ -242,7 +242,7 @@ Major Holds:
 
 ### Vorok-Varr (The Listener's Clan)
 
-The [[Vorok-Varr]] took the most radical path. Founded by the shaman **Vorok the Listener**, they made a vow of peace and settled on [[Aerin'r']], integrating with local [[Waldkyn]] and [[Mirennians]]. Their interpretation of Trak is not about withstanding blows, but withstanding the temptation of violence. Their central philosophy is **Vorok-Kal** ("Listener's Peace"). Governed by a **Council of Listeners** — the tribe's wisest shamans — and protected by the **Peace-Warden**, whose role is entirely defensive.
+The [[Vorok-Varr]] took the most radical path. Founded by the shaman **Vorok the Listener**, they made a vow of peace and settled on [[Aerinórë]], integrating with local [[Waldkyn]] and [[Mirennians]]. Their interpretation of Trak is not about withstanding blows, but withstanding the temptation of violence. Their central philosophy is **Vorok-Kal** ("Listener's Peace"). Governed by a **Council of Listeners** — the tribe's wisest shamans — and protected by the **Peace-Warden**, whose role is entirely defensive.
 
 ## Notable Figures
 

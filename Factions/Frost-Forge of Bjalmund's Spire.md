@@ -22,7 +22,7 @@ relationships:
 - target: '[[Bjalmund]]'
   type: related
   metadata:
-    description: Minor deity — the Shieldbearer, aspect of Tham'dran
+    description: Minor deity — the Shieldbearer, aspect of Thamédran
     nature: named after
 - target: '[[Bjalmund]]'
   type: related

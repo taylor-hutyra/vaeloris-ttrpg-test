@@ -6,7 +6,7 @@ aliases: []
 date: SA:55
 period: SA:55
 duration: Two decades of labor culminating in a month-long ritual
-location: '[[Hannan''r'']]'
+location: '[[Hannanórë]]'
 participants:
 - '[[Lelyariel]]'
 - '[[Sun-Leaf Conclave]]'
@@ -14,12 +14,12 @@ causes:
 - Fear of the chaotic ambition of younger races
 - Desire to protect Elven civilization
 consequences:
-- Hannan'r' vanished from mortal maps
+- Hannanórë vanished from mortal maps
 - Beginning of the Long Silence between Elves and Humans
 - Creation of the Mist-Lanterns
 affected-entities:
 - '[[Elves]]'
-- '[[Hannan''r'']]'
+- '[[Hannanórë]]'
 - '[[Cirhannim]]'
 status: historical
 relationships:
@@ -48,7 +48,7 @@ relationships:
   type: involved
   period: SA:55
   metadata:
-    description: Wood Elves who chose to wall themselves off in Hannan'r'
+    description: Wood Elves who chose to wall themselves off in Hannanórë
 - target: '[[Ilphara]]'
   type: related
   period: SA:55
@@ -59,7 +59,7 @@ relationships:
   period: SA:55
   metadata:
     description: created-during
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: involved
   period: SA:55
   metadata:
@@ -82,11 +82,11 @@ After two decades of labor, Elven Queen [[Lelyariel]] and the Mages of the [[Sun
 
 ## The Illusion Barrier
 
-This created a permanent, illusionary barrier around the forest of [[Hannan'r']]. The forest effectively vanished from mortal maps, appearing only as a bank of impenetrable mist. Only those carrying a specific harmonic token could see the path through.
+This created a permanent, illusionary barrier around the forest of [[Hannanórë]]. The forest effectively vanished from mortal maps, appearing only as a bank of impenetrable mist. Only those carrying a specific harmonic token could see the path through.
 
 ## The Mist-Lanterns
 
-Crystalline beacons called Mist-Lanterns were placed along the forest border to project and anchor the Great Weaving. These artifacts became the backbone of [[Hannan'r']]'s defenses for centuries.
+Crystalline beacons called Mist-Lanterns were placed along the forest border to project and anchor the Great Weaving. These artifacts became the backbone of [[Hannanórë]]'s defenses for centuries.
 
 ## Legacy
 

@@ -134,7 +134,7 @@ relationships:
   period: SA
   metadata:
     description: Mirennians governed by the Admiralty Council thalassocracy
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: trade
   period: SA
   metadata:

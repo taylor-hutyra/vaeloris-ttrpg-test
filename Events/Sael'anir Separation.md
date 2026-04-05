@@ -6,7 +6,7 @@ aliases: []
 date: SA:80
 period: SA:80
 duration: Gradual departure over months
-location: '[[Hannan''r'']]'
+location: '[[Hannanórë]]'
 participants:
 - '[[Ilphara]]'
 - '[[Sael''anir]]'
@@ -23,13 +23,13 @@ affected-entities:
 - '[[Elves]]'
 - '[[Sael''anir]]'
 - '[[Cirhannim]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 status: historical
 relationships:
 - target: '[[Completion of the Great Weaving]]'
   type: caused-by
   period: SA:55
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   period: SA:80
   metadata:
@@ -38,7 +38,7 @@ relationships:
   type: involved
   period: SA:80
   metadata:
-    description: Star-Gazer who led the dissident Elves out of Hannan'r'
+    description: Star-Gazer who led the dissident Elves out of Hannanórë
 - target: '[[Lelyariel]]'
   type: related
   period: SA:80
@@ -54,11 +54,11 @@ relationships:
   period: SA:80
   metadata:
     description: Her isolationist Great Weaving provoked the philosophical rift that led to the Sael'anir departure
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: involved
   period: SA:80
   metadata:
-    description: Ilphara led dissidents out of Hannan'r' to found the nomadic Sael'anir
+    description: Ilphara led dissidents out of Hannanórë to found the nomadic Sael'anir
 - target: '[[Founding of Morenore]]'
   type: related
   period: SA:80
@@ -73,7 +73,7 @@ modified: '2026-03-15'
 ---
 # Sael'anir Separation
 
-A philosophical rift grew within Elven society. While the [[Cirhannim]] (Wood Elves) sought to wall themselves off in [[Hannan'r']], a faction known as the [[Sael'anir]] argued that the "Song of the World" could not be heard from behind a wall.
+A philosophical rift grew within Elven society. While the [[Cirhannim]] (Wood Elves) sought to wall themselves off in [[Hannanórë]], a faction known as the [[Sael'anir]] argued that the "Song of the World" could not be heard from behind a wall.
 
 ## The Departure
 
@@ -81,4 +81,4 @@ Led by the Star-Gazer [[Ilphara]], the [[Sael'anir]] left the forest to wander t
 
 ## Legacy
 
-The Separation created a permanent cultural split within the Elven race. The [[Sael'anir]] began to map the stars and winds, laying the groundwork for future navigation. Their descendants, the [[Aen'valar]], would eventually found [[M'ren'r']] and [[Aethelas]], becoming the most cosmopolitan of the Elven peoples.
+The Separation created a permanent cultural split within the Elven race. The [[Sael'anir]] began to map the stars and winds, laying the groundwork for future navigation. Their descendants, the [[Aen'valar]], would eventually found [[Mórenórë]] and [[Aethelas]], becoming the most cosmopolitan of the Elven peoples.

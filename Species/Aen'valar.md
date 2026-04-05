@@ -18,14 +18,14 @@ traits:
 - collaborative
 habitat:
 - '[[Aethelas]]'
-- '[[M''ren''r'']]'
+- '[[Mórenórë]]'
 population: moderate
 relationships:
 - target: '[[Elves]]'
   type: child
 - target: '[[Aethelas]]'
   type: controls
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: located-in
 - target: '[[Cirhannim]]'
   type: rival
@@ -48,13 +48,13 @@ relationships:
   type: ally
   period: SA:900-
   metadata:
-    description: Waldkyn Speaker sits on the Triumvirate governing M'ren'r'
+    description: Waldkyn Speaker sits on the Triumvirate governing Mórenórë
     nature: collaborative
 - target: '[[Gnomes]]'
   type: ally
   period: SA
   metadata:
-    description: Crystal-Singers of M'ren'r' craft vital focusing crystals for Aen'valar scholars
+    description: Crystal-Singers of Mórenórë craft vital focusing crystals for Aen'valar scholars
     nature: collaborative
 - target: '[[Magocracy]]'
   type: rival
@@ -77,7 +77,7 @@ relationships:
   period: SA:80
   metadata:
     description: The Sael'anir's descendants became the cosmopolitan Aen'valar
-- target: '[[Crystal-Singers of M''ren''r'']]'
+- target: '[[Crystal-Singers of Mórenórë]]'
   type: custom
   metadata:
     description: essential supplier
@@ -98,7 +98,7 @@ relationships:
   period: SA:2175-
   metadata:
     description: Intellectual heart of the Elven progressive tradition
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: founder
   period: SA:900
 - target: '[[Founding of Aethelas]]'
@@ -126,7 +126,7 @@ relationships:
   period: SA:1460
   metadata:
     description: Established and coordinated the underground railroad
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: contains
 tags:
 - species
@@ -163,9 +163,9 @@ The Aen'valar were the first to theorize about the [[Arcane Fraying]], and it wa
 
 Leadership is earned through groundbreaking research and peer-reviewed discovery. No bloodline or wealth can substitute for intellectual contribution.
 
-## The Triumvirate of M'ren'r'
+## The Triumvirate of Mórenórë
 
-The Aen'valar also maintain a significant presence in [[M'ren'r']] ("Haven of Quiet Thought"), an independent city-state on the mainland renowned as a center for learning and collaboration between races. It is governed by a **Triumvirate**:
+The Aen'valar also maintain a significant presence in [[Mórenórë]] ("Haven of Quiet Thought"), an independent city-state on the mainland renowned as a center for learning and collaboration between races. It is governed by a **Triumvirate**:
 
 - **The Aen'valar Archon** -- represents the city's academic and magical interests
 - **The Human Guild-Chancellor** -- represents the powerful merchant and artisan guilds
@@ -179,7 +179,7 @@ Aen'valar society is centered around institutions of learning. Status is earned 
 
 The Aen'valar readily adopt new terms to describe new discoveries, and their speech is more analytical and precise than the archaic poetry of the [[Cirhannim]]. They see language as a living tool, not a preserved artifact.
 
-Cross-racial collaboration is not merely tolerated but actively encouraged. [[Humans]], [[Dwarves]], [[Gnomes]], and other peoples study and teach alongside [[Elves]] in [[Aethelas]] and [[M'ren'r']]. The Aen'valar believe that every race's perspective adds a new voice to the Unwritten Song.
+Cross-racial collaboration is not merely tolerated but actively encouraged. [[Humans]], [[Dwarves]], [[Gnomes]], and other peoples study and teach alongside [[Elves]] in [[Aethelas]] and [[Mórenórë]]. The Aen'valar believe that every race's perspective adds a new voice to the Unwritten Song.
 
 ## The Frayed Weave and Arcane Scarcity
 
@@ -189,7 +189,7 @@ The [[Magocracy]] denounced the theory, suppressed [[Elaruniel]]'s research, and
 
 ## View of Other Elves
 
-The Aen'valar view the [[Cirhannim]] as **tragic figures**, trapped by their fear of change. They see [[Hannan'r']]'s perfect isolation not as preservation but as slow decay -- a song that refuses to develop new melodies eventually becomes silence.
+The Aen'valar view the [[Cirhannim]] as **tragic figures**, trapped by their fear of change. They see [[Hannanórë]]'s perfect isolation not as preservation but as slow decay -- a song that refuses to develop new melodies eventually becomes silence.
 
 They see the [[Sael'anir]] as contemplative and wise but lacking the drive to move the world-song forward. Perspective without action, the Aen'valar argue, is mere observation.
 

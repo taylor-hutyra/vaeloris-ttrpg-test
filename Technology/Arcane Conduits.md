@@ -9,7 +9,7 @@ type: arcane
 inventor: null
 invented: SA:1485-
 used-by:
-- '[[Crystal-Singers of M''ren''r'']]'
+- '[[Crystal-Singers of Mórenórë]]'
 - '[[Gearhaven]]'
 - '[[Magocracy]]'
 prerequisites:
@@ -17,7 +17,7 @@ prerequisites:
 - Understanding of mana flow dynamics
 - '[[Arcanology]]'
 relationships:
-- target: '[[Crystal-Singers of M''ren''r'']]'
+- target: '[[Crystal-Singers of Mórenórë]]'
   type: custom
   metadata:
     description: refined-by
@@ -67,7 +67,7 @@ The key properties of a conduit crystal are:
 
 ## The Crystal-Singers
 
-The finest Arcane Conduits are produced by the [[Crystal-Singers of M'ren'r']] -- an order of Elven artisans based in the cosmopolitan city of [[M'ren'r']]. Drawing on the Elven tradition of harmonic magic, Crystal-Singers shape raw crystals through sustained vocal resonance, literally singing the crystal into its optimal form. The process can take weeks for a single conduit, as each note adjusts the crystal's internal lattice at a molecular level.
+The finest Arcane Conduits are produced by the [[Crystal-Singers of Mórenórë]] -- an order of Elven artisans based in the cosmopolitan city of [[Mórenórë]]. Drawing on the Elven tradition of harmonic magic, Crystal-Singers shape raw crystals through sustained vocal resonance, literally singing the crystal into its optimal form. The process can take weeks for a single conduit, as each note adjusts the crystal's internal lattice at a molecular level.
 
 Crystal-Singer conduits are prized for their exceptional coherence and longevity. A Singer-crafted conduit produces less waste energy, generates less heat, and maintains its properties for centuries longer than mechanically cut alternatives. They are correspondingly expensive, and the Crystal-Singers guard their techniques as closely as the [[Cirhannim]] guard the secrets of the [[The Great Weaving|Great Weaving]].
 
@@ -87,4 +87,4 @@ Mass-produced conduits are cut mechanically in [[Gearhaven]] and [[Federation of
 
 ## Strategic Importance
 
-Control of conduit production is a matter of national security. The [[Magocracy]] maintains strict export controls on raw conduit-grade crystals. [[Gearhaven]] has invested heavily in synthetic crystal research to reduce dependence on natural deposits. And the Crystal-Singers of M'ren'r', as the premier artisans in the field, enjoy a level of diplomatic immunity that few other civilian groups can claim.
+Control of conduit production is a matter of national security. The [[Magocracy]] maintains strict export controls on raw conduit-grade crystals. [[Gearhaven]] has invested heavily in synthetic crystal research to reduce dependence on natural deposits. And the Crystal-Singers of Mórenórë, as the premier artisans in the field, enjoy a level of diplomatic immunity that few other civilian groups can claim.

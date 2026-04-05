@@ -10,7 +10,7 @@ duration: Years of open naval warfare
 location: '[[Mirennian League]]'
 participants:
 - '[[Mirennian League]]'
-- '[[Thulkor''n]]'
+- '[[Thulkorûn]]'
 causes:
 - Growth of the magical black market
 - Fracture between Old Money (Salt/Timber) and New Money (Smugglers/Artifact Traders)
@@ -20,7 +20,7 @@ consequences:
 - Groundwork laid for later technological dominance
 affected-entities:
 - '[[Mirennian League]]'
-- '[[Thulkor''n]]'
+- '[[Thulkorûn]]'
 status: historical
 relationships:
 - target: '[[Sundering of Mount Cinder]]'
@@ -68,7 +68,7 @@ As the black market for magic grew, the [[Mirennian League]] fractured along eco
 
 ## Salt vs Silk
 
-The conflict escalated from political maneuvering to open naval warfare. The Southern Cities, hiring [[Thulkor'n]] mercenaries and battle-mages, defeated the Northern traditionalists in a series of brutal engagements.
+The conflict escalated from political maneuvering to open naval warfare. The Southern Cities, hiring [[Thulkorûn]] mercenaries and battle-mages, defeated the Northern traditionalists in a series of brutal engagements.
 
 ## The Southern Shift
 

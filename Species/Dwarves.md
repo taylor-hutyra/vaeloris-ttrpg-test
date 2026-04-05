@@ -6,8 +6,8 @@ aliases:
 - Kharnfolk
 - The Deep-Shaped
 - Children of Stone
-origin: Formed by the enduring alliance of Tharn'm and Farrazul, shaped from stone and soul-deep ore beneath the world's crust,
-  imbued with rhythm, purpose, and permanence by Aen'r-Khadaz the Deep Shaper
+origin: Formed by the enduring alliance of Tharnûm and Farrazul, shaped from stone and soul-deep ore beneath the world's crust,
+  imbued with rhythm, purpose, and permanence by Aenûr-Khadaz the Deep Shaper
 lifespan: 350-500 years
 traits:
 - enduring
@@ -23,7 +23,7 @@ habitat:
 - '[[Dragon''s Tooth Mountains]]'
 population: moderate
 relationships:
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: creator
   period: FA
   metadata:
@@ -33,12 +33,12 @@ relationships:
   type: creator
   period: FA
   metadata:
-    description: First Hand of Refinement — true divine parent alongside Tham'dran
+    description: First Hand of Refinement — true divine parent alongside Thamédran
     nature: collaborative
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: creator
   metadata:
-    description: Dwarven cultural name for A'rastheon, the prime creator
+    description: Dwarven cultural name for Aúrastheon, the prime creator
 - target: '[[Korthak]]'
   type: teacher
   period: FA
@@ -63,28 +63,28 @@ relationships:
   type: homeland
   period: SA:91-
   metadata:
-    description: Primary homeland of the N'nm-Khazal'n, the orthodox Stone-Sworn clans
+    description: Primary homeland of the Nûm-Khazalûn, the orthodox Stone-Sworn clans
 - target: '[[Gearhaven]]'
   type: homeland
   period: SA:1485-
   metadata:
-    description: Founded by Elm-korin and Bronr'n exiles alongside human mages and Gnomes
+    description: Founded by Elm-korin and Bronrûn exiles alongside human mages and Gnomes
 - target: '[[Novaterra]]'
   type: native
   period: SA:365-
   metadata:
-    description: Thulkor'n diaspora settled across Novaterra after exile from Kharnzarak
+    description: Thulkorûn diaspora settled across Novaterra after exile from Kharnzarak
 - target: '[[Kharnzarak Monarchy]]'
   type: controlled-by
   period: SA:91-
   metadata:
-    description: N'nm-Khazal'n ruled by the hereditary Stone-Sworn monarchy
+    description: Nûm-Khazalûn ruled by the hereditary Stone-Sworn monarchy
 - target: '[[Gearhaven Cog-Council]]'
   type: controlled-by
   period: SA:1485-
   metadata:
     description: Elm-korin governed by the technocratic Cog-Council of Gearhaven
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: has-member
   period: SA:1200-
   metadata:
@@ -134,7 +134,7 @@ relationships:
   type: custom
   metadata:
     description: respectful but critical
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: created-by
   metadata:
     description: His Pulse awakened the bedrock from which the Four Pillars shaped the Dwarves
@@ -156,9 +156,9 @@ relationships:
   type: created-by
   period: FA
   metadata:
-    description: Created with Tham'dran — Dwarves embody methodical endurance and perfection-seeking
+    description: Created with Thamédran — Dwarves embody methodical endurance and perfection-seeking
     nature: collaborative
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: created-by
   period: FA
   metadata:
@@ -185,7 +185,7 @@ relationships:
   period: SA
   metadata:
     description: Bronze-Crest Dwarven clans of southern coasts maintain cordial relations
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: parent
 - target: '[[Primalkyn]]'
   type: related
@@ -195,12 +195,12 @@ relationships:
   type: sibling
   period: SA
   metadata:
-    description: N'nm-Khazal'n Dwarves call them N'mm-kith (Stone-kin); quiet mutual respect
+    description: Nûm-Khazalûn Dwarves call them Nûm-kith (Stone-kin); quiet mutual respect
     nature: stone-kin
 - target: '[[Skitter-Gloom]]'
   type: enemy
   period: SA:12-
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: parent
 - target: '[[Ironheart Citadel]]'
   type: related
@@ -223,7 +223,7 @@ relationships:
     description: The Stonefather — taught fundamental techniques of metalworking and stone-shaping
 timeline:
 - period: FA
-  event: Born from the combined essences of Tham'dran (Stability) and Myrasael (Refinement) — methodical, enduring, seekers
+  event: Born from the combined essences of Thamédran (Stability) and Myrasael (Refinement) — methodical, enduring, seekers
     of perfection
 - period: FA
   event: Developed legendary techniques in stone, metal, and gem work under direct divine guidance during the Golden Age
@@ -239,18 +239,18 @@ modified: '2026-03-15'
 ---
 # Dwarves
 
-To the Dwarves of [[Vaeloris]], creation was not a song but a strike, a structure, and a weight. They are a people defined by rhythm, purpose, and permanence — shaped from stone and soul-deep ore beneath the world's crust by the Pulse of [[Aen'r-Khadaz]], the Deep Shaper. They do not worship their divine Pillars as gods, but honor them as **Fundamentals** — primal truths reflected in Dwarven life, architecture, clan, and law.
+To the Dwarves of [[Vaeloris]], creation was not a song but a strike, a structure, and a weight. They are a people defined by rhythm, purpose, and permanence — shaped from stone and soul-deep ore beneath the world's crust by the Pulse of [[Aenûr-Khadaz]], the Deep Shaper. They do not worship their divine Pillars as gods, but honor them as **Fundamentals** — primal truths reflected in Dwarven life, architecture, clan, and law.
 
 ## Origin
 
-The world was formed by the Pulse of [[Aen'r-Khadaz]], who awakened the bones of existence with a rhythm that rippled through the bedrock of the void. From the deep echoes of that First Rhythm came the **Four Pillars of Craft**:
+The world was formed by the Pulse of [[Aenûr-Khadaz]], who awakened the bones of existence with a rhythm that rippled through the bedrock of the void. From the deep echoes of that First Rhythm came the **Four Pillars of Craft**:
 
-- **Tharn'm** — Stone (known elsewhere as the Mason)
-- **Bronr'n** — Growth and Timber (known elsewhere as the Carpenter)
+- **Tharnûm** — Stone (known elsewhere as the Mason)
+- **Bronrûn** — Growth and Timber (known elsewhere as the Carpenter)
 - **Farrazul** — Depth and Gem (known elsewhere as the Jeweler)
 - **Elmura** — Firelight and Vision (known elsewhere as the Painter)
 
-Dwarves hold that they were formed by the enduring alliance of Tharn'm and Farrazul. Of the Paroxysm, Dwarves speak cautiously, calling it **Dur'k Thul** (the Fracture of Law). Ancient stone records speak of the **Ulzammar** — not a being but a concept that sought to refine creation into stillness, to seal the fires, stop the winds, and bind the stars in numerical lattice. The name Ulzammar has been chipped away in many vaults, and to speak it aloud is discouraged in the deep halls.
+Dwarves hold that they were formed by the enduring alliance of Tharnûm and Farrazul. Of the Paroxysm, Dwarves speak cautiously, calling it **Durâk Thul** (the Fracture of Law). Ancient stone records speak of the **Ulzammar** — not a being but a concept that sought to refine creation into stillness, to seal the fires, stop the winds, and bind the stars in numerical lattice. The name Ulzammar has been chipped away in many vaults, and to speak it aloud is discouraged in the deep halls.
 
 ## Physical Traits
 
@@ -258,7 +258,7 @@ Dwarves are broad, dense, and powerfully built, standing between four and five f
 
 ## Culture
 
-Dwarven myth is preserved in **Stone-Lays** — verses etched into cavern walls, gates, and great forgehalls. They are spoken, sung, or hammered in rhythm. Dwarven society is bound by sacred oaths (**Kharnazul**), clan identity (**R'z**), and the supreme virtue of **Thral'k** — endurance, the quality of lasting.
+Dwarven myth is preserved in **Stone-Lays** — verses etched into cavern walls, gates, and great forgehalls. They are spoken, sung, or hammered in rhythm. Dwarven society is bound by sacred oaths (**Kharnazul**), clan identity (**R'z**), and the supreme virtue of **Thralûk** — endurance, the quality of lasting.
 
 Common sayings in Dwarvish include:
 - *"N'm zalg'l."* — "Stone does not forget."
@@ -269,13 +269,13 @@ Common sayings in Dwarvish include:
 
 ## Sub-Groups
 
-### N'nm-Khazal'n (The Stone-Sworn)
+### Nûm-Khazalûn (The Stone-Sworn)
 
-The [[N'nm-Khazal'n]] are the keepers of tradition, the deeply orthodox clans residing in the great mountain kingdom of [[Kharnzarak]]. They believe Dwarven craft reached its apex in the First Age and their sacred duty is to preserve those ancient techniques without deviation. They are deeply suspicious of mortal magic, governed by the **High King** (currently Thorgar VII of the Barazkor Clan) and the **Stone-Lay Council** of nine clan-lords. Their highest virtue is Thral'k — endurance. They call [[Gnomes]] the **N'm-kith** ("Stone-kin") with quiet, almost invisible respect.
+The [[Nûm-Khazalûn]] are the keepers of tradition, the deeply orthodox clans residing in the great mountain kingdom of [[Kharnzarak]]. They believe Dwarven craft reached its apex in the First Age and their sacred duty is to preserve those ancient techniques without deviation. They are deeply suspicious of mortal magic, governed by the **High King** (currently Thorgar VII of the Barazkor Clan) and the **Stone-Lay Council** of nine clan-lords. Their highest virtue is Thralûk — endurance. They call [[Gnomes]] the **Nûm-kith** ("Stone-kin") with quiet, almost invisible respect.
 
-### Thulkor'n (The Broken-Crafted)
+### Thulkorûn (The Broken-Crafted)
 
-The [[Thulkor'n]] are descendants of Dwarves exiled from [[Kharnzarak]] for common crimes — theft, oath-breaking, violence. Banished from their clans, they sought a new beginning on [[Novaterra]]. They are pragmatists and survivors, working as mercenaries, laborers, and artisans. They have largely abandoned the rigid honor codes of their ancestors but retain their innate skill with stone and metal. Their loyalty is to their contracts, their comrades, and their coin. They form loose-knit communities in the underbellies of Novaterran cities or serve in mercenary companies.
+The [[Thulkorûn]] are descendants of Dwarves exiled from [[Kharnzarak]] for common crimes — theft, oath-breaking, violence. Banished from their clans, they sought a new beginning on [[Novaterra]]. They are pragmatists and survivors, working as mercenaries, laborers, and artisans. They have largely abandoned the rigid honor codes of their ancestors but retain their innate skill with stone and metal. Their loyalty is to their contracts, their comrades, and their coin. They form loose-knit communities in the underbellies of Novaterran cities or serve in mercenary companies.
 
 ### Elm-korin (The Flame-Struck)
 
@@ -285,7 +285,7 @@ The [[Elm-korin]] are descendants of a reformist faction exiled during the Secon
 
 - **High King Thorgar VII** — Ruler of [[Kharnzarak]], of the Barazkor Clan
 - **Lord Durin Stone-Fist** — The king's most trusted enforcer, a ranking member of the Barazkor Clan
-- **Brenna** — A [[Thulkor'n]] by law but [[Elm-korin]] in spirit; her clank **Rivet** reflects the Symbiotic Weave philosophy of [[Gearhaven]]
+- **Brenna** — A [[Thulkorûn]] by law but [[Elm-korin]] in spirit; her clank **Rivet** reflects the Symbiotic Weave philosophy of [[Gearhaven]]
 - **The Arch-Artisan** — Head of the [[Gearhaven]] Cog-Council
 
 ## Dwarvish Language

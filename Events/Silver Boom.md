@@ -12,7 +12,7 @@ participants:
 - '[[Grogor the Eye]]'
 - '[[Varnathi Empire]]'
 causes:
-- Thulkor'n prospecting in Central Mountains
+- Thulkorûn prospecting in Central Mountains
 - Discovery of massive nearly-pure silver deposit
 consequences:
 - Founding of Argentum as a metropolis of stone and coin
@@ -21,7 +21,7 @@ consequences:
 affected-entities:
 - '[[Argentum]]'
 - '[[Varnathi Empire]]'
-- '[[Thulkor''n]]'
+- '[[Thulkorûn]]'
 status: historical
 relationships:
 - target: '[[Bloodless Coup]]'
@@ -36,7 +36,7 @@ relationships:
   type: involved
   period: SA:485
   metadata:
-    description: Thulkor'n prospector who discovered the Deep-Vein
+    description: Thulkorûn prospector who discovered the Deep-Vein
 - target: '[[Argentum]]'
   type: caused
   period: SA:485
@@ -52,7 +52,7 @@ relationships:
   period: SA:485
   metadata:
     description: 'Treaty of Coin signed: Humans mine silver, Dwarves refine it for a percentage'
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: involved
   period: SA:485
   metadata:
@@ -84,7 +84,7 @@ modified: '2026-03-15'
 ---
 # Silver Boom
 
-A [[Thulkor'n]] prospector named [[Grogor the Eye]] discovered the "Deep-Vein" in the [[Central Mountains]] — a massive deposit of nearly pure silver. The [[Varnathi Empire]] annexed the region immediately.
+A [[Thulkorûn]] prospector named [[Grogor the Eye]] discovered the "Deep-Vein" in the [[Central Mountains]] — a massive deposit of nearly pure silver. The [[Varnathi Empire]] annexed the region immediately.
 
 ## The Rise of Argentum
 

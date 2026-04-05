@@ -5,7 +5,7 @@ name: High King Thorgar VI
 aliases:
 - The Paranoid King
 - The Sealer
-species: '[[N''nm-Khazal''n]]'
+species: '[[Nûm-Khazalûn]]'
 born: null
 died: null
 birthplace: '[[Kharnzarak]]'
@@ -24,11 +24,11 @@ relationships:
   type: member
   metadata:
     description: Royal Clan, the Iron-Gavels
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: enemy
   period: SA:1200
   metadata:
-    description: Blamed the reformist Bronr'n Clan for the Earthwake and drove them into exile
+    description: Blamed the reformist Bronrûn Clan for the Earthwake and drove them into exile
 - target: '[[Wandering Kin]]'
   type: enemy
   metadata:
@@ -43,7 +43,7 @@ relationships:
   period: SA:1380
   metadata:
     description: His paranoia and purges destabilized Kharnzarak before the sealing
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: ruler
   period: SA:1370-1400
   metadata:
@@ -53,11 +53,11 @@ relationships:
   period: SA:690
   metadata:
     description: Earlier exile of magic-smiths reflected the same isolationist tendencies
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: enemy
   period: SA:1380
   metadata:
-    description: Purged Dwarves who had contact with exiled Thulkor'n caravaneers
+    description: Purged Dwarves who had contact with exiled Thulkorûn caravaneers
 - target: '[[High King Thorgar VII]]'
   type: successor
   metadata:
@@ -72,7 +72,7 @@ relationships:
     description: Distant successor who reversed the Sealing by opening a single trade gate
 timeline:
 - period: SA:1200
-  event: The Earthwake struck Kharnzarak, collapsing major clan halls; blamed the Bronr'n Clan and drove them into exile
+  event: The Earthwake struck Kharnzarak, collapsing major clan halls; blamed the Bronrûn Clan and drove them into exile
 - period: SA:1380
   event: Grew increasingly erratic, claiming 'surface taint' caused the Earthwake; began purging Dwarves with surface contacts
 - period: SA:1380
@@ -90,13 +90,13 @@ modified: '2026-03-15'
 ---
 # High King Thorgar VI
 
-**High King Thorgar VI** was the [[N'nm-Khazal'n]] monarch who, in **SA 1400**, ordered the **Great Adamant Gates** of [[Kharnzarak]] sealed -- an act of paranoid isolationism that entombed the greatest Dwarven kingdom in centuries of self-imposed silence and cut it off from the world above.
+**High King Thorgar VI** was the [[Nûm-Khazalûn]] monarch who, in **SA 1400**, ordered the **Great Adamant Gates** of [[Kharnzarak]] sealed -- an act of paranoid isolationism that entombed the greatest Dwarven kingdom in centuries of self-imposed silence and cut it off from the world above.
 
 ## The Earthwake
 
 The seeds of Thorgar's paranoia were sown in **SA 1200**, when a catastrophic seismic event struck [[Kharnzarak]]. The **Earthwake** was not natural; it was a structural failure of the "Deep Law" architecture caused by centuries of stagnation and the sealing of the lower levels. Several major clan halls collapsed into the abyss, killing thousands and shattering the kingdom's sense of invulnerability.
 
-Rather than acknowledge the internal rot -- the rigid caste system, the neglected infrastructure, the fear of innovation that had calcified Dwarven society -- Thorgar VI needed an external enemy. He found one in the **Bronr'n Clan**, the Growth/Reformist faction who had long advocated for contact with the surface world and the integration of new techniques. The High King declared them responsible for the disaster and drove them into exile. Using the [[Wandering Kin]] network, thousands of Bronr'n [[Dwarves]] fled to the surface and eventually to [[Novaterra]], where they hoped to build anew.
+Rather than acknowledge the internal rot -- the rigid caste system, the neglected infrastructure, the fear of innovation that had calcified Dwarven society -- Thorgar VI needed an external enemy. He found one in the **Bronrûn Clan**, the Growth/Reformist faction who had long advocated for contact with the surface world and the integration of new techniques. The High King declared them responsible for the disaster and drove them into exile. Using the [[Wandering Kin]] network, thousands of Bronrûn [[Dwarves]] fled to the surface and eventually to [[Novaterra]], where they hoped to build anew.
 
 ## The Pure-Blood Doctrine
 
@@ -112,6 +112,6 @@ No trade entered. No news escaped. The [[Wandering Kin]] and the Novaterran **Fr
 
 ## Legacy
 
-Thorgar VI is remembered differently depending on whom you ask. Within [[Kharnzarak]], the official histories paint him as a guardian who protected the purity of Dwarven culture from the corrupting chaos of the surface world. The [[Thulkor'n]] and [[Elm-korin]] exiles tell a different story -- of a tyrant so afraid of change that he buried his entire civilization alive rather than face it.
+Thorgar VI is remembered differently depending on whom you ask. Within [[Kharnzarak]], the official histories paint him as a guardian who protected the purity of Dwarven culture from the corrupting chaos of the surface world. The [[Thulkorûn]] and [[Elm-korin]] exiles tell a different story -- of a tyrant so afraid of change that he buried his entire civilization alive rather than face it.
 
 The sealed gates held until **SA 3050**, when [[High King Thorgar VII]] -- his distant successor -- allowed a single trade gate to crack open. By then, the world Thorgar VI had tried to exclude had reinvented itself several times over. The [[Dwarves]] emerged to find a landscape of steam engines, airships, and magical universities, and the slow, painful process of catching up began.

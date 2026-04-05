@@ -7,11 +7,11 @@ aliases:
 type: civic
 founded: SA:980
 dissolved: null
-headquarters: '[[Hollowkin Settlement]], [[Aerin''r'']]'
+headquarters: '[[Hollowkin Settlement]], [[Aerinórë]]'
 leader: Joint Halfling-Gnome Council
 territory:
 - '[[Hollowkin Settlement]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 influence: local
 goals:
 - Govern the shared Halfling-Gnome community
@@ -59,7 +59,7 @@ modified: '2026-03-15'
 ---
 # Hollowkin Council
 
-The joint governing body of the [[Hollowkin Settlement]] on [[Aerin'r']], established through the historic Declaration of Hollowkin Rights. This treaty between [[Halflings]] and [[Gnomes]] created a shared society of "Burrows and Hollows" that famously baffled human tax collectors with its complete lack of formal hierarchy.
+The joint governing body of the [[Hollowkin Settlement]] on [[Aerinórë]], established through the historic Declaration of Hollowkin Rights. This treaty between [[Halflings]] and [[Gnomes]] created a shared society of "Burrows and Hollows" that famously baffled human tax collectors with its complete lack of formal hierarchy.
 
 ## Purpose & Goals
 

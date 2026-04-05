@@ -6,7 +6,7 @@ aliases:
 - The Synthesized
 - Children of Balance
 - The Many-Voiced
-origin: The last great collaborative act of the Four Voices — Tham'dran, Virandros, Myrasael, and Elaraieth — who wove their
+origin: The last great collaborative act of the Four Voices — Thamédran, Virandros, Myrasael, and Elaraieth — who wove their
   essences together to create a people embodying balance, called The Synthesis
 lifespan: 200-400 years (varies by variant)
 traits:
@@ -19,11 +19,11 @@ traits:
 habitat:
 - '[[Whispering Vales]]'
 - '[[Nexus]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 - '[[The Fens]]'
 population: moderate
 relationships:
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: creator
 - target: '[[Virandros]]'
   type: creator
@@ -71,27 +71,27 @@ relationships:
   period: SA
   metadata:
     description: Extremist militant faction on the fringes of the Whispering Vales
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: native
   period: SA:900-
   metadata:
-    description: Waldkyn Speaker represents non-human minorities on M'ren'r' Triumvirate
+    description: Waldkyn Speaker represents non-human minorities on Mórenórë Triumvirate
 - target: '[[Halflings]]'
   type: ally
   period: SA
   metadata:
     description: Peaceful coexistence; Waldkyn see Halflings as good neighbors
     nature: friendly
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: SA:20-
   metadata:
-    description: Whispering Vales and Hannan'r' maintain an alliance
-- target: '[[Aerin''r'']]'
+    description: Whispering Vales and Hannanórë maintain an alliance
+- target: '[[Aerinórë]]'
   type: native
   period: SA
   metadata:
-    description: Aerin'r' Kith live in contemplative communities alongside peaceful Orkin and Mirennians
+    description: Aerinórë Kith live in contemplative communities alongside peaceful Orkin and Mirennians
 - target: '[[First Harvest of Ash]]'
   type: involved-in
   period: SA:5
@@ -136,11 +136,11 @@ relationships:
   type: worships
   metadata:
     nature: practice
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: created-by
   period: FA
   metadata:
-    description: Indirectly — the Waldkyn were created by the four First Hands that A'rastheon brought into being
+    description: Indirectly — the Waldkyn were created by the four First Hands that Aúrastheon brought into being
     nature: collaborative
 - target: '[[Elaraieth]]'
   type: created-by
@@ -159,7 +159,7 @@ relationships:
   metadata:
     description: Created collaboratively with all four First Hands after the Paroxysm
     nature: collaborative
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: created-by
   period: FA
   metadata:
@@ -174,7 +174,7 @@ relationships:
 - target: '[[Vorok the Listener]]'
   type: ally
   metadata:
-    description: Integrated with local Waldkyn communities on Aerin'r'
+    description: Integrated with local Waldkyn communities on Aerinórë
 - target: '[[Pantheon of the Ordained]]'
   type: enemy
   metadata:
@@ -188,13 +188,13 @@ relationships:
   type: ally
   period: SA:900-
   metadata:
-    description: Waldkyn Speaker sits on the Triumvirate governing M'ren'r'
+    description: Waldkyn Speaker sits on the Triumvirate governing Mórenórë
     nature: collaborative
 - target: '[[Cirhannim]]'
   type: ally
   period: SA:20-
   metadata:
-    description: Hannan'r' and the Whispering Vales maintain an alliance
+    description: Hannanórë and the Whispering Vales maintain an alliance
 - target: '[[Dwarves]]'
   type: ally
   period: SA
@@ -210,7 +210,7 @@ relationships:
   type: ally
   period: SA
   metadata:
-    description: Serve as mediators alongside peaceful communities on Aerin'r'
+    description: Serve as mediators alongside peaceful communities on Aerinórë
     nature: coexistent
 - target: '[[Varnathi]]'
   type: rival
@@ -223,10 +223,10 @@ relationships:
 - target: '[[Vorok-Varr]]'
   type: ally
   period: SA:761-
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: contains
   period: 761-
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: related
   period: SA:900-
   metadata:
@@ -269,7 +269,7 @@ relationships:
   period: SA:1460
   metadata:
     description: Served as guides through wilderness routes
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: located-in
   period: 761-
 timeline:
@@ -307,7 +307,7 @@ The Waldkyn do not have a creation myth; they have a creation **memory**. They b
 
 ## Origin
 
-The Waldkyn believe the world's beginning was a violent argument between divine forces, a cacophony that nearly shattered existence. Their own origin was the resolution — the final, deliberate chord of harmony played by the exhausted creators: **[[Tham'dran]]** (Stability), **[[Virandros]]** (Growth), **[[Myrasael]]** (Refinement), and **[[Elaraieth]]** (Inspiration).
+The Waldkyn believe the world's beginning was a violent argument between divine forces, a cacophony that nearly shattered existence. Their own origin was the resolution — the final, deliberate chord of harmony played by the exhausted creators: **[[Thamédran]]** (Stability), **[[Virandros]]** (Growth), **[[Myrasael]]** (Refinement), and **[[Elaraieth]]** (Inspiration).
 
 The great cataclysm (the Paroxysm) is known to them as the **Fifth Silence** — a time when a dissonant, selfish note tried to overwrite the symphony of creation. They understand [[Kael'Zorai]] not as a villain, but as the embodiment of imbalance — a voice that refused to listen. Their very existence is the world's answer to that silence.
 
@@ -364,9 +364,9 @@ The [[Chartered Kith]] believe The Synthesis is not a static state but an active
 
 Key factions: the **Gear-Song Harmonists** (pro-technomancy) and the **Green-Root Accord** (pro-bio-technology, allied with [[Gnomes]]).
 
-### Aerin're Kith (Sanctuary Harmonists)
+### Aerinórë Kith (Sanctuary Harmonists)
 
-The [[Aerin're Kith]] rejected formal government entirely, living on the pristine continent of [[Aerin'r']] in small nomadic communities alongside peaceful [[Orkin]] and [[Mirennians]]. Their philosophy is **Stewardship** — protecting what remains of the world's original, untainted harmony. Decisions are reached through pure consensus, sometimes taking weeks of discussion. They are profoundly peaceful but politically inert.
+The [[Aerinórë Kith]] rejected formal government entirely, living on the pristine continent of [[Aerinórë]] in small nomadic communities alongside peaceful [[Orkin]] and [[Mirennians]]. Their philosophy is **Stewardship** — protecting what remains of the world's original, untainted harmony. Decisions are reached through pure consensus, sometimes taking weeks of discussion. They are profoundly peaceful but politically inert.
 
 ## Other Enclaves
 

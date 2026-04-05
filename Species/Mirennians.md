@@ -87,7 +87,7 @@ relationships:
   type: related
   period: SA
   metadata:
-    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerin'r'
+    description: Mirennian smugglers ferried desperate Orkin to Novaterra; Vorok-Varr coexist with Mirennians on Aerinórë
 - target: '[[Primalkyn]]'
   type: related
   period: SA

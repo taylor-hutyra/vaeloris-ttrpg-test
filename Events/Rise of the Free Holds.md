@@ -9,11 +9,11 @@ duration: Ongoing — settlements established over years
 location: '[[Novaterra]]'
 participants:
 - '[[Orkin]]'
-- '[[Bronr''n]]'
+- '[[Bronrûn]]'
 - '[[Dwarves]]'
 causes:
 - '[[War of the Barren Hills]]'
-- Displacement of Orkin and Bronr'n Dwarves
+- Displacement of Orkin and Bronrûn Dwarves
 - Rejection of both Human colonial authorities
 consequences:
 - Novaterra became a tri-polar political landscape
@@ -22,7 +22,7 @@ consequences:
 affected-entities:
 - '[[Novaterra]]'
 - '[[Orkin]]'
-- '[[Bronr''n]]'
+- '[[Bronrûn]]'
 - '[[Free Holds]]'
 status: historical
 relationships:
@@ -32,11 +32,11 @@ relationships:
 - target: '[[Desertborn Confederacy Founded]]'
   type: contemporary
   period: SA:1300
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: involved
   period: SA:1250
   metadata:
-    description: Bronr'n Dwarves co-founded the Free Holds with displaced Orkin
+    description: Bronrûn Dwarves co-founded the Free Holds with displaced Orkin
 - target: '[[Novaterra]]'
   type: involved
   period: SA:1250
@@ -56,7 +56,7 @@ relationships:
   type: involved
   period: SA:1250
   metadata:
-    description: Displaced Orkin co-founded the Free Holds on Novaterra with Bronr'n Dwarves
+    description: Displaced Orkin co-founded the Free Holds on Novaterra with Bronrûn Dwarves
 - target: '[[Earthwake of Kharnzarak]]'
   type: caused-by
   period: SA:1250
@@ -81,7 +81,7 @@ modified: '2026-03-15'
 ---
 # Rise of the Free Holds
 
-The displaced [[Orkin]] and [[Bronr'n]] [[Dwarves]] on [[Novaterra]], rejecting the authority of both Human colonies, moved inland to the rugged central highlands. They established the [[Free Holds]] — fortified, independent city-states based on meritocracy and survival.
+The displaced [[Orkin]] and [[Bronrûn]] [[Dwarves]] on [[Novaterra]], rejecting the authority of both Human colonies, moved inland to the rugged central highlands. They established the [[Free Holds]] — fortified, independent city-states based on meritocracy and survival.
 
 ## A New Political Model
 

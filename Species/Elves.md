@@ -17,10 +17,10 @@ traits:
 - tradition-bound
 - perceptive
 habitat:
-- '[[Hannan''r'']]'
+- '[[Hannanórë]]'
 - '[[Aethelas]]'
-- '[[M''ren''r'']]'
-- '[[Aerin''r'']]'
+- '[[Mórenórë]]'
+- '[[Aerinórë]]'
 population: moderate-low
 relationships:
 - target: '[[Virandros]]'
@@ -38,7 +38,7 @@ relationships:
 - target: '[[Aenareth]]'
   type: creator
   metadata:
-    description: Elven cultural name for A'rastheon, the prime creator
+    description: Elven cultural name for Aúrastheon, the prime creator
 - target: '[[Humans]]'
   type: ally
   metadata:
@@ -54,7 +54,7 @@ relationships:
   period: SA
   metadata:
     nature: ancient
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: homeland
   period: SA:55-
   metadata:
@@ -64,12 +64,12 @@ relationships:
   period: SA:2175-
   metadata:
     description: Library-observatory city founded by the Aen'valar on Novaterra
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: native
   period: SA:80-
   metadata:
     description: Pristine continent where the Sael'anir wander in traveling bands
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: native
   period: SA:900-
   metadata:
@@ -78,7 +78,7 @@ relationships:
   type: controlled-by
   period: SA
   metadata:
-    description: Theocratic monarchy governing the Cirhannim of Hannan'r'
+    description: Theocratic monarchy governing the Cirhannim of Hannanórë
 - target: '[[Aen''valar Council]]'
   type: controlled-by
   period: SA:2175-
@@ -93,7 +93,7 @@ relationships:
   type: ally
   period: SA:89-
   metadata:
-    description: Rock Gnomes secretly aided in weaving the wards around Hannan'r'
+    description: Rock Gnomes secretly aided in weaving the wards around Hannanórë
     nature: collaborative
 - target: '[[Orkin]]'
   type: related
@@ -225,7 +225,7 @@ Elven culture is steeped in music, seasonal rite, and the preservation of memory
 
 Common phrases include:
 - *"L'ren i'laiv'"* — "Sing in light" (a universal blessing)
-- *"M'ress' n'r'"* — "Silent path" (contemplation)
+- *"Móressë nórë"* — "Silent path" (contemplation)
 - *"Thel an i'aen"* — "Seek in the future" (an Aen'valar farewell)
 - *"Sael lenenya"* — "May the wind be your rhythm" (a Sael'anir greeting)
 
@@ -233,7 +233,7 @@ Common phrases include:
 
 ### Cirhannim (The Wood-Spirit People)
 
-The [[Cirhannim]] are the most traditionalist and isolationist of the Elven peoples, residing in the magically concealed forest of [[Hannan'r']]. To them, the world-song is a sacred, finite composition that must be preserved exactly as it was first played. They see change as a form of corruption. Governed by a theocratic monarchy under Queen Elara III and the powerful **Talanvar' Council** of mystics, their lives revolve around the Seasonal Harmonies. Their society is stratified by proximity to the "original harmony" — from Mystics to Silent Sentinels to Lore-Weavers to Green-Tenders.
+The [[Cirhannim]] are the most traditionalist and isolationist of the Elven peoples, residing in the magically concealed forest of [[Hannanórë]]. To them, the world-song is a sacred, finite composition that must be preserved exactly as it was first played. They see change as a form of corruption. Governed by a theocratic monarchy under Queen Elara III and the powerful **Talanvar' Council** of mystics, their lives revolve around the Seasonal Harmonies. Their society is stratified by proximity to the "original harmony" — from Mystics to Silent Sentinels to Lore-Weavers to Green-Tenders.
 
 ### Aen'valar (The Forward-Singers)
 
@@ -241,11 +241,11 @@ The [[Aen'valar]] represent the Elven diaspora on [[Novaterra]]. They believe th
 
 ### Sael'anir (The Sky-Wanderers)
 
-The [[Sael'anir]] are a nomadic and contemplative people living in small traveling bands on the pristine continent of [[Aerin'r']]. Their philosophy, the **Sael'mora** ("The Sky-Path"), holds that the world-song is not meant to be preserved or changed, but simply experienced. True wisdom comes from constant movement, allowing one to hear the song from all possible angles. They have no permanent cities, gathering every five years at the **Star-Moot** where decisions require unanimous consensus among all band elders.
+The [[Sael'anir]] are a nomadic and contemplative people living in small traveling bands on the pristine continent of [[Aerinórë]]. Their philosophy, the **Sael'mora** ("The Sky-Path"), holds that the world-song is not meant to be preserved or changed, but simply experienced. True wisdom comes from constant movement, allowing one to hear the song from all possible angles. They have no permanent cities, gathering every five years at the **Star-Moot** where decisions require unanimous consensus among all band elders.
 
 ## Notable Figures
 
-- **Queen Elara III** — Monarch of the Verdant Throne of [[Hannan'r']]
+- **Queen Elara III** — Monarch of the Verdant Throne of [[Hannanórë]]
 - **Archmage Elaruniel** — Renowned [[Aen'valar]] scholar, author of *The Frayed Weave*, former Loremaster Prime of [[Aethelas]]
 - **Lelyariel** — "Radiant Dreamer," legendary Elven queen of the First Age
 

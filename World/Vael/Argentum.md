@@ -33,7 +33,7 @@ relationships:
   type: founded-by
   period: SA:485
   metadata:
-    description: Thulkor'n prospector whose discovery of the Deep-Vein led to the city's founding
+    description: Thulkorûn prospector whose discovery of the Deep-Vein led to the city's founding
 - target: '[[Silver Boom]]'
   type: involved-in
   period: SA:485
@@ -49,11 +49,11 @@ relationships:
   period: SA:581
   metadata:
     description: Attempted seizure of Silver Lords' assets triggered the coup
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: related
   period: SA:485-
   metadata:
-    description: Thulkor'n prospectors and engineers key to the silver mining industry
+    description: Thulkorûn prospectors and engineers key to the silver mining industry
 - target: '[[Silver Boom]]'
   type: caused-by
   period: SA:485
@@ -105,7 +105,7 @@ timeline:
 - period: SA:230
   event: Imperial prospectors discover massive silver veins; [[Treaty of Coin]] signed with [[Kharnzarak]]
 - period: SA:485
-  event: '[[Grogor the Eye]], a Thulkor''n prospector, discovers the Deep-Vein; Argentum founded'
+  event: '[[Grogor the Eye]], a Thulkorûn prospector, discovers the Deep-Vein; Argentum founded'
 - period: SA:485-
   event: Rise of the Silver Lords, a new class of merchant-nobility rivaling the Emperor
 - period: SA:581
@@ -134,7 +134,7 @@ Argentum is a silver mining metropolis in the [[Central Mountains]] of [[Vael]],
 
 ## Founding
 
-The story of Argentum begins with the discovery of massive silver veins in the Central Mountains in SA:230. The [[Treaty of Coin]] between Vernath and [[Kharnzarak]] established mining rights and standardized the "Vernathi Silver Mark." But the city's true birth came in SA:485, when a [[Thulkor'n]] prospector named [[Grogor the Eye]] discovered the "Deep-Vein" -- a massive deposit of nearly pure silver. The Empire annexed the region immediately, and the mining camp became a metropolis overnight.
+The story of Argentum begins with the discovery of massive silver veins in the Central Mountains in SA:230. The [[Treaty of Coin]] between Vernath and [[Kharnzarak]] established mining rights and standardized the "Vernathi Silver Mark." But the city's true birth came in SA:485, when a [[Thulkorûn]] prospector named [[Grogor the Eye]] discovered the "Deep-Vein" -- a massive deposit of nearly pure silver. The Empire annexed the region immediately, and the mining camp became a metropolis overnight.
 
 ## The Silver Lords
 

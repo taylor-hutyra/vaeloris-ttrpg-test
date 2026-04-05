@@ -49,7 +49,7 @@ relationships:
   period: SA:425
   metadata:
     description: Expanded the paved trade roads into a continental network
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: ally
   period: SA:395
   metadata:
@@ -136,7 +136,7 @@ He proclaimed a **Mandate of Order** -- asserting that since the gods had depart
 
 ## The March of Order
 
-In **SA 410**, Caelius turned the full might of his newly forged empire southward. The southern wilds were held by scattered [[Orkin]] clans who had retreated there after the Long March of the previous epoch. Using the Varnathi's newly perfected steel legions and rigid phalanx tactics -- aided by [[Thulkor'n]] consultants who had revolutionized the blast-furnace technique -- Caelius shattered the disorganized warbands with devastating efficiency.
+In **SA 410**, Caelius turned the full might of his newly forged empire southward. The southern wilds were held by scattered [[Orkin]] clans who had retreated there after the Long March of the previous epoch. Using the Varnathi's newly perfected steel legions and rigid phalanx tactics -- aided by [[Thulkorûn]] consultants who had revolutionized the blast-furnace technique -- Caelius shattered the disorganized warbands with devastating efficiency.
 
 The campaign was known as the **March of Order**, and it pushed the [[Orkin]] further into the inhospitable badlands and western marshes. On the conquered frontier, Caelius founded [[Castellum]] -- a massive fortress that quickly evolved into a militaristic city-state, culturally distinct from the philosophical capital of [[Vernath]] and destined to become a rival center of power.
 

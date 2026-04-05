@@ -4,7 +4,7 @@ wb-id: thane-korin-barazkor
 name: Thane Korin Barazkor
 aliases:
 - The First High King
-species: '[[N''nm-Khazal''n]]'
+species: '[[Nûm-Khazalûn]]'
 born: null
 died: null
 birthplace: '[[Kharnzarak]]'
@@ -23,7 +23,7 @@ relationships:
   type: ruler
   metadata:
     description: Iron-Hand clan, later known as the Iron-Gavels; the Royal Clan
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: custom
   period: SA:91
   metadata:
@@ -86,7 +86,7 @@ modified: '2026-03-15'
 ---
 # Thane Korin Barazkor
 
-**Thane Korin Barazkor** was the first High King of a unified [[Kharnzarak]], a [[N'nm-Khazal'n]] warlord of the Iron-Hand clan who, in **SA 91**, brought an end to the brutal inter-clan Tunnel Wars and forged the scattered [[Dwarves|Dwarven]] clans into a single kingdom beneath the mountains.
+**Thane Korin Barazkor** was the first High King of a unified [[Kharnzarak]], a [[Nûm-Khazalûn]] warlord of the Iron-Hand clan who, in **SA 91**, brought an end to the brutal inter-clan Tunnel Wars and forged the scattered [[Dwarves|Dwarven]] clans into a single kingdom beneath the mountains.
 
 ## Rise to Power
 
@@ -112,7 +112,7 @@ Korin's most enduring and controversial legacy was the establishment of the rigi
 - **Guild Clans**: Families whose identity and standing were defined by their hereditary craft
 - **Gatestone Clans**: Those who performed the most menial and dangerous labor, with virtually no avenue for upward mobility
 
-This system brought immediate stability to [[Kharnzarak]], ending the chaos of the Tunnel Wars by giving every clan a fixed place in the social architecture. But it also planted the seeds for future resentment -- the slow-burning grievances of the Gatestone Clans and the eventual rise of the [[Thulkor'n]] exile tradition.
+This system brought immediate stability to [[Kharnzarak]], ending the chaos of the Tunnel Wars by giving every clan a fixed place in the social architecture. But it also planted the seeds for future resentment -- the slow-burning grievances of the Gatestone Clans and the eventual rise of the [[Thulkorûn]] exile tradition.
 
 ## Legacy
 

@@ -8,7 +8,7 @@ aliases:
 type: democracy
 founded: null
 territory:
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 leader: null
 capital: null
 laws:
@@ -23,7 +23,7 @@ relationships:
   type: custom
   metadata:
     description: philosophical-difference
-- target: '[[Aerin''r'' Path of Consensus]]'
+- target: '[[Aerinórë Path of Consensus]]'
   type: custom
   metadata:
     description: peaceful-coexistence
@@ -32,11 +32,11 @@ relationships:
   period: SA:80-
   metadata:
     description: Consensus-based governance of the Sky-Wanderers
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: controls
   period: SA:80-
   metadata:
-    description: Star-Moot convenes on the pristine continent of Aerin'r'
+    description: Star-Moot convenes on the pristine continent of Aerinórë
 - target: '[[Elves]]'
   type: controls
   period: SA:80-
@@ -52,7 +52,7 @@ modified: '2026-03-15'
 ---
 # Sael'anir Star-Moot
 
-The [[Sael'anir]] ("The Sky-Wanderers") are a nomadic and contemplative [[Elves|Elven]] people who rejected both the rigid traditions of the mainland and the ceaseless progress of [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerin'r']], serving as messengers and mediators for the various peaceful communities there.
+The [[Sael'anir]] ("The Sky-Wanderers") are a nomadic and contemplative [[Elves|Elven]] people who rejected both the rigid traditions of the mainland and the ceaseless progress of [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerinórë]], serving as messengers and mediators for the various peaceful communities there.
 
 ## Government: Consensus-Based Democracy
 

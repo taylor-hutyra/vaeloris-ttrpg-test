@@ -6,7 +6,7 @@ aliases: []
 date: SA:89
 period: SA:89
 duration: Weeks of secret work
-location: '[[Hannan''r'']]'
+location: '[[Hannanórë]]'
 participants:
 - '[[Tinbrel Quillroot]]'
 - '[[Elven High Council]]'
@@ -14,13 +14,13 @@ causes:
 - Destabilization of the Great Weaving by iron ore deposits
 - Need for Gnomish expertise to stabilize Elven wards
 consequences:
-- Stabilization of Hannan'r's defenses
+- Stabilization of Hannanórës defenses
 - Establishment of the first Gnomish Hollows beneath Elven great-trees
 - Creation of symbiotic Elf-Gnome relationship
 affected-entities:
 - '[[Gnomes]]'
 - '[[Elves]]'
-- '[[Hannan''r'']]'
+- '[[Hannanórë]]'
 status: historical
 relationships:
 - target: '[[Completion of the Great Weaving]]'
@@ -57,7 +57,7 @@ relationships:
   period: SA:89
   metadata:
     description: stabilized-by
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: involved
   period: SA:89
   metadata:
@@ -80,7 +80,7 @@ During maintenance of the Great Weaving, Elven wards began to destabilize due to
 
 ## The Solution
 
-[[Tinbrel Quillroot]] proposed weaving bronze lattice-work into the roots of the border trees to ground the magic. The work was done in secret — the existence of [[Gnomes]] within [[Hannan'r']] was unknown to the outside world.
+[[Tinbrel Quillroot]] proposed weaving bronze lattice-work into the roots of the border trees to ground the magic. The work was done in secret — the existence of [[Gnomes]] within [[Hannanórë]] was unknown to the outside world.
 
 ## The Hollows
 

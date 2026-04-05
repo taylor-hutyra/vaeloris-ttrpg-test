@@ -17,7 +17,7 @@ goals:
 - Advocate for pragmatic trade policies with the surface
 - Challenge Barazkor political dominance through economic leverage
 relationships:
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: member
   period: SA
   metadata:

@@ -76,7 +76,7 @@ relationships:
   period: 1300-
   metadata:
     description: trade-route
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: rival
   period: 250-
   metadata:

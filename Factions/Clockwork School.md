@@ -56,7 +56,7 @@ The school operates through [[Lithos]]'s **Technocratic Guild-Conclave**, a coun
 
 ## History
 
-The Clockwork School represents the original and orthodox approach to [[Rock Gnomes|Rock Gnome]] craft. Since the founding of [[Lithos]], the dominant philosophy has been one of precision and silent perfection. They respect the [[N'nm-Khazal'n]] [[Dwarves]] for their mastery of structure but find their methods loud and imprecise. The emergence of the [[Resonance School]]---which incorporates harmonic and quasi-magical elements---is viewed as a dangerous deviation from pure engineering.
+The Clockwork School represents the original and orthodox approach to [[Rock Gnomes|Rock Gnome]] craft. Since the founding of [[Lithos]], the dominant philosophy has been one of precision and silent perfection. They respect the [[Nûm-Khazalûn]] [[Dwarves]] for their mastery of structure but find their methods loud and imprecise. The emergence of the [[Resonance School]]---which incorporates harmonic and quasi-magical elements---is viewed as a dangerous deviation from pure engineering.
 
 ## Notable Members
 

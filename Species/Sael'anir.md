@@ -18,12 +18,12 @@ traits:
 - wind-attuned
 - star-reading
 habitat:
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 population: small
 relationships:
 - target: '[[Elves]]'
   type: child
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: located-in
 - target: '[[Ilphara]]'
   type: founded-by
@@ -44,13 +44,13 @@ relationships:
   type: ally
   period: SA
   metadata:
-    description: Serve as mediators alongside peaceful communities on Aerin'r'
+    description: Serve as mediators alongside peaceful communities on Aerinórë
     nature: coexistent
 - target: '[[Orkin]]'
   type: ally
   period: SA
   metadata:
-    description: Coexist with the peaceful Vorok-Varr Orkin on Aerin'r'
+    description: Coexist with the peaceful Vorok-Varr Orkin on Aerinórë
     nature: coexistent
 - target: '[[Mirelarim]]'
   type: sibling
@@ -69,7 +69,7 @@ relationships:
 - target: '[[Vorok-Varr]]'
   type: ally
   period: SA:761-
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: contains
   period: 80-
 - target: '[[Azure Deeps]]'
@@ -92,13 +92,13 @@ modified: '2026-03-15'
 ---
 # The Sael'anir
 
-The **Sael'anir**, or **Sky-Wanderers**, are a nomadic and contemplative [[Elves|Elven]] people who chose a third path -- rejecting both the rigid traditions of the [[Cirhannim]] on the mainland and the ceaseless progress of the [[Aen'valar]] on [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerin'r']], where they serve as messengers and mediators for the various peaceful communities. Founded by the legendary [[Ilphara]], their society is the most egalitarian and decentralized of all Elven cultures.
+The **Sael'anir**, or **Sky-Wanderers**, are a nomadic and contemplative [[Elves|Elven]] people who chose a third path -- rejecting both the rigid traditions of the [[Cirhannim]] on the mainland and the ceaseless progress of the [[Aen'valar]] on [[Novaterra]]. They live in small, traveling bands on the pristine continent of [[Aerinórë]], where they serve as messengers and mediators for the various peaceful communities. Founded by the legendary [[Ilphara]], their society is the most egalitarian and decentralized of all Elven cultures.
 
 ## Origin and Founding
 
 The Sael'anir were founded by [[Ilphara]], a visionary who saw the growing division between preservationist and progressive Elves and chose to walk away from both extremes. [[Ilphara]] taught that the world-song is not meant to be preserved or changed but simply **experienced** -- that wisdom comes not from holding still or pushing forward, but from constant movement that allows one to hear the song from all possible angles.
 
-Her followers journeyed to [[Aerin'r']], the pristine and largely unsettled continent, where they established a way of life centered on wandering, observation, and the cultivation of inner peace.
+Her followers journeyed to [[Aerinórë]], the pristine and largely unsettled continent, where they established a way of life centered on wandering, observation, and the cultivation of inner peace.
 
 ## Core Philosophy: The Sael'mora (The Sky-Path)
 
@@ -106,7 +106,7 @@ The **Sael'mora** -- the Sky-Path -- is the Sael'anir's guiding philosophy. It h
 
 The Sael'anir aspire to the wind's freedom and the star's breadth of vision. They believe that by traveling constantly, listening to every voice they encounter, and refusing to settle into a single truth, they can hear the world-song more purely than any who remain in one place.
 
-This is not passive observation. The Sael'anir serve as **mediators** and **messengers** across [[Aerin'r']], carrying news between settlements, resolving disputes, and offering counsel born of their vast, wandering experience. Their impartiality is their most valued trait.
+This is not passive observation. The Sael'anir serve as **mediators** and **messengers** across [[Aerinórë]], carrying news between settlements, resolving disputes, and offering counsel born of their vast, wandering experience. Their impartiality is their most valued trait.
 
 ## Society: Egalitarian and Decentralized
 
@@ -130,7 +130,7 @@ The Star-Moot is as much a cultural reunion as a political event. Bands that hav
 
 ## Role as Mediators
 
-The Sael'anir's reputation for impartiality makes them invaluable mediators across [[Aerin'r']] and beyond. They carry no political agenda, owe allegiance to no state, and judge disputes based solely on what they have observed. Their counsel is sought by settlements of all races, and their word carries weight precisely because they have no stake in the outcome.
+The Sael'anir's reputation for impartiality makes them invaluable mediators across [[Aerinórë]] and beyond. They carry no political agenda, owe allegiance to no state, and judge disputes based solely on what they have observed. Their counsel is sought by settlements of all races, and their word carries weight precisely because they have no stake in the outcome.
 
 This mediative role extends to the broader Elven world. The Sael'anir maintain contact with both the [[Cirhannim]] and the [[Aen'valar]], serving as occasional bridges between the two estranged branches. Neither side fully trusts the Sky-Wanderers -- the [[Cirhannim]] see them as rootless, the [[Aen'valar]] see them as passive -- but both respect their perspective.
 
@@ -138,7 +138,7 @@ This mediative role extends to the broader Elven world. The Sael'anir maintain c
 
 The Sael'anir feel a **gentle sorrow** for both the [[Cirhannim]] and the [[Aen'valar]], believing both have become deaf to the quiet music of the present by focusing too much on the past or the future.
 
-They see the [[Cirhannim]] as trapped in a beautiful prison -- [[Hannan'r']]'s perfection has become a cage, and the forest's guardians have forgotten what the world outside sounds like.
+They see the [[Cirhannim]] as trapped in a beautiful prison -- [[Hannanórë]]'s perfection has become a cage, and the forest's guardians have forgotten what the world outside sounds like.
 
 They see the [[Aen'valar]] as brilliantly driven but spiritually deaf -- so focused on composing new verses that they have lost the ability to simply **listen** to the song as it already plays.
 
@@ -159,7 +159,7 @@ They believe that the most important words are the ones left unsaid -- that sile
 
 [[Ilphara]]'s teachings are not preserved in texts but in living practice. Every Sael'anir knows her story -- the visionary who walked away from certainty in search of wisdom. Her name is invoked not as a saint or prophet but as the first among equals, the one who took the first step on the Sky-Path.
 
-Certain sacred sites across [[Aerin'r']] are said to be places where [[Ilphara]] rested during her first great journey. These sites serve as natural gathering points for the Star-Moots and are cared for by whichever Saelyn happens to be passing through.
+Certain sacred sites across [[Aerinórë]] are said to be places where [[Ilphara]] rested during her first great journey. These sites serve as natural gathering points for the Star-Moots and are cared for by whichever Saelyn happens to be passing through.
 
 ## Connection to the Stars
 

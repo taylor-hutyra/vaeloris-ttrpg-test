@@ -10,7 +10,7 @@ spatial-type: world
 contains:
 - '[[Vael]]'
 - '[[Novaterra]]'
-- '[[Aerin''r'']]'
+- '[[Aerinórë]]'
 - '[[Vol]]'
 - '[[Fractured Isles]]'
 - '[[Azure Deeps]]'
@@ -55,11 +55,11 @@ Vaeloris is the mortal world, shaped in the First Age by the four divine craftsm
 
 ## Geography
 
-The world is dominated by the great mainland continent of [[Vael]], where the bulk of mortal civilization has risen and fallen across three ages. To the east across the open ocean lies [[Novaterra]], the "New World" discovered in 752 S.A. by [[Tynna Swift-Tide]], now home to the [[Technocracy of Gearhaven]] and the [[Free Holds]]. The pristine northern continent of [[Aerin'r']] remains a sanctuary of nature, protected by [[Sael'anir]] wind-shapers and [[Waldkyn]] druids. The volcanic island of [[Vol]] sits in the eastern seas, a Mirennian outpost forever marked by the Sundering of [[Mount Cinder]] in 635 S.A. The [[Fractured Isles]] form a scattered archipelago where the [[Pirate Confederacy]] holds sway, and beneath the waves the [[Azure Deeps]] conceal the realm of the [[Mirelarim]]. Far to the north, the volcanic highlands of [[Drakenvast]] are the ancestral homeland of the [[Drakona]].
+The world is dominated by the great mainland continent of [[Vael]], where the bulk of mortal civilization has risen and fallen across three ages. To the east across the open ocean lies [[Novaterra]], the "New World" discovered in 752 S.A. by [[Tynna Swift-Tide]], now home to the [[Technocracy of Gearhaven]] and the [[Free Holds]]. The pristine northern continent of [[Aerinórë]] remains a sanctuary of nature, protected by [[Sael'anir]] wind-shapers and [[Waldkyn]] druids. The volcanic island of [[Vol]] sits in the eastern seas, a Mirennian outpost forever marked by the Sundering of [[Mount Cinder]] in 635 S.A. The [[Fractured Isles]] form a scattered archipelago where the [[Pirate Confederacy]] holds sway, and beneath the waves the [[Azure Deeps]] conceal the realm of the [[Mirelarim]]. Far to the north, the volcanic highlands of [[Drakenvast]] are the ancestral homeland of the [[Drakona]].
 
 ## The Scars of History
 
-The world bears physical wounds from its tumultuous past. The Scars of Dissonance — sealed rifts where [[Kael'Zorai]]'s corruption leaked through — still dot the landscape, caged behind the Magocracy's Pylons of Warding. The crash sites of the [[Drakona]] Cloud Cities remain zones of thinned reality where the [[Grey Rot]] festers. The sealed gates of [[Kharnzarak]] stand as monuments to Dwarven isolation, while the mist-veiled borders of [[Hannan'r']] hide the [[Cirhannim]] Elves from mortal eyes.
+The world bears physical wounds from its tumultuous past. The Scars of Dissonance — sealed rifts where [[Kael'Zorai]]'s corruption leaked through — still dot the landscape, caged behind the Magocracy's Pylons of Warding. The crash sites of the [[Drakona]] Cloud Cities remain zones of thinned reality where the [[Grey Rot]] festers. The sealed gates of [[Kharnzarak]] stand as monuments to Dwarven isolation, while the mist-veiled borders of [[Hannanórë]] hide the [[Cirhannim]] Elves from mortal eyes.
 
 ## The Current Age
 

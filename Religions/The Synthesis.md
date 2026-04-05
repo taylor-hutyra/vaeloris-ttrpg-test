@@ -11,7 +11,7 @@ founder: null
 deities: []
 headquarters: null
 tenets:
-- Tham'dran (Earth) — the foundation, the patient stone
+- Thamédran (Earth) — the foundation, the patient stone
 - Virandros (Growth) — the green, the rising, the cycle of renewal
 - Myrasael (Water) — the flowing, the deep, the adaptable
 - Elaraieth (Air) — the breath, the song, the unseen connection
@@ -27,12 +27,12 @@ relationships:
   type: enemy
   metadata:
     description: The Fifth Silence — a voice that refused to listen
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: worshipped-by
   metadata:
     description: The prime creator who brought forth the Four Voices
     nature: deity
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worshipped-by
   metadata:
     description: First Hand of Stability — the Waldkyn preserve the true name
@@ -55,23 +55,23 @@ relationships:
 - target: '[[The Four Pillars]]'
   type: related
   metadata:
-    description: Tham'dran=Tharn'm, Virandros=Bronr'n, Myrasael=Farrazul, Elaraieth=Elmura
+    description: Thamédran=Tharnûm, Virandros=Bronrûn, Myrasael=Farrazul, Elaraieth=Elmura
     nature: parallel
 - target: '[[The Four Harmonies]]'
   type: related
   metadata:
-    description: Tham'dran=N'rthelion, Virandros=C'rhanna, Myrasael=Mirelaris, Elaraieth=Lelyari'
+    description: Thamédran=N'rthelion, Virandros=C'rhanna, Myrasael=Mirelaris, Elaraieth=Lelyari'
     nature: parallel
 - target: '[[The Four Makers]]'
   type: related
   metadata:
-    description: Tham'dran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
+    description: Thamédran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
     nature: parallel
 - target: '[[Song-Wards]]'
   type: custom
   metadata:
     description: expression-of
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: worships
   metadata:
     description: Waldkyn tradition acknowledges the prime force behind the Four Voices
@@ -83,10 +83,10 @@ relationships:
   type: worships
   metadata:
     description: Known by true name Myrasael (Water/Refinement) in Waldkyn tradition
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worships
   metadata:
-    description: Known by true name Tham'dran (Earth/Stability) in Waldkyn tradition
+    description: Known by true name Thamédran (Earth/Stability) in Waldkyn tradition
 - target: '[[Virandros]]'
   type: worships
   metadata:
@@ -117,11 +117,11 @@ modified: '2026-03-15'
 
 The Waldkyn name the four creator First Hands the **Four Voices** — divine aspects whose previous creations ([[Dwarves]], [[Elves]]) were powerful but incomplete expressions of singular concepts. Recognizing this, the Four Voices wove their essences **together** to create a people who would be a living embodiment of balance:
 
-### Tham'dran — Earth
-The foundation, the patient stone. Tham'dran is the voice of endurance, stability, and the deep roots that hold the world in place. Other traditions know this voice as **Tharn'm** ([[The Four Pillars|Dwarven]]) or **N'rthelion** ([[The Four Harmonies|Elven]]) or **the Mason** ([[The Four Makers|Human]]).
+### Thamédran — Earth
+The foundation, the patient stone. Thamédran is the voice of endurance, stability, and the deep roots that hold the world in place. Other traditions know this voice as **Tharnûm** ([[The Four Pillars|Dwarven]]) or **N'rthelion** ([[The Four Harmonies|Elven]]) or **the Mason** ([[The Four Makers|Human]]).
 
 ### Virandros — Growth
-The green, the rising, the cycle of renewal. Virandros is the voice of life, change, and the patient unfolding of potential. Other traditions know this voice as **Bronr'n** (Dwarven) or **C'rhanna** (Elven) or **the Carpenter** (Human).
+The green, the rising, the cycle of renewal. Virandros is the voice of life, change, and the patient unfolding of potential. Other traditions know this voice as **Bronrûn** (Dwarven) or **C'rhanna** (Elven) or **the Carpenter** (Human).
 
 ### Myrasael — Water
 The flowing, the deep, the adaptable. Myrasael is the voice of depth, hidden beauty, and the capacity to shape oneself to any vessel without losing one's essence. Other traditions know this voice as **Farrazul** (Dwarven) or **Mirelaris** (Elven) or **the Jeweler** (Human).
@@ -165,7 +165,7 @@ The Waldkyn Synthesis is practiced across three broad cultural groups:
 
 - **The Whisper-Kin** (Waldkyn of the [[Whispering Vales]]) — the most traditional practitioners, living in tree-shaped habitations and maintaining the ancient Tellings
 - **The Chartered Kith** (Urban Waldkyn) — who have adapted The Synthesis to city life, finding harmony even in the hum of a perfectly functioning machine, which they call the **Gear-Song**
-- **The Far-Kin** (Waldkyn of [[Aerin'r']]) — who practice The Synthesis in collaboration with the [[Sael'anir]] Elves and the peaceful [[Vorok-Varr]] Orkin
+- **The Far-Kin** (Waldkyn of [[Aerinórë]]) — who practice The Synthesis in collaboration with the [[Sael'anir]] Elves and the peaceful [[Vorok-Varr]] Orkin
 
 ## The Waldkyn View of Other Races
 

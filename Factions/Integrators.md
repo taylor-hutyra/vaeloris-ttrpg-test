@@ -49,7 +49,7 @@ The Integrators believe the [[Syn-Koinos]] (Shared Pattern) is not a static desi
 
 ## Structure
 
-The Integrators operate as an open intellectual school within [[Mycohollow]], organizing symposia, experiments, and cross-cultural exchanges. Their internal structure is informal and collaborative, resembling a research collective more than a political faction. They maintain contacts with scholars from other races, particularly the [[Aen'valar]] and artisans in [[M'ren'r']].
+The Integrators operate as an open intellectual school within [[Mycohollow]], organizing symposia, experiments, and cross-cultural exchanges. Their internal structure is informal and collaborative, resembling a research collective more than a political faction. They maintain contacts with scholars from other races, particularly the [[Aen'valar]] and artisans in [[Mórenórë]].
 
 ## History
 

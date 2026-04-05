@@ -22,7 +22,7 @@ relationships:
 - target: '[[Elm-korin]]'
   type: founded-by
   period: SA:1485
-- target: '[[Bronr''n]]'
+- target: '[[Bronrûn]]'
   type: founded-by
   period: SA:1485
   metadata:
@@ -107,7 +107,7 @@ relationships:
   type: native
   period: SA:1485-
   metadata:
-    description: Founded by Elm-korin and Bronr'n exiles alongside human mages and Gnomes
+    description: Founded by Elm-korin and Bronrûn exiles alongside human mages and Gnomes
 - target: '[[Elm-korin]]'
   type: controlled-by
 - target: '[[Gnomes]]'
@@ -171,7 +171,7 @@ timeline:
 - period: SA:1475
   label: Refugee flotilla lands at Rust-Water Bay
 - period: SA:1485
-  label: Founded through the Great Collaboration of Bronr'n, Elm-korin, Human Mages, and Gnomes
+  label: Founded through the Great Collaboration of Bronrûn, Elm-korin, Human Mages, and Gnomes
 - period: SA:1500
   label: The Masked Rebellion; Guild of Labor granted seats on the Cog-Council
 - period: SA:1680
@@ -195,7 +195,7 @@ modified: '2026-03-15'
 ---
 # Gearhaven
 
-**Gearhaven** is the premier industrial and technomantic city on [[Novaterra]], a vertical metropolis of brass, steam, and glowing runes built into the sea cliffs of Rust-Water Bay. Founded in SA:1485 through the "Great Collaboration" of [[Bronr'n]] Dwarves, [[Elm-korin]] Dwarves, human mages, and [[Gnomes]], it represents the pinnacle of the fusion between magic and machine.
+**Gearhaven** is the premier industrial and technomantic city on [[Novaterra]], a vertical metropolis of brass, steam, and glowing runes built into the sea cliffs of Rust-Water Bay. Founded in SA:1485 through the "Great Collaboration" of [[Bronrûn]] Dwarves, [[Elm-korin]] Dwarves, human mages, and [[Gnomes]], it represents the pinnacle of the fusion between magic and machine.
 
 ## Government
 
@@ -207,7 +207,7 @@ The **Binding Accord** (SA:1485) ensured no single race ruled the city. After th
 
 ## History
 
-Gearhaven was born from desperation. A massive refugee flotilla -- human mages fleeing the [[Mage-Purge Wars]], exiled [[Elm-korin]] and [[Bronr'n]] Dwarves, and opportunistic [[Gnomes]] -- landed at Rust-Water Bay in SA:1475 and decided to stop running.
+Gearhaven was born from desperation. A massive refugee flotilla -- human mages fleeing the [[Mage-Purge Wars]], exiled [[Elm-korin]] and [[Bronrûn]] Dwarves, and opportunistic [[Gnomes]] -- landed at Rust-Water Bay in SA:1475 and decided to stop running.
 
 The city quickly became a superpower. In SA:1680, it launched the **First Fleet of Iron** -- steam-powered ironclads with Arcane Cannons -- to end the Mage-Purge on the mainland. The Battle of Crimson Field (SA:1695) proved that magic and technology together could defeat conventional armies.
 

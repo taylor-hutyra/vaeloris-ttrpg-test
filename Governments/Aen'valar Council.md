@@ -20,7 +20,7 @@ relationships:
   type: custom
   metadata:
     description: strained
-- target: '[[M''ren''r'' Triumvirate]]'
+- target: '[[Mórenórë Triumvirate]]'
   type: custom
   metadata:
     description: academic-alliance

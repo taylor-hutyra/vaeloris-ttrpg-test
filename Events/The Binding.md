@@ -9,7 +9,7 @@ period: FA
 duration: The climactic moment of the Paroxysm
 location: '[[Vaeloris]]'
 participants:
-- '[[Tham''dran]]'
+- '[[Thamédran]]'
 - '[[Virandros]]'
 - '[[Myrasael]]'
 - '[[Elaraieth]]'
@@ -24,7 +24,7 @@ consequences:
 - '[[The Elemental Unraveling]]'
 affected-entities:
 - '[[Kael''Zorai]]'
-- '[[Tham''dran]]'
+- '[[Thamédran]]'
 - '[[Virandros]]'
 - '[[Myrasael]]'
 - '[[Elaraieth]]'
@@ -48,7 +48,7 @@ relationships:
   type: preceded
   metadata:
     description: The Waldkyn were created after the Binding
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: involved
   period: FA
   metadata:
@@ -106,7 +106,7 @@ relationships:
 - target: '[[The Frayed Weave]]'
   type: related
   period: SA:2688
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: involved
   period: FA
   metadata:
@@ -151,7 +151,7 @@ The **Binding** was the climactic act of the [[The Paroxysm|Paroxysm]] — the m
 
 ## The Act
 
-Despite Kael'Zorai's formidable power and desperate resistance, the united will of [[Tham'dran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] slowly overcame the Fifth. In the Binding, they:
+Despite Kael'Zorai's formidable power and desperate resistance, the united will of [[Thamédran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] slowly overcame the Fifth. In the Binding, they:
 
 - Stripped Kael'Zorai of its name and divine authority
 - Imprisoned it beyond the reach of mortal reality

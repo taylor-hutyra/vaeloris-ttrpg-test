@@ -15,7 +15,7 @@ resources:
 - arcane artifacts
 status: heretical Elven cult territory, secretive and dangerous
 relationships:
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   period: 1-
   metadata:

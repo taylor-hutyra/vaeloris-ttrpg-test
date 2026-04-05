@@ -75,7 +75,7 @@ Mana-Crystals form naturally at locations where ambient magical energy concentra
 - **Ancient ritual sites**: Locations where powerful magic was performed repeatedly over centuries
 - **Scars of Dissonance**: Paradoxically, the sealed wounds from [[The Paroxysm]] sometimes produce mana crystals as residual energy slowly solidifies
 
-Natural crystals vary widely in quality. Common-grade crystals are cloudy, irregular, and hold modest energy charges. Rare "clear" crystals are more efficient conductors. The finest specimens -- flawless, deeply saturated gems -- are produced by the [[Crystal-Singers of M'ren'r']], who use harmonic resonance to grow perfect crystals in controlled environments.
+Natural crystals vary widely in quality. Common-grade crystals are cloudy, irregular, and hold modest energy charges. Rare "clear" crystals are more efficient conductors. The finest specimens -- flawless, deeply saturated gems -- are produced by the [[Crystal-Singers of Mórenórë]], who use harmonic resonance to grow perfect crystals in controlled environments.
 
 ## As Currency
 

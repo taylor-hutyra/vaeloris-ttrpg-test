@@ -5,12 +5,12 @@ name: Grogor the Eye
 aliases:
 - The Prospector
 - Deep-Vein Grogor
-species: '[[Thulkor''n]]'
+species: '[[Thulkorûn]]'
 born: null
 died: null
 birthplace: '[[Kharnzarak]]'
 residence: '[[Central Mountains]]'
-faction: '[[Thulkor''n]]'
+faction: '[[Thulkorûn]]'
 role: Prospector, discoverer of the Deep-Vein silver deposit
 title: null
 gender: male
@@ -49,7 +49,7 @@ relationships:
   type: origin
   period: SA:485
   metadata:
-    description: Exiled from Kharnzarak as a Thulkor'n before becoming a surface prospector
+    description: Exiled from Kharnzarak as a Thulkorûn before becoming a surface prospector
 - target: '[[Deep-Vein Silver]]'
   type: custom
   metadata:
@@ -58,7 +58,7 @@ relationships:
   type: founder
   period: SA:485
   metadata:
-    description: Thulkor'n prospector whose discovery of the Deep-Vein led to the city's founding
+    description: Thulkorûn prospector whose discovery of the Deep-Vein led to the city's founding
 timeline:
 - period: SA:485
   event: Discovered the Deep-Vein in the Central Mountains -- a massive deposit of nearly pure silver
@@ -74,11 +74,11 @@ modified: '2026-03-15'
 ---
 # Grogor the Eye
 
-**Grogor the Eye** was a [[Thulkor'n]] prospector who, in **SA 485**, discovered the **Deep-Vein** in the [[Central Mountains]] -- a massive deposit of nearly pure silver that would transform the economy of the [[Varnathi Empire]], birth the city of [[Argentum]], and create a new class of merchant-nobility whose wealth would eventually rival the Emperor's own.
+**Grogor the Eye** was a [[Thulkorûn]] prospector who, in **SA 485**, discovered the **Deep-Vein** in the [[Central Mountains]] -- a massive deposit of nearly pure silver that would transform the economy of the [[Varnathi Empire]], birth the city of [[Argentum]], and create a new class of merchant-nobility whose wealth would eventually rival the Emperor's own.
 
 ## A Broken-Crafted Prospector
 
-As a [[Thulkor'n]] -- one of the "Broken-Crafted" [[Dwarves]] exiled from [[Kharnzarak]] for oath-breaking or crime -- Grogor carried the stigma of his banishment like a brand. Stripped of his clan name and cast out from the deep halls, he wandered the surface world, hiring out his innate Dwarven talent for reading stone and ore to whatever Human mining operation would have him. His epithet, "the Eye," spoke to an uncanny ability to identify mineral deposits from surface signs that other prospectors overlooked.
+As a [[Thulkorûn]] -- one of the "Broken-Crafted" [[Dwarves]] exiled from [[Kharnzarak]] for oath-breaking or crime -- Grogor carried the stigma of his banishment like a brand. Stripped of his clan name and cast out from the deep halls, he wandered the surface world, hiring out his innate Dwarven talent for reading stone and ore to whatever Human mining operation would have him. His epithet, "the Eye," spoke to an uncanny ability to identify mineral deposits from surface signs that other prospectors overlooked.
 
 ## The Discovery
 
@@ -94,4 +94,4 @@ A standardized silver currency replaced the barter system across the region, for
 
 ## Legacy
 
-The irony of Grogor's story is not lost on historians. A [[Thulkor'n]] exile -- a Dwarf considered "spiritually dead" by his own people -- discovered the resource that would reshape the surface world's economy. He received no title, no lands, and no lasting recognition from the empire that profited from his keen eye. His name survives only in mining folklore and in the informal nickname still used for the original shaft: "Grogor's Bore." It is a quintessentially [[Thulkor'n]] legacy -- immense skill, immense impact, and a quiet erasure from the official record.
+The irony of Grogor's story is not lost on historians. A [[Thulkorûn]] exile -- a Dwarf considered "spiritually dead" by his own people -- discovered the resource that would reshape the surface world's economy. He received no title, no lands, and no lasting recognition from the empire that profited from his keen eye. His name survives only in mining folklore and in the informal nickname still used for the original shaft: "Grogor's Bore." It is a quintessentially [[Thulkorûn]] legacy -- immense skill, immense impact, and a quiet erasure from the official record.

@@ -9,7 +9,7 @@ period: FA
 duration: Gradual — concluded at the boundary of the Second Age
 location: '[[Vaeloris]]'
 participants:
-- '[[Tham''dran]]'
+- '[[Thamédran]]'
 - '[[Virandros]]'
 - '[[Myrasael]]'
 - '[[Elaraieth]]'
@@ -40,7 +40,7 @@ relationships:
   metadata:
     description: The Great Withdrawal was the First Hands receding; the Day of Silence was the minor deities later departing
       the physical plane
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: involved
   metadata:
     description: Withdrew into foundational reality itself
@@ -151,7 +151,7 @@ relationships:
   period: FA
   metadata:
     description: The Binding exhausted the First Hands, leading to the Great Withdrawal
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: involved
   period: FA
   metadata:
@@ -188,7 +188,7 @@ The Divine War had demonstrated the dangers of excessive cosmic-level involvemen
 
 The First Hands chose not to die, but to recede into metaphysical realms, becoming part of the world's fundamental structure:
 
-- **[[Tham'dran]]** — withdrew into foundational reality itself. Presence felt in enduring structures, stability, permanence.
+- **[[Thamédran]]** — withdrew into foundational reality itself. Presence felt in enduring structures, stability, permanence.
 - **[[Virandros]]** — withdrew into the cycles of existence. Presence felt in growth, change, renewal, adaptation.
 - **[[Myrasael]]** — withdrew into the realm of perfection. Presence felt in beauty, refinement, the pursuit of excellence.
 - **[[Elaraieth]]** — withdrew into consciousness itself. Presence felt in inspiration, awareness, transcendent experience.

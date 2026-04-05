@@ -45,12 +45,12 @@ relationships:
   period: SA:1380
   metadata:
     description: The Dwarven kingdom torn apart by purges and civil war
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: related
   period: SA:1200
   metadata:
-    description: Bronr'n Clan blamed for the Earthwake and driven into exile
-- target: '[[Thulkor''n]]'
+    description: Bronrûn Clan blamed for the Earthwake and driven into exile
+- target: '[[Thulkorûn]]'
   type: related
   period: SA:1380
   metadata:

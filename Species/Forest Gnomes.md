@@ -191,7 +191,7 @@ The Forest Gnomes are the most diplomatic of the Gnomish peoples. They view the 
 The Forest Gnomes maintain careful diplomatic relations with several peoples:
 
 - They brokered peace with the [[Halflings]] and signed a treaty with the [[Magocracy]]
-- A small, wealthy enclave of **Crystal-Singers** operates within [[M'ren'r']], crafting vital focusing crystals and arcane conduits for [[Aen'valar]] scholars
+- A small, wealthy enclave of **Crystal-Singers** operates within [[Mórenórë]], crafting vital focusing crystals and arcane conduits for [[Aen'valar]] scholars
 - They refer to the larger races as "Loud-Walkers" or "Sky-Folk" -- neutral, descriptive terms without malice
 
 ## Common Sayings

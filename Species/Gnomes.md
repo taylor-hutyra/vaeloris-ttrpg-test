@@ -20,7 +20,7 @@ habitat:
 - '[[Mycohollow]]'
 - '[[Lithos]]'
 - '[[The Dreaming Grove]]'
-- '[[M''ren''r'']]'
+- '[[Mórenórë]]'
 population: low
 relationships:
 - target: '[[Ceridara]]'
@@ -70,7 +70,7 @@ relationships:
   period: SA
   metadata:
     description: Rock Gnomes governed by the Technocratic Guild-Conclave of Lithos
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: SA:89-
   metadata:
@@ -86,11 +86,11 @@ relationships:
   period: SA:1485-
   metadata:
     description: Gnomes co-founded Gearhaven in the Great Collaboration
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: native
   period: SA
   metadata:
-    description: Crystal-Singers of M'ren'r' craft vital arcane conduits for Aen'valar scholars
+    description: Crystal-Singers of Mórenórë craft vital arcane conduits for Aen'valar scholars
 - target: '[[Elves]]'
   type: ally
   period: SA:89-
@@ -106,12 +106,12 @@ relationships:
   type: involved-in
   metadata:
     description: Secretly created during this period by Ceridara and Illysia
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: ally
   period: SA:1200-
   metadata:
     description: Studies Gnomish designs in hidden workshops
-- target: '[[Crystal-Singers of M''ren''r'']]'
+- target: '[[Crystal-Singers of Mórenórë]]'
   type: custom
   metadata:
     description: Gnomish enclave
@@ -162,7 +162,7 @@ relationships:
   type: ally
   period: SA
   metadata:
-    description: Crystal-Singers of M'ren'r' craft vital focusing crystals for Aen'valar scholars
+    description: Crystal-Singers of Mórenórë craft vital focusing crystals for Aen'valar scholars
     nature: collaborative
 - target: '[[Forest Gnomes]]'
   type: parent
@@ -172,17 +172,17 @@ relationships:
   metadata:
     description: Humans call Gnomes and similar folk 'Small-Folk'; Gnomes call Humans 'Loud-Walkers'
     nature: coexistent
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: sibling
   period: SA
   metadata:
-    description: Call Gnomes the N'mm-kith (Stone-kin), recognizing them as fellow children of a Stone-based Pillar
+    description: Call Gnomes the Nûm-kith (Stone-kin), recognizing them as fellow children of a Stone-based Pillar
     nature: stone-kin
 - target: '[[Rock Gnomes]]'
   type: parent
 - target: '[[Sand Gnomes]]'
   type: parent
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: related
   period: SA
   metadata:
@@ -204,11 +204,11 @@ relationships:
   period: SA:1485
   metadata:
     nature: collaborative
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: located-in
   period: SA
   metadata:
-    description: Crystal-Singers of M'ren'r' — wealthy Gnomish enclave crafting vital focusing crystals
+    description: Crystal-Singers of Mórenórë — wealthy Gnomish enclave crafting vital focusing crystals
 - target: '[[Nexus]]'
   type: ally
   period: SA:1510-
@@ -295,7 +295,7 @@ The [[Forest Gnomes]] are the original and most numerous Gnomish people, living 
 
 ### Rock Gnomes (The Deep-Weavers)
 
-The [[Rock Gnomes]] migrated into the deep root systems of the world's mountains, becoming tenders of stone, crystal, and geothermal patterns. They live in breathtaking, silent cities carved into subterranean caverns, lit by phosphorescent fungi and powered by volcanic vents. Their greatest city is [[Lithos]], governed by the **Guild-Conclave** of nine undisputed craft masters led by the **Deep Warden**. They are master gem-cutters, metallurgists, and makers of intricate, silent clockwork mechanisms. The [[N'nm-Khazal'n]] Dwarves know them as the respected **N'm-kith** ("Stone-kin"), and it was Rock Gnomes who secretly aided in weaving the wards around [[Hannan'r']].
+The [[Rock Gnomes]] migrated into the deep root systems of the world's mountains, becoming tenders of stone, crystal, and geothermal patterns. They live in breathtaking, silent cities carved into subterranean caverns, lit by phosphorescent fungi and powered by volcanic vents. Their greatest city is [[Lithos]], governed by the **Guild-Conclave** of nine undisputed craft masters led by the **Deep Warden**. They are master gem-cutters, metallurgists, and makers of intricate, silent clockwork mechanisms. The [[Nûm-Khazalûn]] Dwarves know them as the respected **Nûm-kith** ("Stone-kin"), and it was Rock Gnomes who secretly aided in weaving the wards around [[Hannanórë]].
 
 ### Sand Gnomes (The Dune-Whisperers)
 
@@ -305,7 +305,7 @@ The [[Sand Gnomes]] are the rarest and most reclusive Gnomes, having followed th
 
 - **The Myco-Whisperer** — Spiritual leader of [[Mycohollow]]
 - **The Deep Warden** — Leader of the [[Lithos]] Guild-Conclave
-- **The Crystal-Singers of [[M'ren'r']]** — A wealthy Gnomish enclave crafting the vital focusing crystals and arcane conduits used by [[Aen'valar]] Elves and human mages
+- **The Crystal-Singers of [[Mórenórë]]** — A wealthy Gnomish enclave crafting the vital focusing crystals and arcane conduits used by [[Aen'valar]] Elves and human mages
 
 ## Gnom Language
 

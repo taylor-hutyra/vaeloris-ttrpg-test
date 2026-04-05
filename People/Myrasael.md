@@ -18,12 +18,12 @@ role: First Hand — embodiment of beauty, value, and perfection of form
 title: First Hand of Refinement
 gender: null
 relationships:
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: created-by
   period: FA
   metadata:
     description: Brought forth in the Second Creation
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: sibling
   metadata:
     description: Fellow First Hand — together they created the Dwarves
@@ -39,7 +39,7 @@ relationships:
   type: creator
   period: FA
   metadata:
-    description: Created with Tham'dran — Dwarves embody methodical endurance and perfection-seeking
+    description: Created with Thamédran — Dwarves embody methodical endurance and perfection-seeking
     nature: collaborative
 - target: '[[Waldkyn]]'
   type: creator
@@ -132,7 +132,7 @@ relationships:
   type: created-by
   period: FA
   metadata:
-    description: First Hand of Refinement — true divine parent alongside Tham'dran
+    description: First Hand of Refinement — true divine parent alongside Thamédran
     nature: collaborative
 - target: '[[Waldkyn]]'
   type: created-by
@@ -153,13 +153,13 @@ relationships:
     description: Vaelynn, who founded these halls, is an aspect of Myrasael
 timeline:
 - period: FA
-  event: Brought forth by A'rastheon in the Second Creation
+  event: Brought forth by Aúrastheon in the Second Creation
 - period: FA
   event: 'First great work: inlaid the earth with veins of precious metals and gems'
 - period: FA
   event: 'Created three minor deity aspects: Illysia, Vaelynn, and Asteron'
 - period: FA
-  event: Co-created the Dwarves with Tham'dran — beings of methodical endurance and perfection
+  event: Co-created the Dwarves with Thamédran — beings of methodical endurance and perfection
 - period: FA
   event: United with the other First Hands against Kael'Zorai in the Paroxysm
 - period: FA
@@ -178,21 +178,21 @@ modified: '2026-03-28'
 ---
 # Myrasael
 
-**Myrasael** is the First Hand of Refinement — one of the four divine beings brought forth by [[A'rastheon]] in the Second Creation. Myrasael embodies beauty, value, and perfection of form. Of all the First Hands, Myrasael is that which elevates raw creation into meaningful expression.
+**Myrasael** is the First Hand of Refinement — one of the four divine beings brought forth by [[Aúrastheon]] in the Second Creation. Myrasael embodies beauty, value, and perfection of form. Of all the First Hands, Myrasael is that which elevates raw creation into meaningful expression.
 
 ## Domain and Essence
 
-Myrasael's domain encompasses beauty in all its forms: precious metals and gems, artistry, the refinement of the raw into the sublime. Where [[Tham'dran]] provides structure and [[Virandros]] brings life, Myrasael reveals the hidden beauty within both.
+Myrasael's domain encompasses beauty in all its forms: precious metals and gems, artistry, the refinement of the raw into the sublime. Where [[Thamédran]] provides structure and [[Virandros]] brings life, Myrasael reveals the hidden beauty within both.
 
 ## First Great Work
 
-Myrasael inlaid the earth of [[Vaeloris]] with veins of precious metals and gems — adorning the foundations [[Tham'dran]] had laid with concentrated beauty.
+Myrasael inlaid the earth of [[Vaeloris]] with veins of precious metals and gems — adorning the foundations [[Thamédran]] had laid with concentrated beauty.
 
 ## Mortal Creations
 
 ### The Dwarves
 
-Through collaborative creation with [[Tham'dran]], Myrasael brought forth the [[Dwarves]] — beings of methodical endurance who seek perfection in their craft. The Dwarves embody the combined essences of Stability and Refinement: masterful craftspeople who create objects of enduring beauty.
+Through collaborative creation with [[Thamédran]], Myrasael brought forth the [[Dwarves]] — beings of methodical endurance who seek perfection in their craft. The Dwarves embody the combined essences of Stability and Refinement: masterful craftspeople who create objects of enduring beauty.
 
 ### The Waldkyn
 

@@ -18,15 +18,15 @@ relationships:
 - target: '[[Vorok-Varr]]'
   type: founder
   metadata:
-    description: Founded the Listener's Clan on Aerin'r'
-- target: '[[Aerin''r'']]'
+    description: Founded the Listener's Clan on Aerinórë
+- target: '[[Aerinórë]]'
   type: custom
   metadata:
     description: 'settler: Chose the pristine continent as the site for a peaceful Orkin society'
 - target: '[[Waldkyn]]'
   type: ally
   metadata:
-    description: Integrated with local Waldkyn communities on Aerin'r'
+    description: Integrated with local Waldkyn communities on Aerinórë
 - target: '[[Varr-Darg]]'
   type: member
   metadata:
@@ -43,13 +43,13 @@ relationships:
   period: SA:700-
 timeline:
 - period: SA:761-
-  event: Led a group of Orkin to the newly discovered continent of Aerin'r'
+  event: Led a group of Orkin to the newly discovered continent of Aerinórë
 - period: SA:761
   event: Founded the Vorok-Varr, the Listener's Clan, on the pristine continent
 - period: SA:761
   event: 'Established the Vorok-Kal philosophy: that Grom-Kain''s true test was the endurance of spirit, not of arms'
 - period: SA:761-
-  event: Integrated with local Waldkyn and Mirennian communities, transforming Orkin cultural identity on Aerin'r'
+  event: Integrated with local Waldkyn and Mirennian communities, transforming Orkin cultural identity on Aerinórë
 tags:
 - person
 - orkin
@@ -61,7 +61,7 @@ modified: '2026-03-15'
 ---
 # Vorok the Listener
 
-**Vorok the Listener** was an [[Orkin]] shaman who took the most radical step in the history of his people: he rejected violence. In doing so, he founded the **[[Vorok-Varr]]** -- the Listener's Clan -- a peaceful [[Orkin]] community on the pristine continent of [[Aerin'r']] that reinterpreted the core mandate of [[Grom-Kain]] as a test of spiritual endurance rather than physical survival.
+**Vorok the Listener** was an [[Orkin]] shaman who took the most radical step in the history of his people: he rejected violence. In doing so, he founded the **[[Vorok-Varr]]** -- the Listener's Clan -- a peaceful [[Orkin]] community on the pristine continent of [[Aerinórë]] that reinterpreted the core mandate of [[Grom-Kain]] as a test of spiritual endurance rather than physical survival.
 
 ## The Heresy of Peace
 
@@ -71,11 +71,11 @@ Vorok heard something different in the old chants. He argued that [[Grom-Kain]]'
 
 This was heresy of the highest order. Among the mainland clans, it was considered worse than cowardice -- it was a betrayal of the forge-god's design.
 
-## The Journey to Aerin'r'
+## The Journey to Aerinórë
 
-When [[Mirennians|Mirennian]] sailors discovered the northern continent of [[Aerin'r']] around **SA 761** and swore a pact of non-interference with its inhabitants, Vorok saw an opportunity. He gathered those [[Orkin]] willing to follow him -- a mix of war-weary [[Gral]] veterans and [[Skorn]] who had grown tired of the endless cycle of raid and retaliation -- and negotiated passage to the new land.
+When [[Mirennians|Mirennian]] sailors discovered the northern continent of [[Aerinórë]] around **SA 761** and swore a pact of non-interference with its inhabitants, Vorok saw an opportunity. He gathered those [[Orkin]] willing to follow him -- a mix of war-weary [[Gral]] veterans and [[Skorn]] who had grown tired of the endless cycle of raid and retaliation -- and negotiated passage to the new land.
 
-On [[Aerin'r']], they found [[Waldkyn]] and scattered [[Humans]] living in harmony with the natural world. Rather than competing for territory, Vorok and his followers integrated with these communities, transforming their cultural drive from survival into stewardship.
+On [[Aerinórë]], they found [[Waldkyn]] and scattered [[Humans]] living in harmony with the natural world. Rather than competing for territory, Vorok and his followers integrated with these communities, transforming their cultural drive from survival into stewardship.
 
 ## The Vorok-Kal Philosophy
 

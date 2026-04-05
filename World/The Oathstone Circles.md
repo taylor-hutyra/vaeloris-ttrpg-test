@@ -17,11 +17,11 @@ relationships:
 - target: '[[Vardris]]'
   type: founded-by
   period: FA
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: related
   period: FA
   metadata:
-    description: Vardris, who created these circles, is an aspect of Tham'dran
+    description: Vardris, who created these circles, is an aspect of Thamédran
 - target: '[[The Golden Age of Creation]]'
   type: involved-in
   period: FA

@@ -72,7 +72,7 @@ Melek's death three days later -- his brain burned out from channeling too much 
 
 ## Codification
 
-The persecution ended only after the Battle of Crimson Field (SA:1695), where [[Gearhaven]]'s battle-mages annihilated a Republican army fifty times their number. The [[Treaty of the Silver Quill]] (SA:1700) legalized magic, and the [[Grand University]] was founded in [[M'ren'r']] in SA:1750 to standardize magical education and prevent another catastrophic "Wild Years."
+The persecution ended only after the Battle of Crimson Field (SA:1695), where [[Gearhaven]]'s battle-mages annihilated a Republican army fifty times their number. The [[Treaty of the Silver Quill]] (SA:1700) legalized magic, and the [[Grand University]] was founded in [[Mórenórë]] in SA:1750 to standardize magical education and prevent another catastrophic "Wild Years."
 
 Arcanology was organized into formal schools: Elemental Manipulation, Transmutation, Kinetics, Divination, Warding, and Enhancement. Students progressed through rigorous examinations, and the [[Magister's Council]] oversaw state-sanctioned practitioners in the former Republic.
 

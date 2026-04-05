@@ -10,7 +10,7 @@ headquarters: null
 leader: null
 territory:
 - '[[Aurumport]]'
-- '[[M''ren''r'']]'
+- '[[Mórenórë]]'
 - various cities
 influence: covert but extensive
 goals:
@@ -51,7 +51,7 @@ modified: '2026-03-15'
 ---
 # Spicers' Guild
 
-The Spicers' Guild is the closest thing [[Halflings|Halfling]] Wayfinders have to a government. On the surface, it operates as a legitimate merchant guild controlling the import of exotic spices and luxury goods in cities like [[Aurumport]] and [[M'ren'r']]. In reality, it is a vast intelligence network, information brokerage, and mutual aid society for the Wayfinder community.
+The Spicers' Guild is the closest thing [[Halflings|Halfling]] Wayfinders have to a government. On the surface, it operates as a legitimate merchant guild controlling the import of exotic spices and luxury goods in cities like [[Aurumport]] and [[Mórenórë]]. In reality, it is a vast intelligence network, information brokerage, and mutual aid society for the Wayfinder community.
 
 ## Purpose & Goals
 

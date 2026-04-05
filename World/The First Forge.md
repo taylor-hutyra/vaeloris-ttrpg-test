@@ -25,11 +25,11 @@ relationships:
   type: related
   metadata:
     description: The First Hammer remains here for worthy craftspeople
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: related
   period: FA
   metadata:
-    description: Korthak, who founded this forge, is an aspect of Tham'dran
+    description: Korthak, who founded this forge, is an aspect of Thamédran
 - target: '[[The Golden Age of Creation]]'
   type: involved-in
   period: FA

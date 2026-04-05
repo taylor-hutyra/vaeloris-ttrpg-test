@@ -9,7 +9,7 @@ period: FA
 duration: Unknown — years or decades
 location: '[[Vaeloris]]'
 participants:
-- '[[Tham''dran]]'
+- '[[Thamédran]]'
 - '[[Virandros]]'
 - '[[Myrasael]]'
 - '[[Elaraieth]]'
@@ -64,7 +64,7 @@ relationships:
 - target: '[[Kael''Zorai]]'
   type: involved
   period: FA
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: involved
   period: FA
 - target: '[[Virandros]]'
@@ -148,16 +148,16 @@ relationships:
   type: followed
   metadata:
     description: The Golden Age ended when Kael'Zorai's corruption became undeniable
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: involved
   period: FA
   metadata:
-    description: A'rastheon's Third Creation (Kael'Zorai) was the cause of the Divine War
-- target: '[[Aen''r-Khadaz]]'
+    description: Aúrastheon's Third Creation (Kael'Zorai) was the cause of the Divine War
+- target: '[[Aenûr-Khadaz]]'
   type: involved
   period: FA
   metadata:
-    description: United with other First Hands to seal Ulzammar — Dur'k Thul (the Fracture of Law)
+    description: United with other First Hands to seal Ulzammar — Durâk Thul (the Fracture of Law)
 - target: '[[Aenareth]]'
   type: involved
   period: FA
@@ -279,7 +279,7 @@ As Kael'Zorai's influence expanded, the world strained under increasingly rigid 
 
 ## The Four Unite Against the Fifth
 
-[[Tham'dran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] recognized that Kael'Zorai sought not harmony but total dominion — intending to rewrite all of creation into a singular, perfect, but ultimately static order. Their unity sparked a metaphysical upheaval that reshaped the foundations of reality.
+[[Thamédran]], [[Virandros]], [[Myrasael]], and [[Elaraieth]] recognized that Kael'Zorai sought not harmony but total dominion — intending to rewrite all of creation into a singular, perfect, but ultimately static order. Their unity sparked a metaphysical upheaval that reshaped the foundations of reality.
 
 ## The Cosmic Conflict
 

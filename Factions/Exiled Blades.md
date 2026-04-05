@@ -21,7 +21,7 @@ relationships:
   type: custom
   metadata:
     description: exiled from
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: custom
   metadata:
     description: banished from
@@ -37,7 +37,7 @@ relationships:
     description: exiled former members
 timeline:
 - period: ''
-  event: Exiled from Hannan'r' for extreme militancy
+  event: Exiled from Hannanórë for extreme militancy
 - period: ''
   event: Established a military encampment in the Crimson Wastes
 tags:
@@ -50,7 +50,7 @@ modified: '2026-03-15'
 ---
 # Exiled Blades
 
-The Exiled Blades are a band of [[Cirhannim]] warriors banished from [[Hannan'r']] for their extreme militancy. They believe that harmony can only be achieved by surgically excising all dissonance from the world with steel. Now based in the [[Crimson Wastes]], they operate as fanatical, disciplined mercenaries.
+The Exiled Blades are a band of [[Cirhannim]] warriors banished from [[Hannanórë]] for their extreme militancy. They believe that harmony can only be achieved by surgically excising all dissonance from the world with steel. Now based in the [[Crimson Wastes]], they operate as fanatical, disciplined mercenaries.
 
 ## Purpose & Goals
 
@@ -62,7 +62,7 @@ The Exiled Blades operate as a **military meritocracy** led by a single **Warlor
 
 ## History
 
-The Blades were once warriors of [[Hannan'r']], likely members of the Silent Sentinels caste or aligned with the militant elements of [[House Lyrandor]]. Their conviction that active military force---not passive concealment---was the answer to the world's growing dissonance brought them into direct conflict with the [[Sun-Leaf Conclave]]. The council declared their philosophy a *Song-Wrong* and exiled them. They crossed into the [[Crimson Wastes]], where the harsh environment forged them into an even harder fighting force.
+The Blades were once warriors of [[Hannanórë]], likely members of the Silent Sentinels caste or aligned with the militant elements of [[House Lyrandor]]. Their conviction that active military force---not passive concealment---was the answer to the world's growing dissonance brought them into direct conflict with the [[Sun-Leaf Conclave]]. The council declared their philosophy a *Song-Wrong* and exiled them. They crossed into the [[Crimson Wastes]], where the harsh environment forged them into an even harder fighting force.
 
 ## Notable Members
 

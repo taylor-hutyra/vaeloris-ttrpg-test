@@ -15,11 +15,11 @@ role: Minor deity — keeper of sacred oaths and binding commitments
 title: The Eternal
 gender: null
 relationships:
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: created-by
   period: FA
   metadata:
-    description: Aspect of Tham'dran's essence
+    description: Aspect of Thamédran's essence
 - target: '[[The Oathstone Circles]]'
   type: founder
   period: FA
@@ -28,11 +28,11 @@ relationships:
 - target: '[[Korthak]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[Bjalmund]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[The Paroxysm]]'
   type: involved-in
   period: FA
@@ -55,7 +55,7 @@ relationships:
     description: Departed the physical plane with the other minor deities
 timeline:
 - period: FA
-  event: Created by Tham'dran as a minor deity aspect during the expanded Second Creation
+  event: Created by Thamédran as a minor deity aspect during the expanded Second Creation
 - period: FA
   event: Created the Oathstone Circles where unbreakable vows could be sworn
 - period: FA
@@ -76,7 +76,7 @@ modified: '2026-03-28'
 ---
 # Vardris
 
-**Vardris the Eternal** is a minor deity created by [[Tham'dran]] during the expanded phase of the Second Creation. Vardris is the keeper of sacred oaths and binding commitments — the divine guarantor that words given in earnest carry the weight of permanence.
+**Vardris the Eternal** is a minor deity created by [[Thamédran]] during the expanded phase of the Second Creation. Vardris is the keeper of sacred oaths and binding commitments — the divine guarantor that words given in earnest carry the weight of permanence.
 
 ## Sacred Works
 

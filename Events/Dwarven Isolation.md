@@ -92,4 +92,4 @@ This was the first major step in Dwarven withdrawal from the wider world. While 
 
 ## Cultural Stagnation
 
-With external influences cut off, Dwarven culture turned inward. The rigid caste system established during the [[Unification of Dwarven Clans]] calcified without the challenge of new ideas. Innovation slowed. Tradition became dogma. The seeds of future crises — the Thulkor'n exile, the Bronr'n Exodus, and ultimately the [[Sealing of Kharnzarak]] — were planted in this era of proud isolation.
+With external influences cut off, Dwarven culture turned inward. The rigid caste system established during the [[Unification of Dwarven Clans]] calcified without the challenge of new ideas. Innovation slowed. Tradition became dogma. The seeds of future crises — the Thulkorûn exile, the Bronrûn Exodus, and ultimately the [[Sealing of Kharnzarak]] — were planted in this era of proud isolation.

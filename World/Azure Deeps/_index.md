@@ -62,7 +62,7 @@ The shallower coastal waters serve as borderlands where the Mirelarim maintain c
 
 ## The Mirelarim
 
-The [[Mirelarim]] are an Elven people who trace their divergence from surface Elven culture to the same era as the [[Sael'anir]] separation. Where the Sael'anir left the forest of [[Hannan'r']] to wander the plains and map the stars, the Mirelarim heard the Song of the World most clearly in the deep currents and tidal rhythms of the ocean. They adapted — physically and culturally — to a life beneath the waves, developing a civilization built on patience, observation, and harmony with the sea.
+The [[Mirelarim]] are an Elven people who trace their divergence from surface Elven culture to the same era as the [[Sael'anir]] separation. Where the Sael'anir left the forest of [[Hannanórë]] to wander the plains and map the stars, the Mirelarim heard the Song of the World most clearly in the deep currents and tidal rhythms of the ocean. They adapted — physically and culturally — to a life beneath the waves, developing a civilization built on patience, observation, and harmony with the sea.
 
 Their society is structured around the Tidal Courts, each governing a different depth and region of the ocean. The deepest courts are the most prestigious, their inhabitants adapted to pressures that would crush surface dwellers. The Mirelarim communicate through a complex language of bioluminescent patterns, sonar-like pulses, and harmonic singing that carries for leagues through the water.
 

@@ -240,7 +240,7 @@ Some Vyr'skalii genuinely believe in their protective mission — they see scatt
 
 ### Zhel'nov — The Reformists and Exiles
 
-The **Zhel'nov** ("Those Who Turn") are the Drakona intelligentsia — artists, scholars, merchants, and dissidents who reject the Vozhdate's authoritarianism and seek integration with other races. Many Zhel'nov have fled the homeland entirely, forming exile communities in [[M'ren'r']], [[Novaterra]], and cosmopolitan port cities.
+The **Zhel'nov** ("Those Who Turn") are the Drakona intelligentsia — artists, scholars, merchants, and dissidents who reject the Vozhdate's authoritarianism and seek integration with other races. Many Zhel'nov have fled the homeland entirely, forming exile communities in [[Mórenórë]], [[Novaterra]], and cosmopolitan port cities.
 
 Zhel'nov writers and composers produce some of the most haunting art in [[Vaeloris]] — music that blends Drakona fire-chants with Mirennian sea-songs, literature that grapples with collective guilt over the invasion era. They are loathed by the Khor'drak as traitors and watched by the Zhar'kov even in exile. Despite this, the Zhel'nov maintain underground networks that smuggle dissidents out of Drakenvast and funnel forbidden texts back in.
 

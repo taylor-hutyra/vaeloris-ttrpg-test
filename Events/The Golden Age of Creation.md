@@ -10,7 +10,7 @@ period: FA
 duration: Unknown — the period between the Second Creation and Kael'Zorai's corruption
 location: '[[Vaeloris]]'
 participants:
-- '[[Tham''dran]]'
+- '[[Thamédran]]'
 - '[[Virandros]]'
 - '[[Myrasael]]'
 - '[[Elaraieth]]'
@@ -46,7 +46,7 @@ relationships:
   type: involved
   metadata:
     description: Secretly created during this period by Ceridara and Illysia
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: involved
   period: FA
   metadata:

@@ -18,7 +18,7 @@ The campaign takes place 89 years after Melek the Grey first demonstrated mortal
 **What exists at SA:1490:**
 - **Varnathi Pentarchy** — The Republic that issued the Decree. Internally paralyzed between the Crimson Banner (hawks), Marble Hand (traditionalists), and Open Palm (reformists). The Consul of Blades and General Valerius push for ever-more-aggressive purges.
 - **Mirennian League** — Maritime alliance of merchant houses. Publicly condemns magic; privately profits. The Azure Hand (smuggling house) runs the refugee-trafficking operation. The Golden Compass Syndicate controls "legitimate" trade. The Sea-Whisperers' Guild holds kingmaker power through Wind-Shaping magic (which is tolerated because it predates the Decree and the League needs it for naval supremacy).
-- **Kharnzarak** — Sealed behind the Adamant Gates since SA:1400. The Dwarven kingdom is a sealed tomb ruled by the paranoid legacy of High King Thorgar VI. Inside, the Bronr'n Legacy (secret reformists) plots in abandoned tunnels.
+- **Kharnzarak** — Sealed behind the Adamant Gates since SA:1400. The Dwarven kingdom is a sealed tomb ruled by the paranoid legacy of High King Thorgar VI. Inside, the Bronrûn Legacy (secret reformists) plots in abandoned tunnels.
 - **Gearhaven** — Founded only 5 years ago (SA:1485). A frontier boomtown built into sea cliffs at Rust-Water Bay, Novaterra. Elm-korin Dwarves, human mages, and Gnomes are inventing technomancy in real time. Not yet a metropolis — more like a gold-rush settlement crackling with dangerous potential.
 - **Pirate Confederacy** — 470 years old and well-established. Rules from Serpent's Tooth in the Fractured Isles. Governed loosely by the Captains' Council under the Code of the Coast.
 - **Shadewalkers** — 780 years old. Operating from Port Farrick's shadows. Their Whisper-Market (est. SA:880) trades secrets like commodities. They saved forbidden magical texts from the Decree's bonfires and now sell them at enormous profit.
@@ -41,7 +41,7 @@ The campaign takes place 89 years after Melek the Grey first demonstrated mortal
 
 2. **Gearhaven is a frontier boomtown**, not a metropolis. The players arrive at the BIRTH of something world-changing. Scaffolding and geothermal steam everywhere. Elm-korin engineers arguing over blueprints. Human mages contributing arcane theory. Gnomes building the first clockwork prototypes. This is more visceral and personal than visiting an established city.
 
-3. **The Waldkyn arc happens on the mainland**, in the Whispering Vales or at the borders of Hannan'r' (the hidden Elven forest concealed by the Great Weaving). The three-faction Waldkyn political split provides far richer dramatic tension than a simple "peaceful enclave."
+3. **The Waldkyn arc happens on the mainland**, in the Whispering Vales or at the borders of Hannanórë (the hidden Elven forest concealed by the Great Weaving). The three-faction Waldkyn political split provides far richer dramatic tension than a simple "peaceful enclave."
 
 4. **"Ulzammar" is the Dwarven name for Kael'Zorai** — the Sealed Concept, the forbidden Fifth Pillar. Any artifact bearing this name is heretical to orthodox Dwarves and potentially sacred to the Elm-korin. This adds deep factional tension to every interaction involving the Crown.
 
@@ -269,7 +269,7 @@ The city is alive with the energy of people building something unprecedented —
 
 - **Cogmaster Pip Sprocket** — A Rock Gnome who designed Gearhaven's first Arcane Conduits. Cheerful, curious, deeply worried. Pip has noticed anomalies in the Brass Heart's output — harmonic distortions that don't match normal mana flow. He suspects the Heart is more than a simple crystal, but Thaelra won't hear it. There's no time for caution when the jungle wants you dead.
 
-- **Sergeant Hrothgar** — A Thulkor'n Dwarf mercenary leading the city's militia. Pragmatic, bitter, fiercely protective of the refugee population. He doesn't care about technomancy or politics — he cares about the 2,000 people depending on the city's defenses to keep them alive.
+- **Sergeant Hrothgar** — A Thulkorûn Dwarf mercenary leading the city's militia. Pragmatic, bitter, fiercely protective of the refugee population. He doesn't care about technomancy or politics — he cares about the 2,000 people depending on the city's defenses to keep them alive.
 
 - **Azure Hand Contact: "The Bookkeeper"** — A human man who runs a "general supplies" shop as cover for Azure Hand operations. This is who the players deliver Vesper's package to. He's nervous, knows more than he lets on, and can provide intelligence on the Brass Heart's location.
 
@@ -319,7 +319,7 @@ Without it, Serpent's Tooth becomes vulnerable to naval assault and the reefs be
 
 - **Captain-General Zara "Salt-Blood" Vane** — Granddaughter of the legendary Captain Vane who founded the Confederacy (assassinated SA:1070). She holds the Captains' Council together through charisma and tactical genius. She KNOWS the Eye is more than a lighthouse crystal but doesn't care — it keeps her people alive. She's the closest thing the Confederacy has to a ruler, and she rules by earning it every day.
 
-- **Captain Drest "Three-Fingers" Moray** — A scarred Thulkor'n Dwarf who captains the fastest ship in the fleet. He wants Zara's seat and has been quietly building a coalition among the smaller captains. He's not evil — he genuinely believes Zara's protectionism is stifling the Confederacy's growth. He'd be willing to help the players... for a price.
+- **Captain Drest "Three-Fingers" Moray** — A scarred Thulkorûn Dwarf who captains the fastest ship in the fleet. He wants Zara's seat and has been quietly building a coalition among the smaller captains. He's not evil — he genuinely believes Zara's protectionism is stifling the Confederacy's growth. He'd be willing to help the players... for a price.
 
 - **The Drowned Sage** — A mysterious figure who lives in the flooded First Age ruins beneath the Eye Tower. Claims to be a scholar who came to study the ruins and "forgot to leave." In reality, a Shadewalker archivist who's been cataloguing the First Age site for decades. Knows the Eye Tower's magical tether system in detail. Will trade knowledge for secrets.
 
@@ -554,7 +554,7 @@ Old Cira smiles and says: "The wind writes where we forget. But today, even the 
 | **Vesper Moraine** | Azure Hand Smuggler | I, II | Mercenary morality, the price of passage |
 | **Arch-Artisan Thaelra** | Gearhaven Leader | II-A | The weight of impossible choices, progress at any cost |
 | **Cogmaster Pip** | Gnomish Engineer | II-A | Curiosity, worry, the voice of caution |
-| **Sergeant Hrothgar** | Thulkor'n Militia | II-A | Bitter loyalty, protecting the vulnerable |
+| **Sergeant Hrothgar** | Thulkorûn Militia | II-A | Bitter loyalty, protecting the vulnerable |
 | **Captain Zara Vane** | Pirate Captain-General | II-B | Honor, freedom, the betrayal of trust |
 | **Captain Drest Moray** | Rival Pirate Captain | II-B | Ambition, pragmatism, alliance of convenience |
 | **The Drowned Sage** | Shadewalker Archivist | II-B | Hidden knowledge, the price of secrets |

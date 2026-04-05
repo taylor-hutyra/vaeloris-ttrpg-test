@@ -73,7 +73,7 @@ The press shattered that monopoly. Within a decade of its invention:
 - **Literacy rates doubled** in regions where the press was adopted
 - **Pamphlets** became a tool of political discourse, allowing common people to debate ideas that had previously circulated only in elite councils
 - **Guild secrets** began to leak to the public, threatening the monopoly of artisan guilds and the [[Shadewalkers]]
-- **Academic texts** became affordable, accelerating the spread of knowledge from the [[Grand University]] and [[M'ren'r']]
+- **Academic texts** became affordable, accelerating the spread of knowledge from the [[Grand University]] and [[Mórenórë]]
 
 ## Cultural Significance
 

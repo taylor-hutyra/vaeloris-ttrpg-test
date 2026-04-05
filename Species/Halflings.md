@@ -20,8 +20,8 @@ habitat:
 - '[[Greenmeadow]]'
 - '[[The Burrows]]'
 - '[[Aurumport]]'
-- '[[M''ren''r'']]'
-- '[[Aerin''r'']]'
+- '[[Mórenórë]]'
+- '[[Aerinórë]]'
 population: moderate
 relationships:
 - target: '[[Gnomes]]'
@@ -51,12 +51,12 @@ relationships:
   period: SA:1280-
   metadata:
     description: Treaty of the Hearth grants Halfling permanent neutrality; wary coexistence
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: native
   period: SA
   metadata:
-    description: Hollowkin Settlement on Aerin'r' — integrated community with local Gnomes
-- target: '[[M''ren''r'']]'
+    description: Hollowkin Settlement on Aerinórë — integrated community with local Gnomes
+- target: '[[Mórenórë]]'
   type: native
   period: SA
   metadata:
@@ -163,7 +163,7 @@ relationships:
 - target: '[[Hollowkin Settlement]]'
   type: native
   period: SA:900-
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: located-in
   period: SA
   metadata:
@@ -260,7 +260,7 @@ Major families include:
 
 ### The Wayfinders (Wandering Halflings)
 
-The [[Wayfinders]] are the exception to the Halfling rule, driven by a curiosity that outweighs their love of comfort — a trait their Hearthfolk kin call **"the Itchy-Foot."** They venture into the wider world as adventurers, traders, couriers, and rogues, thriving in the bustling cities of the Tallfolk. They use their natural stealth, cleverness, and disarming charm to navigate the "Big Scramble." In cities like [[Aurumport]] and [[M'ren'r']], they operate through the **Spicers' Guild** — on the surface a legitimate merchant guild, in reality a vast intelligence network and mutual aid society led by the shadowy **Whisper-Master**.
+The [[Wayfinders]] are the exception to the Halfling rule, driven by a curiosity that outweighs their love of comfort — a trait their Hearthfolk kin call **"the Itchy-Foot."** They venture into the wider world as adventurers, traders, couriers, and rogues, thriving in the bustling cities of the Tallfolk. They use their natural stealth, cleverness, and disarming charm to navigate the "Big Scramble." In cities like [[Aurumport]] and [[Mórenórë]], they operate through the **Spicers' Guild** — on the surface a legitimate merchant guild, in reality a vast intelligence network and mutual aid society led by the shadowy **Whisper-Master**.
 
 ## Notable Figures
 
@@ -272,4 +272,4 @@ The [[Wayfinders]] are the exception to the Halfling rule, driven by a curiosity
 
 - **The River-Folk of the Silkenflow** — Semi-nomadic Halflings on flotillas of interconnected river barges, led by a Flotilla-Council where each barge captain has an equal vote. Their Commodore is elected for their knowledge of the river's currents and skill in trade negotiations. They are masters of smuggling and fiercely independent
 - **The Brinepipers of the Salty Coast** — Hardy coastal Halflings on [[Novaterra]], renowned fishers, salt-miners, and brewers of famously potent seaweed grog. Their Mayor is chosen not by vote but by who brings in the largest fish during the annual Brine-Tide Festival. They have a tense but profitable relationship with the [[Pirate Confederacy]], acting as primary food suppliers in exchange for protection from [[Mirennian League]] taxes
-- **The Hollowkin Settlement of [[Aerin'r']]** — An integrated community with local [[Gnomes]], governed by a Joint-Hollow Council, a testament to the historic **Declaration of Hollowkin Rights**
+- **The Hollowkin Settlement of [[Aerinórë]]** — An integrated community with local [[Gnomes]], governed by a Joint-Hollow Council, a testament to the historic **Declaration of Hollowkin Rights**

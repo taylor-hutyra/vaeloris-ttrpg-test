@@ -291,7 +291,7 @@ Governed by a Ruling Council of Archmages, the Magocracy enforces its will throu
 
 ## History
 
-After the Skyfall grounded the [[Drakona]], the Coalition of Mages leveraged the resulting [[Grey Rot]] crisis to seize global authority. They declared the Rot contained, took credit for saving the world, and built an authoritarian order enforced by arcane law. The [[Laws of Accord]] codified their power, fixing borders, declaring [[Aerin'r']] a sanctuary, and guaranteeing their jurisdiction over all things magical.
+After the Skyfall grounded the [[Drakona]], the Coalition of Mages leveraged the resulting [[Grey Rot]] crisis to seize global authority. They declared the Rot contained, took credit for saving the world, and built an authoritarian order enforced by arcane law. The [[Laws of Accord]] codified their power, fixing borders, declaring [[Aerinórë]] a sanctuary, and guaranteeing their jurisdiction over all things magical.
 
 ## Notable Members
 

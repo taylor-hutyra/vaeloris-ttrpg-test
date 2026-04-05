@@ -27,11 +27,11 @@ relationships:
   period: FA
   metadata:
     description: Kael'Zorai used this realm as the source of monsters in the final stages before the Binding
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: related
   period: FA
   metadata:
-    description: Indirectly created through Kael'Zorai, whom A'rastheon brought forth
+    description: Indirectly created through Kael'Zorai, whom Aúrastheon brought forth
 - target: '[[The Paroxysm]]'
   type: involved-in
   metadata:

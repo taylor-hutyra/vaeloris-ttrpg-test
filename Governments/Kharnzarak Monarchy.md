@@ -29,7 +29,7 @@ relationships:
   type: ally
   metadata:
     nature: distant respect
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: controls
   period: SA:91-
   metadata:
@@ -62,7 +62,7 @@ relationships:
   type: controls
   period: SA:91-
   metadata:
-    description: N'nm-Khazal'n ruled by the hereditary Stone-Sworn monarchy
+    description: Nûm-Khazalûn ruled by the hereditary Stone-Sworn monarchy
 timeline:
 - period: '3100'
   event: N'om-Khazal'on opens a single trade gate for selling steel and gold

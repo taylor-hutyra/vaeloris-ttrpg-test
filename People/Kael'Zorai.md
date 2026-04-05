@@ -18,17 +18,17 @@ died: null
 birthplace: null
 residence: null
 faction: null
-role: First Hand — the Fifth, created independently by A'rastheon to establish temporal order; sealed and imprisoned after
+role: First Hand — the Fifth, created independently by Aúrastheon to establish temporal order; sealed and imprisoned after
   the Paroxysm
 title: The Fifth First Hand
 gender: null
 relationships:
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: created-by
   period: FA
   metadata:
     description: Created independently in the Third Creation — had no archetypal partner
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: enemy
   period: FA
   metadata:
@@ -70,12 +70,12 @@ relationships:
 - target: '[[Aenareth]]'
   type: creator
   metadata:
-    description: Fellow First Hand (cultural name for A'rastheon)
+    description: Fellow First Hand (cultural name for Aúrastheon)
     nature: collaborative
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: creator
   metadata:
-    description: Fellow First Hand (cultural name for A'rastheon)
+    description: Fellow First Hand (cultural name for Aúrastheon)
     nature: collaborative
 - target: '[[Grom-Kain Worship]]'
   type: worshipped-by
@@ -140,7 +140,7 @@ relationships:
   type: custom
   metadata:
     description: possible connection
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: created-by
   metadata:
     description: Fellow First Hand, later adversary in the Paroxysm
@@ -206,7 +206,7 @@ relationships:
     description: scarred-by
 timeline:
 - period: FA
-  event: Created independently by A'rastheon in the Third Creation to establish temporal order, law, and structured sequence
+  event: Created independently by Aúrastheon in the Third Creation to establish temporal order, law, and structured sequence
 - period: FA
   event: Established the flow of Time throughout reality and codified the Laws of Magic
 - period: FA
@@ -240,7 +240,7 @@ modified: '2026-03-15'
 
 ## Origin — The Third Creation
 
-Unlike the four First Hands who were created together in the Second Creation, Kael'Zorai was brought forth by [[A'rastheon]] alone in the **Third Creation** — an independent act to address what the collaborative paradise still lacked: temporal order, finite progression, and structured sequence. Kael'Zorai had no archetypal partner, no divine companion to balance its nature. This isolation would prove to be both its greatest strength and ultimate downfall.
+Unlike the four First Hands who were created together in the Second Creation, Kael'Zorai was brought forth by [[Aúrastheon]] alone in the **Third Creation** — an independent act to address what the collaborative paradise still lacked: temporal order, finite progression, and structured sequence. Kael'Zorai had no archetypal partner, no divine companion to balance its nature. This isolation would prove to be both its greatest strength and ultimate downfall.
 
 Kael'Zorai's initial contributions were essential: the establishment of **Time** as a flowing progression, the **codification of Magic** into laws mortals could channel, and systematic organization that gave meaning to past, present, and future. But without a balancing partner, these gifts curdled into obsession.
 
@@ -265,7 +265,7 @@ When Kael'Zorai moved to reshape creation, the other four First Hands united aga
 
 Every culture remembers this event through its own lens:
 - The [[Elves]] call it the **Alatirn'** (the Dissonance) and know Kael'Zorai only as **[[Elaru'n]]** — a nameless, faceless resonance of imbalance
-- The [[Dwarves]] name it **Dur'k Thul** (the Fracture of Law) and call the Fifth **Ulzammar** — the Sealed Concept
+- The [[Dwarves]] name it **Durâk Thul** (the Fracture of Law) and call the Fifth **Ulzammar** — the Sealed Concept
 - The [[Gnomes]] remember **Syn-Thalos** (the Pattern's Undoing) — a flawed gear that ground against the machine
 - The [[Waldkyn]] speak of the **Fifth Silence** — a voice that refused to listen
 - The [[Orkin]] call it **Kain's Fall** — the Great Betrayal, when jealous gods struck down their rightful creator

@@ -17,12 +17,12 @@ traits:
 - preservationist
 - deeply magical
 habitat:
-- '[[Hannan''r'']]'
+- '[[Hannanórë]]'
 population: moderate
 relationships:
 - target: '[[Elves]]'
   type: child
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: controls
 - target: '[[The Great Weaving]]'
   type: creator
@@ -52,12 +52,12 @@ relationships:
   type: ally
   period: SA:20-
   metadata:
-    description: Hannan'r' and the Whispering Vales maintain an alliance
+    description: Hannanórë and the Whispering Vales maintain an alliance
 - target: '[[Completion of the Great Weaving]]'
   type: involved-in
   period: SA:55
   metadata:
-    description: Wood Elves who chose to wall themselves off in Hannan'r'
+    description: Wood Elves who chose to wall themselves off in Hannanórë
 - target: '[[Exiled Blades]]'
   type: custom
   metadata:
@@ -78,14 +78,14 @@ relationships:
 - target: '[[The Four Harmonies]]'
   type: worships
   metadata:
-    description: The most traditional practitioners in Hannan'r'
+    description: The most traditional practitioners in Hannanórë
     nature: practice
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: related
   period: SA
   metadata:
     description: House Silvanus maintains forbidden contact with scholars here
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: native
   period: SA:55-
   metadata:
@@ -114,7 +114,7 @@ modified: '2026-03-15'
 ---
 # The Cirhannim
 
-The **Cirhannim**, or **Wood-Spirit People**, are the most traditionalist and isolationist of the [[Elves|Elven]] peoples. They remain on the original continent, primarily within the magically concealed forest of [[Hannan'r']], where they serve as guardians of the world-song's original composition. They created [[The Great Weaving]] -- the vast magical ward that shields their homeland from the outside world. Their cultural analog is Celtic/Druidic.
+The **Cirhannim**, or **Wood-Spirit People**, are the most traditionalist and isolationist of the [[Elves|Elven]] peoples. They remain on the original continent, primarily within the magically concealed forest of [[Hannanórë]], where they serve as guardians of the world-song's original composition. They created [[The Great Weaving]] -- the vast magical ward that shields their homeland from the outside world. Their cultural analog is Celtic/Druidic.
 
 ## Origin and Core Philosophy: Preservation
 
@@ -124,15 +124,15 @@ To the Cirhannim, the world-song is a sacred, finite composition that must be pr
 
 ## The Great Weaving
 
-[[The Great Weaving]] is the Cirhannim's greatest achievement and their defining creation -- a vast network of magical wards that conceals [[Hannan'r']] from the outside world. Woven over centuries by the most powerful Cirhannim mystics, with secret aid from [[Rock Gnomes]], the Weaving is both a shield and a statement of intent: the world outside may change, but [[Hannan'r']] will not.
+[[The Great Weaving]] is the Cirhannim's greatest achievement and their defining creation -- a vast network of magical wards that conceals [[Hannanórë]] from the outside world. Woven over centuries by the most powerful Cirhannim mystics, with secret aid from [[Rock Gnomes]], the Weaving is both a shield and a statement of intent: the world outside may change, but [[Hannanórë]] will not.
 
 The Weaving responds to the forest itself, strengthening where threats approach and thinning where the land is peaceful. Its maintenance is a sacred duty shared by the mystic houses.
 
-## Government: The Theocracy of Hannan'r'
+## Government: The Theocracy of Hannanórë
 
-[[Hannan'r']] is ruled by a theocratic monarchy that seeks to perfectly preserve the "First Song":
+[[Hannanórë]] is ruled by a theocratic monarchy that seeks to perfectly preserve the "First Song":
 
-- **The Monarch of the Verdant Throne** -- a hereditary ruler whose bloodline is said to be the most direct echo of the [[Evendari']]. The current monarch is **Queen [[Elara III]]**, who holds immense ceremonial power as the living symbol of [[Hannan'r']]'s unchanging grace.
+- **The Monarch of the Verdant Throne** -- a hereditary ruler whose bloodline is said to be the most direct echo of the [[Evendari']]. The current monarch is **Queen [[Elara III]]**, who holds immense ceremonial power as the living symbol of [[Hannanórë]]'s unchanging grace.
 - **The [[Talanvar']] Council** -- the true power in the kingdom. Composed of the eldest and most powerful mystics from the three great houses, they interpret the will of the forest, divine the meaning of the seasons, and can veto a monarch's decree by declaring it a **Song-Wrong** -- an act of profound disharmony.
 
 ## Societal Structure: The Caste of Harmony
@@ -152,8 +152,8 @@ The Talanvar' is not merely tradition -- it is experienced as a living, breathin
 
 ## Major Houses and Factions
 
-- **[[House Valerion]] (The Silent Weavers)** -- the most powerful and ancient house, dominating the [[Talanvar']] Council. They are staunch isolationists who believe any contact with the outside world will irrevocably taint their society. They are the primary political antagonists within [[Hannan'r']].
-- **[[House Silvanus]] (The Sunken-Leaf Faction)** -- a younger, less influential house that secretly believes [[Hannan'r']]'s perfect isolation has become a slow, silent decay. They argue that the [[Blight]] is a dissonance that cannot be ignored and maintain forbidden contact with scholars in [[M'ren'r']].
+- **[[House Valerion]] (The Silent Weavers)** -- the most powerful and ancient house, dominating the [[Talanvar']] Council. They are staunch isolationists who believe any contact with the outside world will irrevocably taint their society. They are the primary political antagonists within [[Hannanórë]].
+- **[[House Silvanus]] (The Sunken-Leaf Faction)** -- a younger, less influential house that secretly believes [[Hannanórë]]'s perfect isolation has become a slow, silent decay. They argue that the [[Blight]] is a dissonance that cannot be ignored and maintain forbidden contact with scholars in [[Mórenórë]].
 - **[[House Lyrandor]] (The Wardens)** -- the traditional house of the Silent Sentinels. Loyal to the throne and pragmatic at heart, their duty to the forest's physical safety sometimes puts them at odds with the council's rigid magical doctrines.
 
 ## View of Other Elves
@@ -175,9 +175,9 @@ Cirhannim speech is archaic and highly poetic. They view modern dialects as crud
 ## Common Phrases
 
 - *"L'ren i'laiv'"* -- "Sing in light." A universal blessing.
-- *"M'ress' n'r'"* -- "Silent path." A phrase for contemplation and meditation.
+- *"Móressë nórë"* -- "Silent path." A phrase for contemplation and meditation.
 - *"The song was whole before we added to it."* -- A rebuke against innovation.
 
 ## Sacred Texts
 
-The **N'ress' L'na** (The First Note) is a choral lament performed at the turning of every season. The **Calan'rion** (Chronicle of the Fourfold Bloom) is the great epic fragment that recounts the shaping of the world through the Four Harmonies. Both are sung, never merely spoken, for the Cirhannim believe that words without melody are words without truth.
+The **N'ress' L'na** (The First Note) is a choral lament performed at the turning of every season. The **Calanórion** (Chronicle of the Fourfold Bloom) is the great epic fragment that recounts the shaping of the world through the Four Harmonies. Both are sung, never merely spoken, for the Cirhannim believe that words without melody are words without truth.

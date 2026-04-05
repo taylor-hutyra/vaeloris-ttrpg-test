@@ -36,7 +36,7 @@ relationships:
   type: enemy
   metadata:
     description: One of the 'Soft Hands' who betrayed Grom-Kain
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: enemy
   metadata:
     description: One of the 'Soft Hands' who betrayed Grom-Kain
@@ -118,7 +118,7 @@ The majority faction among the [[Barren Hills|Varr-Darg]]. They embrace the retu
 A smaller but influential faction of shamans who commune with the spirits of the land. They sense something **wrong** in the new voice — a "silent, unnatural order" that is a **perversion** of Grom-Kain's true will. Grom-Kain forged the Orkin to endure; the Silent Blight annihilates life entirely. This, they argue, is not their creator's work but his **wound** — divine essence corrupted by millennia of imprisonment.
 
 ### The Vorok-Varr
-The [[Vorok-Varr]] of [[Aerin'r']], founded by the shaman Vorok the Listener, took the most radical path of all. Believing that Grom-Kain's true test was the endurance of **spirit**, not of arms, they made a vow of peace. Their interpretation of Trak is not about withstanding blows, but about withstanding the **temptation of violence**. They view the Silent Blight with deep suspicion and sorrow.
+The [[Vorok-Varr]] of [[Aerinórë]], founded by the shaman Vorok the Listener, took the most radical path of all. Believing that Grom-Kain's true test was the endurance of **spirit**, not of arms, they made a vow of peace. Their interpretation of Trak is not about withstanding blows, but about withstanding the **temptation of violence**. They view the Silent Blight with deep suspicion and sorrow.
 
 ## Practices and Rituals
 

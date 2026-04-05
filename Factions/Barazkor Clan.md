@@ -18,7 +18,7 @@ goals:
 - Maintain the supremacy of the High Clans
 - Enforce orthodoxy and punish deviation
 relationships:
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: member
   period: SA:91-
   metadata:
@@ -43,16 +43,16 @@ relationships:
   period: SA
   metadata:
     description: Gulgrym miners subordinate in the caste system; potential populist threat
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: enemy
   period: SA:1200-
   metadata:
     description: Actively hunts for signs of reformist activity; considers them treasonous
-- target: '[[Thulkor''n]]'
+- target: '[[Thulkorûn]]'
   type: enemy
   period: SA:365-
   metadata:
-    description: View Thulkor'n as criminals who broke their oaths, a source of shame
+    description: View Thulkorûn as criminals who broke their oaths, a source of shame
     nature: hostile
 - target: '[[Elm-korin]]'
   type: enemy
@@ -135,8 +135,8 @@ The Iron-Gavels are fiercely traditionalist and militant, serving as the wardens
 
 ## Political Stance
 
-The Barazkor view the [[Thulkor'on]] (Broken-Crafted) as criminals who broke their oaths, a source of shame. They view the [[Elm-korin]] (Flame-Struck) with contempt, as dangerous heretics who abandoned the purity of the stone. The [[Bronr'n Legacy]] reformists are considered a treasonous threat to be rooted out and destroyed.
+The Barazkor view the [[Thulkor'on]] (Broken-Crafted) as criminals who broke their oaths, a source of shame. They view the [[Elm-korin]] (Flame-Struck) with contempt, as dangerous heretics who abandoned the purity of the stone. The [[Bronrûn Legacy]] reformists are considered a treasonous threat to be rooted out and destroyed.
 
 ## Rivals
 
-The [[Farraz'ul Clan]] are their primary internal rivals, using wealth to challenge Barazkor military authority. The [[Gulgrym Clan]] represents a potential populist threat from below. The [[Bronr'n Legacy]] operates as a clandestine danger from within.
+The [[Farraz'ul Clan]] are their primary internal rivals, using wealth to challenge Barazkor military authority. The [[Gulgrym Clan]] represents a potential populist threat from below. The [[Bronrûn Legacy]] operates as a clandestine danger from within.

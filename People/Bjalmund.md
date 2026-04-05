@@ -15,11 +15,11 @@ role: Minor deity — guardian of protection and defensive strength
 title: The Shieldbearer
 gender: null
 relationships:
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: created-by
   period: FA
   metadata:
-    description: Aspect of Tham'dran's essence
+    description: Aspect of Thamédran's essence
 - target: '[[Ironheart Citadel]]'
   type: founder
   period: FA
@@ -36,11 +36,11 @@ relationships:
 - target: '[[Korthak]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[Vardris]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[Dwarves]]'
   type: teacher
   period: FA
@@ -76,7 +76,7 @@ relationships:
   period: SA:380
   metadata:
     description: Elven weavers helped seal the Scar after the Echo-Lord's defeat
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: ally
   period: SA:380
   metadata:
@@ -84,7 +84,7 @@ relationships:
 - target: '[[Frost-Forge of Bjalmund''s Spire]]'
   type: related
   metadata:
-    description: Minor deity — the Shieldbearer, aspect of Tham'dran
+    description: Minor deity — the Shieldbearer, aspect of Thamédran
     nature: namesake
 - target: '[[Dwarves]]'
   type: teacher
@@ -109,7 +109,7 @@ relationships:
     description: Avatar appeared to lead the charge
 timeline:
 - period: FA
-  event: Created by Tham'dran as a minor deity aspect during the expanded Second Creation
+  event: Created by Thamédran as a minor deity aspect during the expanded Second Creation
 - period: FA
   event: Built Ironheart Citadel as the model for all defensive architecture
 - period: FA
@@ -132,7 +132,7 @@ modified: '2026-03-28'
 ---
 # Bjalmund
 
-**Bjalmund the Shieldbearer** is a minor deity created by [[Tham'dran]] during the expanded phase of the Second Creation. Bjalmund is the guardian of protection and defensive strength — the divine embodiment of the principle that true power lies in sheltering others.
+**Bjalmund the Shieldbearer** is a minor deity created by [[Thamédran]] during the expanded phase of the Second Creation. Bjalmund is the guardian of protection and defensive strength — the divine embodiment of the principle that true power lies in sheltering others.
 
 ## Sacred Works
 

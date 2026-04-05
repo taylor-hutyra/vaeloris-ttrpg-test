@@ -56,7 +56,7 @@ relationships:
   period: SA
   metadata:
     description: The Lantern of Aurumport — a presence guiding lost ships safely to harbor in storms
-- target: '[[M''ren''r'']]'
+- target: '[[Mórenórë]]'
   type: native
   period: SA:2188
   metadata:
@@ -74,7 +74,7 @@ timeline:
 - period: SA:2032
   event: First Aetheris manifests outside Luminas, defending a refugee camp from bandits
 - period: SA:2188
-  event: The Hymn of the Hidden Star — blind musician Sylla in M'ren'r' reveals herself as an Aetheris in mortal guise, validating
+  event: The Hymn of the Hidden Star — blind musician Sylla in Mórenórë reveals herself as an Aetheris in mortal guise, validating
     the Velo Aspectus doctrine
 tags:
 - species
@@ -144,7 +144,7 @@ The Aetheris do not have named individuals in the traditional sense — their id
 
 - **The Lantern of [[Aurumport]]** — A presence said to appear in the harbor during the worst storms, its light guiding lost ships safely to shore
 - **The Quiet Singer** — An Aetheris rumored to walk the halls of the [[Church of the Celestial Word]]'s great cathedral, its hymns heard only by those in deepest prayer
-- **Sylla** — A blind musician in [[M'ren'r']] who gained fame for haunting compositions. Upon her deathbed (SA:2188), she revealed herself as an Aetheris who had lived a mortal life to understand human suffering. Her revelation validated the **Velo Aspectus** doctrine, and "Sylla's Hymn" became the anthem of the [[Church of the Celestial Word]]
+- **Sylla** — A blind musician in [[Mórenórë]] who gained fame for haunting compositions. Upon her deathbed (SA:2188), she revealed herself as an Aetheris who had lived a mortal life to understand human suffering. Her revelation validated the **Velo Aspectus** doctrine, and "Sylla's Hymn" became the anthem of the [[Church of the Celestial Word]]
 
 ## Celestian Language
 

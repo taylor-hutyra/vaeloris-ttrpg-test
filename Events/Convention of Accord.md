@@ -66,7 +66,7 @@ relationships:
   period: SA:3280
   metadata:
     description: Ashfall's sovereignty codified in the Convention
-- target: '[[Aerin''r'']]'
+- target: '[[Aerinórë]]'
   type: custom
   period: 3280-
   metadata:

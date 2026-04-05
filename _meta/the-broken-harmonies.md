@@ -33,9 +33,9 @@ This campaign takes place 89 years after Melek the Grey first demonstrated morta
 **What exists:**
 - The **Varnathi Pentarchy** rules the mainland — a fractured republic paralyzed between hawks, traditionalists, and reformists. The Legio Null (the Inquisitors) hunt mages with Cold-Iron armor and fanatical zeal.
 - The **Mirennian League** controls the seas — a thalassocracy of merchant houses that publicly condemns magic while privately profiting from it. The Azure Hand smuggles refugees for gold.
-- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago under the paranoid High King Thorgar VI. Inside, the Bronr'n Legacy plots reform in secret.
+- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago under the paranoid High King Thorgar VI. Inside, the Bronrûn Legacy plots reform in secret.
 - **Gearhaven** is five years old — a frontier boomtown at Rust-Water Bay, Novaterra. Elm-korin Dwarves, human mages, and Gnomes are inventing technomancy in real time. Not a metropolis — a gold-rush settlement crackling with potential.
-- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. Inside, High King Thorgar VII rules with paranoid rigidity. The Bronr'n Legacy plots reform in secret. The Barazkor Clan enforces orthodoxy.
+- **Kharnzarak** is sealed — the Dwarven kingdom locked its Adamant Gates 90 years ago. Inside, High King Thorgar VII rules with paranoid rigidity. The Bronrûn Legacy plots reform in secret. The Barazkor Clan enforces orthodoxy.
 - The **Shadewalkers** run the intelligence underworld from Port Farrick, and several of their operatives maintain cover identities in settlements across both continents.
 - The **Lothari Silent Network** controls the overland Silk Road and preserves ancient knowledge in hidden desert vaults.
 - The **Waldkyn** of the Whispering Vales are split between three factions: isolationists, interventionists, and militant purifiers.
@@ -80,7 +80,7 @@ Throughout the campaign, track the party's standing with each major faction. The
 - Lux Aeterna: 4 (Trusted — they work for Tajsh)
 - Legio Null: 1 (Enemies — the party are mages)
 - Azure Hand: 3 (Known — business relationship via passage)
-- Kharnzarak (Bronr'n Legacy): 2 (Distrusted — outsiders in a sealed kingdom)
+- Kharnzarak (Bronrûn Legacy): 2 (Distrusted — outsiders in a sealed kingdom)
 - Kharnzarak (Barazkor Throne): 1 (Enemies — surface-dwellers are forbidden)
 - Gearhaven: 3 (Known — neutral until arrival)
 - Waldkyn Quiet Vales: 3 (Known — neutral until contact)
@@ -110,8 +110,8 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 
 ---
 
-**Thulkor'n Exile** *(Thulkor'n Dwarf)*
-> *The Thulkor'n are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
+**Thulkorûn Exile** *(Thulkorûn Dwarf)*
+> *The Thulkorûn are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
 
 - **Starting Contact:** **Gora Ironbreath** — your old company sergeant, now running a small escort company out of **Irongate Crossing** — a surface settlement at the foot of the Dragon's Tooth Mountains where traders cluster near Kharnzarak's sealed trade-gate waiting for cargo that may never come through. She knows you left on conscience grounds and quietly respects it. She hasn't reported your whereabouts to anyone. She can provide cover identities as "company associates," intelligence on who's hiring along the mountain routes, and access to mercenary channels that move people and goods discreetly.
 - **Starting Bonus:** +1 rank in **Resilience**. Mercenary years and Dwarven constitution combine into a physical stubbornness that outlasts most things trying to kill you.
@@ -291,7 +291,7 @@ The tragedy is that it's not entirely wrong. The world IS fractured. Magic IS da
 
 ### Origin
 
-During the First Age, Kael'Zorai created an instrument to impose systematic order on the raw magic of creation. The Dwarves call it the **Ulzammar-Kr'n** ("Crown of the Sealed One"). It is not literally a crown — it is four interlocking components that, when assembled, form a circlet of dark crystal and pale metal.
+During the First Age, Kael'Zorai created an instrument to impose systematic order on the raw magic of creation. The Dwarves call it the **Ulzammar-Krûn** ("Crown of the Sealed One"). It is not literally a crown — it is four interlocking components that, when assembled, form a circlet of dark crystal and pale metal.
 
 When the Four bound Kael'Zorai during the Paroxysm, they shattered the instrument and scattered its four pieces across the world, each sealed in a location where its energy would be contained by the surrounding environment.
 
@@ -380,7 +380,7 @@ The Pale Ledger does not want to destroy the Crown or save the world. She wants 
 **Appearances:**
 - **Late Act I:** The players learn Ink "reported to her superiors." Ink is now off the board — recalled. A new Shadewalker presence is felt: subtle signs of surveillance (a footprint near camp, a message intercepted, a contact who suddenly won't talk).
 - **Act II (any arc):** The Pale Ledger makes contact — politely. She offers information, resources, or help in exchange for the party keeping her informed about the Crown pieces. She is genuinely useful. She is also recording everything.
-- **Act II (Kharnzarak):** She has an agent inside the mountain — a Thulkor'n smuggler named **Grik** who operates through the trade-gate. Grik can help the party get in... but everything Grik knows, the Ledger knows.
+- **Act II (Kharnzarak):** She has an agent inside the mountain — a Thulkorûn smuggler named **Grik** who operates through the trade-gate. Grik can help the party get in... but everything Grik knows, the Ledger knows.
 - **Act III:** The Pale Ledger appears at the Barren Hills with a small team. She is not there to help or hinder — she is there to *document*. If the party wins, she'll sell the story of their heroism. If they lose, she'll sell the secret of the Crown to the Magocracy (which doesn't exist yet but will). She is the most dangerous kind of enemy: one who is on nobody's side.
 
 **The Ledger's Leverage:** Throughout Act II, the Pale Ledger acquires leverage on the party — secrets overheard, deals witnessed, debts tracked. If the party tries to cut her out, she threatens to reveal their location to Thalric, expose their actions to whatever community they're currently embedded in, or simply sell the Crown's existence to the Varnathi Senate.
@@ -598,7 +598,7 @@ Each player background carries a through-line question. The campaign doesn't ans
 |------------|--------------|---------------|
 | **Persecuted Mage** | "If the persecution ended tomorrow, who would I be?" | Echo-Lord's final offer: *"No more purges."* |
 | **Lothari Dreamer** | "Was my vision a warning or an invitation?" | Discovering the Compass is the Echo-Lord's eye |
-| **Thulkor'n Exile** | "Am I my clan, or am I my choices?" | Kharnzarak — a kingdom of the people they left |
+| **Thulkorûn Exile** | "Am I my clan, or am I my choices?" | Kharnzarak — a kingdom of the people they left |
 | **Mirennian Deserter** | "I refused one order. Why do I keep following others?" | Miravel's revelation — another person who served without asking |
 | **Waldkyn Wanderer** | "I left to find answers. Every answer shows a deeper question." | The Vales — finding the home they left is dying |
 | **Orkin Outcast** | "Integration or integrity — can I have both?" | Krag-Vosk: the Orkin who never compromised and paid every day for it |
@@ -864,7 +864,7 @@ Lux Aeterna's market is limited but functional. Prices are 150% of standard for 
 | **Adventuring Gear** | Standard gear, climbing kit, prospecting tools | Luxury items, holy symbols (no organized religion here) |
 | **Potions** | Healing (common), antitoxin, Hask's Desert Remedies (see below) | Greater healing, rare potions |
 | **Magic Components** | Common components (up to 50 Sparks value) | Rare or expensive components |
-| **Special** | Mage-Weave scraps (useful for camouflage), Cold-Iron fragments (salvaged from dead Legio Null), Lothari sand-maps | Anything from Kharnzarak or Hannan'r' |
+| **Special** | Mage-Weave scraps (useful for camouflage), Cold-Iron fragments (salvaged from dead Legio Null), Lothari sand-maps | Anything from Kharnzarak or Hannanórë |
 
 **Hask's Desert Remedies (Unique Items):**
 
@@ -1188,7 +1188,7 @@ The next morning, the mirror-charms fail.
 | 3 | "The miners found something evil in that ruin. Goss says his partner went mad and walked into the desert." | Partially true — embellished version of the mining crew's fate |
 | 4 | "The Lothari caravans have been rerouting around the eastern foothills. Something about 'bad dreams' near the old stones." | True — the Silent Network is avoiding the Scar |
 | 5 | "I heard Tajsh used to be a Shadewalker. Got kicked out for stealing from the Guild itself." | Partially true — he left on bad terms, but voluntarily |
-| 6 | "There's a hidden Dwarven waystation in the mountains north of here. Sealed for centuries. Might have tools inside." | True — but sealed by the Nûm-Khazal'n and warded against entry |
+| 6 | "There's a hidden Dwarven waystation in the mountains north of here. Sealed for centuries. Might have tools inside." | True — but sealed by the Nûm-Khazalûn and warded against entry |
 | 7 | "Word from Argentum: they're burning mages in the Silver Square again. Three this month." | True |
 | 8 | "Something's wrong with the water in the Deep Well. Tastes like metal. Old Cira says it's 'remembering.'" | True — the Band's temporal field is affecting the groundwater |
 
@@ -1218,7 +1218,7 @@ Adapt these to the players' actual backgrounds and histories as established in s
 |------------|------------------------|
 | **Persecuted Mage** | *"You have been running since [the year they fled]. I know what that costs. I know you sometimes wonder whether the running is worth more than what you left behind. It is. You are worth more than what they tried to burn out of you."* |
 | **Lothari Dreamer** | *"Your vision was real. You saw the pattern forming before anyone else — that is why you came here. You were always going to find this Band. Something called you because something knew you would answer."* |
-| **Thulkor'n Exile** | *"Your clan did not fail you. The world failed your clan. There is a difference, and you have been punishing yourself for a wound someone else inflicted. That ends now."* |
+| **Thulkorûn Exile** | *"Your clan did not fail you. The world failed your clan. There is a difference, and you have been punishing yourself for a wound someone else inflicted. That ends now."* |
 | **Mirennian Deserter** | *"The order you refused was wrong. You knew it the moment you heard it. Trust that knowing — it is the only faculty you possess that has never lied to you. It is why I came to you."* |
 | **Waldkyn Wanderer** | *"The Vales are suffering. You knew it before you left — that is why you left. The answers you needed were never there. They were here. They were always going to be here."* |
 | **Orkin Outcast** | *"They called it integration. They meant submission. You were right to refuse. You were right about all of it, and you were right before you had words for why."* |
@@ -1443,7 +1443,7 @@ After each arc, deliver one or two letters or messages to the party during trave
 - **If the party stole the Heart (Path 3):** No letter. Silence. Then, three sessions later, a one-line report via Azure Hand: *"Gearhaven evacuation in progress. Estimate 400 survivors. Destination unknown."*
 
 **After Arc B (Kharnzarak):**
-- **From Delva Bronr'n-Kith** (if the party left on good terms): *"The gates cracked. Not open — cracked. Thorgar issued a decree allowing trade-gate access for 'approved surface contacts' — which is the most radical thing a king of Kharnzarak has said in 90 years. Marga's people are on the new council. She says hello. She says it exactly the way you'd expect Marga to say hello."*
+- **From Delva Bronrûn-Kith** (if the party left on good terms): *"The gates cracked. Not open — cracked. Thorgar issued a decree allowing trade-gate access for 'approved surface contacts' — which is the most radical thing a king of Kharnzarak has said in 90 years. Marga's people are on the new council. She says hello. She says it exactly the way you'd expect Marga to say hello."*
 - **From Korrin Gulgrym** (if the party earned his trust): *"The deep levels are unstable. We lost two mine shafts. The Foundry holds. I'm building something with the knowledge your people shared — Elm-korin principles applied to Dwarven stone-craft. It's ugly and it works. That's enough."*
 - **If the party supported Mazrek's coup:** A formal letter bearing the Farrazul seal: *"Lord Mazrek Farrazul, First Among Equals of the Stone-Lay Council, extends his regards and his gratitude. He trusts that your discretion regarding the circumstances of the recent transition will continue."* It is polite. It is also a threat.
 
@@ -1490,9 +1490,9 @@ The campaign's major locations are separated by days or weeks of travel. These w
 
 **Thornback** — A market town of ~400 at the Whispering Vales' eastern edge. The last mainland settlement before the forest. Where Waldkyn and human merchants trade under ancient truce: Waldkyn bring herbs, carved wood, woven goods, and Song-Ward charms; merchants bring metal tools, salt, cloth, and news. **Finnet** (Waldkyn Wanderer's starting contact) runs a circuit through here. The town has a liminal quality — it exists in the gap between two worlds. Humans and Waldkyn coexist with mutual respect and mutual incomprehension. A Waldkyn healer named **Moss-Touch** runs a clinic that treats both species. Ash-Claw's scouts can be spotted watching from the treeline, and the townsfolk pretend not to notice. Good for: learning Waldkyn customs before entering the Vales, buying Song-Ward charms (add a Boost die to resist Stillness Exposure, 50 Sparks), encountering Ash-Claw's hostility at a distance.
 
-**Irongate Crossing** — A surface settlement of ~300 at the foot of the Dragon's Tooth Mountains. Traders, mercenaries, and hopeful merchants cluster near Kharnzarak's sealed trade-gate, waiting for cargo that may never come. The town has a resigned, waiting-room quality — everyone is here because they can't be anywhere else. **Gora Ironbreath** (Thulkor'n Exile's starting contact) runs a small escort company out of a fortified warehouse. The main tavern, *The Shut Door*, has a painted sign showing the Adamant Gates — closed. The innkeeper, **Brenn**, a grizzled human ex-caravan guard, charges fair prices and asks no questions. A Bronr'n Legacy contact named **Soot** (Thulkor'n, young, restless, tattooed) drinks at the bar most evenings and can be approached if the party shows the right signs. Good for: finding a way into Kharnzarak, encountering Dwarven exile culture, resupply before the mountain. The altitude here is already 6,000 feet. The air is thin. Characters unused to mountains add a Setback die to Athletics checks until they acclimate (1 day).
+**Irongate Crossing** — A surface settlement of ~300 at the foot of the Dragon's Tooth Mountains. Traders, mercenaries, and hopeful merchants cluster near Kharnzarak's sealed trade-gate, waiting for cargo that may never come. The town has a resigned, waiting-room quality — everyone is here because they can't be anywhere else. **Gora Ironbreath** (Thulkorûn Exile's starting contact) runs a small escort company out of a fortified warehouse. The main tavern, *The Shut Door*, has a painted sign showing the Adamant Gates — closed. The innkeeper, **Brenn**, a grizzled human ex-caravan guard, charges fair prices and asks no questions. A Bronrûn Legacy contact named **Soot** (Thulkorûn, young, restless, tattooed) drinks at the bar most evenings and can be approached if the party shows the right signs. Good for: finding a way into Kharnzarak, encountering Dwarven exile culture, resupply before the mountain. The altitude here is already 6,000 feet. The air is thin. Characters unused to mountains add a Setback die to Athletics checks until they acclimate (1 day).
 
-**Ridgeway** — A mountain hamlet of ~60 on the ascending path to Kharnzarak's trade-gate. Goat herders, charcoal burners, and one very old woman named **Bryn** who claims she was inside Kharnzarak as a child before the sealing. (She wasn't — she's been talking to Thulkor'n traders for 50 years and has absorbed their stories so completely she can't tell the difference.) Her descriptions of the Upper Halls are weirdly accurate, including details the Bronr'n Legacy would prefer stayed secret. Ridgeway's air smells of pine resin and cold stone. The path beyond it narrows to a single-file track carved into the mountainside. Good for: the party's last chance to prepare before entering the mountain, Bryn's accidentally dangerous knowledge, and a visceral sense of ascending into a sealed world.
+**Ridgeway** — A mountain hamlet of ~60 on the ascending path to Kharnzarak's trade-gate. Goat herders, charcoal burners, and one very old woman named **Bryn** who claims she was inside Kharnzarak as a child before the sealing. (She wasn't — she's been talking to Thulkorûn traders for 50 years and has absorbed their stories so completely she can't tell the difference.) Her descriptions of the Upper Halls are weirdly accurate, including details the Bronrûn Legacy would prefer stayed secret. Ridgeway's air smells of pine resin and cold stone. The path beyond it narrows to a single-file track carved into the mountainside. Good for: the party's last chance to prepare before entering the mountain, Bryn's accidentally dangerous knowledge, and a visceral sense of ascending into a sealed world.
 
 **Ashkeld** — A rough crossroads town of ~200 on the western edge of the Barren Hills. Where Varr-Darg trading parties and mainland merchants meet under uneasy truce. The town is divided: one side for humans and other species, one side for Orkin, with a neutral market square in the middle. Weapons are technically forbidden in the square. Nobody follows the rule. **Vosk Two-Names** (Orkin Outcast's starting contact) operates here — brokering passage through clan territory and moving people who don't want to be found. The Orkin side of town smells of woodsmoke and rendered fat. The human side smells of horse sweat and anxiety. Good for: encountering Orkin culture firsthand, hiring guides for the Barren Hills, hearing Varr-Darg perspectives on Grom-Kain. A bone-totem at the town's eastern exit marks the border of Bloodied Fist territory. Beyond it, there are no more towns.
 
@@ -1524,7 +1524,7 @@ Use these for any overland travel leg on the Vael mainland. Roll once per day of
 
 **Overview:** A frontier boomtown of ~2,000 souls clinging to sea cliffs above geothermal vents at Rust-Water Bay, Novaterra. Five years old. The birthplace of technomancy. Everything here is being invented in real time.
 
-**Population:** ~2,000 (40% human mage-refugees, 25% Elm-korin Dwarves, 15% Thulkor'n Dwarves, 10% Gnomes, 5% Halflings, 5% other)
+**Population:** ~2,000 (40% human mage-refugees, 25% Elm-korin Dwarves, 15% Thulkorûn Dwarves, 10% Gnomes, 5% Halflings, 5% other)
 **Government:** The Cog-Council (five of nine seats filled)
 **Currency:** Mana-Crystal Sparks
 
@@ -1559,7 +1559,7 @@ Use these for any overland travel leg on the Vael mainland. Roll once per day of
 
 **Cogmaster Pip Sprocket** — Rock Gnome engineer. Detected anomalies in the Heart. Cheerful, worried, talks to his inventions.
 
-**Sergeant Hrothgar** — Thulkor'n militia commander. Gruff, pragmatic, darkly funny. "The perimeter's been weakening. Something's getting smarter."
+**Sergeant Hrothgar** — Thulkorûn militia commander. Gruff, pragmatic, darkly funny. "The perimeter's been weakening. Something's getting smarter."
 
 **Tinker Gaz** — Sand Gnome Myco-Whisperer. Senses the Heart's wrongness. "The pattern around it is a scar. Torn apart on purpose."
 
@@ -1627,15 +1627,15 @@ If the players visit the Steam Baths (the geothermal pools), they find Gearhaven
 Kharnzarak has been sealed for 90 years. The Adamant Gates are shut, runed, and guarded. No outsider has entered since High King Thorgar VI's decree. There is exactly one opening: the **Trade-Gate** — a small, heavily guarded portal at the mountain's eastern foot where Dwarven merchants exchange steel and gold for surface goods. Non-Dwarves are permitted in a 50-foot antechamber and no further.
 
 **Methods of Entry:**
-- **The Bronr'n Legacy contact:** If the party has Thulkor'n or Elm-korin connections (character background, Gearhaven contacts), they can reach **Delva Bronr'n-Kith** — a Bronr'n Legacy operative who works in the Trade-Gate's customs office. She can smuggle the party inside in ore-carts. Risky but direct.
-- **The Shadewalker route:** The Pale Ledger's agent **Grik** (Thulkor'n smuggler) maintains a hidden passage through an abandoned mine shaft that connects to the kingdom's Lower Deep. Grik demands payment: 500 Sparks or a favor owed to the Pale Ledger (she always collects).
+- **The Bronrûn Legacy contact:** If the party has Thulkorûn or Elm-korin connections (character background, Gearhaven contacts), they can reach **Delva Bronrûn-Kith** — a Bronrûn Legacy operative who works in the Trade-Gate's customs office. She can smuggle the party inside in ore-carts. Risky but direct.
+- **The Shadewalker route:** The Pale Ledger's agent **Grik** (Thulkorûn smuggler) maintains a hidden passage through an abandoned mine shaft that connects to the kingdom's Lower Deep. Grik demands payment: 500 Sparks or a favor owed to the Pale Ledger (she always collects).
 - **The Hard Way:** The party finds another entrance — an old ventilation shaft, a sealed emergency exit, a forgotten tunnel from the Stone-Road era. Survival [Cunning] **Daunting (◆◆◆◆)** to locate; multiple hazards inside.
 
 #### Kharnzarak — Gazetteer
 
 **Overview:** The greatest Dwarven city in the world — carved into the roots of the Dragon's Tooth Mountains over three thousand years. A vertical city descending miles into the earth, with each level reflecting the rigid hierarchy of Dwarven society. At SA 1490, it is a kingdom frozen in amber: magnificent, ancient, suffocating, and slowly dying from within. The Deep Measure's field of Control permeates everything — the strict obedience, the refusal to change, the paranoid certainty that the outside world is corruption.
 
-**Population:** ~15,000 (exclusively Nûm-Khazal'n Dwarves, plus ~200 Gatestone-Clan laborers who are functionally an underclass)
+**Population:** ~15,000 (exclusively Nûm-Khazalûn Dwarves, plus ~200 Gatestone-Clan laborers who are functionally an underclass)
 
 **Government:** Hereditary Monarchy under the Stone-Lays. High King Thorgar VII of the Barazkor Clan rules from the Adamant Throne with absolute authority. The Stone-Lay Council (9 clan-lords) advises but cannot override.
 
@@ -1656,7 +1656,7 @@ The only point of contact with the outside world. A fortified antechamber where 
 
 | Location | Description |
 |----------|-------------|
-| **The Customs Hall** | Where goods are inspected. Run by Delva Bronr'n-Kith (secretly a Bronr'n Legacy operative). |
+| **The Customs Hall** | Where goods are inspected. Run by Delva Bronrûn-Kith (secretly a Bronrûn Legacy operative). |
 | **The Weigh-Master's Office** | Where Stone-Marks are exchanged for surface goods at fixed rates. The Weigh-Master, **Tharn Gulgrym**, is a Gulgrym Clan elder who hates the Barazkor but follows the rules. He can be bribed with rare surface metals. |
 
 **The Upper Halls (High Clans)**
@@ -1665,7 +1665,7 @@ Magnificent carved galleries, soaring vaulted ceilings, rune-light chandeliers. 
 | Location | Description |
 |----------|-------------|
 | **The Adamant Throne Room** | The seat of power. A massive hall with a ceiling lost in shadow. The Adamant Throne sits on a dais of dark stone — and beneath the dais, carved into the mountain's bedrock, the Deep Measure pulses. The throne room feels HEAVY — visitors experience an overwhelming compulsion to kneel, to obey, to be silent. This is the Crown piece's field of Control. |
-| **The Hall of Names** | Where clan lineages are carved into walls of polished granite. Thousands of names, going back to the First Age. Names that have been chiseled away (Thulkor'n, Elm-korin) leave visible scars in the stone. |
+| **The Hall of Names** | Where clan lineages are carved into walls of polished granite. Thousands of names, going back to the First Age. Names that have been chiseled away (Thulkorûn, Elm-korin) leave visible scars in the stone. |
 | **The King's Forge** | Thorgar VII's personal smithy. He forges here when he cannot sleep — which is often. The King is not well. The Crown piece's influence has made him rigid, paranoid, and unable to tolerate any deviation from routine. He is not evil. He is a man being slowly crushed by a force he cannot perceive. |
 | **The Farrazul Galleries** | The gem-cutters' quarter. Wealth beyond imagining — vaults of cut gems, showcases of legendary craft. The Farrazul Clan is the only power that rivals the throne, and their leader, **Lord Mazrek Farrazul**, is a pragmatist quietly considering whether Thorgar VII's reign is sustainable. |
 
@@ -1674,7 +1674,7 @@ The working heart of the kingdom. Foundries, workshops, training halls. The Guil
 
 | Location | Description |
 |----------|-------------|
-| **The Great Foundry** | A cavern of roaring forge-fires where the kingdom's steel is made. The heat is intense. Hundreds of smiths work in rotating shifts. The Foundry-Master, **Korrin Gulgrym**, is Tharn's cousin and a secret Bronr'n Legacy sympathizer. |
+| **The Great Foundry** | A cavern of roaring forge-fires where the kingdom's steel is made. The heat is intense. Hundreds of smiths work in rotating shifts. The Foundry-Master, **Korrin Gulgrym**, is Tharn's cousin and a secret Bronrûn Legacy sympathizer. |
 | **The Rune-Archive** | A library of stone tablets containing the kingdom's technical knowledge. Heavily restricted — only approved scholars may enter. The Archive-Keeper, **Elder Varn**, is ancient and nearly blind but has memorized every tablet. He knows where the forbidden Ulzammar records are sealed. |
 | **The Mead-Hall of Iron** | The guild-workers' tavern. Loud, crowded, the one place in Kharnzarak where caste rules relax slightly. Good Dwarven ale (strong enough to strip paint). The bartender, **Hamm One-Ear**, hears everything. |
 
@@ -1685,7 +1685,7 @@ The lowest inhabited level — dimly lit tunnels where the Gatestone Clans perfo
 |----------|-------------|
 | **The Deep Mines** | Miles of tunnels descending into the earth. Rich in iron and coal. Increasingly unstable at the lowest levels — the Earthwake of SA 1200 damaged the deep infrastructure and it was never fully repaired. |
 | **Gatestone Barracks** | Cramped communal housing. No privacy, no luxuries. The Gatestone Dwarves are bitter, proud, and quietly furious. Their informal leader, **Marga Stonefist**, runs an underground resistance that dreams of caste reform. |
-| **The Abandoned Deeps** | Below the active mines — collapsed tunnels, flooded chambers, and sealed passages from the kingdom's earlier, more ambitious days. This is where the Bronr'n Legacy meets in secret. It is also the path to the Adamant Foundations. |
+| **The Abandoned Deeps** | Below the active mines — collapsed tunnels, flooded chambers, and sealed passages from the kingdom's earlier, more ambitious days. This is where the Bronrûn Legacy meets in secret. It is also the path to the Adamant Foundations. |
 
 **The Adamant Foundations (First Age Level)**
 Below everything — below the mines, below the collapsed tunnels, below the memory of living Dwarves — lie the Adamant Foundations. The bedrock on which Kharnzarak was built. This is First Age construction: the same dark, too-regular stone as the Ruin of Sorath, the same alien geometry.
@@ -1695,7 +1695,7 @@ The Deep Measure is here — embedded in a crystalline formation at the mountain
 #### Key NPCs of Kharnzarak
 
 **High King Thorgar VII** — *The Throne That Does Not Rest*
-- Nûm-Khazal'n Dwarf male, 180s (middle-aged for a Dwarf), gaunt, dark circles under his eyes
+- Nûm-Khazalûn Dwarf male, 180s (middle-aged for a Dwarf), gaunt, dark circles under his eyes
 - Grandson of Thorgar VI (who sealed the gates). Inherited his grandfather's paranoia — amplified by the Deep Measure's field. He does not sleep well. He forges compulsively. He issues increasingly irrational edicts (last month: all left-handed tools must be re-forged right-handed, because "asymmetry invites disorder").
 - **Not a villain.** A man being slowly destroyed by a force he cannot see. If the Deep Measure is removed, the paranoia lifts like fog — and Thorgar VII might become the reformer Kharnzarak desperately needs.
 - **Personality:** Brittle. Formal. Occasionally reveals flashes of warmth (especially when discussing craft — he is a genuinely gifted smith). Then the rigidity snaps back.
@@ -1706,15 +1706,15 @@ The Deep Measure is here — embedded in a crystalline formation at the mountain
 - **Not an ally.** Mazrek is happy to use the party to destabilize the Barazkor, but he wants the Deep Measure for himself. He doesn't know what it truly is — he thinks it's a powerful Dwarven artifact that grants authority. If he gets it, Kharnzarak trades one form of rigid control for another.
 - **Quest Connection:** Mazrek can provide access to the Upper Halls and political cover — but his help always comes with strings.
 
-**Delva Bronr'n-Kith** — *The Mole*
-- Bronr'n Dwarf female, 90s (young), customs clerk, freckled, nervous energy
-- A true believer in the Bronr'n Legacy's reform mission. She's been waiting years for a chance to act. The party's arrival is that chance.
+**Delva Bronrûn-Kith** — *The Mole*
+- Bronrûn Dwarf female, 90s (young), customs clerk, freckled, nervous energy
+- A true believer in the Bronrûn Legacy's reform mission. She's been waiting years for a chance to act. The party's arrival is that chance.
 - **Personality:** Talks fast when nervous (always). Brave beyond her apparent timidity. Will risk her life for the cause but is terrified of being caught.
-- **Quest Connection:** The party's primary inside contact. She provides disguises (Gatestone Clan work-clothes), forged caste-papers, and knowledge of patrol schedules. She can also connect the party to the Bronr'n Legacy's hidden leadership.
+- **Quest Connection:** The party's primary inside contact. She provides disguises (Gatestone Clan work-clothes), forged caste-papers, and knowledge of patrol schedules. She can also connect the party to the Bronrûn Legacy's hidden leadership.
 
 **Korrin Gulgrym** — *The Foundry-Master*
 - Gulgrym Clan elder, 160s, massive, soot-stained, missing half his left ear
-- Runs the Great Foundry with quiet competence. Secretly sympathizes with the Bronr'n Legacy but won't act unless he's certain of success — too many people depend on him.
+- Runs the Great Foundry with quiet competence. Secretly sympathizes with the Bronrûn Legacy but won't act unless he's certain of success — too many people depend on him.
 - **Quest Connection:** Can provide access to the Deep Mines and technical knowledge about the Adamant Foundations' structure. If the party earns his trust, he'll provide tools and a distraction (a controlled foundry "accident" that draws the King's Enforcers away from the lower levels).
 
 **Marga Stonefist** — *Voice of the Forgotten*
@@ -1744,7 +1744,7 @@ The Deep Measure is here — embedded in a crystalline formation at the mountain
 - **Hook:** Marga Stonefist will guide the party to the Adamant Foundations, but first, she wants proof of their commitment. She asks them to sabotage a specific mine shaft — one that the Barazkor Clan uses to extract gold for the King's personal vault. Collapsing it would humiliate the throne and embolden the Gatestone resistance.
 - **The Dilemma:** The sabotage is relatively easy (Athletics [Brawn] **Average ◆◆** to weaken the supports, then a controlled detonation). But the shaft is active — Gatestone miners work there. Marga says she'll clear them out, but the timing is tight. If the party delays or botches the timing, miners could be trapped or killed.
 - **Resolution Options:**
-  - Complete the sabotage cleanly: Marga guides them. +1 Bronr'n Legacy rep, but the Barazkor increase patrols.
+  - Complete the sabotage cleanly: Marga guides them. +1 Bronrûn Legacy rep, but the Barazkor increase patrols.
   - Refuse and find another way to earn Marga's trust (complete "The King's Madness" sidequest and show her the sketches — proof that something IS wrong with the throne): Marga guides them without the sabotage. Slower, but cleaner.
   - Sabotage but warn the miners yourself: Marga is furious (you compromised her plan) but respects the moral conviction. She guides them, grudgingly.
 - **Reward:** 10 XP, Marga's guidance to the Foundations.
@@ -1834,7 +1834,7 @@ Convince Lord Mazrek Farrazul to stage a coup against Thorgar VII. In the chaos 
 No subtlety. Fight through every level, smash the Law-Echo, take the piece, and flee. Possible with a high-power party but devastatingly costly. Every Enforcer in the kingdom is on alert. The party leaves behind a trail of casualties and a kingdom in chaos — not reform, just destruction.
 
 > **Faction Standing Changes — Arc B:**
-> - Kharnzarak (Bronr'n Legacy): Variable (+2 for Deep Descent with reform, +1 for Political Overthrow, -2 for Smash-and-Grab)
+> - Kharnzarak (Bronrûn Legacy): Variable (+2 for Deep Descent with reform, +1 for Political Overthrow, -2 for Smash-and-Grab)
 > - Kharnzarak (Barazkor Throne): Always -1 or worse (the party violated the kingdom's most sacred law)
 > - Shadewalkers: +1 if the party used Grik's route (the Pale Ledger now knows how to enter Kharnzarak — valuable intelligence)
 > - Gearhaven: +1 if the party shares knowledge of the Adamant Foundations' technomantic potential with Elm-korin contacts
@@ -1944,7 +1944,7 @@ As the party travels toward the Barren Hills, they encounter people from their p
 
 Depending on the party's backgrounds, one or more of these scenes should occur:
 
-- **Gora Ironbreath** (Thulkor'n Exile's contact) appears on the road from Irongate Crossing with a small escort company. She heard about "something happening in the Hills" through mercenary channels and came to investigate. She's not sentimental: *"I don't know what you're carrying, but half the continent seems to want it. That means you need people who know how to fight and don't ask questions. I brought six."*
+- **Gora Ironbreath** (Thulkorûn Exile's contact) appears on the road from Irongate Crossing with a small escort company. She heard about "something happening in the Hills" through mercenary channels and came to investigate. She's not sentimental: *"I don't know what you're carrying, but half the continent seems to want it. That means you need people who know how to fight and don't ask questions. I brought six."*
 - **Finnet** (Waldkyn Wanderer's contact) arrives via the western road from Thornback. She carries a bundle of Song-Ward herbs — *"Kethra sent me. She said you'd need these. She said it the way Kethra says things, which means she was terrified and didn't want me to know."*
 - **Vosk Two-Names** (Orkin Outcast's contact) is waiting at Ashkeld. He knows the Barren Hills better than anyone alive. He doesn't ask why they're going in. He says: *"The Hills have been wrong for weeks. The animals left. The shamans are singing. Something is about to happen, and I'd rather be on the side of it that has a plan."*
 - **Sergeant Cavel** (Ex-Inquisitor's contact) appears — in civilian clothes, having deserted his post. He's pale. He says: *"Thalric knows what you're carrying. He's mobilizing the full Company. I couldn't talk him down. But I can tell you exactly where he'll be and when."* This intelligence is critical for the Thalric encounter below.
@@ -2083,8 +2083,8 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | Faction | Requirement | Contribution |
 |---------|-------------|-------------|
 | **Gearhaven** | Rep 4+ | Thaelra sends a prototype airship — barely functional, held together by Gnomish ingenuity. Arcane cannon can breach the cathedral's outer defenses. |
-| **Kharnzarak (Bronr'n Legacy)** | Rep 4+ | Delva and Korrin lead a strike team of Dwarven engineers and Gatestone fighters. They bring Dwarven steel, tunnel-warfare expertise, and — critically — runic tools that can interface with First Age architecture, allowing the party to bypass the cathedral's geometric defenses. |
-| **M'ren'r' Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Elara Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
+| **Kharnzarak (Bronrûn Legacy)** | Rep 4+ | Delva and Korrin lead a strike team of Dwarven engineers and Gatestone fighters. They bring Dwarven steel, tunnel-warfare expertise, and — critically — runic tools that can interface with First Age architecture, allowing the party to bypass the cathedral's geometric defenses. |
+| **Mórenórë Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Elara Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
 | **Waldkyn** | Rep 4+ | Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave and — critically — disrupt the Crown's resonance at close range. |
 | **Orkin Whisper-Shamans** | Automatic | Grukka and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
 | **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. (See "Sabel's Eight" below for the reunion scene.) |
@@ -2266,8 +2266,8 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 |---------|-----------|-------------------|
 | **Lux Aeterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Aeterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Aeterna survives regardless, but the players never learn what happened to the people they left behind. |
 | **Gearhaven** | Thaelra sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
-| **Kharnzarak** | The gates crack open — for the first time in 90 years. Thorgar VII, clear-eyed and shaken, issues a single edict: "We were sealed by fear. We will open by choice." Trade resumes. The Bronr'n Legacy is legitimized. The Gatestone Clans gain representation on the Stone-Lay Council. It will take generations, but the mountain is breathing again. | Thorgar VII's paranoia returns without the Deep Measure — but differently. He becomes erratic, violent. Mazrek stages a coup. Kharnzarak enters civil war. The gates remain sealed, now by conflict rather than decree. |
-| **M'ren'r' Volunteers** | If allied, Captain Elara Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
+| **Kharnzarak** | The gates crack open — for the first time in 90 years. Thorgar VII, clear-eyed and shaken, issues a single edict: "We were sealed by fear. We will open by choice." Trade resumes. The Bronrûn Legacy is legitimized. The Gatestone Clans gain representation on the Stone-Lay Council. It will take generations, but the mountain is breathing again. | Thorgar VII's paranoia returns without the Deep Measure — but differently. He becomes erratic, violent. Mazrek stages a coup. Kharnzarak enters civil war. The gates remain sealed, now by conflict rather than decree. |
+| **Mórenórë Volunteers** | If allied, Captain Elara Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
 | **Waldkyn** | Sprout (the Ribbet child) sends a letter carried by a Faerie messenger: "The trees are singing again. Come play." The Stillwood retreats. The Vales heal. | The Stillwood reaches the Harmony Oak within four years. The Waldkyn flee. The Vales become the largest Stillwood zone on the continent — a wound that will not heal for centuries. |
 | **Orkin** | Grukka carves the party's names into a bone-totem and places it in the Barren Hills where the cathedral stood. "You fought for a world that never fought for us. We will remember." The Whisper-Shamans gain influence among the clans, tempering the Bloodied Fist's rage. | The Varr-Darg return to their cycle of violence. Nothing changes for the Orkin. It never does. |
 
@@ -2328,7 +2328,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Lux Aeterna | 4 | | | | | |
 | Legio Null | 1 | 1 | 1 | 1 | 1 | |
 | Azure Hand | 3 | | | | | |
-| Kharnzarak (Bronr'n) | 2 | 2 | | | | |
+| Kharnzarak (Bronrûn) | 2 | 2 | | | | |
 | Kharnzarak (Throne) | 1 | 1 | | | | |
 | Gearhaven | 3 | 3 | | | | |
 | Waldkyn Quiet Vales | 3 | 3 | | | | |
@@ -2354,12 +2354,12 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Tinker Gaz | Sand Gnome inventor | Gearhaven | Ancient, perceptive, cryptic |
 | High King Thorgar VII | Controlled monarch | Kharnzarak | Brittle, gifted, crumbling |
 | Lord Mazrek Farrazul | Ambitious clan lord | Kharnzarak | Smooth, pragmatic, dangerous |
-| Delva Bronr'n-Kith | Bronr'n Legacy mole | Kharnzarak Trade-Gate | Nervous, brave, fast-talking |
+| Delva Bronrûn-Kith | Bronrûn Legacy mole | Kharnzarak Trade-Gate | Nervous, brave, fast-talking |
 | Korrin Gulgrym | Foundry-Master | Kharnzarak Guild Halls | Quiet, competent, cautious |
 | Marga Stonefist | Gatestone resistance leader | Kharnzarak Lower Deep | Hard, fierce, revolutionary |
 | Commander Thalric | Legio Null hunter | Mainland (pursues) | Polite, professional, remorseless |
 | The Pale Ledger | Shadewalker operative | Mobile (everywhere) | Unremarkable, omniscient, patient |
-| Captain Elara Voss | M'ren'r' Volunteer Corps | M'ren'r' / Barren Hills | Precise, principled, dry |
+| Captain Elara Voss | Mórenórë Volunteer Corps | Mórenórë / Barren Hills | Precise, principled, dry |
 | Krag-Vosk the Unbroken | Bloodied Fist war-priest | Barren Hills (mobile) | Devout, terrifying, sincere |
 | Root-Speaker Elm-Thara | Stillwood Circle elder | Whispering Vales | Patient, immovable, ancient |
 | Branch-Speaker Kethra | Flowing River leader | Whispering Vales | Quick, frustrated, hopeful |
@@ -2372,14 +2372,14 @@ Use this sheet to track the party's standing with each faction throughout the ca
 | Term | Pronunciation | Meaning |
 |------|--------------|---------|
 | Ulzammar | ool-ZAM-ar | "Perfect Stillness" — Dwarven name for Kael'Zorai |
-| Ulzammar-Kr'n | ool-ZAM-ar KROON | "Crown of the Sealed One" |
+| Ulzammar-Krûn | ool-ZAM-ar KROON | "Crown of the Sealed One" |
 | Kael'Zorai | KAY-el zor-EYE | The Fifth First Hand |
 | Zel'Khorath | ZEL kor-ATH | The Echo-Lord's true name |
 | Grom-Kain | GROM-kayn | Orkin name for Kael'Zorai ("Will-Forge") |
-| Dur'k Thul | DOO-rak THOOL | "Fracture of Law" — Dwarven name for the Paroxysm |
-| Hannan'r' | hah-nah-NOR-ay | The hidden Elven forest |
-| M'ren'r' | mor-en-OR-ay | The City of Silver Tongues |
-| Thulkor'n | THOOL-kor-oon | "The Broken-Crafted" — exiled Dwarves |
+| Durâk Thul | DOO-rak THOOL | "Fracture of Law" — Dwarven name for the Paroxysm |
+| Hannanórë | hah-nah-NOR-ay | The hidden Elven forest |
+| Mórenórë | mor-en-OR-ay | The City of Silver Tongues |
+| Thulkorûn | THOOL-kor-oon | "The Broken-Crafted" — exiled Dwarves |
 | Elm-korin | ELM-kor-in | "The Flame-Struck" — technomancer Dwarves |
 | Varr-Darg | VAR-darg | "Land-Blood" — mainland Orkin clans |
 

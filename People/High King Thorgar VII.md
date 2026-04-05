@@ -3,7 +3,7 @@ wb-type: person
 wb-id: high-king-thorgar-vii
 name: High King Thorgar VII
 aliases: []
-species: '[[N''nm-Khazal''n]]'
+species: '[[Nûm-Khazalûn]]'
 born: null
 died: null
 birthplace: '[[Kharnzarak]]'
@@ -61,7 +61,7 @@ modified: '2026-03-15'
 ---
 # High King Thorgar VII
 
-**High King Thorgar VII** is the current ruler of [[Kharnzarak]], seated upon the **Adamant Throne** and governing the [[N'nm-Khazal'n]] -- the Stone-Sworn [[Dwarves]] of the mainland mountains. He is the monarch who cracked open the Great Adamant Gates after centuries of isolation, allowing a single trade gate to resume contact with the surface world.
+**High King Thorgar VII** is the current ruler of [[Kharnzarak]], seated upon the **Adamant Throne** and governing the [[Nûm-Khazalûn]] -- the Stone-Sworn [[Dwarves]] of the mainland mountains. He is the monarch who cracked open the Great Adamant Gates after centuries of isolation, allowing a single trade gate to resume contact with the surface world.
 
 ## The Cracking of the Gates
 
@@ -75,7 +75,7 @@ Thorgar VII rules with the absolute authority granted by the sacred **Stone-Lays
 
 The kingdom's internal politics remain fraught. The [[Barazkor Clan]], Thorgar's own Iron-Gavels, are fiercely traditionalist and militant. The **Farraz'l Clan** (Gem-Cutters), the wealthiest of the High Clans, push for more pragmatic trade policies that would increase their fortunes. The **Gulgrym Clan** (Deep-Miners), the most powerful of the Guild Clans, harbor deep resentments about the rigid caste system that keeps them laboring in the dark while the High Clans feast in the light.
 
-And in hidden workshops, the **[[Bronr'n Legacy]]** -- a clandestine society of reformist artisans and engineers -- studies forbidden [[Elm-korin]] schematics and [[Gnomes|Gnomish]] designs, believing that [[Kharnzarak]]'s stagnation will be its doom.
+And in hidden workshops, the **[[Bronrûn Legacy]]** -- a clandestine society of reformist artisans and engineers -- studies forbidden [[Elm-korin]] schematics and [[Gnomes|Gnomish]] designs, believing that [[Kharnzarak]]'s stagnation will be its doom.
 
 ## The Third Age Dilemma
 
@@ -85,4 +85,4 @@ The High King's challenge is existential: open the gates wider and risk the cult
 
 ## Legacy
 
-Thorgar VII's reign is still unfolding, and history's judgment remains unwritten. He is neither the paranoid isolationist his predecessor was nor the radical reformer the [[Bronr'n Legacy]] hopes for. He is a cautious king on an ancient throne, listening to the grinding of the mountain and trying to determine whether the sound he hears is the engine of renewal or the prelude to collapse.
+Thorgar VII's reign is still unfolding, and history's judgment remains unwritten. He is neither the paranoid isolationist his predecessor was nor the radical reformer the [[Bronrûn Legacy]] hopes for. He is a cautious king on an ancient throne, listening to the grinding of the mountain and trying to determine whether the sound he hears is the engine of renewal or the prelude to collapse.

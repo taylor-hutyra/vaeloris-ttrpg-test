@@ -45,11 +45,11 @@ relationships:
   period: SA:1400
   metadata:
     description: The Dwarven kingdom sealed behind runic wards for centuries
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: related
   period: SA:1200
   metadata:
-    description: Bronr'n Clan exiled after Thorgar blamed them for the Earthwake
+    description: Bronrûn Clan exiled after Thorgar blamed them for the Earthwake
 - target: '[[Elm-korin]]'
   type: related
   period: SA:690

@@ -55,7 +55,7 @@ While still valuing strength and endurance, the Novaterran [[Orkin]] have expand
 
 ## View of Others
 
-They view their mainland cousins in the [[Varr-Darg Diarchy]] with a degree of pity, seeing them as trapped in an ancient, pointless war. They are utterly baffled by the [[Vorok-Varr]] pacifists of [[Aerin'r']], viewing them as a curiosity rather than kin.
+They view their mainland cousins in the [[Varr-Darg Diarchy]] with a degree of pity, seeing them as trapped in an ancient, pointless war. They are utterly baffled by the [[Vorok-Varr]] pacifists of [[Aerinórë]], viewing them as a curiosity rather than kin.
 
 ## Society
 

@@ -15,11 +15,11 @@ role: Minor deity — master of stonework and divine craftsmanship
 title: The Stonefather
 gender: null
 relationships:
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: created-by
   period: FA
   metadata:
-    description: Aspect of Tham'dran's essence
+    description: Aspect of Thamédran's essence
 - target: '[[The First Forge]]'
   type: founder
   period: FA
@@ -38,11 +38,11 @@ relationships:
 - target: '[[Vardris]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[Bjalmund]]'
   type: sibling
   metadata:
-    description: Fellow aspect of Tham'dran
+    description: Fellow aspect of Thamédran
 - target: '[[The Paroxysm]]'
   type: involved-in
   period: FA
@@ -70,7 +70,7 @@ relationships:
     description: The Stonefather — taught fundamental techniques of metalworking and stone-shaping
 timeline:
 - period: FA
-  event: Created by Tham'dran as a minor deity aspect during the expanded Second Creation
+  event: Created by Thamédran as a minor deity aspect during the expanded Second Creation
 - period: FA
   event: Established The First Forge where dwarven crafting arts were born
 - period: FA
@@ -92,7 +92,7 @@ modified: '2026-03-28'
 ---
 # Korthak
 
-**Korthak the Stonefather** is a minor deity created by [[Tham'dran]] during the expanded phase of the Second Creation. He is the master of stonework and divine craftsmanship, and the founder of [[The First Forge]] where the dwarven crafting arts were born.
+**Korthak the Stonefather** is a minor deity created by [[Thamédran]] during the expanded phase of the Second Creation. He is the master of stonework and divine craftsmanship, and the founder of [[The First Forge]] where the dwarven crafting arts were born.
 
 ## Sacred Works
 

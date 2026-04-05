@@ -10,7 +10,7 @@ founded: null
 founder: null
 deities:
 - '[[Aenareth]]'
-headquarters: '[[Hannan''r'']]'
+headquarters: '[[Hannanórë]]'
 tenets:
 - N'rthelion (Stone) — endurance and structure
 - C'rhanna (Forest) — growth and natural order
@@ -32,7 +32,7 @@ relationships:
 - target: '[[Cirhannim]]'
   type: worshipped-by
   metadata:
-    description: The most traditional practitioners in Hannan'r'
+    description: The most traditional practitioners in Hannanórë
     nature: practice
 - target: '[[Aen''valar]]'
   type: worshipped-by
@@ -48,7 +48,7 @@ relationships:
   type: enemy
   metadata:
     description: Known as Elaru'n — the Fifth Tone, the Dissonance
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: worshipped-by
   metadata:
     description: The prime creator — known to Elves as Aenareth
@@ -63,7 +63,7 @@ relationships:
   metadata:
     description: First Hand of Inspiration — known to Elves as Lelyari'
     nature: deity
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worshipped-by
   metadata:
     description: First Hand of Stability — known to Elves as N'rthelion
@@ -95,7 +95,7 @@ relationships:
   type: worships
   metadata:
     description: Known as Mirelaris (Gem shimmer) in Elven tradition
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worships
   metadata:
     description: Known as N'rthelion (Stone resonance) in Elven tradition
@@ -110,7 +110,7 @@ relationships:
 - target: '[[The Synthesis]]'
   type: related
   metadata:
-    description: Tham'dran=N'rthelion, Virandros=C'rhanna, Myrasael=Mirelaris, Elaraieth=Lelyari'
+    description: Thamédran=N'rthelion, Virandros=C'rhanna, Myrasael=Mirelaris, Elaraieth=Lelyari'
     nature: parallel
 - target: '[[The Twin Roots]]'
   type: related
@@ -156,7 +156,7 @@ The light of **emotion, vision, and expression**. Lelyari' is the soaring tone �
 
 Before the Harmonies, there was **[[Aenareth]]** — the Prime Voice — who strummed the **Heartwood of Silence**, setting the resonance of creation in motion like wind through the first hollow tree. Aenareth created the **canvas** upon which the Four Harmonies emerged, not born, but resonated into being. The Prime Voice is not worshipped as a god but honored as the originator — the first breath that made all subsequent music possible.
 
-Other cultures know this figure by different names: the **Great Smith** in [[The Four Makers|Human tradition]], **[[Aen'r-Khadaz]]** (the Deep Shaper) in [[The Four Pillars|Dwarven tradition]].
+Other cultures know this figure by different names: the **Great Smith** in [[The Four Makers|Human tradition]], **[[Aenûr-Khadaz]]** (the Deep Shaper) in [[The Four Pillars|Dwarven tradition]].
 
 ## The Fifth Tone
 
@@ -170,15 +170,15 @@ The heretical **Shadow-Singers of the Sunken Coast**, an offshoot of the [[Aen'v
 
 Elven spiritual life is woven into art, song, and seasonal observance:
 
-- **Hymns and Dream-Songs** — including the **Carnelind'** (Leaf's Memory), the **Calan'rion** (Chronicle of the Fourfold Bloom), and the forbidden **Elaru'n'** (The Fifth Tone), which is never sung aloud but only intuited by twilight choirs
+- **Hymns and Dream-Songs** — including the **Carnelindë** (Leaf's Memory), the **Calanórion** (Chronicle of the Fourfold Bloom), and the forbidden **Elaruûnë** (The Fifth Tone), which is never sung aloud but only intuited by twilight choirs
 - **Seasonal rites** — through which Elves maintain connection with the Harmonies folded into tree, stone, gem, and dream
 - **Artistry as devotion** — every Elven song, painting, and crafted object is an act of resonance, an echo of the original music
 
 ## Cultural Variants
 
-- **[[Cirhannim]]** (Wood Elves of [[Hannan'r']]) — the most traditional practitioners, maintaining the ancient rites behind the Great Weaving's protective barrier
+- **[[Cirhannim]]** (Wood Elves of [[Hannanórë]]) — the most traditional practitioners, maintaining the ancient rites behind the Great Weaving's protective barrier
 - **[[Aen'valar]]** (Forward-Singers of [[Aethelas|Novaterra]]) — analytical and innovative, believing true harmony comes from understanding and integrating new ideas
-- **[[Sael'anir]]** (Sky-Wanderers of [[Aerin'r']]) — nomadic contemplatives who believe the Harmonies can only be heard in the open wind, not behind walls
+- **[[Sael'anir]]** (Sky-Wanderers of [[Aerinórë]]) — nomadic contemplatives who believe the Harmonies can only be heard in the open wind, not behind walls
 
 ## Legacy
 

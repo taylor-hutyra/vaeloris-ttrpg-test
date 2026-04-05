@@ -37,12 +37,12 @@ relationships:
   metadata:
     description: View the Makers as dream-motifs — Mason as the Pillar, Painter as the Flickering Breath
     nature: practice
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: worshipped-by
   metadata:
     description: The prime creator — known to Humans as the Great Smith
     nature: deity
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worshipped-by
   metadata:
     description: First Hand of Stability — known to Humans as the Mason
@@ -70,33 +70,33 @@ relationships:
 - target: '[[Aenareth]]'
   type: related
   metadata:
-    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for A'rastheon
+    description: The Great Smith corresponds to the Elven Prime Voice — both are cultural names for Aúrastheon
     nature: parallel
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: related
   metadata:
-    description: The Great Smith corresponds to the Dwarven Deep Shaper — both are cultural names for A'rastheon
+    description: The Great Smith corresponds to the Dwarven Deep Shaper — both are cultural names for Aúrastheon
     nature: parallel
 - target: '[[The Four Pillars]]'
   type: related
   metadata:
-    description: Mason=Tharn'm (Tham'dran), Carpenter=Bronr'n (Virandros), Jeweler=Farrazul (Myrasael), Painter=Elmura (Elaraieth)
+    description: Mason=Tharnûm (Thamédran), Carpenter=Bronrûn (Virandros), Jeweler=Farrazul (Myrasael), Painter=Elmura (Elaraieth)
     nature: parallel
 - target: '[[The Four Harmonies]]'
   type: related
   metadata:
-    description: Mason=N'rthelion (Tham'dran), Carpenter=C'rhanna (Virandros), Jeweler=Mirelaris (Myrasael), Painter=Lelyari'
+    description: Mason=N'rthelion (Thamédran), Carpenter=C'rhanna (Virandros), Jeweler=Mirelaris (Myrasael), Painter=Lelyari'
       (Elaraieth)
     nature: parallel
 - target: '[[Pantheon of the Ordained]]'
   type: predecessor
   metadata:
     description: The Ordained formalized and politicized these older creation myths
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: worships
   metadata:
     description: Known as the Great Smith in Human tradition
-- target: '[[Aen''r-Khadaz]]'
+- target: '[[Aenûr-Khadaz]]'
   type: worships
   metadata:
     description: Known as the Great Smith in Human tradition
@@ -112,7 +112,7 @@ relationships:
   type: worships
   metadata:
     description: Known as the Jeweler in Human tradition
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: worships
   metadata:
     description: Known as the Mason in Human tradition
@@ -123,7 +123,7 @@ relationships:
 - target: '[[The Synthesis]]'
   type: related
   metadata:
-    description: Tham'dran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
+    description: Thamédran=Mason, Virandros=Carpenter, Myrasael=Jeweler, Elaraieth=Painter
     nature: parallel
 - target: '[[Aetheris]]'
   type: custom
@@ -162,15 +162,15 @@ modified: '2026-03-15'
 
 ## The Creation
 
-The myth begins with the **Great Smith**, who roused the world from formless stillness with the ringing of the **First Flame** upon the **Foundation Bell** — a strike that awakened form, time, and possibility. This act is the Human parallel to [[Aenareth]]'s strumming of the Heartwood of Silence (Elven tradition) and [[Aen'r-Khadaz]]'s Pulse through the bedrock of the void (Dwarven tradition).
+The myth begins with the **Great Smith**, who roused the world from formless stillness with the ringing of the **First Flame** upon the **Foundation Bell** — a strike that awakened form, time, and possibility. This act is the Human parallel to [[Aenareth]]'s strumming of the Heartwood of Silence (Elven tradition) and [[Aenûr-Khadaz]]'s Pulse through the bedrock of the void (Dwarven tradition).
 
 From the harmonic resonance of that original act came four divine Craftsmen:
 
 ### The Mason
-Who raised the mountains, sculpted valleys, and gave **structure** to stone. The Mason is the builder of foundations, the principle of endurance and law. Corresponds to **Tharn'm** in [[The Four Pillars|Dwarven tradition]] and **N'rthelion** in [[The Four Harmonies|Elven tradition]].
+Who raised the mountains, sculpted valleys, and gave **structure** to stone. The Mason is the builder of foundations, the principle of endurance and law. Corresponds to **Tharnûm** in [[The Four Pillars|Dwarven tradition]] and **N'rthelion** in [[The Four Harmonies|Elven tradition]].
 
 ### The Carpenter
-Who coaxed trees from the dust and taught roots to weave the world. The Carpenter is the principle of **growth**, connection, and the living framework that holds civilization together. Corresponds to **Bronr'n** (Dwarven) and **C'rhanna** (Elven).
+Who coaxed trees from the dust and taught roots to weave the world. The Carpenter is the principle of **growth**, connection, and the living framework that holds civilization together. Corresponds to **Bronrûn** (Dwarven) and **C'rhanna** (Elven).
 
 ### The Jeweler
 Who adorned the depths with beauty, refining metal and light. The Jeweler is the principle of **hidden worth**, the beauty that must be sought and earned through labor. Corresponds to **Farrazul** (Dwarven) and **Mirelaris** (Elven).

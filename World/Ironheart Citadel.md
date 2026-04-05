@@ -18,11 +18,11 @@ relationships:
 - target: '[[Bjalmund]]'
   type: founded-by
   period: FA
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: related
   period: FA
   metadata:
-    description: Bjalmund, who built this citadel, is an aspect of Tham'dran
+    description: Bjalmund, who built this citadel, is an aspect of Thamédran
 - target: '[[Dwarves]]'
   type: related
   period: FA

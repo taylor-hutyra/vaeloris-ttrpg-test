@@ -17,7 +17,7 @@ goals:
 - Gain greater representation on the Stone-Lay Council
 - Resist exploitation by the High Clans
 relationships:
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: member
   period: SA
   metadata:
@@ -37,11 +37,11 @@ relationships:
   period: SA
   metadata:
     description: Farrazul refines the raw materials the Gulgrym extract, benefiting disproportionately
-- target: '[[Bronr''n Legacy]]'
+- target: '[[Bronrûn Legacy]]'
   type: ally
   period: SA:1200-
   metadata:
-    description: Bronr'n Legacy quietly courts sympathetic Gulgrym leaders as muscle for reform
+    description: Bronrûn Legacy quietly courts sympathetic Gulgrym leaders as muscle for reform
 - target: '[[Barazkor Clan]]'
   type: controlled-by
   period: SA
@@ -89,4 +89,4 @@ Below even the Gulgrym are the [[Gatestone Clans]], who perform the most menial 
 
 ## Potential for Change
 
-The Gulgrym represent the greatest internal threat to [[Kharnzarak]]'s status quo. A unified miners' revolt could paralyze the kingdom overnight. The [[Bronr'n Legacy]] recognizes this and quietly courts sympathetic Gulgrym leaders, seeing the Deep-Miners as the indispensable muscle for any future reform movement.
+The Gulgrym represent the greatest internal threat to [[Kharnzarak]]'s status quo. A unified miners' revolt could paralyze the kingdom overnight. The [[Bronrûn Legacy]] recognizes this and quietly courts sympathetic Gulgrym leaders, seeing the Deep-Miners as the indispensable muscle for any future reform movement.

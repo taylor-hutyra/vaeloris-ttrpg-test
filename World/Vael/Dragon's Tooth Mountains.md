@@ -42,7 +42,7 @@ relationships:
   period: SA
   metadata:
     description: Subterranean metropolis of silent clockwork within the Dragon's Tooth
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: contains
   period: SA
   metadata:
@@ -62,7 +62,7 @@ relationships:
   period: SA:91
   metadata:
     description: Star-Metal deposits in the upper peaks were under his clan's control
-- target: '[[N''nm-Khazal''n]]'
+- target: '[[Nûm-Khazalûn]]'
   type: homeland
   period: SA
   metadata:

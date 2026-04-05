@@ -176,7 +176,7 @@ Match the question type to the right store. Based on benchmarking (42 tests acro
 | **"Find something about [theme]"** | Vector | `query --semantic "betrayal loyalty broken trust"` |
 | **"Suggest a scene about X"** | Vector | `query --semantic "Orkin theological schism"` |
 | **"Where do [topic A] and [topic B] intersect?"** | Vector | `query --semantic "magic politics power"` |
-| **"Find the passage about [specific term]"** | Vector | `query --semantic "Dur'k Thul dwarven fracture"` |
+| **"Find the passage about [specific term]"** | Vector | `query --semantic "Durâk Thul dwarven fracture"` |
 | **"Find entities similar to X"** | Vector (thematic) or Graph (structural) | Either works depending on what "similar" means |
 | **"List all X" / "Count X"** | SQLite | `query --type person --tags divine` |
 | **"What's inside [place]?"** | SQLite | `query --within "Novaterra"` |

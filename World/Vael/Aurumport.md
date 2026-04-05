@@ -73,7 +73,7 @@ The city's character shifted with the [[Labor Integration Act]] of SA:2130, whic
 
 ## The Convention of Accord
 
-In SA:3280, the [[Magocracy]] summoned all world leaders to Aurumport for the [[Convention of Accord]] -- the treaty that codified the status quo into permanent international law. The [[Laws of Accord]] fixed national borders, declared [[Aerin'r']] a Sanctuary of Nature, retained Magocracy jurisdiction over magical crimes, and guaranteed free non-magical air travel. The signing marked the official transition from the Second Age to the Third Age.
+In SA:3280, the [[Magocracy]] summoned all world leaders to Aurumport for the [[Convention of Accord]] -- the treaty that codified the status quo into permanent international law. The [[Laws of Accord]] fixed national borders, declared [[Aerinórë]] a Sanctuary of Nature, retained Magocracy jurisdiction over magical crimes, and guaranteed free non-magical air travel. The signing marked the official transition from the Second Age to the Third Age.
 
 ## Culture
 

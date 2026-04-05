@@ -5,7 +5,7 @@ name: Virandros
 aliases:
 - Growth
 - The Flowing
-- Bronr'n
+- Bronrûn
 - C'rhanna
 - The Carpenter
 species: divine
@@ -18,12 +18,12 @@ role: First Hand — embodiment of living systems, cycles, adaptation and change
 title: First Hand of Growth
 gender: null
 relationships:
-- target: '[[A''rastheon]]'
+- target: '[[Aúrastheon]]'
   type: created-by
   period: FA
   metadata:
     description: Brought forth in the Second Creation
-- target: '[[Tham''dran]]'
+- target: '[[Thamédran]]'
   type: sibling
   metadata:
     description: Fellow First Hand — created together in the Second Creation
@@ -70,7 +70,7 @@ relationships:
 - target: '[[The Four Pillars]]'
   type: worshipped-by
   metadata:
-    description: Known as Bronr'n (Growth/Timber) in Dwarven tradition
+    description: Known as Bronrûn (Growth/Timber) in Dwarven tradition
 - target: '[[The Four Harmonies]]'
   type: worshipped-by
   metadata:
@@ -114,7 +114,7 @@ relationships:
 - target: '[[The Four Pillars]]'
   type: worships
   metadata:
-    description: First Hand of Growth — known to Dwarves as Bronr'n
+    description: First Hand of Growth — known to Dwarves as Bronrûn
 - target: '[[The Synthesis]]'
   type: worships
   metadata:
@@ -148,7 +148,7 @@ relationships:
     description: Gwynfaer, who established these paths, is an aspect of Virandros
 timeline:
 - period: FA
-  event: Brought forth by A'rastheon in the Second Creation
+  event: Brought forth by Aúrastheon in the Second Creation
 - period: FA
   event: 'First great work: created river systems and established seasonal patterns'
 - period: FA
@@ -172,11 +172,11 @@ modified: '2026-03-28'
 ---
 # Virandros
 
-**Virandros** is the First Hand of Growth — one of the four divine beings brought forth by [[A'rastheon]] in the Second Creation. Virandros embodies living systems, cycles, adaptation, and change. Of all the First Hands, Virandros is that which flows, develops, and renews existence.
+**Virandros** is the First Hand of Growth — one of the four divine beings brought forth by [[Aúrastheon]] in the Second Creation. Virandros embodies living systems, cycles, adaptation, and change. Of all the First Hands, Virandros is that which flows, develops, and renews existence.
 
 ## Domain and Essence
 
-Virandros's domain encompasses the living world: rivers, forests, seasons, and the cycles of growth and renewal. Where [[Tham'dran]] provides the immovable foundation, Virandros brings the dynamic change that makes life possible.
+Virandros's domain encompasses the living world: rivers, forests, seasons, and the cycles of growth and renewal. Where [[Thamédran]] provides the immovable foundation, Virandros brings the dynamic change that makes life possible.
 
 ## First Great Work
 
@@ -202,7 +202,7 @@ Virandros created three aspects to serve as focused guides for mortal races:
 
 ## Cultural Names
 
-- **Bronr'n** (Growth/Timber) — the Dwarven Pillar of growth and making
+- **Bronrûn** (Growth/Timber) — the Dwarven Pillar of growth and making
 - **C'rhanna** (Forest) — the Elven Harmony of growth and natural order
 - **The Carpenter** — the Human Maker who coaxed trees from dust
 - **Virandros** (Growth) — the Waldkyn Voice, true name preserved

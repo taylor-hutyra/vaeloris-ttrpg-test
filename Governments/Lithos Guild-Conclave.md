@@ -43,11 +43,11 @@ relationships:
   period: SA
   metadata:
     description: Located deep within the Dragon's Tooth mountains
-- target: '[[Hannan''r'']]'
+- target: '[[Hannanórë]]'
   type: ally
   period: SA:89-
   metadata:
-    description: Rock Gnomes secretly aided in stabilizing the wards around Hannan'r'
+    description: Rock Gnomes secretly aided in stabilizing the wards around Hannanórë
 - target: '[[Gnomes]]'
   type: controls
   period: SA
@@ -85,4 +85,4 @@ The [[Rock Gnomes]] see the world as a grand machine of stone and energy. Their 
 
 ## Relations
 
-The [[N'om-Khazal'on]] [[Dwarves]] know the Rock Gnomes as the respected but elusive *N'om-kith* ("Stone-kin"). It was the Rock Gnomes who secretly aided in weaving the wards around [[Hannan'r']].
+The [[N'om-Khazal'on]] [[Dwarves]] know the Rock Gnomes as the respected but elusive *N'om-kith* ("Stone-kin"). It was the Rock Gnomes who secretly aided in weaving the wards around [[Hannanórë]].
