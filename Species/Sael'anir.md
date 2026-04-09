@@ -81,6 +81,10 @@ relationships:
   period: SA:1845
   metadata:
     description: Wind-shapers redirected fog to trap the loggers in a maze
+- target: '[[Lanthir Haven]]'
+  type: related
+  metadata:
+    description: Sael'anir Elves maintain the mist-wall protecting the settlement (15% of population)
 tags:
 - species
 - elven

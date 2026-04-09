@@ -53,6 +53,21 @@ relationships:
   period: SA
   metadata:
     description: Reject both isolationism and diplomacy as weak; operate outside Council authority
+- target: '[[Faun]]'
+  type: has-member
+  period: SA:20-
+  metadata:
+    description: The Faun Horn-Speaker represents their people on the Great Council
+- target: '[[Galapa]]'
+  type: has-member
+  period: SA:20-
+  metadata:
+    description: The Galapa Stone-Speaker represents their people on the Great Council
+- target: '[[Katari]]'
+  type: has-member
+  period: SA:20-
+  metadata:
+    description: The Katari Claw-Speaker represents their people on the Great Council
 timeline:
 - period: SA:20
   event: Established as the governing body of the Whispering Vales after the Root-Taking

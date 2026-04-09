@@ -272,6 +272,52 @@ relationships:
 - target: '[[Aerinórë]]'
   type: located-in
   period: 761-
+- target: '[[Faerie]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Inspiration and Growth
+- target: '[[Mycelial Collective]]'
+  type: ally
+  period: SA:2100-
+  metadata:
+    description: Close ties to the Waldkyn through shared naturalist philosophy
+- target: '[[Wardens of the Wild]]'
+  type: ally
+  period: SA:195
+  metadata:
+    description: The Waldkyn mediated the First Council of Races that led to the Wardens' creation
+- target: '[[Faun]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Growth and Inspiration
+- target: '[[Firbolg]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Stability and Growth
+- target: '[[Fungril]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Growth and Refinement
+- target: '[[Galapa]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Stability and Refinement
+- target: '[[Katari]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Refinement and Inspiration
+- target: '[[Ribbet]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Growth and Flowing Change
+- target: '[[Simiah]]'
+  type: parent
+  metadata:
+    description: Waldkyn body-type variant embodying Inspiration and Stability
+- target: '[[Lanthir Haven]]'
+  type: native
+  metadata:
+    description: Home to Waldkyn of all eight variants (35% of population)
 timeline:
 - period: FA
   event: Created as the final collaborative masterpiece of all four First Hands after the Paroxysm — eight anthropomorphic

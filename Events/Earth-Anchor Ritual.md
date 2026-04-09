@@ -91,6 +91,11 @@ relationships:
   period: SA:2688
   metadata:
     description: destroyed-by
+- target: '[[Empress Valkiss]]'
+  type: related
+  period: SA:2688
+  metadata:
+    description: The ritual destroyed the Drakona Cloud Cities, leading to her eventual surrender
 timeline: []
 tags:
 - event

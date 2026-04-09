@@ -39,6 +39,11 @@ relationships:
   type: custom
   metadata:
     description: evolved-from
+- target: '[[Tharum Flame-Touched]]'
+  type: related
+  period: SA:690
+  metadata:
+    description: Pioneer of Elm-ur, the Dwarven tradition of magical craftsmanship
 tags:
 - magic
 created: '2026-03-15'

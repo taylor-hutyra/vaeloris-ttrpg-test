@@ -42,6 +42,11 @@ relationships:
   period: SA
   metadata:
     description: Theocratic monarchy governing the Cirhannim of Hannanórë
+- target: '[[Queen Elara III]]'
+  type: ruled-by
+  period: TA:1-
+  metadata:
+    description: Hereditary ruler whose bloodline is the most direct echo of the Evendarië
 timeline: []
 tags:
 - government

@@ -101,6 +101,11 @@ relationships:
   period: SA:1950
   metadata:
     description: Hired mercenaries to besiege Vernath
+- target: '[[Melek the Grey]]'
+  type: contains
+  period: SA:1401-SA:1407
+  metadata:
+    description: Led the excavation team near Argentum and later demonstrated magic in its central market
 timeline:
 - period: SA:230
   event: Imperial prospectors discover massive silver veins; [[Treaty of Coin]] signed with [[Kharnzarak]]

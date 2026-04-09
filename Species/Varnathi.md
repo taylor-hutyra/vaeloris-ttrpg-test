@@ -107,6 +107,47 @@ relationships:
   type: worships
   metadata:
     nature: state religion
+- target: '[[Admiralty Council]]'
+  type: rival
+  period: SA:440-
+  metadata:
+    description: Centuries of tension between the land-based Empire and the sea-based League
+- target: '[[Allied Command]]'
+  type: member
+  period: SA:2345-SA:2700
+  metadata:
+    description: The Varnathi Empire joined the Alliance despite being first to fall to the invasion
+- target: '[[Federation of City-States]]'
+  type: rival
+  period: SA:1730-
+  metadata:
+    description: Historically adversarial; the Federation emerged from territories fearful of the weakened Republic
+- target: '[[Iron-Bound]]'
+  type: served-by
+  period: SA:2085-
+  metadata:
+    description: Continues as the elite military force of the Varnathi Imperial Democracy
+- target: '[[Pillar Houses]]'
+  type: has-member
+  period: SA:381-
+  metadata:
+    description: The old aristocratic families that have dominated Varnathi politics since the Empire's founding
+- target: '[[Shadewalkers]]'
+  type: controlled-by
+  period: SA:880-SA:1950
+  metadata:
+    description: Infiltrated the high courts and became the shadow government of trade policy
+    nature: covert
+- target: '[[Varnathi Empire]]'
+  type: successor
+  period: SA:381-SA:1950
+  metadata:
+    description: Preceded the current Varnathi Imperial Democracy (the Pentarchy)
+- target: '[[Wardens of the Wild]]'
+  type: member
+  period: SA:195-
+  metadata:
+    description: Human knights from Vernath were founding members
 tags:
 - species
 - human

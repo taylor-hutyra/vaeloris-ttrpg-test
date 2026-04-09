@@ -40,6 +40,16 @@ relationships:
   period: SA:1510-
   metadata:
     description: Capital of the Chartered Kith progressives on Novaterra
+- target: '[[Faerie]]'
+  type: homeland
+  period: SA:1510-
+  metadata:
+    description: Chartered Kith Faerie serve as messengers and information-gatherers
+- target: '[[Simiah]]'
+  type: homeland
+  period: SA:1510-
+  metadata:
+    description: Simiah are among the most prominent variants in Nexus, drawn to its culture of innovation
 timeline:
 - period: SA:925
   label: Chartered Kith Waldkyn leave the Whispering Vales for urban life

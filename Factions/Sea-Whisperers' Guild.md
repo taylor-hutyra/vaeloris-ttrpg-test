@@ -39,6 +39,11 @@ relationships:
   metadata:
     description: Controls Wind-Shaping; no house can go to war without their blessing
     nature: internal faction
+- target: '[[Admiralty Council]]'
+  type: ally
+  period: SA:550-
+  metadata:
+    description: Wind-shapers serve as crucial power brokers; no house goes to war without their blessing
 timeline:
 - period: SA:520
   label: First combat use of Wind-Shaping during the Incident of the Burning Mast

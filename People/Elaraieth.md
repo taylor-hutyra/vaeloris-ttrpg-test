@@ -142,6 +142,30 @@ relationships:
   period: FA
   metadata:
     description: Stellion, who built these peaks, is an aspect of Elaraieth
+- target: '[[Faerie]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Inspiration
+    nature: collaborative
+- target: '[[Faun]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Inspiration
+    nature: collaborative
+- target: '[[Katari]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Inspiration
+    nature: collaborative
+- target: '[[Simiah]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Inspiration
+    nature: collaborative
 timeline:
 - period: FA
   event: Brought forth by Aúrastheon in the Second Creation

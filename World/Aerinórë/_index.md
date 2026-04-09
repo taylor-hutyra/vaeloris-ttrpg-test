@@ -75,6 +75,10 @@ relationships:
 - target: '[[Vorok-Varr]]'
   type: located-in
   period: 761-
+- target: '[[Lanthir Haven]]'
+  type: contains
+  metadata:
+    description: Coastal settlement on the western shore of Aerinórë
 timeline:
 - period: '761'
   event: Pact of the Northern Sanctuary — Mirennian explorers swear non-interference

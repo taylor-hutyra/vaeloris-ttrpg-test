@@ -161,6 +161,31 @@ relationships:
   period: 1-
   metadata:
     description: heretical-offshoot
+- target: '[[Queen Elara III]]'
+  type: ruled-by
+  period: TA:1-
+  metadata:
+    description: Rules the magically concealed forest as the living symbol of its unchanging grace
+- target: '[[House Lyrandor]]'
+  type: contains
+  period: SA:1-
+  metadata:
+    description: Traditional house of the Silent Sentinels who guard the forest's borders
+- target: '[[House Silvanus]]'
+  type: contains
+  period: SA:1-
+  metadata:
+    description: A younger and less influential house within Hannanórë
+- target: '[[House Valerion]]'
+  type: contains
+  period: SA:1-
+  metadata:
+    description: The most powerful and ancient house within the concealed forest of Hannanórë
+- target: '[[Wardens of the Wild]]'
+  type: member
+  period: SA:195-
+  metadata:
+    description: Elven archers from Hannanórë were founding members
 timeline:
 - period: SA:55
   event: '[[Queen Lelyariel]] and the Sun-Leaf Conclave complete [[The Great Weaving]], concealing the forest behind permanent

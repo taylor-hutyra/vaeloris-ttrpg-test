@@ -25,6 +25,11 @@ relationships:
   type: rival
 - target: '[[Integrators]]'
   type: rival
+- target: '[[Mycelial Collective]]'
+  type: member
+  period: SA:2100-
+  metadata:
+    description: Zealous faction that views the world's pattern as actively corrupted
 timeline:
 - period: ''
   event: Formed as a reactionary movement within Mycohollow

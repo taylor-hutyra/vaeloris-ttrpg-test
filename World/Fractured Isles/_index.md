@@ -35,6 +35,10 @@ relationships:
   period: 1020-
   metadata:
     nature: hostile
+- target: '[[Serpent''s Tooth]]'
+  type: contains
+  metadata:
+    description: Primary island of the southern archipelago
 timeline:
 - period: '1020'
   event: Captain Vane unites the pirate crews and founds the Code of the Coast

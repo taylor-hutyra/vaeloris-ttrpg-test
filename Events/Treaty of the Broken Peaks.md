@@ -62,6 +62,11 @@ relationships:
   period: SA:2700
   metadata:
     description: The Skyfall led directly to Drakona surrender
+- target: '[[Empress Valkiss]]'
+  type: involved
+  period: SA:2700
+  metadata:
+    description: Surrendered unconditionally, dissolving the Drakona Empire
 timeline: []
 tags:
 - event

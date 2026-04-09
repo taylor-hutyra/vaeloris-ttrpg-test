@@ -32,6 +32,11 @@ relationships:
   type: contains
   metadata:
     nature: headquarters
+- target: '[[Mycelial Collective]]'
+  type: member
+  period: SA:2100-
+  metadata:
+    description: The Balancers are the majority ruling philosophy within the Collective
 timeline:
 - period: ''
   event: Emerged as the majority philosophical faction in Mycohollow

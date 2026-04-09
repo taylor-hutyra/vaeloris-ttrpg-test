@@ -26,6 +26,12 @@ relationships:
   type: ruled-by
   metadata:
     description: Political arm of the military hawks pushing for aggressive expansion
+- target: '[[Pillar Houses]]'
+  type: rival
+  period: SA:2085-
+  metadata:
+    description: Hawks in the Crimson Banner push for military expansion that threatens the stable order the Pillar Houses
+      prefer
 timeline: []
 tags:
 - faction

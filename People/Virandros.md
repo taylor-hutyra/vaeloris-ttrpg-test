@@ -146,6 +146,36 @@ relationships:
   period: FA
   metadata:
     description: Gwynfaer, who established these paths, is an aspect of Virandros
+- target: '[[Faerie]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Growth
+    nature: collaborative
+- target: '[[Faun]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Growth
+    nature: collaborative
+- target: '[[Firbolg]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Growth
+    nature: collaborative
+- target: '[[Fungril]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Growth
+    nature: collaborative
+- target: '[[Ribbet]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Growth
+    nature: collaborative
 timeline:
 - period: FA
   event: Brought forth by Aúrastheon in the Second Creation

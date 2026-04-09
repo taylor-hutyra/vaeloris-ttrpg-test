@@ -11,7 +11,7 @@ Forward-reference wikilinks that exist in the world but don't have their own ent
 
 ## Aliases / Shortened References (46)
 
-These are not truly missing — they use a shorter wikilink form or variant spelling that points to an existing entity. Consider adding Obsidian aliases to the target files.
+These are not truly missing — they use a shorter wikilink form or variant spelling that points to an existing entity. Consider adding aliases to the target files.
 
 | Wikilink | Resolves To |
 |----------|-------------|

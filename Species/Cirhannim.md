@@ -102,6 +102,21 @@ relationships:
   metadata:
     description: Born among the Wood-Spirit People before departing
     nature: former
+- target: '[[House Lyrandor]]'
+  type: has-member
+  period: SA:1-
+  metadata:
+    description: The traditional warrior house of Cirhannim Elven society
+- target: '[[House Silvanus]]'
+  type: has-member
+  period: SA:1-
+  metadata:
+    description: Noble house of the Cirhannim Elven people
+- target: '[[House Valerion]]'
+  type: has-member
+  period: SA:1-
+  metadata:
+    description: The preeminent noble house of Cirhannim Elven society
 tags:
 - species
 - elven

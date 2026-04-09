@@ -49,6 +49,11 @@ relationships:
   period: SA:1467
   metadata:
     description: General Aric rebelled rather than submit to the Purge
+- target: '[[General Aric the Silver]]'
+  type: founded-by
+  period: SA:1467
+  metadata:
+    description: Carved out a sanctuary kingdom on the borderlands for persecuted mages
 timeline: []
 tags:
 - event

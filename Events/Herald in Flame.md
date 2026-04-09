@@ -43,6 +43,11 @@ relationships:
   period: SA:2188
   metadata:
     description: The Aetheris would later walk among mortals in disguise
+- target: '[[Kyria Solanis]]'
+  type: involved
+  period: SA:2032
+  metadata:
+    description: The first confirmed Aetheris sighting, descending as a winged figure of pure light
 timeline: []
 tags:
 - event

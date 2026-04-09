@@ -167,6 +167,44 @@ relationships:
   period: SA:1485
   metadata:
     nature: collaborative
+- target: '[[Tharum Flame-Touched]]'
+  type: founded-by
+  metadata:
+    description: The Elm-korin he led eventually founded Gearhaven alongside human mages
+- target: '[[Allied Command]]'
+  type: member
+  period: SA:2345-SA:2700
+  metadata:
+    description: Gearhaven's Technocracy provided magitech engines and ironclad ships
+- target: '[[Coalition of Mages]]'
+  type: ally
+  period: SA:2305-SA:2700
+  metadata:
+    description: Gearhaven's Archmages were founding members of the Coalition
+- target: '[[Federation of City-States]]'
+  type: ally
+  period: SA:2110-
+  metadata:
+    description: Co-founded the Free Peoples Alliance to deter Varnathi aggression
+- target: '[[Legio Null]]'
+  type: enemy
+  period: SA:1680-SA:1700
+  metadata:
+    description: Gearhaven's intervention on the mainland ended the Mage-Purge
+- target: '[[Wandering Kin]]'
+  type: trade
+  period: SA:1485-
+  metadata:
+    description: Supplied materials and personnel during Gearhaven's founding
+- target: '[[Aether-Glider]]'
+  type: creator
+  period: SA:3134
+  metadata:
+    description: Developed by Gearhaven engineers in collaboration with Mirennian architects
+- target: '[[Free Holds]]'
+  type: trade
+  metadata:
+    description: Economic ties through mining and mercenary contracts
 timeline:
 - period: SA:1475
   label: Refugee flotilla lands at Rust-Water Bay

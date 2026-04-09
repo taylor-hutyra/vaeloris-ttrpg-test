@@ -93,6 +93,11 @@ relationships:
 - target: '[[Mirennian League]]'
   type: has-member
   period: SA:440-
+- target: '[[Captain Vane]]'
+  type: enemy
+  period: SA:1070
+  metadata:
+    description: Blockaded the Republic's primary port for six months
 timeline:
 - period: SA:440
   event: Founded by the Varnathi Empire at the mouth of the Great River during the Coastal Expansion

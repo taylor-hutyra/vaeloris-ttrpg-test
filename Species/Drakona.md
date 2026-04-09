@@ -162,6 +162,46 @@ relationships:
   period: SA:2700-
   metadata:
     nature: subjugated
+- target: '[[Empress Valkiss]]'
+  type: ruled-by
+  period: SA:2700
+  metadata:
+    description: Drakona Empress who surrendered to the Allied Command
+- target: '[[Captain Kaelen Vance]]'
+  type: enemy
+  period: SA:2480-
+  metadata:
+    description: Raided both sides of the war for supplies
+- target: '[[Admiral Lyra Wind-Caller]]'
+  type: enemy
+  period: SA:2345-SA:2700
+  metadata:
+    description: Fought against the Drakona invasion throughout the war
+- target: '[[District of Scales]]'
+  type: native
+  period: SA:2725-
+  metadata:
+    description: Forced relocation zone for surviving Drakona after the Skyfall
+- target: '[[Cloudborn Corsairs]]'
+  type: enemy
+  period: SA:2480-SA:2688
+  metadata:
+    description: Raided Drakona supply lines, especially after the Privateer Accords
+- target: '[[Coalition of Mages]]'
+  type: enemy
+  period: SA:2341-SA:2700
+  metadata:
+    description: Designed and executed the Earth-Anchor Ritual that destroyed the Drakona Cloud Cities
+- target: '[[Shadewalkers]]'
+  type: trade
+  period: SA:2500
+  metadata:
+    description: Sold the blueprints of the Mk-IV Sky-Cruiser to the Drakona during the war
+    nature: betrayal
+- target: '[[Sun-Lances]]'
+  type: creator
+  metadata:
+    description: Developed by the Drakona Empire as their primary bombardment weapon
 timeline:
 - period: SA:1805
   label: First confirmed contact — Beast of Black Rock incident

@@ -77,6 +77,11 @@ relationships:
   period: SA:1200-
   metadata:
     description: Secret reformist society operating within Kharnzarak, revering the Pillar of Growth
+- target: '[[Wandering Kin]]'
+  type: member
+  period: SA:1200-
+  metadata:
+    description: Thousands of Bronrûn Dwarves used the Wandering Kin network to migrate to the surface
 timeline:
 - period: SA:1200
   label: Bronrûn Clan blamed for the Earthwake and exiled; the Legacy went underground

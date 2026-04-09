@@ -45,6 +45,10 @@ relationships:
 - target: '[[Aerinórë]]'
   type: located-in
   period: 761-
+- target: '[[Lanthir Haven]]'
+  type: native
+  metadata:
+    description: Home to the peaceful Vorok-Varr Orkin (20% of population)
 timeline:
 - period: SA:700
   label: Founded by Vorok the Listener as a peaceful Orkin community

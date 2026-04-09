@@ -39,6 +39,10 @@ relationships:
   period: SA:1300
   metadata:
     description: Formally organized after the Confederacy united the desert tribes
+- target: '[[Lothari Desert]]'
+  type: related
+  metadata:
+    description: Headquarters of the Lothari knowledge-preservation organization
 timeline:
 - period: SA:1350
   label: Formally organized by Lothari mystics to preserve knowledge during the Age of Expansion

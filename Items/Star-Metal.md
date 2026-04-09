@@ -36,6 +36,10 @@ relationships:
   period: SA:91
   metadata:
     description: Monopoly on meteorite iron was key to his political leverage
+- target: '[[Crown of the Mountain]]'
+  type: related
+  metadata:
+    description: Star-Metal forms the crown's central band
 tags:
 - item
 created: '2026-03-15'

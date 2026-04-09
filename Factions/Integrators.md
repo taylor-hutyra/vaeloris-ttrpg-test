@@ -25,6 +25,11 @@ relationships:
   type: rival
 - target: '[[Purifiers]]'
   type: rival
+- target: '[[Mycelial Collective]]'
+  type: member
+  period: SA:2100-
+  metadata:
+    description: Innovative faction that believes the pattern must evolve
 timeline:
 - period: ''
   event: Founded as a progressive school of thought within Mycohollow

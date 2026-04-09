@@ -2,25 +2,34 @@
 wb-type: faction
 wb-id: open-palm-movement
 name: Open Palm Movement
-aliases: [The Reformists]
+aliases:
+- The Reformists
 type: political
 founded: null
 dissolved: null
-headquarters: "[[Vernath]]"
+headquarters: '[[Vernath]]'
 leader: null
-territory: ["[[Vernath]]"]
+territory:
+- '[[Vernath]]'
 influence: moderate
 goals:
-  - Achieve true equality for the Assimilated
-  - Reform the Varnathi caste system
-  - Build unity through inclusion rather than military might
-relationships: []
+- Achieve true equality for the Assimilated
+- Reform the Varnathi caste system
+- Build unity through inclusion rather than military might
+relationships:
+- target: '[[Pillar Houses]]'
+  type: enemy
+  period: SA:2085-
+  metadata:
+    description: Reformists threaten the aristocratic privilege and social stratification the Pillar Houses depend upon
 timeline: []
-tags: [faction, human, varnathi]
-created: "2026-03-15"
-modified: "2026-03-15"
+tags:
+- faction
+- human
+- varnathi
+created: '2026-03-15'
+modified: '2026-03-15'
 ---
-
 # Open Palm Movement
 
 The **Open Palm Movement**, known as **The Reformists**, is the progressive faction within the [[Pentarchy of Vernath]]. Though smaller than either the [[Crimson Banner]] or the [[Marble Hand]], they serve as a persistent political conscience, typically aligned with the [[Consul of the People]].

@@ -43,6 +43,11 @@ relationships:
   type: predecessor
   metadata:
     description: Distant successor who reversed the Sealing by opening a single trade gate
+- target: '[[Durin Stone-Fist]]'
+  type: served-by
+  period: TA:412
+  metadata:
+    description: The king's most trusted enforcer and militant ally
 timeline:
 - period: SA:3050
   event: Allowed a single trade gate of Kharnzarak to open, ending centuries of total isolation

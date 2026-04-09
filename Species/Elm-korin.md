@@ -118,6 +118,16 @@ relationships:
   period: SA
   metadata:
     description: Rock Gnomes fascinate and are fascinated by Elm-korin technomancy
+- target: '[[Tharum Flame-Touched]]'
+  type: founded-by
+  period: SA:690
+  metadata:
+    description: His actions and philosophy led directly to the founding of the Elm-korin faction
+- target: '[[Wandering Kin]]'
+  type: member
+  period: SA:855-
+  metadata:
+    description: Elm-korin magic-smiths provided goods and repairs no human smith could match
 tags:
 - species
 - dwarven

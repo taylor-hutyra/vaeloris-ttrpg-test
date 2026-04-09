@@ -28,6 +28,16 @@ relationships:
   period: 1-
   metadata:
     nature: distrustful
+- target: '[[Fungril]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Co-dominant variant among the Murk-Tenders alongside Ribbet
+- target: '[[Ribbet]]'
+  type: homeland
+  period: SA
+  metadata:
+    description: Co-dominant variant among the Murk-Tenders alongside Fungril
 timeline:
 - period: SA:20-
   event: Ribbet and Fungril Waldkyn settle the swamps, adapting to a life of secrecy

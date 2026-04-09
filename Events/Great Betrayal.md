@@ -71,6 +71,11 @@ relationships:
   period: SA:1950
   metadata:
     description: The Republic's collapse triggered decades of civil war
+- target: '[[Varia the Whisper]]'
+  type: caused-by
+  period: SA:1950
+  metadata:
+    description: The Shadewalkers leaked forged documents that triggered the Succession Wars
 timeline: []
 tags:
 - event

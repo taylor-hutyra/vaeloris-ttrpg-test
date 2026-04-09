@@ -102,6 +102,46 @@ relationships:
   period: SA:1-
   metadata:
     nature: friendly
+- target: '[[Faerie]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Faun]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Firbolg]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Fungril]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Galapa]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Katari]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Ribbet]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
+- target: '[[Simiah]]'
+  type: native
+  period: SA:20-
+  metadata:
+    description: Ancestral homeland shared with all Waldkyn variants
 timeline:
 - period: SA:5
   event: Waldkyn foragers share Ash-Root knowledge with starving human refugees on the border

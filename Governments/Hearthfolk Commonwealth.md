@@ -47,6 +47,10 @@ relationships:
   period: SA:1280-
   metadata:
     description: Treaty of the Hearth grants Halfling neutrality; wary coexistence
+- target: '[[Silkenflow River]]'
+  type: related
+  metadata:
+    description: Home to the semi-nomadic River-Folk Halfling culture
 timeline:
 - period: SA:980
   event: Founding of Greenmeadow, the first permanent Halfling settlement

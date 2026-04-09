@@ -67,6 +67,11 @@ relationships:
     description: Lothari call Sand Gnomes 'the little spirits of the cool sand'
 - target: '[[Varnathi]]'
   type: rival
+- target: '[[Mycelial Collective]]'
+  type: trade
+  period: SA:2100-
+  metadata:
+    description: Sold intelligence to the Lothari and Elves to maintain global balance of power
 tags:
 - species
 - human

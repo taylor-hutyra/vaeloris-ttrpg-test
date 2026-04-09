@@ -22,6 +22,11 @@ relationships:
   metadata:
     description: Spiritual and political leadership of the Lothari people
     nature: has part
+- target: '[[Lothari Desert]]'
+  type: controls
+  period: SA:1300-
+  metadata:
+    description: United under the Lothari Mystics as the Desertborn Confederacy
 timeline:
 - period: SA:1300
   label: Lothari nomadic tribes united under the mystics to seize control of the Silk Road

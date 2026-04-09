@@ -43,6 +43,11 @@ relationships:
   period: SA:2500-2688
   metadata:
     description: The floating landmass that became the wartime neutral zone
+- target: '[[Cloudborn Corsairs]]'
+  type: contains
+  period: SA:2511-SA:2688
+  metadata:
+    description: Used the Floating Market of Zure as a neutral trading post
 timeline:
 - period: SA:2500
   label: Established as a neutral floating market on a Paroxysm-lifted sky-island

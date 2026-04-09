@@ -68,6 +68,11 @@ relationships:
   type: contains
   metadata:
     nature: headquarters
+- target: '[[Mycelial Collective]]'
+  type: contains
+  period: SA:2100-
+  metadata:
+    description: Centered in the semi-sentient fungal grove of Mycohollow
 timeline:
 - period: SA:1-
   event: Forest Gnomes establish hidden Hollows beneath the great forests of the mainland

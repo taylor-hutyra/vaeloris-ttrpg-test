@@ -104,6 +104,11 @@ relationships:
   type: ruled-by
   metadata:
     description: Iron-Hand clan, later known as the Iron-Gavels; the Royal Clan
+- target: '[[Durin Stone-Fist]]'
+  type: has-member
+  period: TA:412
+  metadata:
+    description: Ranking member of the Royal Clan, the Iron-Gavels
 timeline:
 - period: SA:91
   label: Thane Korin Barazkor declared first High King of unified Kharnzarak

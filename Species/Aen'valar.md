@@ -128,6 +128,27 @@ relationships:
     description: Established and coordinated the underground railroad
 - target: '[[Mórenórë]]'
   type: contains
+- target: '[[Coalition of Mages]]'
+  type: ally
+  period: SA:2305-
+  metadata:
+    description: Recruited scholars from Aethelas including Elaruniel
+- target: '[[House Silvanus]]'
+  type: ally
+  period: SA:900-
+  metadata:
+    description: Secret sympathizers who believe outside knowledge is needed to save the forest
+    nature: covert
+- target: '[[House Valerion]]'
+  type: enemy
+  period: SA:80-
+  metadata:
+    description: Views the Aen'valar as reckless progressives who threaten Cirhannim purity
+- target: '[[Grand University]]'
+  type: founder
+  period: SA:1750
+  metadata:
+    description: Co-founded by the Aen'valar Elves and the Magister's Council
 tags:
 - species
 - elven

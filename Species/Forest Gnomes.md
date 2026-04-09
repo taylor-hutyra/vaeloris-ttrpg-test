@@ -114,6 +114,16 @@ relationships:
   period: SA
   metadata:
     description: Largest and most influential Forest Gnome settlement
+- target: '[[Mycelial Collective]]'
+  type: ruled-by
+  period: SA:2100-
+  metadata:
+    description: The Mycelial Council governs the Forest Gnomes of the mainland
+- target: '[[Wandering Kin]]'
+  type: ally
+  period: SA:2780-
+  metadata:
+    description: Deepened trust after jointly defying the Magocracy at Iron-Beach
 tags:
 - species
 - gnomish

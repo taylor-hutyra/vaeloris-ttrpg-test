@@ -109,6 +109,21 @@ relationships:
   period: SA:2085
   metadata:
     description: Warlord Aetius IV of Castellum conquered Vernath and became Emperor
+- target: '[[Iron-Bound]]'
+  type: contains
+  period: SA:410-
+  metadata:
+    description: Primary base in the fortress-city of Castellum
+- target: '[[Legio Null]]'
+  type: contains
+  period: SA:1450-SA:1700
+  metadata:
+    description: Led by zealot-captains from the militaristic city-state of Castellum
+- target: '[[Consul Marius]]'
+  type: ruled-by
+  period: SA:820
+  metadata:
+    description: Led Castellum's dominance over the Republic through the Castellum Consolidation
 timeline:
 - period: SA:315
   event: Founded as military outposts during the Varnathi Southern Push into wild lowlands

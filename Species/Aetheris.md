@@ -70,6 +70,15 @@ relationships:
   type: origin-of
   metadata:
     description: The collective faith of the Church gave birth to the Aetheris
+- target: '[[Kyria Solanis]]'
+  type: identity
+  metadata:
+    description: The first of the Aetheris to manifest; their name became synonymous with the species
+- target: '[[Iovan]]'
+  type: related
+  period: SA:2032
+  metadata:
+    description: The first Aetheris appeared during a bandit attack on refugees under Iovan's protection
 timeline:
 - period: SA:2032
   event: First Aetheris manifests outside Luminas, defending a refugee camp from bandits

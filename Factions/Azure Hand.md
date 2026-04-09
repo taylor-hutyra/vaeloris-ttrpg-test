@@ -67,6 +67,11 @@ relationships:
   metadata:
     description: Secretive house profiting from smuggling and gray-market trade
     nature: internal faction
+- target: '[[Admiralty Council]]'
+  type: member
+  period: SA:440-
+  metadata:
+    description: Secretive house profiting from smuggling, espionage, and gray-market trade
 timeline:
 - period: SA:1100
   label: Exposed Golden Compass embezzlement, triggering the Guild Wars

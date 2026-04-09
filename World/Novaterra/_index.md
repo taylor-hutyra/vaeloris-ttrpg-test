@@ -85,6 +85,15 @@ relationships:
     description: Massive flotilla landed in a desolate bay rich in geothermal vents
 - target: '[[Thulkorûn]]'
   type: contains
+- target: '[[Tynna Swift-Tide]]'
+  type: related
+  period: SA:752
+  metadata:
+    description: Discovered the continent of Novaterra while seeking a route around Republican blockades
+- target: '[[Windsail]]'
+  type: contains
+  metadata:
+    description: First permanent settlement on Novaterra's western coast
 timeline:
 - period: '752'
   event: Discovery by Mirennian Navigator Tynna Swift-Tide

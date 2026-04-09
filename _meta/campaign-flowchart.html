@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Broken Harmonies — Campaign Flowchart</title>
+<style>
+  :root {
+    --bg: #1a1a2e;
+    --surface: #16213e;
+    --surface2: #0f3460;
+    --accent: #e94560;
+    --gold: #d4a853;
+    --teal: #53d4a8;
+    --silver: #c0c0c0;
+    --text: #e8e8e8;
+    --muted: #888;
+    --act1: #c0392b;
+    --act2: #2980b9;
+    --act3: #8e44ad;
+    --decision: #d4a853;
+    --consequence: #e94560;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    padding: 2rem 1rem;
+  }
+
+  .container { max-width: 1100px; margin: 0 auto; }
+
+  h1 {
+    text-align: center;
+    font-size: 2.2rem;
+    color: var(--gold);
+    margin-bottom: 0.3rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+
+  .subtitle {
+    text-align: center;
+    color: var(--muted);
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
+  }
+
+  .meta {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .meta span { margin: 0 0.75rem; }
+
+  /* ── Legend ── */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+    padding: 1rem;
+    background: var(--surface);
+    border-radius: 8px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  .legend-swatch {
+    width: 14px; height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  /* ── Flow spine ── */
+  .flow {
+    position: relative;
+    padding-left: 60px;
+  }
+
+  .flow::before {
+    content: '';
+    position: absolute;
+    left: 28px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(
+      to bottom,
+      var(--act1) 0%, var(--act1) 22%,
+      var(--act2) 22%, var(--act2) 68%,
+      var(--act3) 68%, var(--act3) 100%
+    );
+    border-radius: 2px;
+  }
+
+  /* ── Nodes ── */
+  .node {
+    position: relative;
+    margin-bottom: 1.2rem;
+  }
+
+  .node::before {
+    content: '';
+    position: absolute;
+    left: -40px;
+    top: 14px;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    border: 3px solid;
+    background: var(--bg);
+    z-index: 1;
+  }
+
+  .node.act1::before { border-color: var(--act1); }
+  .node.act2::before { border-color: var(--act2); }
+  .node.act3::before { border-color: var(--act3); }
+  .node.decision::before { border-color: var(--decision); background: var(--decision); }
+  .node.consequence::before { border-color: var(--consequence); background: var(--consequence); border-radius: 2px; transform: rotate(45deg); width: 12px; height: 12px; top: 16px; left: -38px; }
+
+  .card {
+    background: var(--surface);
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+    border-left: 4px solid transparent;
+    transition: transform 0.15s;
+  }
+
+  .card:hover { transform: translateX(3px); }
+
+  .node.act1 .card { border-left-color: var(--act1); }
+  .node.act2 .card { border-left-color: var(--act2); }
+  .node.act3 .card { border-left-color: var(--act3); }
+  .node.decision .card { border-left-color: var(--decision); background: #2a2215; }
+  .node.consequence .card { border-left-color: var(--consequence); background: #2a1520; }
+
+  .card-header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  .card h3 {
+    font-size: 1.05rem;
+    color: var(--text);
+    margin: 0;
+  }
+
+  .badge {
+    font-size: 0.65rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .badge.sessions { background: var(--surface2); color: var(--teal); }
+  .badge.xp { background: var(--surface2); color: var(--gold); }
+  .badge.tier { background: var(--surface2); color: var(--silver); }
+  .badge.emotional { background: #3d1a2a; color: #ff8fa3; }
+
+  .card p, .card ul {
+    font-size: 0.88rem;
+    color: #bbb;
+    margin-top: 0.3rem;
+  }
+
+  .card ul { padding-left: 1.2rem; }
+  .card li { margin-bottom: 0.15rem; }
+
+  .npcs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.5rem;
+  }
+
+  .npc {
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: var(--surface2);
+    color: var(--teal);
+  }
+
+  .npc.antagonist { color: var(--accent); background: #2a1520; }
+  .npc.ally { color: var(--teal); }
+  .npc.bbeg { color: var(--gold); background: #2a2215; }
+
+  .faction-impacts {
+    margin-top: 0.5rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+  }
+  .faction-impacts span.up { color: var(--teal); }
+  .faction-impacts span.down { color: var(--accent); }
+
+  .paths {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+  }
+
+  @media (min-width: 700px) {
+    .paths.cols-3 { grid-template-columns: 1fr 1fr 1fr; }
+    .paths.cols-2 { grid-template-columns: 1fr 1fr; }
+  }
+
+  .path-option {
+    padding: 0.6rem 0.8rem;
+    border-radius: 6px;
+    font-size: 0.82rem;
+    border: 1px solid #333;
+  }
+
+  .path-option.best { border-color: var(--teal); background: rgba(83,212,168,0.05); }
+  .path-option.neutral { border-color: var(--gold); background: rgba(212,168,83,0.05); }
+  .path-option.worst { border-color: var(--accent); background: rgba(233,69,96,0.05); }
+
+  .path-option strong { display: block; margin-bottom: 0.2rem; color: var(--text); }
+
+  /* ── Act Dividers ── */
+  .act-divider {
+    position: relative;
+    margin: 2.5rem 0 1.5rem;
+    padding: 1rem 1.2rem;
+    background: var(--surface);
+    border-radius: 8px;
+    border: 1px solid;
+    text-align: center;
+  }
+
+  .act-divider::before {
+    content: '';
+    position: absolute;
+    left: -40px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    z-index: 2;
+  }
+
+  .act-divider.act1 { border-color: var(--act1); }
+  .act-divider.act1::before { background: var(--act1); }
+  .act-divider.act2 { border-color: var(--act2); }
+  .act-divider.act2::before { background: var(--act2); }
+  .act-divider.act3 { border-color: var(--act3); }
+  .act-divider.act3::before { background: var(--act3); }
+
+  .act-divider h2 {
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 0.2rem;
+  }
+
+  .act-divider.act1 h2 { color: var(--act1); }
+  .act-divider.act2 h2 { color: var(--act2); }
+  .act-divider.act3 h2 { color: var(--act3); }
+
+  .act-divider .act-sub {
+    font-size: 0.85rem;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  .red-flag {
+    margin-top: 0.5rem;
+    padding: 0.4rem 0.7rem;
+    background: #2a1520;
+    border-left: 3px solid var(--accent);
+    border-radius: 0 4px 4px 0;
+    font-size: 0.8rem;
+    color: #ff8fa3;
+  }
+
+  .emotional-beat {
+    margin-top: 0.5rem;
+    padding: 0.4rem 0.7rem;
+    background: #1a2a3d;
+    border-left: 3px solid var(--teal);
+    border-radius: 0 4px 4px 0;
+    font-size: 0.8rem;
+    color: #8fd4ff;
+    font-style: italic;
+  }
+
+  .connector-label {
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin: 0.5rem 0;
+    font-style: italic;
+  }
+
+  /* ── Allies Table ── */
+  .allies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+  }
+
+  .ally-card {
+    padding: 0.5rem 0.7rem;
+    border-radius: 6px;
+    font-size: 0.78rem;
+    border: 1px solid #333;
+    background: rgba(83,212,168,0.03);
+  }
+
+  .ally-card.automatic { border-color: var(--teal); }
+  .ally-card.earned { border-color: var(--gold); }
+
+  .ally-card strong { color: var(--text); display: block; margin-bottom: 0.15rem; }
+  .ally-card .req { color: var(--muted); font-size: 0.7rem; }
+
+  .epilogue-quote {
+    text-align: center;
+    font-style: italic;
+    color: var(--gold);
+    font-size: 1.1rem;
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>The Broken Harmonies</h1>
+<p class="subtitle">A Campaign Flowchart for Vaeloris</p>
+<p class="meta">
+  <span>SA 1490 — The Arcane Revolution</span>
+  <span>30–40 Sessions</span>
+  <span>3–6 Players</span>
+  <span>Starting → Heroic (~600 XP)</span>
+</p>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-swatch" style="background:var(--act1)"></div> Act I — The Catalyst</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:var(--act2)"></div> Act II — The Journey</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:var(--act3)"></div> Act III — The Convergence</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:var(--decision)"></div> Player Decision</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:var(--consequence);border-radius:2px;transform:rotate(45deg);width:12px;height:12px"></div> Consequence</div>
+</div>
+
+<div class="flow">
+
+<!-- ═══════════════ ACT I ═══════════════ -->
+<div class="act-divider act1">
+  <h2>Act I — The Catalyst</h2>
+  <p class="act-sub">Chase thriller — hunted, desperate, racing to escape &bull; Sessions 1–8 &bull; 0→150 XP</p>
+</div>
+
+<div class="node act1">
+  <div class="card">
+    <div class="card-header">
+      <h3>Lux Aeterna — Home</h3>
+      <span class="badge sessions">Sessions 1–2</span>
+      <span class="badge xp">0 XP</span>
+    </div>
+    <p>Hidden mage-refugee settlement of ~400 souls in desert foothills. Players are relic-hunters working for Tajsh Thale. Establish NPC bonds, run sidequests, build emotional investment.</p>
+    <div class="emotional-beat">"The Night the Lantern Was Full" — the settlement at its most alive. Old Cira says: <em>"Don't forget this."</em></div>
+    <div class="npcs">
+      <span class="npc ally">Tajsh Thale</span>
+      <span class="npc ally">Warden Sabel</span>
+      <span class="npc ally">Old Cira</span>
+      <span class="npc ally">Marta Dustborn</span>
+      <span class="npc ally">Hask</span>
+      <span class="npc ally">Aldric Greypen</span>
+      <span class="npc ally">Petra</span>
+    </div>
+  </div>
+</div>
+
+<div class="node act1">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Mining Camp &amp; Ruin of Sorath</h3>
+      <span class="badge sessions">Session 1</span>
+    </div>
+    <p>Tajsh sends the party to find a missing mining crew. They find the camp destroyed by Scorch-Wraiths and discover the <strong>Ulzammar Band</strong> — the first Crown piece — buried in First Age stone. Optional dungeon explores a Scar of Dissonance.</p>
+    <ul>
+      <li>Combat: 3 Scorch-Wraiths</li>
+      <li>Discovery: The Band (Crown piece #1 — domain of Time)</li>
+      <li>Optional: Foreman Dast's journal reveals a hidden temple</li>
+    </ul>
+  </div>
+</div>
+
+<div class="node act1">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Temple Mission &amp; Ink's Analysis</h3>
+      <span class="badge sessions">Sessions 2–3</span>
+      <span class="badge xp">~75 XP</span>
+    </div>
+    <p>Return the Band to Tajsh. He brings in <strong>Ink</strong> (Shadewalker archivist) who identifies the artifact as pre-Paroxysm, divine-made. Optional mission to retrieve a book and resonance key from a hidden temple. The Band destabilizes Lux Aeterna's defenses.</p>
+    <div class="npcs">
+      <span class="npc antagonist">Ink (Shadewalker)</span>
+    </div>
+  </div>
+</div>
+
+<div class="node act1">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Architect Arrives</h3>
+      <span class="badge sessions">Session 3</span>
+      <span class="badge emotional">Key Emotional Beat</span>
+    </div>
+    <p>A being of geometric light appears in the tunnels. Claims to be the last servant of the Four. Identifies the Band as a fragment of a world-ending instrument. Gives the party the <strong>Resonance Compass</strong> and a cosmic mission: gather the fragments and unmake them.</p>
+    <p>Addresses each PC personally with devastating emotional precision — calculated targeting disguised as compassion.</p>
+    <div class="red-flag">Red flags: geometric (not organic) light, no shadow, no reflection, plants go still nearby, speaks of "order" and "completion" — the language of Kael'Zorai.</div>
+    <div class="npcs">
+      <span class="npc bbeg">The Architect (Echo-Lord in disguise)</span>
+    </div>
+  </div>
+</div>
+
+<div class="node decision">
+  <div class="card">
+    <div class="card-header">
+      <h3>Decision: Leave Lux Aeterna</h3>
+    </div>
+    <p>The Band destabilizes the mirror-charm array. Legio Null is converging. Sabel's plan: the party takes the Band and flees north through the desert toward the mountains, drawing pursuit away while the settlement relocates. The players must leave everyone behind.</p>
+    <div class="emotional-beat">"The Last Morning" — ask each player: <em>"Who do you find? What do you say?"</em></div>
+  </div>
+</div>
+
+<div class="node act1">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Desert Chase</h3>
+      <span class="badge sessions">Sessions 4–5</span>
+      <span class="badge xp">~150 XP</span>
+    </div>
+    <p>Three-leg flight overland north from Lux Aeterna toward the Dragon's Tooth Mountains. Soru (Lothari guide) leads through hidden paths. Commander Thalric's Sand-Riders pursue. Miravel Ashwine joins on the mountain approach.</p>
+    <ul>
+      <li><strong>Leg 1 — Foothills:</strong> Sand-Rider outriders parallel the party</li>
+      <li><strong>Leg 2 — Salt Flats:</strong> Open terrain, sandstorm, <em>civilians caught in the open</em></li>
+      <li><strong>Leg 3 — Mountain Approach:</strong> Lothari waystation, standoff with Thalric, Miravel arrives</li>
+    </ul>
+    <div class="npcs">
+      <span class="npc ally">Soru</span>
+      <span class="npc ally">Miravel Ashwine</span>
+      <span class="npc antagonist">Commander Thalric</span>
+    </div>
+  </div>
+</div>
+
+<div class="node decision">
+  <div class="card">
+    <div class="card-header">
+      <h3>Decision: The Salt Flats Civilians</h3>
+    </div>
+    <p>Three figures from Lux Aeterna are exposed in the open. Sand-Riders closing. No skill check — moral decision.</p>
+    <div class="paths cols-3">
+      <div class="path-option best">
+        <strong>Go back for them</strong>
+        Lost time (Setback die next check). Might save all three.
+      </div>
+      <div class="path-option neutral">
+        <strong>Signal them to scatter</strong>
+        Roll openly — 50/50 whether one is caught.
+      </div>
+      <div class="path-option worst">
+        <strong>Keep moving</strong>
+        All three likely caught. You hear it happen. You cannot stop.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="node consequence">
+  <div class="card">
+    <div class="card-header">
+      <h3>Consequence: At least one person doesn't make it</h3>
+    </div>
+    <p>No version of this leaves everyone safe. A letter arrives in Act II with the result. If saved: they appear in Gearhaven months later. If caught: released after interrogation, alive.</p>
+    <div class="faction-impacts">
+      <span class="up">▲ Lux Aeterna +1</span> (if left willingly) &bull;
+      <span class="up">▲ Azure Hand +1</span> (if cooperative) &bull;
+      <span class="up">▲ Lothari +1</span> (if respected) &bull;
+      <span class="up">▲ Shadewalkers +1</span> (if cooperated with Ink)
+    </div>
+  </div>
+</div>
+
+<div class="connector-label">⬇ The party climbs into the mountains. Soru watches from the waystation below, one hand raised.</div>
+
+<!-- ═══════════════ ACT II ═══════════════ -->
+<div class="act-divider act2">
+  <h2>Act II — The Journey</h2>
+  <p class="act-sub">Exploration &amp; moral drama — breathing room to build relationships &bull; Sessions 6–25 &bull; 150→450 XP</p>
+</div>
+
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Ascending the Mountains — Overland Scenes</h3>
+      <span class="badge sessions">1–2 Sessions travel</span>
+    </div>
+    <p>Several days climbing through the Dragon's Tooth foothills toward the Observatory. Miravel makes coffee at dawn. Mountain encounter table. Downtime and character bonding. The Compass hums contentedly.</p>
+    <div class="emotional-beat">Conversation seed: <em>"What's the first thing you'll do when this is over?"</em> Remember the answers. Return to them in Act III.</div>
+  </div>
+</div>
+
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Dragon's Tooth Mountains — Starfall Peaks Observatory</h3>
+      <span class="badge sessions">Sessions 6–8</span>
+      <span class="badge xp">150→200 XP</span>
+      <span class="badge tier">Adventurer</span>
+    </div>
+    <p>The party ascends to <strong>Stellion's Observatory</strong> — a First Age structure at the mountain summit. <strong>Vaelric Star-Eye</strong> (astronomer, 11 years alone) has been watching the stars shift. His instruments triangulate three points of stellar distortion — the Crown pieces.</p>
+    <ul>
+      <li>Vaelric identifies: one signal north (Aerinórë — the Setting), one southwest (Gearhaven — the Gem), one nearby (the Band — in the party's pack)</li>
+      <li>He gives the party a <strong>star-chart</strong> confirming where to search</li>
+      <li>Directs them to Mórenórë for Waldkyn knowledge of the northern continent</li>
+    </ul>
+    <div class="red-flag">One lens points not at the sky but at the Resonance Compass. The Echo-Lord has been using the observatory through the Compass to pinpoint locations.</div>
+    <div class="npcs">
+      <span class="npc ally">Vaelric Star-Eye</span>
+    </div>
+  </div>
+</div>
+
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Mórenórë — The Free City</h3>
+      <span class="badge sessions">Sessions 9–11</span>
+      <span class="badge xp">~200–250 XP</span>
+    </div>
+    <p>Neutral city of ~8,000 on a peninsula. The one place on Vael where the Decree is openly ignored. Mages walk freely. The party confirms Vaelric's findings with Waldkyn scholars and arranges a short sea crossing to Aerinórë via Azure Hand captain <strong>Vesper Moraine</strong>.</p>
+    <p><strong>Sidequests:</strong></p>
+    <ul>
+      <li><strong>"The Scholar's Debt"</strong> — Protect Archivist Fenwick from a Shadewalker operative. Rewards: Aerinórë text, Song-Ward intel (15 XP)</li>
+      <li><strong>"The Refugee Ship"</strong> — 40 mage-refugees arrive. A girl who looks like Petra. (10 XP)</li>
+      <li><strong>"The Stillwood Debate"</strong> — Waldkyn diaspora argue about the spreading grey silence in the Vales. Fungril mystic Root-Memory senses the Crown piece's resonance. Intel on Aerinórë's wards (10 XP)</li>
+    </ul>
+    <div class="red-flag">Inquisitor Dorn (Legio Null infiltrator) is here posing as a scholar, mapping the party's contacts.</div>
+    <div class="npcs">
+      <span class="npc ally">Lorekeeper Theren</span>
+      <span class="npc ally">Archivist Fenwick</span>
+      <span class="npc ally">Vesper Moraine (Azure Hand captain)</span>
+      <span class="npc ally">Fern-Tongue (Ribbet-kyn guide)</span>
+      <span class="npc ally">Root-Memory (Fungril mystic)</span>
+      <span class="npc antagonist">Inquisitor Dorn</span>
+    </div>
+  </div>
+</div>
+
+<div class="connector-label">⬇ Short sea crossing Mórenórë → Aerinórë — Vesper Moraine's ship, guided through the mist by Fern-Tongue or Azure Hand charts</div>
+
+<!-- ── ARC B: AERINÓRË ── -->
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Arc B: Lanthir Haven, Aerinórë — The Setting</h3>
+      <span class="badge sessions">Sessions 12–18</span>
+      <span class="badge xp">250→350 XP</span>
+      <span class="badge emotional">Hardest Moral Choice</span>
+    </div>
+    <p>A coastal sanctuary of ~800 souls — Waldkyn (all 8 variants), Hollowkin, Vorok-Varr Orkin, Sael'anir Elves. No currency, no violence, no walls. The <strong>Setting</strong> (Crown piece #2 — domain of Systematization) is woven into the Song-Ward network of the 600-foot Great Singing Tree, imposing systematic structure on the harmony.</p>
+    <p>Removing the Setting makes the Song-Wards incoherent, thins the mist, and exposes Aerinórë to the outside world for the first time in 1,400 years.</p>
+    <p><strong>Sidequests:</strong></p>
+    <ul>
+      <li><strong>"The Weight of Welcome"</strong> — Participate in daily life. Help Thistlebottom cook. Play canopy games. The sidequest is falling in love with the place. (5 XP/activity, max 15)</li>
+      <li><strong>"The Mist-Reader's Worry"</strong> — Help Ilwen strengthen Song-Wards. Learn the mist has been thinning for months. (10 XP)</li>
+      <li><strong>"Dewdrop's Question"</strong> — <em>"Can you put it back when you're done?"</em> No XP. Exists purely to make the players feel the weight.</li>
+    </ul>
+    <div class="emotional-beat">"The Last Song" — When the Setting is removed, the tree shudders. Sap runs like tears. The 1,400-year harmony goes incoherent — a cacophony of clashing notes. Aelindra says: <em>"It has been singing since before I was born. I didn't know it could sound like this."</em></div>
+    <div class="npcs">
+      <span class="npc ally">Song-Mother Aelindra (Galapa)</span>
+      <span class="npc ally">Brightleaf (Katari)</span>
+      <span class="npc ally">Dewdrop (Ribbet — child)</span>
+      <span class="npc ally">Vorok-Kal</span>
+      <span class="npc ally">Thistlebottom</span>
+      <span class="npc ally">Ilwen (wind-shaper)</span>
+    </div>
+  </div>
+</div>
+
+<div class="node decision">
+  <div class="card">
+    <div class="card-header">
+      <h3>Decision: How to Take the Setting</h3>
+    </div>
+    <div class="paths cols-3">
+      <div class="path-option best">
+        <strong>Path 1: The Honest Approach</strong>
+        Present your case to the Listening Circle. Three days of debate. If compelling: Aelindra gives the Setting. The Waldkyn sing a farewell. <strong>+3 Lanthir Haven rep.</strong> Song-Ward choir comes in Act III.
+      </div>
+      <div class="path-option neutral">
+        <strong>Path 3: The Deception</strong>
+        Convince them you'll return it. Buys time. Delayed betrayal discovered weeks later. In Act III, only Brightleaf comes — alone, because Dewdrop asked her to.
+      </div>
+      <div class="path-option worst">
+        <strong>Path 2: The Theft</strong>
+        Take and run. Wards collapse. Ilwen burns himself out maintaining the mist. Settlement exposed. <strong>-3 Lanthir Haven rep.</strong> No Waldkyn allies in Act III.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Chase from Aerinórë</h3>
+    </div>
+    <p>Flee through old-growth forest. Sael'anir wind-walls confuse. A Katari tracker follows from the canopy: <em>"Why? We trusted you. Why?"</em> The party enters Vorok-Varr territory and is captured — gently — by 30 warriors who sit down and wait for the conversation to finish.</p>
+    <p>Miravel reveals her spatial teleportation to escape. The air folds. Reality creases. They land in Aurumport, thousands of miles away. Miravel collapses bleeding.</p>
+  </div>
+</div>
+
+<div class="connector-label">⬇ Miravel's revelation — "There's something I haven't told you."</div>
+
+<!-- ── INTERLUDE: AURUMPORT ── -->
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Interlude: Aurumport</h3>
+      <span class="badge sessions">Sessions 19–20</span>
+    </div>
+    <p>Major Mirennian port, ~20,000 souls. After Lanthir Haven's paradise, Aurumport is loud, dirty, commercial, and <em>alive</em>. 3–5 days of recovery, resupply, and emotional reconnection. Miravel attunes to the Aurumport ley-line nexus.</p>
+    <ul>
+      <li>The Architect appears — pleased, urgent, <strong>doesn't ask how the party is doing</strong></li>
+      <li>Brightleaf may arrive (if honest approach) — she crosses the ocean to travel with the party</li>
+      <li>The Pale Ledger may make contact — <em>"politely, over drinks, in a place where killing is bad for business"</em></li>
+    </ul>
+    <div class="emotional-beat">Miravel's doubt: <em>"The Architect told me the last piece is at Gearhaven. But the Setting wasn't where it was supposed to be — it was woven into a community. Did the Architect know that?"</em></div>
+    <div class="npcs">
+      <span class="npc antagonist">The Pale Ledger</span>
+      <span class="npc ally">Brightleaf (if earned)</span>
+    </div>
+  </div>
+</div>
+
+<div class="connector-label">⬇ Miravel teleports the party near Gearhaven — "It won't be that bad this time." Overland approach on foot.</div>
+
+<!-- ── ARC C: GEARHAVEN ── -->
+<div class="node act2">
+  <div class="card">
+    <div class="card-header">
+      <h3>Arc C: Gearhaven, Novaterra — The Gem (Brass Heart)</h3>
+      <span class="badge sessions">Sessions 21–25</span>
+      <span class="badge xp">350→450 XP</span>
+    </div>
+    <p>Frontier boomtown of ~2,000 at Rust-Water Bay. Five years old. Birthplace of technomancy. The <strong>Gem</strong> (Crown piece #3 — domain of Silence) dampens volatile geothermal energy beneath the city. The engineers call it "the Brass Heart." Removing it makes the vents go wild.</p>
+    <p><strong>Sidequests:</strong></p>
+    <ul>
+      <li><strong>"The Jungle's Teeth"</strong> — Pylon 4 down. Kill Maw-Borer. Discover the mana-crystal geode. (15 XP)</li>
+      <li><strong>"Sabotage"</strong> — Someone's tampering with pylons. Multiple resolution paths. (15 XP)</li>
+      <li><strong>"The Bookkeeper's Errand"</strong> — Azure Hand wants a Shadewalker spy identified. (15 XP)</li>
+      <li><strong>"Children of the Cliff"</strong> — Rescue children, discover Crown mural. (10 XP)</li>
+    </ul>
+    <div class="emotional-beat">"The Nursery Window" — Tomlin is building a mechanical bird from scraps. His mother died in the purges. He's starting to forget her face.</div>
+    <div class="npcs">
+      <span class="npc ally">Arch-Artisan Thaelric</span>
+      <span class="npc ally">Cogmaster Pip Sprocket</span>
+      <span class="npc ally">Sergeant Hrothgar</span>
+      <span class="npc ally">Tinker Gaz</span>
+      <span class="npc ally">Tomlin (child)</span>
+      <span class="npc ally">Rusty / Wobbles / Sparky (the Rigs)</span>
+    </div>
+  </div>
+</div>
+
+<div class="node decision">
+  <div class="card">
+    <div class="card-header">
+      <h3>Decision: How to Take the Brass Heart (the Gem)</h3>
+    </div>
+    <div class="paths cols-3">
+      <div class="path-option best">
+        <strong>Path 1: The Substitute Engine</strong>
+        Descend the Crystal Deep dungeon (3 levels). Harvest a mana-crystal geode core. Build a substitute dampener (3-day skill challenge). Execute the swap — timed 5-round siege while geothermal vents flare and the jungle attacks. <strong>The Rigs defend the Nursery.</strong> (3–4 sessions, best content)
+      </div>
+      <div class="path-option neutral">
+        <strong>Path 2: Diplomacy</strong>
+        Earn Thaelric's respect through sidequests. Present evidence of the cosmic threat. Charm/Negotiation check (Hard to Formidable). He surrenders the Heart and manages the fallout himself.
+      </div>
+      <div class="path-option worst">
+        <strong>Path 3: Theft</strong>
+        Fast. Catastrophic. Dozens of civilians die. Nursery hit. <strong>-3 Gearhaven rep.</strong> No allies in Act III. Tomlin may not survive.
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="node consequence">
+  <div class="card">
+    <div class="card-header">
+      <h3>Consequence: The Compass Sings</h3>
+    </div>
+    <p>With all three Crown pieces — Band, Setting, and Gem — the Resonance Compass emits a single, clear, triumphant note. Beautiful and terrible. It pulls toward the Barren Hills with physical force. The warmth is now heat. Holding it feels like holding a heart.</p>
+    <div class="red-flag">The note it sings is the opening phrase of the Fifth Harmony. The Compass is <em>yearning</em>.</div>
+    <div class="faction-impacts">
+      <span class="up">▲ Gearhaven</span> (substitute: +2, diplomacy: +1) &bull;
+      <span class="down">▼ Gearhaven -3</span> (theft)
+    </div>
+  </div>
+</div>
+
+<div class="connector-label">⬇ Miravel travels ahead to prepare the Barren Hills anchor — "The inscription <em>wanted</em> to be written."</div>
+
+<!-- ═══════════════ ACT III ═══════════════ -->
+<div class="act-divider act3">
+  <h2>Act III — The Convergence</h2>
+  <p class="act-sub">War movie — convergence, revelation, siege &bull; Sessions 26–35 &bull; 450→600 XP</p>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>Return to the Mainland — Convergence</h3>
+      <span class="badge sessions">Sessions 26–27</span>
+    </div>
+    <p>Journey to the Barren Hills through Ashkeld and Orkin territory. The world converges — starting contacts reappear, drawn by the Crown's resonance. The party's past returns.</p>
+    <ul>
+      <li>Starting contacts arrive: Gora Ironbreath, Finnet, Vosk Two-Names, Sergeant Cavel, etc.</li>
+      <li>Commander Thalric returns with 100 Sand-Riders. Can be convinced to redirect toward the real threat (Formidable check with evidence)</li>
+      <li><strong>Orkin encounter:</strong> Whisper-Shaman Grukhor Ash-Eye senses the Crown — <em>"You carry the Forge-Father's tools. Whatever speaks to you in that light — it is not Him. It is His wound."</em></li>
+    </ul>
+    <div class="emotional-beat">"The Night Before" — the last campfire. Grukhor sings a lullaby in Grokh. Ask each player: <em>"What does your character do on the last night?"</em></div>
+    <div class="npcs">
+      <span class="npc ally">Grukhor Ash-Eye</span>
+      <span class="npc antagonist">Commander Thalric (potential ally)</span>
+      <span class="npc antagonist">Krag-Vosk the Unbroken</span>
+      <span class="npc antagonist">The Pale Ledger</span>
+    </div>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Trap — The Barren Hills</h3>
+      <span class="badge sessions">Session 28</span>
+      <span class="badge emotional">The Reveal</span>
+    </div>
+    <p>The Scar of Dissonance at the Hills' center. Nothing grows in a 100-yard circle. The party places the three pieces as instructed. They snap together. The Scar doesn't unmake them — it <strong>feeds</strong> them.</p>
+    <p>The Architect drops its disguise. The Echo-Lord crowns itself. The Fifth Harmony begins — a wave of absolute order. Wind stops. Water freezes. Animals go still. Mages feel their magic rewritten.</p>
+    <div class="red-flag">The Architect: <em>"Thank you. I could not have gathered them myself — the fragments were designed to resist my touch. Only mortal hands."</em></div>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>"This Is Not My Father" — Krag-Vosk's Reckoning</h3>
+      <span class="badge emotional">Not Optional</span>
+    </div>
+    <p>Krag-Vosk feels the Fifth Harmony in his blood — the ecstasy of divine contact. Then the stillness follows. His fire goes quiet. Not silenced. <em>Erased.</em></p>
+    <p>He fights it. He rises. He says:</p>
+    <p><em>"My Father shaped us to SURVIVE. To FIGHT. This is not His work. This is His WOUND. And I will not kneel to a wound wearing my Father's face."</em></p>
+    <p>He turns to the party: <em>"Tell me where to hit it."</em></p>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>"Sabel's Eight" — The Lux Aeterna Reunion</h3>
+      <span class="badge emotional">Key Emotional Beat</span>
+    </div>
+    <p>Sabel arrives with 8 battle-mages from Lux Aeterna. Exhausted, under-equipped, terrified. They came anyway.</p>
+    <p>Sabel: Petra: Hask: Selin: Brother Oram: Aldric: Tomm: and Goss (or Marta).</p>
+    <p>Sabel checks their packs. <em>"You look terrible."</em> Then: <em>"You left so we could survive. We came so you could finish."</em></p>
+    <p>Petra gives a small wave. She's wearing a militia armband that's too big. Her fingers glow — not with fear, but with purpose.</p>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>Allies Arrive — The Call to Arms</h3>
+    </div>
+    <p>The party's Act II choices determine who answers. Minimum 2 factions (Orkin + Lux Aeterna, always). Maximum 8.</p>
+    <div class="allies-grid">
+      <div class="ally-card automatic"><strong>Orkin Whisper-Shamans</strong>Grukhor + 12 warriors. Ground support, guerrilla warfare, spiritual insight.<div class="req">Always present</div></div>
+      <div class="ally-card automatic"><strong>Lux Aeterna</strong>Sabel's 8 battle-mages. Exhausted. Here anyway.<div class="req">Always present</div></div>
+      <div class="ally-card earned"><strong>Gearhaven</strong>Prototype airship. Arcane cannon breaches cathedral defenses.<div class="req">Rep 4+</div></div>
+      <div class="ally-card earned"><strong>Lanthir Haven Waldkyn</strong>Song-Ward choir. Pushes back the Fifth Harmony wave.<div class="req">Rep 4+</div></div>
+      <div class="ally-card earned"><strong>Mórenórë Volunteers</strong>Captain Edric Voss + 15 fighters. Tactical coordination.<div class="req">Rep 4+ with Lothari or Azure Hand</div></div>
+      <div class="ally-card earned"><strong>Lothari Silent Network</strong>Soru + dream-walkers. Illusions confuse construct defenses.<div class="req">Rep 4+</div></div>
+      <div class="ally-card earned"><strong>Commander Thalric</strong>20 Sand-Riders. Cold-Iron resists the Fifth Harmony.<div class="req">Convinced in Act III</div></div>
+      <div class="ally-card earned"><strong>Vyra Stone-Speaker</strong>Giant elder + 2 companions. First Age constitution resists rewriting. Giants carry people to the cathedral.<div class="req">Befriended in mountains</div></div>
+    </div>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>Miravel's Return</h3>
+      <span class="badge emotional">Key Emotional Beat</span>
+    </div>
+    <p>Miravel arrives mid-assault — exhausted, half-burned. She's been dismantling her anchor points. The anchors weren't just tracking tools — the Echo-Lord has been using them as relay nodes for the Fifth Harmony.</p>
+    <p><em>"I didn't know. I need you to know that. I didn't know what I was building."</em></p>
+    <p>Her journal falls open: pages of names. Every person who mattered. Tomlin. Aelindra. Dewdrop. The players' own names — each followed by something personal she noticed and never said aloud.</p>
+    <div class="paths cols-3">
+      <div class="path-option best"><strong>Forgive her</strong>Permanent ally. Lost her strongest magic but not her usefulness.</div>
+      <div class="path-option neutral"><strong>Let her sacrifice</strong>Collapses all anchors. Permanently loses spatial teleportation. Survives. Must rebuild.</div>
+      <div class="path-option worst"><strong>Don't forgive her</strong>She accepts. Finishes her work. Disappears.</div>
+    </div>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Cathedral of Geometry — Final Dungeon</h3>
+      <span class="badge sessions">Sessions 29–32</span>
+      <span class="badge xp">450→600 XP</span>
+    </div>
+    <p>Floating structure of dark crystal. Corridors rearrange by systematic logic. Three Outer Ring chambers:</p>
+    <ul>
+      <li><strong>The Hall of Time</strong> — Time-zones (fast/slow), 4 Chrono-Sentinels</li>
+      <li><strong>The Hall of Control</strong> — 8×8 grid puzzle. 6 Geometric Constructs move in chess patterns (Towers/Bishops/Knights). Cause collisions to destroy them.</li>
+      <li><strong>The Hall of Silence</strong> — Total absence of sound. No verbal magic. 2 Silence Wraiths feed on absorbed sound. Song-Ward Tuning Fork is the counter.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Echo-Lord's Final Offer</h3>
+      <span class="badge sessions">Session 33</span>
+      <span class="badge emotional">Hardest Moment</span>
+    </div>
+    <p>The Inner Sanctum. A sphere of perfect geometry. The Echo-Lord repeats the <strong>exact words</strong> it used to address each PC in Act I — then extends them:</p>
+    <p><em>"No more purges. No more wars. No more burning children for the crime of being born with a spark. Isn't that what you wanted?"</em></p>
+    <p>Every player at the table should feel the pull. The refusal must be earned — 28 sessions of caring about people is how you earn it.</p>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Shattering — A Symphony of Broken Things</h3>
+      <span class="badge sessions">Session 33–34</span>
+    </div>
+    <p>The Crown can only be shattered with <strong>many voices, not one</strong>. Harmony Threshold of 5 — each tradition channeled reduces it by 1. Need any 5 of 7:</p>
+    <ul>
+      <li><strong>Waldkyn Song-Wards</strong> — Aelindra's choir or a Waldkyn PC</li>
+      <li><strong>Elm-korin Forge-Chants</strong> — Thaelric or Gearhaven ally</li>
+      <li><strong>Orkin War-Drums</strong> — Grukhor's shamans (always present)</li>
+      <li><strong>Human Magic</strong> — Any PC with the Spark (costs 4 strain)</li>
+      <li><strong>Lothari Dream-Singing</strong> — Soru or Cira (if present)</li>
+      <li><strong>Dwarven Stone-Lays</strong> — Dwarven allies (if present)</li>
+      <li><strong>The Players' Own Defiance</strong> — Shout, sing, scream, laugh. Only works if 3+ others are active.</li>
+    </ul>
+    <p>When the fifth tradition joins: the Fifth Harmony cracks. Not because the noise is louder — because it is <em>more</em>.</p>
+  </div>
+</div>
+
+<div class="node consequence">
+  <div class="card">
+    <div class="card-header">
+      <h3>The Crown Shatters</h3>
+    </div>
+    <ul>
+      <li>Fifth Harmony wave collapses</li>
+      <li>Cathedral begins to crumble — 5 rounds to escape</li>
+      <li>The Scar of Dissonance seals</li>
+      <li>The Echo-Lord screams — not in pain, but in grief. It genuinely believed it was saving the world.</li>
+      <li>Its consciousness scatters into ambient dissonance, too fragmented to coalesce again for centuries</li>
+    </ul>
+    <p style="color:var(--muted);margin-top:0.5rem;font-size:0.82rem">Canon note: This failed attempt becomes the first stirring that leads to the Grey Rot in SA:2705 — the Echo-Lord's scattered essence seeping through other Scars, weaker but persistent. The players didn't end the threat. They delayed it. That's all anyone can do.</p>
+  </div>
+</div>
+
+<div class="node act3">
+  <div class="card">
+    <div class="card-header">
+      <h3>Epilogue — Resolution by Faction</h3>
+      <span class="badge sessions">Session 35</span>
+    </div>
+    <ul>
+      <li><strong>Lux Aeterna:</strong> Sabel meets them in the desert. <em>"You came back."</em></li>
+      <li><strong>Gearhaven:</strong> Pip's communicator (garbled): <em>"The substitute holds! Tomlin's rebuilding his bird from scratch."</em></li>
+      <li><strong>Aerinórë (honest):</strong> Aelindra's message: <em>"We are learning to live with an open sky. It is harder than we expected. It is also more beautiful."</em></li>
+      <li><strong>Aerinórë (theft):</strong> Silence. Then rumors of Mirennian prospectors exploring "a newly discovered northern continent."</li>
+      <li><strong>Orkin:</strong> Grukhor carves the party's names into a bone-totem. <em>"You fought for a world that never fought for us. We will remember."</em></li>
+      <li><strong>Mórenórë:</strong> Captain Voss writes a factual account that becomes the first document to shift opinion on the Decree.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="epilogue-quote">
+  "You chose the noise over the silence. I hope you can live with the song you've written."
+  <br><br>
+  <span style="font-size:0.85rem;color:var(--muted)">Somewhere, a bird sings.</span>
+</div>
+
+</div><!-- end flow -->
+</div><!-- end container -->
+</body>
+</html>

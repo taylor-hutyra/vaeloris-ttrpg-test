@@ -59,6 +59,11 @@ relationships:
   period: SA:1410
   metadata:
     description: Founded specifically to prevent another Wild Years scenario
+- target: '[[Melek the Grey]]'
+  type: caused-by
+  period: SA:1410
+  metadata:
+    description: His distribution of translated arcane notes triggered the Wild Years of uncontrolled magic
 timeline: []
 tags:
 - event

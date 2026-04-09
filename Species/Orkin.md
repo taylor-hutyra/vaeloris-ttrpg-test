@@ -173,6 +173,21 @@ relationships:
   period: SA:195
   metadata:
     description: Deliberately excluded, formally cast as the Common Enemy
+- target: '[[Varnathi Empire]]'
+  type: enemy
+  period: SA:410-SA:1210
+  metadata:
+    description: Systematic campaigns against the Orkin from the Southern Conquests to the War of the Barren Hills
+- target: '[[Wardens of the Wild]]'
+  type: enemy
+  period: SA:195-SA:380
+  metadata:
+    description: Created specifically to counter coordinated Orkin raids; the Exclusion formally cast Orkin as outsiders
+- target: '[[General Aric the Silver]]'
+  type: ally
+  period: SA:1467
+  metadata:
+    description: Briefly allied with local Orkin tribes to defend the Kingdom; they later betrayed him
 timeline:
 - period: FA
   event: Created independently by Kael'Zorai as The Survivors — exceptionally resilient, survival-focused, forged to thrive

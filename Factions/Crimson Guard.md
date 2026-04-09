@@ -27,6 +27,11 @@ relationships:
   period: SA:410-
   metadata:
     description: Elite military corps originated from Castellum's founding legions
+- target: '[[Iron-Bound]]'
+  type: successor
+  period: SA:395-
+  metadata:
+    description: The Iron-Bound tradition evolved into the Crimson Guard of the current Pentarchy
 timeline: []
 tags:
 - faction

@@ -151,6 +151,24 @@ relationships:
   period: FA
   metadata:
     description: Vaelynn, who founded these halls, is an aspect of Myrasael
+- target: '[[Fungril]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Refinement
+    nature: collaborative
+- target: '[[Galapa]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Refinement
+    nature: collaborative
+- target: '[[Katari]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Refinement
+    nature: collaborative
 timeline:
 - period: FA
   event: Brought forth by Aúrastheon in the Second Creation

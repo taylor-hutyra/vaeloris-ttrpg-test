@@ -59,6 +59,11 @@ relationships:
   period: SA:1425
   metadata:
     description: The black market undermined the ban the decree was meant to enforce
+- target: '[[Melek the Grey]]'
+  type: caused-by
+  period: SA:1425
+  metadata:
+    description: Fear of magic users like Melek led the Senate to outlaw arcane practice
 timeline: []
 tags:
 - event

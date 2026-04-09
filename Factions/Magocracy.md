@@ -3,7 +3,6 @@ wb-type: faction
 wb-id: magocracy
 name: Magocracy
 aliases:
-- Coalition of Mages
 - The Ruling Council
 type: political
 founded: SA:2701
@@ -257,6 +256,61 @@ relationships:
     nature: subjugated
 - target: '[[Varnathi]]'
   type: controlled-by
+- target: '[[District of Scales]]'
+  type: controls
+  period: SA:2725-
+  metadata:
+    description: Established by the Magocracy to confine surviving Drakona
+- target: '[[Coalition of Mages]]'
+  type: successor
+  period: SA:2305-SA:2701
+  metadata:
+    description: Rebranded as the Magocracy after the Skyfall, transitioning from military alliance to global government
+- target: '[[Federation of City-States]]'
+  type: controls
+  period: SA:2866-
+  metadata:
+    description: Subject to the Laws of Accord; borders fixed by the Magocracy
+- target: '[[Magister''s Watch]]'
+  type: served-by
+  period: SA:2866-
+  metadata:
+    description: Established by the Magocracy's First Decree as the global police force of mages
+- target: '[[Mycelial Collective]]'
+  type: ally
+  period: SA:2710-
+  metadata:
+    description: Gnomes of the Collective discovered the Grey Rot was a fungal-magical hybrid and became frontline medics
+- target: '[[Shadewalkers]]'
+  type: trade
+  period: SA:3220-
+  metadata:
+    description: Hired by the Magocracy to stabilize the banks after the Red-Ink Crisis; effectively runs the global banking
+      system
+    nature: covert
+- target: '[[Aether-Glider]]'
+  type: related
+  metadata:
+    description: Exploited a loophole in the First Decree which banned Flight Magic but not mechanical flight
+- target: '[[Spore-Masks]]'
+  type: related
+  metadata:
+    description: Proved the Magocracy's burn-it-all containment strategy was not the only option
+- target: '[[Vrak''Thul]]'
+  type: enemy
+  period: SA:2851
+  metadata:
+    description: The city bearing this name defied the Magocracy and was annihilated
+- target: '[[Grand University]]'
+  type: controls
+  period: SA:2996-
+  metadata:
+    description: Centralized under Magocracy control for ideological oversight
+- target: '[[Orkin Quarters]]'
+  type: related
+  period: SA:2879
+  metadata:
+    description: Created under the Charter of Civic Unity which granted Orkin Subject Status
 timeline:
 - period: SA:2701
   event: Coalition of Mages rebranded as the Magocracy after the Skyfall

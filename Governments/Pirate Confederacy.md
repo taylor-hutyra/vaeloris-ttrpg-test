@@ -82,6 +82,21 @@ relationships:
   period: SA:2595
   metadata:
     description: Granted pardons and legal status; fitted ships with flight-cores
+- target: '[[Allied Command]]'
+  type: ally
+  period: SA:2595-SA:2700
+  metadata:
+    description: Granted legal status via the Privateer Accords in exchange for military service
+- target: '[[Captain Vane]]'
+  type: founded-by
+  period: SA:1020-SA:1070
+  metadata:
+    description: United the disparate pirate crews and established the Code of the Coast
+- target: '[[Serpent''s Tooth]]'
+  type: controls
+  period: SA:1020-
+  metadata:
+    description: Fortified by Captain Vane as the pirate capital
 timeline:
 - period: '1020'
   event: Captain Vane unites pirate crews, establishes Code of the Coast and fortifies Serpent's Tooth

@@ -156,6 +156,16 @@ relationships:
   period: SA:170
   metadata:
     description: Warding Corps established here as precursors to monster hunters
+- target: '[[Pillar Houses]]'
+  type: contains
+  period: SA:381-
+  metadata:
+    description: Based in the capital of the Varnathi state
+- target: '[[Varnathi Empire]]'
+  type: contains
+  period: SA:381-SA:1950
+  metadata:
+    description: Capital of the Empire, later the Republic
 timeline:
 - period: SA:28
   event: Founded by [[Vardas the Elder]] on a high plateau, using the ruins of a First Age fortification

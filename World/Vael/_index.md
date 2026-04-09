@@ -53,6 +53,18 @@ relationships:
   period: 2341-2700
   metadata:
     description: invaded
+- target: '[[Lothari Desert]]'
+  type: contains
+  metadata:
+    description: Southern desert region of the mainland continent
+- target: '[[Silkenflow River]]'
+  type: contains
+  metadata:
+    description: Major river system on the mainland continent
+- target: '[[Solis]]'
+  type: contains
+  metadata:
+    description: Mirennian city on the southern coast of Vael
 timeline:
 - period: '28'
   event: Founding of Vernath by Vardas the Elder

@@ -61,6 +61,29 @@ relationships:
   type: contains
   metadata:
     nature: headquarters
+- target: '[[Kyria Solanis]]'
+  type: contains
+  period: SA:2032
+  metadata:
+    description: Manifested outside Luminas during a refugee crisis to defend the helpless
+- target: '[[Iovan]]'
+  type: contains
+  period: SA:2020-
+  metadata:
+    description: Began preaching in the neutral city of Luminas and established the Church there
+- target: '[[District of Scales]]'
+  type: contains
+  metadata:
+    description: Segregated district within the city of Luminas
+- target: '[[Allied Command]]'
+  type: contains
+  period: SA:2345-SA:2700
+  metadata:
+    description: Treaty of Survival signed at Luminas; served as Alliance headquarters
+- target: '[[Orkin Quarters]]'
+  type: contains
+  metadata:
+    description: Most prominent Orkin Quarter is in the Varnathi city of Luminas
 timeline:
 - period: SA:381-
   event: Incorporated into the Varnathi Empire as a highland city-state

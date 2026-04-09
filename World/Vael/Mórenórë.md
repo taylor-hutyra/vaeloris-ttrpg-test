@@ -100,6 +100,16 @@ relationships:
   period: SA:2188
   metadata:
     description: Sylla, a blind musician, revealed herself as an Aetheris on her deathbed — validated the Velo Aspectus doctrine
+- target: '[[House Silvanus]]'
+  type: trade
+  period: SA:900-
+  metadata:
+    description: Maintains forbidden contact with scholars in Mórenórë
+    nature: covert
+- target: '[[Grand University]]'
+  type: contains
+  metadata:
+    description: Founded in the neutral city of Mórenórë
 timeline:
 - period: SA:900
   label: Founded by Aen'valar Elves, Human architects, and Waldkyn diplomats as the first Open City

@@ -147,6 +147,24 @@ relationships:
   period: FA
   metadata:
     description: Vardris, who created these circles, is an aspect of Thamédran
+- target: '[[Firbolg]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Stability
+    nature: collaborative
+- target: '[[Galapa]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Primary Voice influence — Stability
+    nature: collaborative
+- target: '[[Simiah]]'
+  type: creator
+  period: FA
+  metadata:
+    description: Secondary Voice influence — Stability
+    nature: collaborative
 timeline:
 - period: FA
   event: Brought forth by Aúrastheon in the Second Creation

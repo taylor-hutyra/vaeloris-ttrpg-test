@@ -98,6 +98,16 @@ relationships:
   period: SA:2020-
   metadata:
     nature: headquarters
+- target: '[[Kyria Solanis]]'
+  type: creator
+  period: SA:2032
+  metadata:
+    description: Born from the collective faith and desperate prayer of the Church's followers
+- target: '[[Iovan]]'
+  type: founded-by
+  period: SA:2020
+  metadata:
+    description: Founded the Church in Luminas during the chaos of the Succession Wars
 timeline:
 - period: SA:455
   event: The Pantheon of the Ordained is established as Varnathi state religion

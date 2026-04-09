@@ -1,6 +1,6 @@
 # World Builder
 
-AI-powered world-building toolkit for Obsidian. Everything stored in Markdown with YAML frontmatter.
+AI-powered world-building toolkit. Everything stored in Markdown with YAML frontmatter.
 
 ## Ground Rules
 
@@ -112,7 +112,6 @@ Eras configured in `_meta/calendar.md`.
 ## Wikilinks
 
 Use `[[Entity Name]]` for ALL cross-references. This enables:
-- Obsidian graph view and backlinks
 - Automatic relationship tracking in the graph store
 - Wikilink-based entity resolution
 
@@ -191,7 +190,7 @@ Match the question type to the right store. Based on benchmarking (42 tests acro
 3. **Am I listing/counting/filtering?** -> SQLite
 4. **Am I tracing cause-and-effect?** -> Graph depth 2-3
 5. **Am I writing a scene and need context?** -> Vector, then Read the top results
-6. **Do I need an exact phrase?** -> Grep tool on the vault
+6. **Do I need an exact phrase?** -> Grep tool on the project
 
 ### Anti-Patterns
 

@@ -94,6 +94,16 @@ relationships:
     description: Exiled Broken-Crafted Dwarves originated from the Ritual of Shattering
 - target: '[[Novaterra]]'
   type: contains
+- target: '[[Iron-Bound]]'
+  type: related
+  period: SA:395
+  metadata:
+    description: Thulkorûn consultants helped perfect the Blast-Furnace technique that armed the Iron-Bound
+- target: '[[Wandering Kin]]'
+  type: member
+  period: SA:855-
+  metadata:
+    description: Thulkorûn provided protection for the caravans
 tags:
 - species
 - dwarven

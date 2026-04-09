@@ -278,6 +278,58 @@ relationships:
 - target: '[[Port Farrick]]'
   type: has-member
   period: SA:440-
+- target: '[[Admiralty Council]]'
+  type: ruled-by
+  period: SA:440-
+  metadata:
+    description: The ruling body of the Mirennian League, composed of heads of the ten most powerful Merchant Houses
+- target: '[[Allied Command]]'
+  type: member
+  period: SA:2345-SA:2700
+  metadata:
+    description: Mirennians became the premier pilots of the Alliance after rebuilding as a sky-port
+- target: '[[Cloudborn Corsairs]]'
+  type: origin-of
+  period: SA:2480
+  metadata:
+    description: Captain Kaelen Vance was a Mirennian ace who led a mutiny
+- target: '[[Shadewalkers]]'
+  type: trade
+  period: SA:710-
+  metadata:
+    description: Sold secrets to both the Republic and the League from their founding
+- target: '[[Varnathi Empire]]'
+  type: rival
+  period: SA:440-SA:1950
+  metadata:
+    description: Centuries of Cold War between the land-based Empire and the sea-based League
+- target: '[[Aether-Glider]]'
+  type: related
+  metadata:
+    description: The League invested heavily in Aether-Glider fleets, reclaiming mastery of the skies
+- target: '[[Captain Vane]]'
+  type: related
+  period: SA:1020
+  metadata:
+    description: Former Mirennian admiral who went renegade
+- target: '[[Tynna Swift-Tide]]'
+  type: has-member
+  period: SA:752
+  metadata:
+    description: Mirennian navigator who served the League
+- target: '[[Serpent''s Tooth]]'
+  type: enemy
+  metadata:
+    description: The Confederacy's primary target for raids and trade disruption
+- target: '[[Windsail]]'
+  type: controls
+  period: SA:835-
+  metadata:
+    description: Founded as a secret Mirennian colony
+- target: '[[Solis]]'
+  type: has-member
+  metadata:
+    description: Member city of the Mirennian League
 timeline:
 - period: '1070'
   event: Port Farrick blockaded by Captain Vane's fleet for six months

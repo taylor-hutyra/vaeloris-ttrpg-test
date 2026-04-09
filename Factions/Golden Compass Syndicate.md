@@ -65,6 +65,11 @@ relationships:
   type: has-member
   metadata:
     nature: internal faction
+- target: '[[Admiralty Council]]'
+  type: member
+  period: SA:440-
+  metadata:
+    description: The largest and most powerful Merchant House on the Council
 timeline:
 - period: SA:275
   label: Founded as the first major trade guild

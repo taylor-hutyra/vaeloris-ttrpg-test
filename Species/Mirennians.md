@@ -108,6 +108,15 @@ relationships:
   period: SA:275
   metadata:
     description: Ship captains consolidated into governing merchant houses
+- target: '[[Captain Kaelen Vance]]'
+  type: has-member
+  period: SA:2480
+  metadata:
+    description: Mirennian ace pilot before his mutiny
+- target: '[[Admiral Lyra Wind-Caller]]'
+  type: has-member
+  metadata:
+    description: Mirennian naval officer who applied centuries of seafaring tradition to aerial warfare
 tags:
 - species
 - human

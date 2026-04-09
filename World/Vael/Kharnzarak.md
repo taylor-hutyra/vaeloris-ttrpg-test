@@ -218,6 +218,39 @@ relationships:
   period: SA:170
   metadata:
     description: Dwarven Runesmiths contributed to the water purification
+- target: '[[Tharum Flame-Touched]]'
+  type: contains
+  period: SA:690
+  metadata:
+    description: Led his sect of smiths in Kharnzarak before the Great Banishment
+- target: '[[Durin Stone-Fist]]'
+  type: contains
+  period: TA:412
+  metadata:
+    description: Resides within the sealed Dwarven kingdom
+- target: '[[Wandering Kin]]'
+  type: origin-of
+  period: SA:855
+  metadata:
+    description: Formed by exiled Dwarves unable to return to the sealed mountain
+- target: '[[Wardens of the Wild]]'
+  type: member
+  period: SA:195-
+  metadata:
+    description: Dwarven defenders from Kharnzarak were founding members
+- target: '[[Crown of the Mountain]]'
+  type: contains
+  metadata:
+    description: Kept within the sealed mountain kingdom
+- target: '[[Adamant Throne]]'
+  type: contains
+  metadata:
+    description: Located within the great Dwarven mountain kingdom
+- target: '[[Varnathi Empire]]'
+  type: trade
+  period: SA:381-SA:615
+  metadata:
+    description: Continued the Ore-Grain Exchange of Epoch I until the Dwarven Isolation
 timeline:
 - period: SA:12
   event: Dwarven clans begin reclaiming the Deep Halls from [[Skitter-Gloom]] infestations

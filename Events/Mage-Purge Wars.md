@@ -81,6 +81,16 @@ relationships:
   type: custom
   metadata:
     description: persecuted-during
+- target: '[[Melek the Grey]]'
+  type: caused-by
+  period: SA:1450
+  metadata:
+    description: His discovery set in motion the chain of events leading to the systematic persecution of mages
+- target: '[[General Aric the Silver]]'
+  type: involved
+  period: SA:1467
+  metadata:
+    description: His rebellion was a direct response to the Mage-Purge
 timeline: []
 tags:
 - event

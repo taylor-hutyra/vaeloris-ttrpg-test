@@ -21,6 +21,11 @@ relationships:
   type: enemy
   metadata:
     description: Constantly blocked by the traditionalist Senate faction
+- target: '[[Pillar Houses]]'
+  type: ally
+  period: SA:2085-
+  metadata:
+    description: The Pillar Houses are the core constituency of the Marble Hand traditionalist faction
 timeline: []
 tags:
 - faction
