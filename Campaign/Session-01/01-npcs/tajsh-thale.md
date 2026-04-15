@@ -9,7 +9,7 @@
 
 - Human male, mid-50s, weathered. Eyes that have read too many contracts.
 - Former Shadewalker. Left the Guild on bad terms but voluntarily.
-- Runs Lux Aeterna's relic-hunting operation. Employs the party.
+- Runs Lux Æterna's relic-hunting operation. Employs the party.
 - Sharp, pragmatic, morally flexible. Genuinely cares about the settlement; will still cut a corner to keep it breathing.
 
 ## Voice

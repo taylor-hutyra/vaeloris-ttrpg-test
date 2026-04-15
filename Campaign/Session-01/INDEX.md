@@ -20,7 +20,7 @@ Run order: 00 → 03 → refer to 01/02/04/05 as needed.
 
 ## 02 — Locations (tab B)
 
-- [Lux Aeterna](02-locations/lux-aeterna.md) — settlement overview + key rooms
+- [Lux Æterna](02-locations/lux-aeterna.md) — settlement overview + key rooms
 - [The Mining Camp](02-locations/mining-camp.md) — Beats 1–3
 - [The Deep Chamber](02-locations/deep-chamber.md) — Beat 7, the Architect's stage
 

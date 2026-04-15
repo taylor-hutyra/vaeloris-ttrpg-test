@@ -1,6 +1,6 @@
 # The Deep Chamber
 
-**The oldest room in the Warrens, at the deepest bend of the tunnel network beneath Lux Aeterna. Pre-settlement. Possibly pre-Paroxysm. No one in living memory has had a reason to come here.**
+**The oldest room in the Warrens, at the deepest bend of the tunnel network beneath Lux Æterna. Pre-settlement. Possibly pre-Paroxysm. No one in living memory has had a reason to come here.**
 
 **In Beat 7, the chamber is *not* where the Architect scene happens. The chamber is where the Architect's influence displaces the chamber and replaces it with something else.**
 
@@ -14,7 +14,7 @@ The stone is cold. The air is still. The torch the party brought flickers less a
 
 ## Read-Aloud — Descent
 
-> *The tunnel narrows as you go. The walls start to feel older than the rest of the settlement — because they are. Lux Aeterna was built over someone else's ruin. You've always known that. You just haven't had a reason to care, until tonight.*
+> *The tunnel narrows as you go. The walls start to feel older than the rest of the settlement — because they are. Lux Æterna was built over someone else's ruin. You've always known that. You just haven't had a reason to care, until tonight.*
 >
 > *The air cools. The torch flame flickers slower. Slower. Then it stops flickering entirely. It is still burning. It just isn't moving.*
 >

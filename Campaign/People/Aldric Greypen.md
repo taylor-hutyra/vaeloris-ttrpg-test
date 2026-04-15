@@ -2,32 +2,55 @@
 wb-type: person
 wb-id: aldric-greypen
 name: Aldric Greypen
-aliases: ["Aldric", "The Professor", "Old Aldric"]
+aliases:
+- Aldric
+- The Professor
+- Old Aldric
 species: Human
 born: SA:1425 (approx.)
 died: null
 birthplace: Unknown (central Vael, likely)
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: null
 role: Schoolteacher; magical theory instructor; settlement scholar
 title: null
 relationships:
-  - target: '[[Lux Ætterna]]'
-    type: serves
-    period: "SA:1479-"
-    metadata:
-      description: "One of the settlement's original residents; runs the Schoolroom in The Warrens"
+- target: '[[Lux Æterna]]'
+  type: serves
+  period: SA:1479-
+  metadata:
+    description: One of the settlement's original residents; runs the Schoolroom in The Warrens
+- target: '[[Petra]]'
+  type: teacher
+  period: TA:406-TA:412
+  metadata:
+    description: Student in his schoolroom in the Warrens until she manifested sparks and stopped attending.
 campaign-notes:
-  role: "Exposition source for magical theory and First Age history; the settlement's moral memory"
-  voice: "Forgets names constantly; compensates with specific, perfect recall for everything else. Calls everyone 'my dear' except when he's angry, at which point he uses the correct name with alarming precision."
-  secret: "He has the original demonstration notes of Melek the Grey memorized — the complete record of the First Revelation, including the sections that the Decree of Prohibition ordered burned. He has never written them down. He is terrified of what happens if he dies before someone else learns them."
-  want: "For the knowledge he carries to survive him. Specifically: for someone in this settlement to be willing to receive it."
-  fear: "That he will die with Melek's notes in his head and they will be lost with him — that the Decree will win through attrition."
+  role: Exposition source for magical theory and First Age history; the settlement's moral memory
+  voice: Forgets names constantly; compensates with specific, perfect recall for everything else. Calls everyone 'my dear'
+    except when he's angry, at which point he uses the correct name with alarming precision.
+  secret: He has the original demonstration notes of Melek the Grey memorized — the complete record of the First Revelation,
+    including the sections that the Decree of Prohibition ordered burned. He has never written them down. He is terrified
+    of what happens if he dies before someone else learns them.
+  want: 'For the knowledge he carries to survive him. Specifically: for someone in this settlement to be willing to receive
+    it.'
+  fear: That he will die with Melek's notes in his head and they will be lost with him — that the Decree will win through
+    attrition.
   quest-hooks:
-    - "The downtime teaching activity — players who spend time in the Schoolroom may earn his trust and learn something about Melek the Grey"
-    - "If a player asks about Melek directly, he goes quiet. If they ask twice, across two separate conversations, he tells them what he knows. The second conversation is the one that matters."
-    - "His knowledge of the original demonstration notes becomes relevant when the party is trying to understand the Ulzammar Band's effect on the mana field"
-tags: [person, npc, campaign, scholar, mage, melek-the-grey, broken-harmonies]
+  - The downtime teaching activity — players who spend time in the Schoolroom may earn his trust and learn something about
+    Melek the Grey
+  - If a player asks about Melek directly, he goes quiet. If they ask twice, across two separate conversations, he tells them
+    what he knows. The second conversation is the one that matters.
+  - His knowledge of the original demonstration notes becomes relevant when the party is trying to understand the Ulzammar
+    Band's effect on the mana field
+tags:
+- person
+- npc
+- campaign
+- scholar
+- mage
+- melek-the-grey
+- broken-harmonies
 created: 2026-04-08
 modified: 2026-04-08
 ---

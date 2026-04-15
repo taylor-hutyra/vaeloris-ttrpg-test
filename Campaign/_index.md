@@ -41,7 +41,7 @@ When a campaign element is confirmed as world canon, move or copy it to the appr
 The active campaign. SA:1490. Master document: `_meta/the-broken-harmonies.md`
 
 **Key Locations:**
-- [[Lux Ætterna]] — The hidden refugee settlement where the campaign begins
+- [[Lux Æterna]] — The hidden refugee settlement where the campaign begins
 - Lanthir Haven (Aerinórë) — Act II Waldkyn arc
 - Gearhaven (Novaterra) — Act II technomancy arc
 - The Barren Hills — Act III finale
@@ -52,5 +52,5 @@ The active campaign. SA:1490. Master document: `_meta/the-broken-harmonies.md`
 - [[Old Cira]] — Lothari dream-mystic, Silent Network operative
 - [[Marta Dustborn]] — Tavern keeper, community anchor
 - [[Hask]] — Alchemist, apothecary
-- [[Selin Voss]] — Gnomish seamstress, Mage-Weave engineer
+- [[Selin Voss]] — Gnomish ward-scribe; sole keeper of the Stitching pattern
 - [[Aldric Greypen]] — Hedge-wizard schoolteacher

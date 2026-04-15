@@ -2,42 +2,77 @@
 wb-type: person
 wb-id: old-cira
 name: Old Cira
-aliases: ["Cira", "The Blind Woman", "The Fortune-Teller"]
+aliases:
+- Cira
+- The Blind Woman
+- The Fortune-Teller
 species: Lothari
 born: Unknown (appears 60–90; may be older)
 died: null
 birthplace: Unknown
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: '[[Silent Network]]'
 role: Dream-mystic; fortune-teller; covert Silent Network operative
 title: null
 relationships:
-  - target: '[[Lux Ætterna]]'
-    type: located-in
-    period: "SA:1487-"
-    metadata:
-      description: "Wandered in SA:1487; claims the sand told her to stop walking here"
-  - target: '[[Silent Network]]'
-    type: member
-    period: "SA:1450-"
-    metadata:
-      description: "Ranking operative; placed in Lux Ætterna to monitor the Scar of Dissonance in the nearby foothills"
-  - target: '[[Lothari Desert]]'
-    type: homeland
-    metadata:
-      description: "Lothari mystic tradition; desert-trained dream-reading"
+- target: '[[Lux Æterna]]'
+  type: located-in
+  period: SA:1487-
+  metadata:
+    description: Wandered in SA:1487; claims the sand told her to stop walking here
+- target: '[[Silent Network]]'
+  type: member
+  period: SA:1450-
+  metadata:
+    description: Ranking operative; placed in Lux Æterna to monitor [[The Sorath Scar]] in the nearby foothills
+- target: '[[Lothari Desert]]'
+  type: homeland
+  metadata:
+    description: Lothari mystic tradition; desert-trained dream-reading
+- target: '[[Lux Æterna]]'
+  type: related
+  metadata:
+    description: Resident Lothari dream-mystic; covert Silent Network operative
+- target: '[[Arden]]'
+  type: related
+  period: TA:412-
+  metadata:
+    description: Cira recognizes what he is and will not say so. The restraint is the communication.
+- target: '[[Tajsh Thale]]'
+  type: related
+  period: SA:1487-
+  metadata:
+    description: Tolerates her presence; privately unsettled by her accuracy; does not know she is a Silent Network operative
+- target: '[[The Sorath Scar]]'
+  type: related
+  period: SA:1487-
+  metadata:
+    description: Cira was placed in Lux Æterna by the Silent Network specifically to monitor this Scar. She has watched it
+      for twenty-five years.
 campaign-notes:
-  role: "Prophetic warning system; foreshadowing engine; the campaign's truth-teller who nobody fully listens to until they need to"
-  voice: "Speaks in riddles that are more annoying than mystical — until two days later when they're exactly right. Eats olives constantly. Hums tunelessly at the wrong moments."
-  secret: "Is a ranking member of the Silent Network placed here deliberately to monitor the Scar of Dissonance. Has been tracking anomalous activity in the foothills for decades. Knows the First Age ruin site is dangerous but not precisely what it contains. Has been communicating with the Silent Network council through dream-relay since she arrived."
-  want: "For the information she's been gathering to reach people who can act on it before it's too late."
-  fear: "That she has seen the shape of what's coming and is not able to say it clearly enough to matter."
+  role: Prophetic warning system; foreshadowing engine; the campaign's truth-teller who nobody fully listens to until they
+    need to
+  voice: Speaks in riddles that are more annoying than mystical — until two days later when they're exactly right. Eats olives
+    constantly. Hums tunelessly at the wrong moments.
+  secret: Is a ranking member of the Silent Network placed here deliberately to monitor [[The Sorath Scar]]. Has been tracking
+    anomalous activity in the foothills for decades. Knows the First Age ruin site is dangerous but not precisely what it
+    contains. Has been communicating with the Silent Network council through dream-relay since she arrived.
+  want: For the information she's been gathering to reach people who can act on it before it's too late.
+  fear: That she has seen the shape of what's coming and is not able to say it clearly enough to matter.
   quest-hooks:
-    - "The first NPC to sense something deeply wrong about the Ulzammar Band when it's brought to the settlement"
-    - "Provides cryptic dream-warnings throughout the campaign (specific visions listed below)"
-    - "Her knowledge of the Silent Network becomes critical in Act II when the party needs to navigate Lothari territory"
-    - "If the party earns her trust completely, she reveals she was placed here — and what the Network has been watching"
-tags: [person, npc, campaign, lothari, dream-mystic, silent-network, prophet, broken-harmonies]
+  - The first NPC to sense something deeply wrong about the Ulzammar Band when it's brought to the settlement
+  - Provides cryptic dream-warnings throughout the campaign (specific visions listed below)
+  - Her knowledge of the Silent Network becomes critical in Act II when the party needs to navigate Lothari territory
+  - If the party earns her trust completely, she reveals she was placed here — and what the Network has been watching
+tags:
+- person
+- npc
+- campaign
+- lothari
+- dream-mystic
+- silent-network
+- prophet
+- broken-harmonies
 created: 2026-04-08
 modified: 2026-04-08
 ---
@@ -51,13 +86,13 @@ Old Cira speaks in riddles that are annoying until you realize, two days later, 
 
 She does not explain herself after the fact. She does not say "I told you so." She just opens another olive.
 
-She has been places, done things, survived events that she does not discuss. Occasionally a reference slips through — a detail about a person or a city or a battle from thirty years ago that she handles with the familiarity of firsthand experience. Nobody in Lux Ætterna has put the full picture together. Sabel has the most fragments, because he pays attention to details. He hasn't asked.
+She has been places, done things, survived events that she does not discuss. Occasionally a reference slips through — a detail about a person or a city or a battle from thirty years ago that she handles with the familiarity of firsthand experience. Nobody in Lux Æterna has put the full picture together. Sabel has the most fragments, because he pays attention to details. He hasn't asked.
 
 ## The Silent Network Role
 
-Old Cira is a ranking member of the Silent Network. The Council of Dreamers assigned her to the foothills in SA:1487 specifically because the Scar of Dissonance near the First Age ruin had been showing anomalous resonance for decades — slowly, then more quickly. The dream-network had been tracking it.
+Old Cira is a ranking member of the [[Silent Network]]. The Council of Dreamers assigned her to the foothills in SA:1487 specifically because [[The Sorath Scar]] had been showing anomalous resonance for decades — slowly, then more quickly. The dream-network had been tracking it.
 
-When she "wandered into" Lux Ætterna and said the sand told her to stop, she was technically correct. The sand humming near that canyon is the Scar's mana resonance interacting with the desert's natural mana scarcity. She felt it the same way any trained Lothari mystic would. She set up her mat and waited.
+When she "wandered into" Lux Æterna and said the sand told her to stop, she was technically correct. The sand humming near that canyon is the Scar's mana resonance interacting with the desert's natural mana scarcity. She felt it the same way any trained Lothari mystic would. She set up her mat and waited.
 
 She communicates with the Silent Network council through the Lothari dream-relay system: a meditative state that sends impressions along the mycelial and mana-thread network that connects Lothari mystics across the desert. It takes three days for a message to reach the Council and three days for a reply. She does this while appearing to sleep.
 
@@ -70,7 +105,7 @@ These visions happen at specific moments; don't deliver them all at once.
 | Before the Band is found | *"The clock's hand is buried. Don't wind it."* |
 | When the Band arrives in the settlement | *"The stone knows what time it is. The stone has been waiting."* |
 | After the Architect appears | *"I saw a tower of perfect crystal, and inside it, nothing breathed."* |
-| Before the escape from Lux Ætterna | *"The light that walks with you casts no shadow."* |
+| Before the escape from Lux Æterna | *"The light that walks with you casts no shadow."* |
 | Between Act II arcs (if the party checks in) | *"Four keys to a door that should stay closed."* (Note: this was based on Old Cira's early reading; the revised artifact has three pieces, but she doesn't know that. Her vision was imprecise.) |
 
 ## On the Architect

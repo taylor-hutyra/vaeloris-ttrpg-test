@@ -14,7 +14,7 @@ You are a tank. You carry the weight at the front. Your shoulders know the shape
 
 ## Why You Were in the Desert
 
-You took work with a relic-hunting crew out of **Lux Aeterna** — a hidden settlement in the Westward Sands, a refuge for people the Mage-Purge Wars have no use for. The foreman's name is **Torvin Dast.** He is a fair man. He hired you because he needed a pick-man who could cut straight. You liked him.
+You took work with a relic-hunting crew out of **Lux Æterna** — a hidden settlement in the Westward Sands, a refuge for people the Mage-Purge Wars have no use for. The foreman's name is **Torvin Dast.** He is a fair man. He hired you because he needed a pick-man who could cut straight. You liked him.
 
 You had been with the crew for six days when it happened.
 
@@ -49,7 +49,7 @@ If you see a symbol that looks like the one she drew — the GM will tell you. Y
 ## Your Starting Items
 
 - A pickaxe from the mining crew (still usable as a weapon)
-- Clan-marked boots (the elf noticed them — they are not standard Lux Aeterna-issue)
+- Clan-marked boots (the elf noticed them — they are not standard Lux Æterna-issue)
 - A small stone carved with your clan sigil, which you wear on a cord
 - Your grandmother's name, which is yours to say or not say
 
@@ -57,7 +57,7 @@ If you see a symbol that looks like the one she drew — the GM will tell you. Y
 
 You will find your crew. They will be dead. This will hurt. Take the time you need.
 
-You will go back to Lux Aeterna. You will meet people who will become important to you, whether you want them to or not. You will meet something — someone — that will tell you your grief was not wasted. Listen carefully to how that makes you feel. Both parts of it.
+You will go back to Lux Æterna. You will meet people who will become important to you, whether you want them to or not. You will meet something — someone — that will tell you your grief was not wasted. Listen carefully to how that makes you feel. Both parts of it.
 
 ## Things to Decide Before Play
 

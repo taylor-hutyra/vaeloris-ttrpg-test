@@ -74,7 +74,7 @@ Once conscious, the dwarf PC looks around the camp. He recognizes the bodies. So
 
 ## The Question of Trust
 
-The returning PCs may want to know whether to let the strangers come with them. Offer a path: **Tajsh's call.** The elf and dwarf need to come to Lux Aeterna either way — the elf is following the song, and the dwarf has nowhere else to go. Whether they're PARTY or PRISONERS is Tajsh's decision tomorrow. Tonight, they travel together.
+The returning PCs may want to know whether to let the strangers come with them. Offer a path: **Tajsh's call.** The elf and dwarf need to come to Lux Æterna either way — the elf is following the song, and the dwarf has nowhere else to go. Whether they're PARTY or PRISONERS is Tajsh's decision tomorrow. Tonight, they travel together.
 
 ---
 

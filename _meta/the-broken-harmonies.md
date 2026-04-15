@@ -18,7 +18,7 @@
 
 ### What Is This Adventure?
 
-*The Broken Harmonies* is a continent-spanning campaign set during the darkest years of the Arcane Revolution — an era when mortal magic has just been discovered and the response of civilization has been to burn anyone who possesses it. The players are outcasts: mages, "Spark-touched" individuals, and those who protect them. They begin in a hidden refugee settlement called Lux Aeterna, scraping by as relic-hunters in the desert foothills. They end as the last line of defense against a divine echo that would silence the world forever.
+*The Broken Harmonies* is a continent-spanning campaign set during the darkest years of the Arcane Revolution — an era when mortal magic has just been discovered and the response of civilization has been to burn anyone who possesses it. The players are outcasts: mages, "Spark-touched" individuals, and those who protect them. They begin in a hidden refugee settlement called Lux Æterna, scraping by as relic-hunters in the desert foothills. They end as the last line of defense against a divine echo that would silence the world forever.
 
 The campaign is structured in three acts:
 
@@ -52,7 +52,7 @@ This campaign takes place 89 years after Melek the Grey first demonstrated morta
 
 ### Running This Adventure
 
-**Tone Management.** The campaign oscillates between wonder and dread, warmth and cruelty. Let the players breathe. The taverns in Lux Aeterna should feel safe. The Waldkyn campfires should feel sacred. These moments of peace make the losses hit harder.
+**Tone Management.** The campaign oscillates between wonder and dread, warmth and cruelty. Let the players breathe. The taverns in Lux Æterna should feel safe. The Waldkyn campfires should feel sacred. These moments of peace make the losses hit harder.
 
 **Player Agency.** The three Act II arcs are fully modular. Let the players choose their path. Their choices determine which allies answer in Act III and which communities are diminished.
 
@@ -78,7 +78,7 @@ Throughout the campaign, track the party's standing with each major faction. The
 | 1 | **Enemies** | Attacked on sight; bounties posted; faction actively works against party |
 
 **Starting Standings:**
-- Lux Aeterna: 4 (Trusted — they work for Tajsh)
+- Lux Æterna: 4 (Trusted — they work for Tajsh)
 - Legio Null: 1 (Enemies — the party are mages)
 - Azure Hand: 3 (Known — business relationship via passage)
 - Mórenórë: 3 (Known — neutral cosmopolitan city)
@@ -93,7 +93,7 @@ Track how faction standing changes based on player choices. Key inflection point
 
 ### Adventure Hooks by Character Background
 
-Players should have a reason to be in Lux Aeterna at the campaign's start. Each background includes a flavor description, a starting contact, and a **Starting Bonus** — a small mechanical edge reflecting what this life has trained into them.
+Players should have a reason to be in Lux Æterna at the campaign's start. Each background includes a flavor description, a starting contact, and a **Starting Bonus** — a small mechanical edge reflecting what this life has trained into them.
 
 ---
 
@@ -104,9 +104,9 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 ---
 
 **Lothari Dreamer** *(Lothari)*
-> *The Lothari dream-tradition teaches that the desert speaks to those who know how to listen — not in words, but in patterns. Three months ago, your dreams began showing you the same image: a canyon in the foothills, a hidden light, and something buried in the stone that was not supposed to be awake. You followed it the way your people follow all visions: without rushing, without doubt, carrying enough water. When you arrived, you found Lux Aeterna.*
+> *The Lothari dream-tradition teaches that the desert speaks to those who know how to listen — not in words, but in patterns. Three months ago, your dreams began showing you the same image: a canyon in the foothills, a hidden light, and something buried in the stone that was not supposed to be awake. You followed it the way your people follow all visions: without rushing, without doubt, carrying enough water. When you arrived, you found Lux Æterna.*
 
-- **Starting Contact:** **Elder Soren** — a Lothari caravan master who runs the coastal desert route and maintains dream-network relay points for the Silent Network. He isn't stationed anywhere permanently, but he passes through Lux Aeterna's supply chain regularly and can relay messages, provide passage along Lothari routes, and connect the party to the wider Silent Network when needed.
+- **Starting Contact:** **Elder Soren** — a Lothari caravan master who runs the coastal desert route and maintains dream-network relay points for the Silent Network. He isn't stationed anywhere permanently, but he passes through Lux Æterna's supply chain regularly and can relay messages, provide passage along Lothari routes, and connect the party to the wider Silent Network when needed.
 - **Starting Bonus:** +1 rank in **Perception**. The Lothari dream-tradition trains the mind to notice the pattern behind the surface — the detail that doesn't fit, the silence that means something.
 
 ---
@@ -114,7 +114,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Thulkorûn Exile** *(Thulkorûn Dwarf)*
 > *The Thulkorûn are the Wandering Kin — exiled from Kharnzarak generations ago, scattered across the world as laborers, mercenaries, and craftspeople. You came up in a mercenary company, doing the kind of work that pays well enough that you didn't ask what it was for. Then one contract crossed a line you hadn't known you had, and you walked. That was two years ago. You've been doing relic work in the desert foothills since then — the pay is worse, but nobody asks you to do anything you'll remember at night.*
 
-- **Starting Contact:** **Gora Ironbreath** — your old company sergeant, now running a small escort company out of **Irongate Crossing** — a surface settlement at the foot of the Dragon's Tooth Mountains where traders cluster near Kharnzarak's sealed trade-gate waiting for cargo that may never come through. What he doesn't advertise is that the company is a front for the **Wandering Kin** — the Dwarven trade-and-smuggling confederation that has been moving people and contraband across the continent since SA:855. The Kin run the **Star-Veiled Passage** — the underground railroad that moves persecuted mages, and before that, exiled Dwarves. Gora's "escort company" is one node in a network that stretches from Kharnzarak's sealed gates to the coast. He knows you left on conscience grounds and quietly respects it. He hasn't reported your whereabouts to anyone. He can provide cover identities as "company associates," intelligence on who's hiring along the mountain routes, access to Wandering Kin safehouses and supply caches along the Passage, and the kind of logistics that move people and goods where no official channel would touch them. Lux Aeterna's supply chain runs through Kin intermediaries — though Tajsh doesn't know (or pretends not to know) that his Lothari contacts subcontract to Gora's network for the mountain-route legs.
+- **Starting Contact:** **Gora Ironbreath** — your old company sergeant, now running a small escort company out of **Irongate Crossing** — a surface settlement at the foot of the Dragon's Tooth Mountains where traders cluster near Kharnzarak's sealed trade-gate waiting for cargo that may never come through. What he doesn't advertise is that the company is a front for the **Wandering Kin** — the Dwarven trade-and-smuggling confederation that has been moving people and contraband across the continent since SA:855. The Kin run the **Star-Veiled Passage** — the underground railroad that moves persecuted mages, and before that, exiled Dwarves. Gora's "escort company" is one node in a network that stretches from Kharnzarak's sealed gates to the coast. He knows you left on conscience grounds and quietly respects it. He hasn't reported your whereabouts to anyone. He can provide cover identities as "company associates," intelligence on who's hiring along the mountain routes, access to Wandering Kin safehouses and supply caches along the Passage, and the kind of logistics that move people and goods where no official channel would touch them. Lux Æterna's supply chain runs through Kin intermediaries — though Tajsh doesn't know (or pretends not to know) that his Lothari contacts subcontract to Gora's network for the mountain-route legs.
 - **Starting Bonus:** +1 rank in **Resilience**. Mercenary years and Dwarven constitution combine into a physical stubbornness that outlasts most things trying to kill you.
 
 ---
@@ -136,7 +136,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 ---
 
 **Orkin Outcast** *(Orkin)*
-> *The Varnathi cities tolerate Orkin as labor. You grew up in an Orkin Quarter — the cramped, underpoliced district of some mainland city where your people are permitted to exist as long as they're useful and invisible. You survived the Quarters on street knowledge, fast reading of people, and the habit of knowing exactly which exits are unlocked. When the purges came for someone you were protecting, you ran together. The underground network that moves persecuted mages also moves Orkin who've run out of options. That's how you found Lux Aeterna.*
+> *The Varnathi cities tolerate Orkin as labor. You grew up in an Orkin Quarter — the cramped, underpoliced district of some mainland city where your people are permitted to exist as long as they're useful and invisible. You survived the Quarters on street knowledge, fast reading of people, and the habit of knowing exactly which exits are unlocked. When the purges came for someone you were protecting, you ran together. The underground network that moves persecuted mages also moves Orkin who've run out of options. That's how you found Lux Æterna.*
 
 - **Starting Contact:** **Vosk Two-Names** — a Varr-Darg Orkin who straddles the clan world and the outside one, working out of **Ashkeld** — a rough crossroads town on the western edge of the Barren Hills where Varr-Darg trading parties and mainland merchants meet under uneasy truce. He knows which clan elders will grant passage through clan territory, which stretches of Barren Hills road can be traveled without a war starting, and how to move people who don't want to be found. He's not friendly — he's professionally useful, which in his world is worth more.
 - **Starting Bonus:** +1 rank in **Streetwise**. You learned the city's hidden geometry before you learned to read — where power sits, where money moves, and which strangers are safe.
@@ -144,7 +144,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 ---
 
 **Halfling Wayfinder** *(Halfling)*
-> *The Thistlewick family runs one of the great Halfling Wayfinder networks — cartographers, couriers, and quiet traders who move between communities that can't or won't deal with each other directly. You grew up reading maps before you could read words, and you know trade routes through the desert foothills that aren't on any official chart. The family connection to Lux Aeterna is business: the settlement buys supplies and sells relics through Thistlewick intermediaries. You came to manage a delivery run and stayed because the work was interesting.*
+> *The Thistlewick family runs one of the great Halfling Wayfinder networks — cartographers, couriers, and quiet traders who move between communities that can't or won't deal with each other directly. You grew up reading maps before you could read words, and you know trade routes through the desert foothills that aren't on any official chart. The family connection to Lux Æterna is business: the settlement buys supplies and sells relics through Thistlewick intermediaries. You came to manage a delivery run and stayed because the work was interesting.*
 
 - **Starting Contact:** **Pell Thistlewick** — a senior family elder who manages the eastern desert routes. He has access to the family's full route maps, safe-house network, and courier chains, and he can authorize you to use them. He asks two things in return: don't get caught doing anything that would embarrass the family name, and send word when you're in trouble before it becomes a problem he has to solve from the outside.
 - **Starting Bonus:** +1 rank in **Geography**. Wayfinders are the best pathfinders alive. You read maps, cultures, and terrain as second nature.
@@ -166,7 +166,7 @@ These backgrounds are tied to a particular species' cultural experience in SA 14
 **Varnathi Ex-Inquisitor** *(Human)*
 > *Six months ago, you were a sworn member of the Legio Null — the Varnathi Inquisition's enforcement arm. You believed in the work. You had reasons. The Decree of Prohibition exists because magic is dangerous, and you had seen the evidence of that with your own eyes. You were efficient, professional, and trusted by your commanders. Then your spark manifested during a field interrogation, in front of your unit, and everything you had built — your career, your identity, your certainty — came apart in a single moment. You fled Castellum before your commander could decide whether you were a resource to be managed or a problem to be solved. You know exactly how the Legio Null hunts. You know their patrol routes, their informant networks, their interrogation protocols, the names of every major commander in this region. You know all of it because you were part of it. That knowledge is the only thing keeping you alive now, and it is also the thing you are most ashamed of.*
 >
-> *Lux Aeterna is the only community that might take you in. You know you haven't earned that yet.*
+> *Lux Æterna is the only community that might take you in. You know you haven't earned that yet.*
 
 - **Starting Contact:** **Sergeant Cavel** — a Varnathi Legion regular (not Legio Null — standard infantry) who served alongside you before you transferred to the Null. An old friend who watched your trajectory with discomfort. He's still serving, which makes him a risky contact — but he hasn't reported your desertion, and you think he won't. He can provide intelligence on Legion movements, warn you when the Null is operating in an area, and occasionally access military supply channels. Every interaction puts him at risk, and he knows it.
 - **Starting Bonus:** +1 rank in **Vigilance**. Inquisitor training means you read rooms, notice inconsistencies, and catch lies before most people know they've been told. The irony is not lost on you.
@@ -180,15 +180,15 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Persecuted Mage** *(any mage-capable species)*
-> *The Decree of Prohibition made you illegal the day your spark manifested. You have been running ever since — from inquisitors, from informants, from the well-meaning people who told you to hide better. You found Lux Aeterna through the same whisper-network that moves every refugee who makes it this far: a name passed in a market, a symbol chalked on a doorpost, a stranger who looked at you and didn't reach for a blade. You don't know how much longer the running can continue. You know that here, at least, you can stop looking over your shoulder long enough to breathe.*
+> *The Decree of Prohibition made you illegal the day your spark manifested. You have been running ever since — from inquisitors, from informants, from the well-meaning people who told you to hide better. You found Lux Æterna through the same whisper-network that moves every refugee who makes it this far: a name passed in a market, a symbol chalked on a doorpost, a stranger who looked at you and didn't reach for a blade. You don't know how much longer the running can continue. You know that here, at least, you can stop looking over your shoulder long enough to breathe.*
 
-- **Starting Contact:** **Maren Saltbrook** — a retired midwife in **Cove Hallow** — a fishing village on the desert's southern edge that serves as a waystation for the refugee pipeline — who has been running a mage-touched safe-house for over twenty years, Azure Hand-adjacent but never formally affiliated. She's the one who passed the party's name toward Lux Aeterna. She maintains a network of sympathetic contacts along the desert roads and can provide forged transit papers, safe harbor, and information on who is being hunted and where.
+- **Starting Contact:** **Maren Saltbrook** — a retired midwife in **Cove Hallow** — a fishing village on the desert's southern edge that serves as a waystation for the refugee pipeline — who has been running a mage-touched safe-house for over twenty years, Azure Hand-adjacent but never formally affiliated. She's the one who passed the party's name toward Lux Æterna. She maintains a network of sympathetic contacts along the desert roads and can provide forged transit papers, safe harbor, and information on who is being hunted and where.
 - **Starting Bonus:** +1 rank in **Discipline**. Years of suppressing visible reactions — the flicker in the eye, the involuntary glow at the fingertips — have built an iron floor beneath your nerve.
 
 ---
 
 **Underworld Operative** *(any species)*
-> *You made your living in the grey spaces — finding people who didn't want to be found, moving goods that official channels wouldn't touch, gathering information that someone powerful needed to stay powerful. You were good at it. Bounty work, acquisitions, courier runs for clients who paid to not be named. You had a code — nothing personal, keep the collateral down, don't ask too many questions. Then a contract required you to find and deliver a mage-touched person, and the person turned out to be a child. You helped them instead. Now you're wanted by whoever hired you, and the underground network you used to exploit is the network moving you toward safety. You arrived in Lux Aeterna carrying two things: skills the settlement can use, and the knowledge that the line you thought you had was further back than you'd been telling yourself.*
+> *You made your living in the grey spaces — finding people who didn't want to be found, moving goods that official channels wouldn't touch, gathering information that someone powerful needed to stay powerful. You were good at it. Bounty work, acquisitions, courier runs for clients who paid to not be named. You had a code — nothing personal, keep the collateral down, don't ask too many questions. Then a contract required you to find and deliver a mage-touched person, and the person turned out to be a child. You helped them instead. Now you're wanted by whoever hired you, and the underground network you used to exploit is the network moving you toward safety. You arrived in Lux Æterna carrying two things: skills the settlement can use, and the knowledge that the line you thought you had was further back than you'd been telling yourself.*
 
 - **Starting Contact:** **The Quill** — a Shadewalker-adjacent information broker who communicates exclusively through dead-drop correspondence and coded letters. Not a full network member — The Quill sells to the Shadewalkers and to others, which means independence and breadth. They know your work history, can provide intelligence on who's looking for whom in the criminal underworld, and can connect you to black markets in most major cities. You have never met in person. You don't know their species, age, or location.
 - **Starting Bonus:** +1 rank in **Skullduggery**. The tools of the trade: picking locks, lifting items, reading security, and setting traps. You learned these before you learned to cook.
@@ -196,7 +196,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Survivalist** *(any species)*
-> *You've been living in the desert foothills for years — alone or nearly so, moving between water sources, mapping the terrain, trading small services for supplies when you need them. You have no particular ideology about magic or the Decree. What you have is a bone-deep knowledge of this landscape: where the Legio Null patrols run, which canyons hold water in the dry season, where the Sand-Stalker dens are, how to navigate by stars and wind and the color of the rocks. Lux Aeterna found you as much as you found it — they needed a guide, you needed occasional company. You stayed because the people here are interesting, and because something in the foothills has been changing. The animals are behaving strangely. The sand patterns are wrong. You don't know why yet, but you intend to find out.*
+> *You've been living in the desert foothills for years — alone or nearly so, moving between water sources, mapping the terrain, trading small services for supplies when you need them. You have no particular ideology about magic or the Decree. What you have is a bone-deep knowledge of this landscape: where the Legio Null patrols run, which canyons hold water in the dry season, where the Sand-Stalker dens are, how to navigate by stars and wind and the color of the rocks. Lux Æterna found you as much as you found it — they needed a guide, you needed occasional company. You stayed because the people here are interesting, and because something in the foothills has been changing. The animals are behaving strangely. The sand patterns are wrong. You don't know why yet, but you intend to find out.*
 
 - **Starting Contact:** **Yara** — a Lothari trader who runs the desert circuit between the coastal settlements and the inland foothills. You've shared camps, traded information about water sources, and covered for each other when Legio Null patrols got close. She isn't part of the Silent Network formally, but she knows the desert routes as well as any Lothari alive and can move messages or people along paths that don't appear on any official map.
 - **Starting Bonus:** **Forager** (Tier 1 talent). Remove up to ■■ from any checks to find food, water, or shelter. Checks to forage or search take half the normal time. This landscape is your home and it feeds you.
@@ -204,7 +204,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Scholar/Archivist** *(any species)*
-> *You spent your career in a library, a university annex, or a private collector's archive — cataloguing, translating, cross-referencing. You were thorough. That thoroughness is what got you into trouble. In a restricted section, in a sealed sub-vault, in the margin of a text that was supposed to be destroyed, you found something: a notation system that predates every known civilization. A reference to an instrument built by the fifth god. A map of the world drawn before the world had its current shape. You documented it, as you do everything. The wrong people found out you'd read it. It took you three months to lose your pursuers and find Lux Aeterna, which has the only economy in the world where what you know is worth more than what you've done.*
+> *You spent your career in a library, a university annex, or a private collector's archive — cataloguing, translating, cross-referencing. You were thorough. That thoroughness is what got you into trouble. In a restricted section, in a sealed sub-vault, in the margin of a text that was supposed to be destroyed, you found something: a notation system that predates every known civilization. A reference to an instrument built by the fifth god. A map of the world drawn before the world had its current shape. You documented it, as you do everything. The wrong people found out you'd read it. It took you three months to lose your pursuers and find Lux Æterna, which has the only economy in the world where what you know is worth more than what you've done.*
 
 - **Starting Contact:** **Archivist Fenwick** — a former colleague still at the **Vernath Imperial Archive** — the largest historical repository on the mainland, where you spent your career. He didn't know what you found, but he helped you disappear when the questions started. He's cautious to the point of paralysis, but he can access restricted records, confirm historical details from the inside, and occasionally pass information — slowly, with enormous personal risk. He is the most useful contact you have and the most fragile. Be careful with him.
 - **Starting Bonus:** +1 rank in **Forbidden**. You read what you weren't supposed to — proscribed history, purged lineages, things the authorities decided the public shouldn't know. You remember all of it.
@@ -212,7 +212,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Disgraced Soldier** *(any species)*
-> *You served — Varnathi Legion, Mirennian naval infantry, a Free Hold mercenary company, a city guard. You were good at it: disciplined, competent, trusted by your unit. Then came the order to participate in a mage purge. You refused it. Not privately, not quietly — publicly, in front of your commander and your unit, which is the kind of refusal that can't be walked back. You were court-martialed. You spent time in a military prison. When they released you, you had your training, your conscience, and nothing else. You wandered south. The desert seemed like the right direction for someone who had no direction. Lux Aeterna is the first place that's felt like anything worth staying for.*
+> *You served — Varnathi Legion, Mirennian naval infantry, a Free Hold mercenary company, a city guard. You were good at it: disciplined, competent, trusted by your unit. Then came the order to participate in a mage purge. You refused it. Not privately, not quietly — publicly, in front of your commander and your unit, which is the kind of refusal that can't be walked back. You were court-martialed. You spent time in a military prison. When they released you, you had your training, your conscience, and nothing else. You wandered south. The desert seemed like the right direction for someone who had no direction. Lux Æterna is the first place that's felt like anything worth staying for.*
 
 - **Starting Contact:** **Corporal Aeric** — a former unit-mate who voted to acquit at your court-martial and left the service shortly after. He's in the civilian world now — working as a caravan guard on the Dragon's Tooth mountain road, the main supply route to Kharnzarak's sealed trade-gate — and still believes you made the right call. No military connections, no faction affiliation, no resources beyond his own skills and savings. What he has is your back, unconditionally, without questions, in a world where that is rarer than gold.
 - **Starting Bonus:** +1 rank in **any one combat skill** of the player's choice (Melee, Ranged, Brawl, or a magic combat skill if applicable). Your training didn't leave when everything else did.
@@ -228,7 +228,7 @@ These backgrounds fit any species and center on a role or life circumstance rath
 ---
 
 **Ruined Merchant** *(any species)*
-> *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Aeterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them.*
+> *You built something real. A trade network, a shop with regular customers, a supply chain connecting three settlements. It took years. You understood how value moved, which relationships to cultivate, where the margins were. Then it collapsed — not through any failure of your own, but because the purges swept through the wrong market, or because the Azure Hand shifted a route, or because a mage you'd been quietly sheltering was discovered and the Inquisitors seized everything connected to your operation. You arrived in Lux Æterna with debts, contacts, and the particular clarity of someone who has lost everything once and has no illusions left about what the world owes them.*
 
 - **Starting Contact:** **Iskar Weld** — a shipping factor who relocated to **Gearhaven** after the same wave of purge-related seizures swept your shared trade network. The boomtown needed logistics people badly, and Iskar needed a fresh start. He still considers your old relationship professionally active and doesn't know the full story of what happened. He can arrange legitimate cargo transit through Gearhaven's harbor, provide cover as "merchant associates" when moving through the city, and introduce you to harbor masters and port officials who owe him favors. He'll eventually ask what happened to you. You'll have to decide how much to tell him.
 - **Starting Bonus:** +1 rank in **Negotiation**. You learned to trade in survival, not just goods. You know how to find the number that closes the deal.
@@ -308,7 +308,7 @@ This parallel is thematic, not mechanical. Both crowns represent the idea that o
 
 | Piece | Domain | Physical Form | Location | Containment |
 |-------|--------|---------------|----------|-------------|
-| **The Ulzammar Band** | Time | The circlet base — a ring of dark crystal shot through with pale metallic veins | Desert foothills near Lux Aeterna | Buried in First Age stone, stabilized by the Lothari's dream-magic and the desert's mana scarcity |
+| **The Ulzammar Band** | Time | The circlet base — a ring of dark crystal shot through with pale metallic veins | Desert foothills near Lux Æterna | Buried in First Age stone, stabilized by the Lothari's dream-magic and the desert's mana scarcity |
 | **The Setting** | Systematization | The decorative framework — an intricate lattice of pale metal that clasps the Band and holds the Gem | Lanthir Haven, Aerinórë | Woven into the Song-Ward network of the Great Singing Tree — the Setting imposes systematic structure on the ambient harmony, making the wards coherent. Without it, the singing continues but the pattern falls apart. |
 | **The Gem** | Silence | A large faceted gemstone of dark crystal, cold to the touch, that sockets into the Setting's apex | Gearhaven, Novaterra | Unknowingly used as a power source for the city's infant Mana-Pylon network. The Gearhaven engineers call it "the Brass Heart." The Gem's domain of silence creates a dampening field that regulates the volatile geothermal energy — without it, the vents go wild. |
 
@@ -628,7 +628,7 @@ Each player background carries a through-line question. The campaign doesn't ans
 | **Gnomish Integrator** | "I came to study the pattern. The pattern studied me back." | The Compass revealing its true nature: they have been observed the whole time |
 | **Varnathi Ex-Inquisitor** | "I built the cage. How do I live inside it — and how do I tear it down?" | Thalric — facing the person who still believes everything they used to believe |
 | **Underworld Operative** | "I've always known the price of everything. What does it cost to stop calculating?" | The Pale Ledger — a mirror of who they were before the job that changed them |
-| **Survivalist** | "I know how to survive alone. Can I survive belonging somewhere?" | Lux Aeterna's destruction and loss — the first place they ever stayed |
+| **Survivalist** | "I know how to survive alone. Can I survive belonging somewhere?" | Lux Æterna's destruction and loss — the first place they ever stayed |
 | **Scholar/Archivist** | "I know what knowledge costs. Do I have the right to act on what I know?" | The Starfall Peaks Observatory: Vaelric's instruments show a truth the world isn't ready for, and the question of whether revealing it saves people or destroys them |
 | **Disgraced Soldier** | "I followed orders until I couldn't. How do I know which ones are worth following now?" | The Architect — a voice that always has a reason, always sounds right, always knows what to say |
 | **Healer** | "I save people because I can. What do I do when saving one costs another?" | The Brass Heart — the Gem's silence keeps the vents stable, but its power was never meant for this. Every treatment has a cost. |
@@ -642,7 +642,7 @@ These scenes are designed to emotionally land. Run each one deliberately — slo
 
 **"The Last Morning" — Act I, Session 5 or 6**
 
-When the players decide to leave Lux Aeterna, pause before the chase begins. Ask each player: *"Before you go — who do you find? What do you say?"* Run two minutes per character, no interruptions. Be specific. Let Marta pretend to be focused on the bread she's baking. Let Aldric call someone by the wrong name and then remember himself. Let Hask hand over an extra tincture without a word and turn back to his work.
+When the players decide to leave Lux Æterna, pause before the chase begins. Ask each player: *"Before you go — who do you find? What do you say?"* Run two minutes per character, no interruptions. Be specific. Let Marta pretend to be focused on the bread she's baking. Let Aldric call someone by the wrong name and then remember himself. Let Hask hand over an extra tincture without a word and turn back to his work.
 
 Then they leave.
 
@@ -710,7 +710,7 @@ This moment only works if the preceding sessions have done their job. When the E
 
 > *"No more purges. No more wars. No more burning children for the crime of being born with a spark."*
 
-...every player at the table should feel the pull. They have been those children. They held those children in Gearhaven's Nursery. They left behind communities of those children in Lux Aeterna.
+...every player at the table should feel the pull. They have been those children. They held those children in Gearhaven's Nursery. They left behind communities of those children in Lux Æterna.
 
 The refusal is not "because it's wrong." The refusal is because they know — intimately, personally — that the world the Echo-Lord offers is not the world those children would recognize as worth living in. Stillness is not safety. Peace is not silence.
 
@@ -723,7 +723,7 @@ These are the scenes most likely to be skipped and the ones players will remembe
 **Conversation Seeds — run one per voyage:**
 
 *Voyage 1 (to Gearhaven):*
-Miravel makes coffee at dawn in the ship's galley — real coffee, not the bark-substitute from Lux Aeterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
+Miravel makes coffee at dawn in the ship's galley — real coffee, not the bark-substitute from Lux Æterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
 
 *Voyage 2 (between arcs):*
 Someone can't sleep. The Compass is humming faintly in a way they've never heard before — almost like it's *content.* Who is awake? Who finds them? What gets said in the dark that wouldn't get said in the light?
@@ -793,16 +793,16 @@ Let them.
 
 ### Overview
 
-Act I establishes the world, introduces the players to the threat of the Legio Null, bonds them to the community of Lux Aeterna, and sends them on their cosmic mission through a meeting with the Architect. It ends with a desperate overland flight north toward the Dragon's Tooth Mountains, pursued by Thalric's Sand-Riders.
+Act I establishes the world, introduces the players to the threat of the Legio Null, bonds them to the community of Lux Æterna, and sends them on their cosmic mission through a meeting with the Architect. It ends with a desperate overland flight north toward the Dragon's Tooth Mountains, pursued by Thalric's Sand-Riders.
 
 **Pacing:** 6–8 sessions
 **XP Progression:** 0 XP (sessions 1–2), ~75 XP (sessions 3–4), ~150 XP (sessions 5–8)
 
 ---
 
-### Lux Aeterna — Gazetteer
+### Lux Æterna — Gazetteer
 
-**Overview:** Lux Aeterna ("Eternal Light") is a hidden settlement of roughly 400 souls — persecuted mages, deserters, refugees, and the desperate — concealed in a network of natural caves and box canyons in the desert foothills between the Lothari Desert and the Varnathi Highlands. From above, the settlement is invisible: a canopy of Mage-Weave silk (an enchanted fabric that bends light) stretches across the canyon, making it appear as unremarkable scrubland. The silk must be maintained by rotating shifts of mages, creating a constant drain on the community's magical resources.
+**Overview:** Lux Æterna ("Eternal Light") is a hidden settlement of roughly 400 souls — persecuted mages, deserters, refugees, and the desperate — concealed in a network of natural caves and box canyons in the desert foothills between the Lothari Desert and the Varnathi Highlands. From above, the settlement is invisible: a canopy of Mage-Weave silk (an enchanted fabric that bends light) stretches across the canyon, making it appear as unremarkable scrubland. The silk must be maintained by rotating shifts of mages, creating a constant drain on the community's magical resources.
 
 **Population:** ~400 (majority human; ~30 Halfling Wayfinders; ~20 Lothari mystics; a handful of Gnomes; a few Orkin laborers)
 
@@ -813,7 +813,7 @@ Act I establishes the world, introduces the players to the threat of the Legio N
 #### Districts
 
 **The Veiled Market**
-The commercial heart of Lux Aeterna, built into the widest part of the box canyon. Stalls and tents cluster around a central well. The air is thick with haggling, the clink of Mana-Crystal denominations, and the smell of spiced flatbread.
+The commercial heart of Lux Æterna, built into the widest part of the box canyon. Stalls and tents cluster around a central well. The air is thick with haggling, the clink of Mana-Crystal denominations, and the smell of spiced flatbread.
 
 *Points of Interest:*
 
@@ -822,9 +822,9 @@ The commercial heart of Lux Aeterna, built into the widest part of the box canyo
 | **Tajsh's Vault** | The relic broker's shop and office. Cluttered with artifacts, maps, and salvage equipment. A locked back room holds the most valuable finds. | Tajsh Thale |
 | **The Dusty Lantern** | The settlement's only tavern. Cramped, loud, warm. Three rooms upstairs for rent. Serves a bitter cactus-root ale and surprisingly good goat stew. | **Marta Dustborn** — a stout, sharp-tongued human woman who fled Argentum's Silver Lord purges. She runs the only neutral ground in town. |
 | **Cira's Corner** | A woven mat under a jutting rock shelf where Old Cira sits and reads fortunes. She accepts food, wine, or interesting stories as payment. | Old Cira |
-| **Needle & Thread** | A cramped tailor's shop that also serves as the Mage-Weave repair station. The silk is delicate and tears constantly. | **Selin "Needles" Voss** — a nervous, twitchy Gnomish woman who is the settlement's most valuable non-combatant. She alone understands the Mage-Weave's enchantment pattern. If she dies, Lux Aeterna's cover fails within weeks. |
+| **Needle & Thread** | A cramped tailor's shop that also serves as the Mage-Weave repair station. The silk is delicate and tears constantly. | **Selin "Needles" Voss** — a nervous, twitchy Gnomish woman who is the settlement's most valuable non-combatant. She alone understands the Mage-Weave's enchantment pattern. If she dies, Lux Æterna's cover fails within weeks. |
 | **The Crystal Counter** | An apothecary and mana-crystal exchange. Buys raw crystals, sells potions, components, and processed crystal denominations. | **Hask** — a scarred, one-eyed Orkin alchemist who brews healing draughts from desert plants. Quiet, competent, privately furious at the world. |
-| **The Grey Flame** | A small niche carved into the canyon wall near the market entrance. A single candle burns behind a sheet of smoky glass, beneath a charcoal sketch of a gaunt man with wild eyes — **Melek the Grey**, drawn from a description that's been passed down through three generations of mages. No name is written; none is needed. Every mage-refugee in Lux Aeterna knows the face. New arrivals light the candle when it gutters. It has not gone out in eleven years. This is not worship. It is acknowledgment: *he found the door, and we walked through it, and they tried to burn us for it.* |
+| **The Grey Flame** | A small niche carved into the canyon wall near the market entrance. A single candle burns behind a sheet of smoky glass, beneath a charcoal sketch of a gaunt man with wild eyes — **Melek the Grey**, drawn from a description that's been passed down through three generations of mages. No name is written; none is needed. Every mage-refugee in Lux Æterna knows the face. New arrivals light the candle when it gutters. It has not gone out in eleven years. This is not worship. It is acknowledgment: *he found the door, and we walked through it, and they tried to burn us for it.* |
 | **Iron Shelf** | A general goods store and smithy. Basic weapons, tools, prospecting equipment. Nothing fancy. | **Tomm Broadback** — a Halfling blacksmith who insists he's "just average-sized for his family." Sells mundane equipment at standard prices. |
 
 **The Warrens**
@@ -841,11 +841,11 @@ The settlement's defensive perimeter — a series of camouflaged observation pos
 - **The Signal Rock** — A high point where lookouts use a system of colored glass flashes to communicate with Lothari waystation scouts
 - **The Bolt Hole** — A concealed emergency exit tunnel leading to a dry riverbed two miles south. Sabel's fallback plan if the settlement is discovered.
 
-#### Key NPCs of Lux Aeterna
+#### Key NPCs of Lux Æterna
 
 **Tajsh Thale** — *The Relic Broker*
 - Human male, mid-40s, lean and weathered
-- Sharp, pragmatic, morally flexible. Genuinely cares about Lux Aeterna's survival but will cut corners to ensure it
+- Sharp, pragmatic, morally flexible. Genuinely cares about Lux Æterna's survival but will cut corners to ensure it
 - Former Shadewalker associate who "retired" to the desert after a deal went wrong in Port Farrick
 - Knows more than he lets on about First Age artifacts — enough to recognize the Band as extraordinary
 - **Personality:** Speaks fast, thinks faster. Uses humor to deflect serious questions. Drinks cactus-root ale like water. Has a habit of polishing whatever he's holding when he's nervous.
@@ -860,11 +860,11 @@ The settlement's defensive perimeter — a series of camouflaged observation pos
 - Commands a "militia" of 20 volunteers — mostly former soldiers and a few brave civilians
 - **Personality:** Quiet intensity. Doesn't waste words. Communicates affection through logistics (making sure your pack has water, your weapon is clean, your watch rotation lets you sleep). Will die for any person in this settlement without hesitation. Calls no one by their first name until he trusts them — and you know you've earned it when he does.
 - **Secret:** He still has nightmares about the family he couldn't save before he deserted. Their youngest child's name was Lira. Sabel named the emergency exit tunnel "Lira's Run."
-- **Quest Hook:** Sabel needs the party to scout a Legio Null patrol route that's been shifting closer to Lux Aeterna's position
+- **Quest Hook:** Sabel needs the party to scout a Legio Null patrol route that's been shifting closer to Lux Æterna's position
 
 **Old Cira** — *Lothari Dream-Mystic*
 - Lothari female, indeterminate age (could be 60 or 90), small, blind, wrapped in sun-bleached linen
-- Wandered into Lux Aeterna three years ago. Nobody knows where she came from. She says "the sand told me to stop walking here"
+- Wandered into Lux Æterna three years ago. Nobody knows where she came from. She says "the sand told me to stop walking here"
 - Possesses genuine prophetic ability through the Lothari dream-tradition
 - The first person in the settlement to sense something wrong about the Band — and later, the Architect
 - **Personality:** Speaks in riddles that are more annoying than mystical — until you realize two days later that she was exactly right. Eats olives constantly. Hums tunelessly.
@@ -875,9 +875,9 @@ The settlement's defensive perimeter — a series of camouflaged observation pos
   - Before the escape: "The light that walks with you casts no shadow."
   - Between Act II arcs: "Four keys to a door that should stay closed."
 
-#### Shopping in Lux Aeterna
+#### Shopping in Lux Æterna
 
-Lux Aeterna's market is limited but functional. Prices are 150% of standard for common goods (supply chain issues) and 200% for anything magical. Mana-Crystals are the primary currency (1 Spark = 1 standard currency unit).
+Lux Æterna's market is limited but functional. Prices are 150% of standard for common goods (supply chain issues) and 200% for anything magical. Mana-Crystals are the primary currency (1 Spark = 1 standard currency unit).
 
 **Available Equipment:**
 
@@ -899,7 +899,7 @@ Lux Aeterna's market is limited but functional. Prices are 150% of standard for 
 | **Sand-Eye Drops** | 10 Sparks | Removes darkness penalties for 4 hours (stings terribly) |
 | **Cira's Dreamcatch** | 25 Sparks | A sachet of herbs burned before sleep; grants one clear prophetic dream (GM determines content). Single use. |
 
-#### Sidequests in Lux Aeterna (Pre-Adventure)
+#### Sidequests in Lux Æterna (Pre-Adventure)
 
 These optional quests establish the world, bond the players to the community, and provide early XP. Run one or two before the main adventure begins.
 
@@ -907,7 +907,7 @@ These optional quests establish the world, bond the players to the community, an
 - **Hook:** Selin Voss approaches the party in the Dusty Lantern. A section of the Mage-Weave over the eastern canyon wall is degrading faster than she can repair it. She suspects something is interfering with the enchantment from outside — maybe a natural mana-sink, maybe sabotage.
 - **Investigation:** The players climb to the canyon rim and discover a nest of **Mana-Leeches** — translucent, slug-like creatures that feed on enchantment residue. They've been drawn by the Mage-Weave's energy signature. A dozen of them are attached to the silk's anchor-stones.
 - **Resolution:** Kill the leeches (easy combat encounter for Starting Tier) and repair the anchor-stones (skill challenge: Knowledge — Arcana + Knowledge — Nature, **Average (◆◆)**). Selin can teach a player the repair technique for future use.
-- **Reward:** 5 XP each, Selin's gratitude (+1 Lux Aeterna rep), a scrap of Mage-Weave silk (can be used to create a *cloak of minor concealment* — adds a Boost die to Stealth checks in desert terrain)
+- **Reward:** 5 XP each, Selin's gratitude (+1 Lux Æterna rep), a scrap of Mage-Weave silk (can be used to create a *cloak of minor concealment* — adds a Boost die to Stealth checks in desert terrain)
 
 **"Hask's Harvest"**
 - **Hook:** Hask the alchemist needs a specific desert cactus bloom that only flowers at night in a canyon two hours south. The canyon is known to harbor **Sand-Stalkers** — hyena-sized reptilian predators that hunt by vibration.
@@ -924,9 +924,9 @@ These optional quests establish the world, bond the players to the community, an
 
 ---
 
-### Before Session 1: Making Lux Aeterna Home
+### Before Session 1: Making Lux Æterna Home
 
-The campaign's emotional cost of leaving Lux Aeterna is proportional to how much the players came to love it. These five micro-scenes happen before the first external crisis — woven into the natural flow of the players arriving, getting their bearings, and taking their first job. They are not optional. They are load-bearing.
+The campaign's emotional cost of leaving Lux Æterna is proportional to how much the players came to love it. These five micro-scenes happen before the first external crisis — woven into the natural flow of the players arriving, getting their bearings, and taking their first job. They are not optional. They are load-bearing.
 
 Run them organically over the first session or early downtime. None require skill checks. None have plots. They are people being people, and that is the whole point.
 
@@ -954,7 +954,7 @@ If a player speaks to her, she doesn't want reassurance — she's already past t
 **Sabel's Ledger**
 The first time Warden Sabel formally meets the players — probably when briefing them on their first assignment — he asks each player's name, writes it in a small leather ledger, and asks without inflection: "Next of kin? Anyone we should notify if something happens out there?"
 
-Most players in Lux Aeterna have no one. She knows this. She's asking because everyone who passes through this settlement deserves to have their name written down by someone who will check for them when they're late.
+Most players in Lux Æterna have no one. She knows this. She's asking because everyone who passes through this settlement deserves to have their name written down by someone who will check for them when they're late.
 
 The ledger reappears in Act III.
 
@@ -972,7 +972,7 @@ She will not clarify. She will not acknowledge she said it. The player will spen
 **Setup:** The players are a relic-hunting crew working for Tajsh Thale. Three days ago, he sent a mining team to investigate a promising Mana-Crystal vein in the desert foothills — near a mapped but unexplored First Age ruin. The team hasn't checked in. Tajsh sends the players to find them.
 
 **The Journey (Day 1):**
-The ride from Lux Aeterna takes most of a day through scrub desert — rocky hills, dry washes, the occasional twisted acacia tree. The landscape is beautiful and hostile. Use this time for character introduction and roleplay.
+The ride from Lux Æterna takes most of a day through scrub desert — rocky hills, dry washes, the occasional twisted acacia tree. The landscape is beautiful and hostile. Use this time for character introduction and roleplay.
 
 *Random Encounter Table — Desert Foothills (d6):*
 
@@ -981,7 +981,7 @@ The ride from Lux Aeterna takes most of a day through scrub desert — rocky hil
 | 1 | A Lothari waystation — an underground cistern marked by a cairn of white stones. Inside, a dream-catcher made of woven wire hangs from the ceiling. Any character who sleeps here receives a single vivid dream (GM's choice — can foreshadow or reveal character backstory) |
 | 2 | A bleached skeleton half-buried in sand, wearing a Legio Null badge. The armor has been stripped. A journal in a pocket describes "anomalous readings" in the foothills — dated three months ago. The Legio Null knows this area is active. |
 | 3 | A **Sand-Stalker** pack (3) hunting a wild goat. If the players don't interfere, the stalkers ignore them. If they approach, the stalkers hiss a warning. |
-| 4 | A Lothari trader named **Yara** riding a camel, heading to Lux Aeterna to trade spices for Mana-Crystals. She's friendly, offers to share water, and knows the area well. She warns that "the stones have been humming" near the ruin — something she hasn't heard in her 30 years of desert travel. |
+| 4 | A Lothari trader named **Yara** riding a camel, heading to Lux Æterna to trade spices for Mana-Crystals. She's friendly, offers to share water, and knows the area well. She warns that "the stones have been humming" near the ruin — something she hasn't heard in her 30 years of desert travel. |
 | 5 | An old Dwarven waystone — a carved column from the Stone-Road Projects era (SA 110). Weather-worn but still legible. It marks the distance to Vernath (280 miles NW) and Argentum (190 miles SE). A reminder that this desert was once a highway. |
 | 6 | Nothing. Just wind, heat, and the vast indifference of the world. Let the silence sit for a moment. |
 
@@ -1080,7 +1080,7 @@ Regardless of choice, the Band is the story. If the players leave it, they find 
 
 #### Optional Dungeon: The Ruin of Sorath
 
-If the players investigate the nearby ruin before returning to Lux Aeterna, they find a half-buried complex of dark stone corridors — First Age construction, pre-Paroxysm. The architectural style is alien: too-regular angles, corridors that curve in mathematically precise arcs, and walls inscribed with notation systems that predate all known languages.
+If the players investigate the nearby ruin before returning to Lux Æterna, they find a half-buried complex of dark stone corridors — First Age construction, pre-Paroxysm. The architectural style is alien: too-regular angles, corridors that curve in mathematically precise arcs, and walls inscribed with notation systems that predate all known languages.
 
 **Room 1 — The Antechamber:** A circular room with a domed ceiling. The walls are covered in geometric carvings that seem to shift when viewed in peripheral vision. A **Perception (Cunning) check, Hard (◆◆◆)** reveals that the carvings are a map — of the world's ley-line network as it existed during the First Age. Some lines are severed, others tangled. The map shows four bright points scattered across the world — the locations of the Crown pieces.
 
@@ -1101,7 +1101,7 @@ This is the first glimpse of the Echo-Lord's endgame.
 
 ### Sessions 2–3: "The Light in the Dark"
 
-**Return to Lux Aeterna:**
+**Return to Lux Æterna:**
 
 The players return with whatever they salvaged. Tajsh is thrilled by the crystal vein and horrified by the Band. He can feel it — everyone with magical sensitivity can feel it. The Band sits on his desk like a hole in the world, quietly pulling at the ambient mana of the settlement.
 
@@ -1169,7 +1169,7 @@ The journey to the abandoned mine and back is a half-session or full session dep
 
 - *Return journey — the quicksand:* The surfaced underground river is present on the return route. A **Survival (Cunning) check, Average (◆◆)** identifies the moving sand ahead in time to find a safe path around (adds 30 minutes). On failure, one character sinks to the knee — extracting them requires an **Athletics (Brawn) check, Average (◆◆)** or assistance from another character. The sand is warm. The movement beneath it, barely perceptible, is rhythmic — like slow breathing.
 
-**Downtime in Lux Aeterna (2–3 in-game days):**
+**Downtime in Lux Æterna (2–3 in-game days):**
 While waiting for Ink's analysis, the players have free time. Use this to run sidequests, explore the settlement, build NPC relationships, and establish what the players care about before it's threatened.
 
 *Downtime Activities:*
@@ -1219,7 +1219,7 @@ The next morning, the mirror-charms fail.
 #### The Architect's Arrival
 
 **The Flicker:**
-On the third night after the Band arrives, the mirror-charms fail for one heartbeat. For exactly one second, Lux Aeterna is visible from the sky — a flash of lantern-light in the desert darkness. Then the charms stabilize. But something has entered the settlement through the gap.
+On the third night after the Band arrives, the mirror-charms fail for one heartbeat. For exactly one second, Lux Æterna is visible from the sky — a flash of lantern-light in the desert darkness. Then the charms stabilize. But something has entered the settlement through the gap.
 
 **The Encounter:**
 The players encounter the Architect in the tunnels beneath the Veiled Market — in the deepest, quietest part of the Warrens, where the stone is oldest. It appears as a tall figure of cold, geometric light — crystal facets rotating slowly around a humanoid core. Its voice resonates with harmonic certainty. It addresses each player by name.
@@ -1267,7 +1267,7 @@ A single Perception check, **Hard (◆◆◆)**, lets a player notice: these wor
 - **Tajsh:** Awed and skeptical in equal measure. "That's either a god or the best con I've ever seen. Either way, I'd listen."
 - **Sabel:** Silent. Watching. He doesn't trust anything that radiates certainty. He's seen what certainty does to people who carry swords.
 - **Cira:** Refuses to enter the room where the Architect appeared. Later, to the players: "It spoke truth. It spoke lies. I cannot tell which words were which. That is more frightening than a liar."
-- **Ink:** Leaves Lux Aeterna immediately after the Architect's appearance. She says she needs to "report to her superiors." In truth, the Shadewalkers want to know about the divine entity — it's the most valuable intelligence asset in a generation.
+- **Ink:** Leaves Lux Æterna immediately after the Architect's appearance. She says she needs to "report to her superiors." In truth, the Shadewalkers want to know about the divine entity — it's the most valuable intelligence asset in a generation.
 
 **Red Flags for Perceptive Players:**
 - **Perception (Cunning), Hard (◆◆◆):** The Architect's words about the fragments being "unmade" carry an emotional resonance that doesn't match relief — it sounds like anticipation. On a Triumph, the character also senses a faint hunger behind the Architect's composure.
@@ -1280,7 +1280,7 @@ A single Perception check, **Hard (◆◆◆)**, lets a player notice: these wor
 ### Sessions 4–5: "Run"
 
 **The Legio Null:**
-The mirror-charm flicker was noticed. A Legio Null patrol — **Commander Thalric's Sand-Riders** — detected the anomaly and is converging on Lux Aeterna's approximate position.
+The mirror-charm flicker was noticed. A Legio Null patrol — **Commander Thalric's Sand-Riders** — detected the anomaly and is converging on Lux Æterna's approximate position.
 
 **Commander Thalric**
 - Human male, early 40s, Castellum-born
@@ -1291,19 +1291,19 @@ The mirror-charm flicker was noticed. A Legio Null patrol — **Commander Thalri
 - **Thalric is not the BBEG.** He's a secondary antagonist who represents the real, human evil that the players face daily. He will return throughout Act I as a pursuer and in Act III as a potential reluctant ally (if the Fifth Harmony threatens his concept of order too).
 
 **The Dilemma:**
-The Band is causing the charm instability. As long as it's in Lux Aeterna, the settlement is in danger. Warden Sabel proposes a desperate plan:
+The Band is causing the charm instability. As long as it's in Lux Æterna, the settlement is in danger. Warden Sabel proposes a desperate plan:
 1. The players take the Band and flee north toward the Dragon's Tooth Mountains, drawing the Legio Null away from the settlement
 2. While the patrol chases the players, Sabel relocates the Mage-Weave canopy to the emergency fallback position
 3. A Lothari guide — **Soru** — will lead the players through hidden desert paths and mountain approaches toward the observatory the Architect directed them to
 
 **What the Players Must Leave Behind:**
-This is the emotional core of Act I's ending. Lux Aeterna is HOME. The players have built relationships here. Marta's stew. Hask's gruff kindness. The children in the schoolroom. Aldric teaching a nervous teenager to control her first spark.
+This is the emotional core of Act I's ending. Lux Æterna is HOME. The players have built relationships here. Marta's stew. Hask's gruff kindness. The children in the schoolroom. Aldric teaching a nervous teenager to control her first spark.
 
 All of it will survive only if the players leave.
 
 **The Desert Chase (2–3 sessions):**
 
-The chase from Lux Aeterna northward to the Dragon's Tooth Mountains should feel like a war-movie extraction. Use the following structure:
+The chase from Lux Æterna northward to the Dragon's Tooth Mountains should feel like a war-movie extraction. Use the following structure:
 
 **Leg 1: The Foothills (Day 1)**
 - Soru (young Lothari dream-walker, gender-neutral, calm under pressure, terrible at cooking) leads the party through hidden washes and dry riverbeds, heading north toward the mountains
@@ -1314,7 +1314,7 @@ The chase from Lux Aeterna northward to the Dragon's Tooth Mountains should feel
 - Open terrain with no cover. The party must cross a vast, flat expanse of salt-crusted earth before reaching the Lothari waystation on the far side.
 - A sandstorm builds on the horizon (natural weather). The party can try to outrun it (Resilience [Brawn] checks, strain risk) or shelter and let the storm cover their tracks (lose time but add a Boost die to Stealth for the next leg).
 - **Encounter Option:** Mid-crossing, the Resonance Compass activates — pulsing in a way they haven't felt before. The Band grows warm. For one moment, the players feel a presence watching them — vast, patient, pleased. The Architect speaks in their minds: *"You're doing the right thing. Don't stop."*
-- **The People Left Behind (emotional encounter — run mid-crossing):** As the party crosses the open flats, they spot movement: three figures from Lux Aeterna, moving on the same bearing. They heard about the evacuation late and are following the party's route north. The GM should name at least one. If the players completed "The Missing Miner" sidequest, one of them is **Goss** — the miner they rescued. If not, it's **Tomas**, a young supply worker from the Veiled Market who once gave a player directions without being asked.
+- **The People Left Behind (emotional encounter — run mid-crossing):** As the party crosses the open flats, they spot movement: three figures from Lux Æterna, moving on the same bearing. They heard about the evacuation late and are following the party's route north. The GM should name at least one. If the players completed "The Missing Miner" sidequest, one of them is **Goss** — the miner they rescued. If not, it's **Tomas**, a young supply worker from the Veiled Market who once gave a player directions without being asked.
 
   The Sand-Riders on the ridge have also spotted them. The civilians are exposed in the open. The riders are closing.
 
@@ -1323,7 +1323,7 @@ The chase from Lux Aeterna northward to the Dragon's Tooth Mountains should feel
   - *Signal them to scatter:* Roll openly — on 1–3 (Genesys dice, one Ability die), they find cover in time; on 4–6, one is caught.
   - *Keep moving:* All three are likely caught. The party hears it happen. They cannot stop and look back.
 
-  Whatever the players choose, at least one person from Lux Aeterna does not make it out of the Salt Flats. The players witness this or hear this. They have to keep moving.
+  Whatever the players choose, at least one person from Lux Æterna does not make it out of the Salt Flats. The players witness this or hear this. They have to keep moving.
 
   This is not about guilt. The players made the best choice under real pressure. It is about cost — the cost of being the person carrying the thing that everyone is chasing. There is no version of their situation that doesn't leave someone behind. The Architect never mentioned that part.
 
@@ -1346,7 +1346,7 @@ Miravel falls in with the party for the mountain ascent. She's curious about eac
 *See Chapter 3.7 for Miravel's full NPC profile, stat block, and story arc.*
 
 **Act I Ends:**
-The party reaches the lower slopes of the Dragon's Tooth range. Behind them, the desert stretches south — somewhere out there, Lux Aeterna survives. Above them, the Starfall Peaks observatory waits. They carry the Band, the Compass, and the Architect's mission. They are hunted by the Legio Null, guided by a being of light they have no reason to distrust, and accompanied by a woman who arrived with suspicious precision.
+The party reaches the lower slopes of the Dragon's Tooth range. Behind them, the desert stretches south — somewhere out there, Lux Æterna survives. Above them, the Starfall Peaks observatory waits. They carry the Band, the Compass, and the Architect's mission. They are hunted by the Legio Null, guided by a being of light they have no reason to distrust, and accompanied by a woman who arrived with suspicious precision.
 
 Yet.
 
@@ -1372,7 +1372,7 @@ The GM should explicitly track these during Act I so they can be deployed at the
 | **Cira's "it's lighter than you think"** | When a character finally understands what they've been carrying — their wound, their fear, their background's through-line question — this is the moment. It probably happens during or after the final confrontation. Cira was right. She's always right. |
 
 > **Faction Standing Changes — Act I:**
-> - Lux Aeterna: +1 (max 5) if the players chose to leave willingly; unchanged if they had to be convinced
+> - Lux Æterna: +1 (max 5) if the players chose to leave willingly; unchanged if they had to be convinced
 > - Legio Null: Remains 1 (locked enemies)
 > - Azure Hand: +1 to 4 if the players are cooperative with Vesper; unchanged if hostile
 > - Lothari Silent Network: +1 to 4 if the players respected the waystation and Soru; -1 to 2 if they trespassed on sacred Lothari territory
@@ -1411,11 +1411,11 @@ Miravel's spatial magic is not arbitrary. She can ONLY teleport to locations whe
 
 **Nexuses the party cannot teleport to:**
 - Aerinórë has no accessible nexus — the Sael'anir wind-shapers' mist disrupts spatial magic. You must travel there by sea.
-- The Dragon's Tooth Mountains have no strong nexus — the party travels there overland from Lux Aeterna.
-- Lux Aeterna's desert foothills have weak, scattered energy — insufficient for anchoring.
+- The Dragon's Tooth Mountains have no strong nexus — the party travels there overland from Lux Æterna.
+- Lux Æterna's desert foothills have weak, scattered energy — insufficient for anchoring.
 
 This means:
-- **Act I → Mountains:** The party travels overland north from Lux Aeterna through the desert chase. Miravel joins them en route.
+- **Act I → Mountains:** The party travels overland north from Lux Æterna through the desert chase. Miravel joins them en route.
 - **Mountains → Mórenórë:** Overland northeast. Miravel accompanies them.
 - **Mórenórë → Aerinórë:** The ONE sea voyage — a short crossing of the narrowest gap between Vael and Aerinórë. Miravel accompanies them.
 - **Aerinórë → Aurumport:** Miravel reveals her teleportation for the first time, taking them to the Aurumport nexus in a desperate escape from the Vorok-Varr.
@@ -1437,7 +1437,7 @@ She adapts to each group, but her core pattern is consistent: she listens more t
 Use the following specific beats at key journey moments:
 
 *On the mountain ascent (Act I → Observatory):*
-Miravel makes coffee over the campfire at dawn — real coffee, not the bark-substitute from Lux Aeterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
+Miravel makes coffee over the campfire at dawn — real coffee, not the bark-substitute from Lux Æterna. She doesn't explain where she got it. She just makes enough for everyone and sits with whoever comes to find her. Ask each player: what does their character do with this small, unexpected comfort?
 
 *During the mountain climb:*
 Miravel is not a mountaineer. She's competent but visibly out of her element — panting at altitude, gripping ropes too tightly, asking "Is it always this cold?" She is used to being the most capable person in the room. Here she is not. Let the players take care of her for once. She will remember who helped her, and she will write it down.
@@ -1466,7 +1466,7 @@ One player might notice she's worn the same cartography-ink stain on her left ha
 
 Deliver letters or messages during travel legs. They arrive via Azure Hand courier, Lothari dream-network, Shadewalker dead-drop, or Miravel's contacts. They make the world feel alive beyond the party's immediate location.
 
-**From Lux Aeterna** (arrives during the overland journey to Mórenórë):
+**From Lux Æterna** (arrives during the overland journey to Mórenórë):
 - **From Warden Sabel** (always): Brief, factual, Sabel. *"Settlement stable. Relocated to secondary position after your departure. Mirror-charms holding. Population 387 — lost 13 in the relocation. Names on the wall. Petra joined the defense rotation last month. She's good. Better than good."* Pause. Then, in smaller handwriting at the bottom: *"Come home when you can."*
 
 **After Aerinórë** (arrives in Aurumport):
@@ -1547,7 +1547,7 @@ This is not a full arc — it is a pivotal waypoint. The party arrives at the Dr
 
 #### Getting There
 
-The party arrives at the Dragon's Tooth Mountains directly from the Act I desert chase — the observatory is their first destination after fleeing Lux Aeterna. They are on foot, pursued by Thalric's outriders, and climbing into increasingly hostile alpine terrain.
+The party arrives at the Dragon's Tooth Mountains directly from the Act I desert chase — the observatory is their first destination after fleeing Lux Æterna. They are on foot, pursued by Thalric's outriders, and climbing into increasingly hostile alpine terrain.
 
 **The Approach:** From the port, the party ascends into the mountains on foot — 2-3 days of climbing through increasingly hostile terrain. The Dragon's Tooth Mountains are the northernmost peaks of Vael: arctic alpine, perpetual ice above the treeline, sheer granite faces and howling winds. The path is ancient — a Stone-Road-era trail, crumbling but navigable.
 
@@ -1645,7 +1645,7 @@ The air smells of sea salt, old paper, and the spiced coffee that Aen'valar trad
 
 **The Green Terrace** — A Waldkyn-maintained garden district built on the peninsula's highest ground. Herbs, medicinal plants, and a Waldkyn meeting circle where diaspora elders gather weekly. This is where the party confirms Vaelric's findings — a Waldkyn scholar named **Lorekeeper Theren** (Aen'valar Elf, male, 300s, speaks seven languages, drinks too much coffee) cross-references the star-chart with ancient texts and says, with poorly concealed excitement: *"You're looking for Aerinórë. Nobody asks about Aerinórë. I've been waiting thirty years for someone to ask about Aerinórë."*
 
-**The Lantern Inn** — The best inn the party has stayed at since Lux Aeterna. Clean beds, hot water, and a proprietor named **Dalish** (Human, male, mid-40s, ex-Azure Hand, retired to "somewhere with good coffee and no one trying to kill me"). He doesn't ask questions. He charges fair prices. He makes the best spiced coffee on the peninsula. If the party mentions Lux Aeterna, he goes quiet for a moment: *"I passed through there once, on my way out. Good people. I hope they're still there."*
+**The Lantern Inn** — The best inn the party has stayed at since Lux Æterna. Clean beds, hot water, and a proprietor named **Dalish** (Human, male, mid-40s, ex-Azure Hand, retired to "somewhere with good coffee and no one trying to kill me"). He doesn't ask questions. He charges fair prices. He makes the best spiced coffee on the peninsula. If the party mentions Lux Æterna, he goes quiet for a moment: *"I passed through there once, on my way out. Good people. I hope they're still there."*
 
 **The Whale-Bone Dock** — The departure point for northbound voyages. The few captains willing to sail toward Aerinórë's mist can be found here. Fern-Tongue (the Waldkyn guide) and any Sael'anir contacts arrange passage from this dock.
 
@@ -1653,7 +1653,7 @@ The air smells of sea salt, old paper, and the spiced coffee that Aen'valar trad
 
 **"The Scholar's Debt"** — Archivist Fenwick has been hiding a Waldkyn text that describes Aerinórë's location in detail — but a Shadewalker operative has been pressuring him to hand it over. The party can protect Fenwick (combat or social), convince the operative to back off (Negotiation [Presence], **Hard ◆◆◆**), or let Fenwick make his own choice. If the party helps, Fenwick provides the text — which includes a detailed description of Lanthir Haven's Song-Ward structure and the Gem's location within it. **15 XP, +1 Shadewalker rep (if dealt with diplomatically), Fenwick's gratitude and the text.**
 
-**"The Refugee Ship"** — A Mirennian vessel arrives in harbor carrying 40 mage-refugees from the mainland. The city's resources are strained. The Triumvirate debates whether to accept them. The party can intervene — arguing for acceptance (Charm [Presence], **Average ◆◆**), helping with logistics (any practical skill, **Average ◆◆**), or simply helping carry luggage and distribute food. **10 XP, +1 Mórenórë rep.** Among the refugees: a 12-year-old girl with soot-stained fingers who looks EXACTLY like Petra from Lux Aeterna. She is not Petra. But the resemblance is a knife.
+**"The Refugee Ship"** — A Mirennian vessel arrives in harbor carrying 40 mage-refugees from the mainland. The city's resources are strained. The Triumvirate debates whether to accept them. The party can intervene — arguing for acceptance (Charm [Presence], **Average ◆◆**), helping with logistics (any practical skill, **Average ◆◆**), or simply helping carry luggage and distribute food. **10 XP, +1 Mórenórë rep.** Among the refugees: a 12-year-old girl with soot-stained fingers who looks EXACTLY like Petra from Lux Æterna. She is not Petra. But the resemblance is a knife.
 
 **"The Stillwood Debate"** — In the Green Terrace, the party witnesses a heated dispute between Waldkyn diaspora elders. A Fungril mystic named **Root-Memory** has received a mycelial message from the Whispering Vales: the **Stillwood** — a spreading grey silence deep in the forest — is growing faster. The mainland Waldkyn are fracturing over what to do. The **Stillwood Circle** (isolationists) wants to seal the Vales entirely and let the silence burn itself out. The **Flowing River School** (interventionists) wants to seek outside help. The **Kyn-Clans** (militants) are already burning grey timber and attacking anyone they deem responsible for the "corruption."
 
@@ -1664,7 +1664,7 @@ Root-Memory asks the party: *"You carry something that hums the way the Stillwoo
 **First Major Emotional Beat:** During the journey from the mountains to Mórenórë, or in the city itself, run one of the following (choose based on party composition):
 
 - A starting contact appears unexpectedly — **Corporal Aeric** (Disgraced Soldier's contact) has been working as a caravan guard on this very road. He sees the player and freezes. He doesn't say "I missed you." He says: *"You look like you've been somewhere hard."* Then he walks with them. That's enough.
-- A letter arrives from Lux Aeterna (the Sabel letter from the Letters section — *"Come home when you can."*)
+- A letter arrives from Lux Æterna (the Sabel letter from the Letters section — *"Come home when you can."*)
 - The party encounters the refugee ship (see sidequest above) — families with children, mages hiding their sparks. The players see, in these strangers, exactly what they were six months ago.
 
 ---
@@ -1988,8 +1988,8 @@ The party has 3–5 days here before moving on. Use this time for:
 
 **1. Downtime and Recovery**
 - Miravel needs 48 hours to recover from the unprepared teleportation
-- The party can resupply, sell loot, buy equipment at mainland prices (not Lux Aeterna's 150% markup)
-- Letters can be sent to Lux Aeterna via Azure Hand courier (arrive in 2 weeks)
+- The party can resupply, sell loot, buy equipment at mainland prices (not Lux Æterna's 150% markup)
+- Letters can be sent to Lux Æterna via Azure Hand courier (arrive in 2 weeks)
 
 **2. The Architect Appears**
 The Architect manifests through the Compass in the party's room at whatever inn they're staying at. It is pleased — two pieces gathered, one remaining. It directs them to Gearhaven: *"The last fragment sings from across the ocean. A settlement built on geothermal fire, where mortals have harnessed a silence they do not understand. The piece dampens their city's fury. They call it the heart of their progress."*
@@ -1999,7 +1999,7 @@ The Architect's tone is more urgent now. Less patient. **Red flag:** It doesn't 
 **3. Emotional Reconnection**
 This is where background-specific contacts and emotional threads converge:
 
-- **A friend from Lux Aeterna** is in Aurumport — someone who left the settlement separately and ended up here through the refugee pipeline. Could be a player's starting contact or an NPC from Act I (Goss, if he survived the Salt Flats; a family member; a friend). Their presence is a reminder of home and the life the party left behind.
+- **A friend from Lux Æterna** is in Aurumport — someone who left the settlement separately and ended up here through the refugee pipeline. Could be a player's starting contact or an NPC from Act I (Goss, if he survived the Salt Flats; a family member; a friend). Their presence is a reminder of home and the life the party left behind.
 - **Someone from Lanthir Haven** — if the party left on good terms, **Brightleaf** appears in Aurumport 2 days after the party. She crossed the ocean by conventional means (Sael'anir boat). She came because: *"Aelindra said someone should go with you. To remember what you're fighting for."* She becomes a traveling companion for the rest of the campaign — a living reminder of what the party took and what they're trying to protect.
 - **The Pale Ledger** may make contact here (see Recurring Antagonists)
 
@@ -2072,7 +2072,7 @@ Depending on the party's backgrounds, one or more of these scenes should occur:
 **Not all of these need to appear.** Pick 2–3 that match the party's backgrounds. The point is: the world remembers, and the people the players trusted in Act I have been living their own stories. Their return makes the finale feel like a convergence, not an arrival.
 
 **Encounter: Commander Thalric Returns**
-The Legio Null commander from Act I has been promoted. He now commands a full Inquisitorial Company — 100 Sand-Riders. He's been tracking the party since they fled Lux Aeterna. However, the Resonance Compass's pull is now strong enough that the Legio Null's Null-Lanterns can detect it from miles away.
+The Legio Null commander from Act I has been promoted. He now commands a full Inquisitorial Company — 100 Sand-Riders. He's been tracking the party since they fled Lux Æterna. However, the Resonance Compass's pull is now strong enough that the Legio Null's Null-Lanterns can detect it from miles away.
 
 **Decision Point:** The party can try to avoid Thalric entirely (Stealth [Agility] group check, **Daunting (◆◆◆◆)**), or they can attempt contact. Thalric is a zealot, but he's not stupid — if the party can demonstrate that the Crown is a genuine threat to civilization (not just mage nonsense), he might be convinced to redirect his hunters toward the Barren Hills instead of toward the party.
 
@@ -2212,12 +2212,12 @@ The players' Act II choices determine who answers. Each allied faction provides 
 | **Mórenórë Volunteer Corps** | Rep 4+ with Lothari or Azure Hand (word spread) | A small company of 15 mixed-species fighters from the Free City — scholars, students, and city guards who heard about the Crown through the Shadewalker intelligence leak. Led by **Captain Edric Voss**, a human ex-professor of military history who decided that knowing how wars work means nothing if you won't fight in one. They bring tactical coordination, siege equipment, and the moral weight of civilians who chose to be here. |
 | **Aerinórë Waldkyn** | Rep 4+ (Lanthir Haven) | Song-Mother Aelindra's choir (see Lanthir Haven ally entry above). If both this and the Lanthir Haven entry trigger, combine them — the choir is the same group. |
 | **Orkin Whisper-Shamans** | Automatic | Grukhor and 12 warriors provide ground support, guerrilla expertise, and spiritual insight. |
-| **Lux Aeterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. (See "Sabel's Eight" below for the reunion scene.) |
+| **Lux Æterna** | Automatic | Warden Sabel leads a strike team of 8 battle-mages. Exhausted, under-equipped, terrified. They came anyway. (See "Sabel's Eight" below for the reunion scene.) |
 | **Lothari Silent Network** | Rep 4+ | Soru arrives with Lothari dream-walkers who can project illusions to confuse the cathedral's construct defenses. |
 | **Commander Thalric** | Convinced in Act III | 20 Sand-Riders in Cold-Iron armor. Their anti-magic equipment provides resistance to the Fifth Harmony wave. Thalric fights beside mages for the first time in his life. |
 | **Vyra Stone-Speaker** | Befriended in the mountains | A Giant elder and 2 companions, survivors from the Dragon's Tooth highlands. Giants are First Age beings who witnessed the Paroxysm — Vyra sensed the Crown's resonance from across the mountains and came because she remembers what Kael'Zorai's order felt like the first time. They can hurl boulders, shrug off the Fifth Harmony wave (their First Age constitution resists systematic rewriting), and physically carry individuals to the floating cathedral. If the party explored the Giant's Ruins in the mountains and showed respect, Vyra arrives already knowing them. |
 
-**Maximum possible allied forces:** 8 factions. Minimum: 2 (Orkin + Lux Aeterna, always).
+**Maximum possible allied forces:** 8 factions. Minimum: 2 (Orkin + Lux Æterna, always).
 
 A party that earned every alliance has a coordinated multi-force assault. A party that burned bridges faces the cathedral with a skeleton crew and must rely on their own strength.
 
@@ -2232,7 +2232,7 @@ A party that earned every alliance has a coordinated multi-force assault. A part
 > *"I Studied This":* Edric has read extensively about First Age architecture, siege warfare, and divine constructs. He can provide a Boost die to Knowledge — Arcana or Knowledge — Lore checks related to the Cathedral's structure or the Echo-Lord's nature.
 > **Equipment:** Rapier (Melee; Damage 5; Crit 2; Engaged; Defensive 1), hand crossbow (Ranged; Damage 5; Crit 4; Medium), three academic texts he brought to a battlefield, spectacles he refuses to remove even during combat
 
-### "Sabel's Eight" — The Lux Aeterna Reunion
+### "Sabel's Eight" — The Lux Æterna Reunion
 
 Sabel's strike team arrives from the southeast — on foot, dusty, carrying everything they own. They are not an army. They are eight people who walked across the desert because the people they love asked for help.
 
@@ -2271,7 +2271,7 @@ Hask hands each player a tincture without a word, exactly the way he's always do
 
 Aldric gets a player's name wrong, corrects himself, and says: *"I brought books. In case you need reference material. During the... the battle."* He's terrified. He came anyway.
 
-**The Ledger:** If the players remember Sabel's ledger from Act I — the one where he wrote their names and asked about next of kin — he still has it. He's been adding names throughout the campaign. Every person who passed through Lux Aeterna. Every person who left and didn't come back. Every person who left and did. The players' names are on the first page.
+**The Ledger:** If the players remember Sabel's ledger from Act I — the one where he wrote their names and asked about next of kin — he still has it. He's been adding names throughout the campaign. Every person who passed through Lux Æterna. Every person who left and didn't come back. Every person who left and did. The players' names are on the first page.
 
 ### The Final Dungeon: The Cathedral of Geometry
 
@@ -2346,7 +2346,7 @@ This is the hardest moment of the campaign. The Echo-Lord is right that the worl
 
 **The Words Turned to Weapons — GM Instructions:**
 
-After the general offer, the Echo-Lord turns to each player individually and echoes the EXACT words it used when it first addressed them in Act I — the personal address from the tunnels beneath Lux Aeterna. But now the context has shifted. The comfort is the same. The meaning is different.
+After the general offer, the Echo-Lord turns to each player individually and echoes the EXACT words it used when it first addressed them in Act I — the personal address from the tunnels beneath Lux Æterna. But now the context has shifted. The comfort is the same. The meaning is different.
 
 **Read the original words back to each player, then add the twist.** The GM should have the Act I personal addresses written down and ready. For each player, the Echo-Lord repeats the key phrase, then extends it:
 
@@ -2415,7 +2415,7 @@ The Crown cannot be destroyed by raw force — it is a divine artifact, forged t
 | **Dwarven Stone-Lays** (the weight of history) | Delva, Korrin, or Marga (if allied) | Recite the forbidden Ulzammar Verses — the sealed sections of the Stone-Lays | -1 Threshold; also weakens the Crown's structural integrity (-5 Wounds) |
 | **The Players' Own Defiance** | Any PC | Shout, sing, scream, laugh, cry — anything that is THEIRS, not the Echo-Lord's | -1 Threshold (only if at least 3 other traditions are already active) |
 
-The party needs any 5 of 7 possible traditions. A party with all allies has options to spare. A party with few allies must rely more heavily on their own actions and the Orkin (who always come). The minimum-ally scenario (Orkin + Lux Aeterna) means the players must provide human magic, their own defiance, AND find a way to channel at least one more tradition — perhaps through an artifact (the Song-Ward Tuning Fork), a memory (Cira's teaching), or sheer creative improvisation.
+The party needs any 5 of 7 possible traditions. A party with all allies has options to spare. A party with few allies must rely more heavily on their own actions and the Orkin (who always come). The minimum-ally scenario (Orkin + Lux Æterna) means the players must provide human magic, their own defiance, AND find a way to channel at least one more tradition — perhaps through an artifact (the Song-Ward Tuning Fork), a memory (Cira's teaching), or sheer creative improvisation.
 
 **The Moment:** When the fifth tradition joins the cacophony, the sound in the Cathedral changes. The Echo-Lord's Fifth Harmony — that single, perfect, suffocating note — begins to crack. Not because the noise is louder. Because it is MORE. More voices, more rhythms, more ways of being alive. The Crown, designed to impose one law on creation, cannot contain the contradiction of a world that refuses to agree on anything except that it wants to exist.
 
@@ -2440,7 +2440,7 @@ The Barren Hills are scarred again — but differently this time. The Scar of Di
 
 | Faction | If Allied | If Enemies/Absent |
 |---------|-----------|-------------------|
-| **Lux Aeterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Aeterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Aeterna survives regardless, but the players never learn what happened to the people they left behind. |
+| **Lux Æterna** | Sabel meets the party in the desert. "You came back." She's not surprised. She's proud. Lux Æterna survives — and the players' deeds give the hidden settlement something it never had before: hope that the world might change. | Lux Æterna survives regardless, but the players never learn what happened to the people they left behind. |
 | **Gearhaven** | Thaelric sends a message via Pip's communicator (garbled, cutting out, 75% reliable): "The substitute holds. Build something better next time. — Flame-Eye." Gearhaven grows. In 20 years, it will be the city the players saw in their imagination. | Gearhaven struggles. The substitute engine fails within a year. The city downsizes. Many refugees scatter to other Novaterran settlements. It survives, but smaller. |
 | **Aerinórë / Lanthir Haven** | If the party took the Setting honestly, the Waldkyn send word: the mist is gone but the settlement endures. Aelindra's message: *"We are learning to live with an open sky. It is harder than we expected. It is also more beautiful."* Trade ships from Mórenórë arrive for the first time. The isolation is over — but so is the innocence. | If the party stole the Setting, no message comes. The wind-shapers sealed the coast entirely. Rumors reach the mainland of Mirennian prospectors exploring "a newly discovered northern continent." The sanctuary is over. What replaces it is anyone's guess. |
 | **Mórenórë Volunteers** | If allied, Captain Edric Voss sends a letter to the Grand University detailing what happened — "a factual account, because someone has to write it down before the Senate rewrites it." The account circulates underground. It becomes one of the earliest documents that eventually shifts public opinion on the Decree. | If absent, the story of the Barren Hills is told only by the people who were there. It becomes rumor, then legend, then doubt. |
@@ -2467,7 +2467,7 @@ Somewhere, a bird sings.
 | Creature | Type | Category | Key Abilities | Found In |
 |----------|------|----------|--------------|----------|
 | Scorch-Wraith | Aberration | Rival | Glass-Touch, Geometric Eyes beam, Shatter on death | Act I, near Scars |
-| Mana-Leech | Monstrosity | Minion | Drain enchantment, translucent | Lux Aeterna sidequest |
+| Mana-Leech | Monstrosity | Minion | Drain enchantment, translucent | Lux Æterna sidequest |
 | Sand-Stalker | Beast | Minion | Pack tactics, vibration sense | Desert foothills |
 | Echo-Wisp | Aberration | Minion | Voice mimicry, semi-corporeal, geometric light | Near Scars of Dissonance |
 | Crystal Golem | Construct | Rival | Resonance Pulse stun, Shard Burst | Crystal Deep |
@@ -2486,7 +2486,7 @@ Somewhere, a bird sings.
 |------|--------|------------|----------|
 | **Crystal Resonance Blade** | Uncommon | Longsword with +2 damage and Sunder quality; glows near Scars | Crystal Deep |
 | **Gnomish Geo-Map** | Rare | Creates holographic 3D map of 1-mile radius when placed on stone | Crystal Deep |
-| **Mage-Weave Cloak** | Uncommon | Adds a Boost die to Stealth checks in desert/arid terrain | Lux Aeterna (crafted) |
+| **Mage-Weave Cloak** | Uncommon | Adds a Boost die to Stealth checks in desert/arid terrain | Lux Æterna (crafted) |
 | **Cold-Iron Manacles** | Uncommon | Suppress magic actions while worn | Taken from Legio Null |
 | **The Pale Ledger's Card** | Uncommon (social) | A calling card bearing the Pale Ledger's cipher. Grants one free audience with any Shadewalker contact — they assume you're working for her. Single use; the second time you flash it, she finds out. | Taken or traded from the Pale Ledger |
 | **Song-Ward Tuning Fork** | Rare | When struck, creates Short range area of Song-Ward harmony for 1 minute. Removes 1 level of Stillness Exposure per round. Characters in the area add a Boost die to checks vs. aberration abilities. 3 charges, refreshed after 8 hours rest. | Gift from Weave-Master Thornsilk |
@@ -2500,7 +2500,7 @@ Use this sheet to track the party's standing with each faction throughout the ca
 
 | Faction | Starting | After Act I | After Mountains/Mórenórë | After Arc B (Aerinórë) | After Arc C (Gearhaven) | Act III |
 |---------|----------|-------------|-------------|-------------|-------------|---------|
-| Lux Aeterna | 4 | | | | | |
+| Lux Æterna | 4 | | | | | |
 | Legio Null | 1 | 1 | 1 | 1 | 1 | |
 | Azure Hand | 3 | | | | | |
 | Lanthir Haven | 3 | 3 | | | | |
@@ -2515,9 +2515,9 @@ Use this sheet to track the party's standing with each faction throughout the ca
 
 | NPC | Role | Location | Personality in 3 Words |
 |-----|------|----------|----------------------|
-| Tajsh Thale | Relic broker/employer | Lux Aeterna | Sharp, pragmatic, warm |
-| Warden Sabel | Head of defense | Lux Aeterna | Quiet, fierce, haunted (male) |
-| Old Cira | Dream-mystic/prophet | Lux Aeterna (mobile) | Cryptic, kind, terrifying |
+| Tajsh Thale | Relic broker/employer | Lux Æterna | Sharp, pragmatic, warm |
+| Warden Sabel | Head of defense | Lux Æterna | Quiet, fierce, haunted (male) |
+| Old Cira | Dream-mystic/prophet | Lux Æterna (mobile) | Cryptic, kind, terrifying |
 | Ink | Shadewalker archivist | Mobile | Precise, quiet, dangerous |
 | Soru | Lothari guide | Desert/mobile | Calm, competent, young |
 | Commander Thalric | Legio Null hunter | Mainland | Polite, professional, remorseless |

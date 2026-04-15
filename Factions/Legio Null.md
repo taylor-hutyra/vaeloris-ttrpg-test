@@ -47,6 +47,21 @@ relationships:
   type: related
   metadata:
     description: Designed specifically to counter Inquisitor detection methods
+- target: '[[Lux Æterna]]'
+  type: enemy
+  metadata:
+    description: Commander Thalric's Desert Division is hunting for the settlement's location
+- target: '[[Warden Sabel]]'
+  type: enemy
+  period: SA:1486-
+  metadata:
+    description: Deserted rather than execute a Spark-touched family; hunted as a deserter
+- target: '[[Commander Thalric]]'
+  type: has-member
+  period: ~SA:1488-
+  metadata:
+    description: Rose through the ranks quickly on the strength of an unusual methodology — tracks magical anomalies via mundane
+      pattern-matching rather than magical detection.
 timeline:
 - period: SA:1450
   event: Formed by the Varnathi Republic to enforce the Decree of Prohibition; began systematic mage hunts

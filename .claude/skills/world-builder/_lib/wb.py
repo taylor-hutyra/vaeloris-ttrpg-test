@@ -135,8 +135,14 @@ def get_vector(vault_root: str, config: dict = None):
     global _vector_store
     if _vector_store is None:
         from wb_stores.vector_store import VectorStore
+        from wb_stores.embedding_cache import EmbeddingCacheStore
         provider = create_embedding_provider(config or {})
-        _vector_store = VectorStore(vault_root, embedding_provider=provider)
+        _vector_store = VectorStore(
+            vault_root,
+            embedding_provider=provider,
+            sqlite_store=get_sqlite(vault_root),
+            embedding_cache=EmbeddingCacheStore(vault_root),
+        )
     return _vector_store
 
 

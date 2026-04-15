@@ -8,7 +8,9 @@ Persistent storage at _meta/chroma/ relative to vault root.
 
 from __future__ import annotations
 
+import hashlib
 import os
+import struct
 from typing import Any, Optional
 
 import chromadb
@@ -17,6 +19,19 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from wb_core.frontmatter import strip_wikilink
+
+
+def _hash_text(text: str) -> str:
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
+def _vector_to_bytes(vec: list[float]) -> bytes:
+    return struct.pack(f"{len(vec)}f", *vec)
+
+
+def _bytes_to_vector(buf: bytes) -> list[float]:
+    n = len(buf) // 4
+    return list(struct.unpack(f"{n}f", buf))
 
 
 # ---------------------------------------------------------------------------
@@ -112,9 +127,17 @@ def _build_metadata(frontmatter: dict) -> dict:
 class VectorStore:
     """ChromaDB-backed vector store with hierarchical chunk support."""
 
-    def __init__(self, vault_root: str, embedding_provider=None):
+    def __init__(
+        self,
+        vault_root: str,
+        embedding_provider=None,
+        sqlite_store=None,
+        embedding_cache=None,
+    ):
         self.vault_root = vault_root
         self.embedding_provider = embedding_provider
+        self.sqlite_store = sqlite_store  # For entity_chunks ID tracking
+        self.embedding_cache = embedding_cache  # Portable (text_hash, model) -> vec
         chroma_path = os.path.join(vault_root, "_meta", "chroma")
         os.makedirs(chroma_path, exist_ok=True)
 
@@ -132,6 +155,42 @@ class VectorStore:
             metadata={"hnsw:space": "cosine"},
         )
 
+    def _embed_with_cache(self, texts: list[str]) -> list[list[float]]:
+        """Embed texts, consulting embedding_cache first.
+
+        Cache-miss texts are sent to the embedding provider in one batch, then
+        their vectors are persisted before being returned. If no cache or
+        embedding_provider is configured, falls through to the provider.
+        """
+        if not texts:
+            return []
+        if not self.embedding_provider:
+            return [[] for _ in texts]
+        if not self.embedding_cache:
+            return self.embedding_provider.embed(texts)
+
+        model = getattr(self.embedding_provider, "model", "unknown")
+        dims = self.embedding_provider.dimensions
+
+        hashes = [_hash_text(t) for t in texts]
+        cached = self.embedding_cache.get(list(set(hashes)), model)
+
+        # Figure out which texts we need to actually embed
+        miss_indices = [i for i, h in enumerate(hashes) if h not in cached]
+        miss_texts = [texts[i] for i in miss_indices]
+
+        new_entries: list[tuple[str, str, int, bytes]] = []
+        if miss_texts:
+            new_vectors = self.embedding_provider.embed(miss_texts)
+            for idx, vec in zip(miss_indices, new_vectors):
+                h = hashes[idx]
+                buf = _vector_to_bytes(vec)
+                cached[h] = buf
+                new_entries.append((h, model, dims, buf))
+            self.embedding_cache.put(new_entries)
+
+        return [_bytes_to_vector(cached[h]) for h in hashes]
+
     def set_embedding_provider(self, provider) -> None:
         self.embedding_provider = provider
 
@@ -142,7 +201,7 @@ class VectorStore:
     def upsert_entity(self, entity_id: str, text: str, metadata: dict) -> None:
         """Embed text and store with metadata (legacy flat approach)."""
         if self.embedding_provider:
-            embedding = self.embedding_provider.embed_one(text)
+            embedding = self._embed_with_cache([text])[0]
             self.collection.upsert(
                 ids=[entity_id],
                 embeddings=[embedding],
@@ -176,19 +235,34 @@ class VectorStore:
             Number of chunks stored.
         """
         if not chunks:
+            # Entity now has no chunks — still purge any orphans from before.
+            self._remove_entity_chunks(entity_id)
+            if self.sqlite_store:
+                self.sqlite_store.set_entity_chunk_ids(entity_id, [])
             return 0
-
-        # Remove old chunks for this entity
-        self._remove_entity_chunks(entity_id)
 
         # Batch embed all chunks at once for efficiency
         texts = [c.text for c in chunks]
         ids = [c.chunk_id for c in chunks]
         metadatas = [self._chunk_meta(c) for c in chunks]
 
+        # Delete any previously-tracked chunk IDs for this entity that are
+        # NOT in the new set (orphans from removed sections).
+        new_id_set = set(ids)
+        if self.sqlite_store:
+            old_ids = self.sqlite_store.get_entity_chunk_ids(entity_id)
+            orphan_ids = [i for i in old_ids if i not in new_id_set]
+            if orphan_ids:
+                try:
+                    self.chunks_collection.delete(ids=orphan_ids)
+                except Exception:
+                    pass
+        else:
+            # Fallback (no sqlite): use the legacy where-based removal.
+            self._remove_entity_chunks(entity_id)
+
         if self.embedding_provider:
-            # Batch embed
-            embeddings = self.embedding_provider.embed(texts)
+            embeddings = self._embed_with_cache(texts)
             self.chunks_collection.upsert(
                 ids=ids,
                 embeddings=embeddings,
@@ -201,6 +275,9 @@ class VectorStore:
                 documents=texts,
                 metadatas=metadatas,
             )
+
+        if self.sqlite_store:
+            self.sqlite_store.set_entity_chunk_ids(entity_id, ids)
 
         return len(chunks)
 
@@ -215,16 +292,17 @@ class VectorStore:
         return meta
 
     def _remove_entity_chunks(self, entity_id: str) -> None:
-        """Remove all chunks belonging to an entity."""
+        """Remove all chunks belonging to an entity.
+
+        Uses delete(where=...) directly — chromadb's Rust binding for
+        get(where=...) segfaults on Windows when the collection is in certain
+        states. delete(where=...) takes the same filter and is a no-op when
+        nothing matches, so we skip the probe step entirely.
+        """
         try:
-            # Get all chunk IDs that start with this entity_id
-            existing = self.chunks_collection.get(
-                where={"entity_id": entity_id},
-            )
-            if existing and existing["ids"]:
-                self.chunks_collection.delete(ids=existing["ids"])
+            self.chunks_collection.delete(where={"entity_id": entity_id})
         except Exception:
-            # Collection might be empty or entity doesn't exist
+            # Collection might be empty or entity doesn't exist — not an error.
             pass
 
     def search_chunks(

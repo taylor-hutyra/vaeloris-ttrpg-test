@@ -43,6 +43,15 @@ relationships:
   type: related
   metadata:
     description: Headquarters of the Lothari knowledge-preservation organization
+- target: '[[Lux Æterna]]'
+  type: related
+  metadata:
+    description: Receives supply chain support through Lothari intermediaries
+- target: '[[Old Cira]]'
+  type: has-member
+  period: SA:1450-
+  metadata:
+    description: Ranking operative; placed in Lux Æterna to monitor the Scar of Dissonance in the nearby foothills
 timeline:
 - period: SA:1350
   label: Formally organized by Lothari mystics to preserve knowledge during the Age of Expansion

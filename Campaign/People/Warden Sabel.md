@@ -7,16 +7,16 @@ species: Human
 born: SA:1452 (approx.)
 died: null
 birthplace: A border village in the Varnathi Highlands (destroyed, SA:1467)
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: null
-role: Head of Defense, Lux Ætterna
+role: Head of Defense, Lux Æterna
 title: Warden (self-assigned, community-acknowledged)
 relationships:
-  - target: '[[Lux Ætterna]]'
+  - target: '[[Lux Æterna]]'
     type: serves
     period: "SA:1486-"
     metadata:
-      description: "Deserted the Varnathi Legion rather than enforce the Decree; came to Lux Ætterna and built its defensive perimeter"
+      description: "Deserted the Varnathi Legion rather than enforce the Decree; came to Lux Æterna and built its defensive perimeter"
   - target: '[[Tajsh Thale]]'
     type: ally
     period: "SA:1486-"
@@ -60,7 +60,7 @@ He was eight years old when the Kingdom of the Silver Hand collapsed and the ref
 
 He joined the Varnathi Legion at eighteen, advanced steadily, and reached sergeant by his late twenties. He believed the Legion was a force for order in a fractured world. He believed this carefully, in the way people believe things when they need to.
 
-In SA:1486, he was ordered to execute a family of Spark-touched farmers: two adults, three children. The youngest child's name was Lira. He didn't know this at the time. He found out later, from the paperwork. He refused the order publicly, in front of his unit and his commander. He was court-martialed. He escaped before sentencing. He has been in Lux Ætterna since.
+In SA:1486, he was ordered to execute a family of Spark-touched farmers: two adults, three children. The youngest child's name was Lira. He didn't know this at the time. He found out later, from the paperwork. He refused the order publicly, in front of his unit and his commander. He was court-martialed. He escaped before sentencing. He has been in Lux Æterna since.
 
 ## Lira's Run
 
@@ -72,7 +72,7 @@ If the settlement is ever evacuated and the party makes it through Lira's Run, t
 
 Sabel is wanted by the Varnathi Legion as a deserter. Commander Thalric's file on him is two years old and partially inaccurate — the Legion thinks he's moving between settlements in the interior, not maintaining a defensive position. This is Sabel's most significant advantage and the thing he's most careful not to waste.
 
-If the Legio Null ever identifies Lux Ætterna, Sabel is not just a mage-protector — he's a named deserter. His capture would be a separate prize.
+If the Legio Null ever identifies Lux Æterna, Sabel is not just a mage-protector — he's a named deserter. His capture would be a separate prize.
 
 ## GM Notes
 

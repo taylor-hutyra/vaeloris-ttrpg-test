@@ -3,8 +3,19 @@
 # (regenerated from markdown via `wb.py sync`)
 # ──────────────────────────────────────────────
 _meta/wb.db
+_meta/wb.db-shm
+_meta/wb.db-wal
 _meta/wb-graph.json
 _meta/chroma/
+
+# Embedding cache is committed (text_hash → vector) so fresh clones and
+# disaster-recovery rebuilds don't re-pay the OpenAI embedding API. The
+# -shm/-wal sidecar files are transient and stay ignored.
+_meta/embedding_cache.db-shm
+_meta/embedding_cache.db-wal
+
+# Scheduled-task runtime lockfile (Claude Code harness)
+.claude/scheduled_tasks.lock
 
 # ──────────────────────────────────────────────
 # Python virtual environment & bytecode

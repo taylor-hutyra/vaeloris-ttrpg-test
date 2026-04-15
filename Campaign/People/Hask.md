@@ -7,12 +7,12 @@ species: Orkin
 born: SA:1453 (approx.)
 died: null
 birthplace: Vernath (Vael) — Orkin Quarter
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: null
 role: Alchemist; apothecary; Crystal Counter proprietor
 title: null
 relationships:
-  - target: '[[Lux Ætterna]]'
+  - target: '[[Lux Æterna]]'
     type: serves
     period: "SA:1484-"
     metadata:
@@ -47,13 +47,13 @@ He is privately furious at the world. He does not perform this fury. It lives in
 
 Hask was a respected alchemist in Vernath's Orkin Quarter for twelve years. He ran a legitimate apothecary, paid his license fees, stayed out of the political arguments that perpetually divided the Quarter. The purge that swept through Vernath in SA:1484 didn't come for him specifically. It came for a mage-touched girl who worked in his shop. He refused to hand her over. Then he ran.
 
-He arrived in Lux Ætterna with a pack of alchemical tools and nothing else. He set up the Crystal Counter in three days, had the first batch of Scorpion-Sting Tinctures ready in two weeks. He has been here for six years. He has never mentioned Vernath to anyone except Marta, once, when he thought the Lantern was empty and it wasn't.
+He arrived in Lux Æterna with a pack of alchemical tools and nothing else. He set up the Crystal Counter in three days, had the first batch of Scorpion-Sting Tinctures ready in two weeks. He has been here for six years. He has never mentioned Vernath to anyone except Marta, once, when he thought the Lantern was empty and it wasn't.
 
 ## The Eye
 
 His right eye is mage-touched. It sees the Spark in living things as a faint luminescence — a soft glow around mages, a flicker in the hands of someone with latent talent, a dark absence in Cold-Iron armor. He has been hiding this since the Decree, wearing the patch because a Orkin alchemist who can see magic is a resource the Legio Null would extract rather than arrest.
 
-In Lux Ætterna, surrounded by mages, he keeps the patch because old habits and because the knowledge feels like a private thing.
+In Lux Æterna, surrounded by mages, he keeps the patch because old habits and because the knowledge feels like a private thing.
 
 When the Ulzammar Band arrives in the settlement, if he removes the patch to examine something nearby, he sees the Band's effect on the mana field instantly: a clock-like wrongness radiating outward, slowing and thickening the ambient mana. He says: *"That thing is measuring something."*
 

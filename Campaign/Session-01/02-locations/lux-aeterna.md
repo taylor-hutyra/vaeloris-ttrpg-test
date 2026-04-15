@@ -1,4 +1,4 @@
-# Lux Aeterna
+# Lux Æterna
 
 **A hidden mage-refuge in a box canyon in the Westward Sands of Vael. Population roughly 340. Cloaked from the sky by a network of mirror-charms and a layer of enchanted silk called the Mage-Weave.**
 
@@ -73,6 +73,6 @@ The players should feel the settlement is **holding its breath.** None of these 
 
 ## GM Note — Geography in Play
 
-You do not need to track exact distances tonight. Lux Aeterna in Session 1 is a **vibe**, not a map. If a player wants to be somewhere, they are there within a minute's walk. The only location that requires navigation is the Warrens descent in Beat 7, and that is narrated, not mapped.
+You do not need to track exact distances tonight. Lux Æterna in Session 1 is a **vibe**, not a map. If a player wants to be somewhere, they are there within a minute's walk. The only location that requires navigation is the Warrens descent in Beat 7, and that is narrated, not mapped.
 
 Maps exist for later sessions. Tonight, trust the mood.

@@ -4,7 +4,7 @@
 
 ---
 
-**Day 1** — Left Lux Aeterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
+**Day 1** — Left Lux Æterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
 
 **Day 2** — Good ground. Water at a rock cistern two hours before camp. Rozen complaining about hardtack again. Told him he can eat sand. Maret laughed. She never laughs.
 
@@ -28,7 +28,7 @@ Not small bats. Torso-sized. We ran. Rozen twisted his ankle. Got out of there.
 
 **Day 8** — Strange feeling. Like someone standing behind you. Turned around twice at dinner — nothing there. Rozen said the same. Maret says it's the bat business.
 
-**Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Aeterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
+**Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Æterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
 
 **Day 10** — Rich vein. Purest I've seen. Something under it, though — dark stone that doesn't feel right. Tomas touched it. His hand went numb for an hour. Keeping that out of the official report until we're back.
 

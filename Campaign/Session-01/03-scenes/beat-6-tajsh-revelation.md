@@ -1,7 +1,7 @@
 # Beat 6 — Tajsh's Revelation
 
 **Budget: 10–15 minutes**
-**Location:** Tajsh's Office, Lux Aeterna
+**Location:** Tajsh's Office, Lux Æterna
 **Characters present:** All 5 PCs + Tajsh
 
 ---
@@ -53,7 +53,7 @@ Read this aloud. Do not paraphrase. Slow down on the pauses.
 > *"Stays here. In this room. In this wool. I don't want it on the road. Whoever is hunting things like this will find it faster if it's moving. Get me the book. I'll get us someone who can read it."*
 
 **"The dwarf and the elf — what about them?"**
-> *(He looks at them.)* *"You came out of a hole in the world. Your friend walked out of a rift that shouldn't be there. You're either part of this or you're worse than part of this. Either way, you go with them. I want you where I can see you. Welcome to Lux Aeterna."*
+> *(He looks at them.)* *"You came out of a hole in the world. Your friend walked out of a rift that shouldn't be there. You're either part of this or you're worse than part of this. Either way, you go with them. I want you where I can see you. Welcome to Lux Æterna."*
 
 ## The New Arrivals — Formal Ish
 

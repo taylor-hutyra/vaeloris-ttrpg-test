@@ -27,7 +27,7 @@ author: "Vaeloris Campaign"
 | 1 | The Scorch-Wraith combat (finish what's running) | 15–20 min | I — Desert |
 | 2 | The elf and dwarf arrive through the Scar seam | 15–20 min | I — Desert |
 | 3 | The Band, the journal, the dead crew | 15 min | I — Desert |
-| 4 | Travel back to Lux Aeterna | 5–10 min | II — City |
+| 4 | Travel back to Lux Æterna | 5–10 min | II — City |
 | 5 | The city is off — vignettes, contacts, wards | 20–25 min | II — City |
 | 6 | Tajsh reads the journal — the symbol revelation | 10–15 min | II — City |
 | 7 | The Architect — supernatural encounter + Compass | 25–30 min | III — Architect |
@@ -72,7 +72,7 @@ The session moves from **violence → wonder → unease → awe.**
 
 # PART I — THE DESERT
 
-**Runtime: ~50 minutes.** Beats 1–3. Location: the mining camp, three days east of Lux Aeterna.
+**Runtime: ~50 minutes.** Beats 1–3. Location: the mining camp, three days east of Lux Æterna.
 
 ---
 
@@ -264,7 +264,7 @@ He does not know what this means. Let the player decide what to do with that.
 
 ### If Reading Aloud
 
-> **Day 1** — Left Lux Aeterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
+> **Day 1** — Left Lux Æterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
 >
 > **Day 2** — Good ground. Water at a rock cistern two hours before camp. Rozen complaining about hardtack again. Told him he can eat sand. Maret laughed. She never laughs.
 >
@@ -286,7 +286,7 @@ He does not know what this means. Let the player decide what to do with that.
 >
 > **Day 8** — Strange feeling. Like someone standing behind you. Turned around twice at dinner — nothing there. Rozen said the same. Maret says it's the bat business.
 >
-> **Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Aeterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
+> **Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Æterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
 >
 > **Day 10** — Rich vein. Purest I've seen. Something under it, though — dark stone that doesn't feel right. Tomas touched it. His hand went numb for an hour. Keeping that out of the official report until we're back.
 >
@@ -331,7 +331,7 @@ Let them decide. Burying takes an hour. Leaving them earns a quiet grief beat on
 
 # PART II — THE CITY
 
-**Runtime: ~40 minutes.** Beats 4–6. Location: return road → Lux Aeterna.
+**Runtime: ~40 minutes.** Beats 4–6. Location: return road → Lux Æterna.
 
 ---
 
@@ -351,7 +351,7 @@ Quiet beat. Use it to let new and returning PCs exchange a line or two of backst
 
 ### Read-Aloud — Arrival
 
-> *The sun has been down an hour by the time you reach the slot canyon. You know the way in. Two sandstone pillars, narrow walls, a quarter-mile of stone — and then the lanterns bloom out of the dark and Lux Aeterna is there, waiting for you.*
+> *The sun has been down an hour by the time you reach the slot canyon. You know the way in. Two sandstone pillars, narrow walls, a quarter-mile of stone — and then the lanterns bloom out of the dark and Lux Æterna is there, waiting for you.*
 >
 > *Except it isn't, exactly. The lanterns are flickering wrong. One, steady-steady, flicker, steady, flicker-flicker. The market is quieter than it should be. Someone is humming a single sustained note from the mouth of the Warrens.*
 
@@ -527,7 +527,7 @@ Tajsh has read the journal. He has not slept. The Band is on his desk, wrapped i
 > *"Stays here. In this room. In this wool. I don't want it on the road. Whoever is hunting things like this will find it faster if it's moving. Get me the book. I'll get us someone who can read it."*
 
 **"The dwarf and the elf — what about them?"**
-> *(He looks at them.) "You came out of a hole in the world. Your friend walked out of a rift that shouldn't be there. You're either part of this or you're worse than part of this. Either way, you go with them. I want you where I can see you. Welcome to Lux Aeterna."*
+> *(He looks at them.) "You came out of a hole in the world. Your friend walked out of a rift that shouldn't be there. You're either part of this or you're worse than part of this. Either way, you go with them. I want you where I can see you. Welcome to Lux Æterna."*
 
 ### The Ledger
 
@@ -577,7 +577,7 @@ At the deepest, oldest bend of the Warrens — a roughly circular stone room, tw
 
 ### Read-Aloud — Descent
 
-> *The tunnel narrows as you go. The walls start to feel older than the rest of the settlement — because they are. Lux Aeterna was built over someone else's ruin. You've always known that. You just haven't had a reason to care, until tonight.*
+> *The tunnel narrows as you go. The walls start to feel older than the rest of the settlement — because they are. Lux Æterna was built over someone else's ruin. You've always known that. You just haven't had a reason to care, until tonight.*
 >
 > *The air cools. The torch flame flickers slower. Slower. Then it stops flickering entirely. It is still burning. It just isn't moving.*
 >
@@ -744,7 +744,7 @@ Go around the table. Each player, one sentence. No discussion, no follow-ups. Wh
 |---|---|
 | All PCs, base | **20 XP** |
 | Bonus | +5 XP to whoever drove Beat 6 or 7 dialogue |
-| Lux Aeterna reputation | +1 if the Petra scene was handled well |
+| Lux Æterna reputation | +1 if the Petra scene was handled well |
 
 ---
 ---
@@ -759,7 +759,7 @@ Go around the table. Each player, one sentence. No discussion, no follow-ups. Wh
 
 **Role:** Journal catalyst. Mission-giver. Appears Beats 5–6.
 
-**Thumbnail:** Human male, mid-50s, weathered. Eyes that have read too many contracts. Former Shadewalker. Left the Guild voluntarily on bad terms. Runs Lux Aeterna's relic-hunting operation. Sharp, pragmatic, morally flexible. Genuinely cares about the settlement; will still cut a corner to keep it breathing.
+**Thumbnail:** Human male, mid-50s, weathered. Eyes that have read too many contracts. Former Shadewalker. Left the Guild voluntarily on bad terms. Runs Lux Æterna's relic-hunting operation. Sharp, pragmatic, morally flexible. Genuinely cares about the settlement; will still cut a corner to keep it breathing.
 
 **Voice:** Short sentences. Dry. Says exactly what he means, except when he doesn't want you to know he's afraid — then he says a little more than he needs to.
 
@@ -909,13 +909,13 @@ A hidden mage-refuge in a box canyon in the Westward Sands of Vael. Population ~
 - **The Vault.** Reinforced stone room beneath Tajsh's office. Where the Band is briefly stored. Cira sits outside tonight.
 - **The Warrens.** Pre-settlement tunnels. Some residents live here. At the deepest, oldest bend: a chamber no one has had reason to use.
 
-**Geography in play:** you do not need to track distances tonight. Lux Aeterna in Session 1 is a **vibe**, not a map. If a player wants to be somewhere, they are there within a minute's walk. The only navigation that matters is the Warrens descent in Beat 7, and that is narrated.
+**Geography in play:** you do not need to track distances tonight. Lux Æterna in Session 1 is a **vibe**, not a map. If a player wants to be somewhere, they are there within a minute's walk. The only navigation that matters is the Warrens descent in Beat 7, and that is narrated.
 
 ---
 
 ## THE MINING CAMP
 
-Half-circle of tents in the lee of a rocky outcrop, a mile east of a low dark hill containing the First Age ruin of Sorath. Three days' ride from Lux Aeterna. Torvin's crew worked here six days before the seam opened.
+Half-circle of tents in the lee of a rocky outcrop, a mile east of a low dark hill containing the First Age ruin of Sorath. Three days' ride from Lux Æterna. Torvin's crew worked here six days before the seam opened.
 
 **Four zones that matter:**
 
@@ -1067,7 +1067,7 @@ Small brass pocket-compass. Engraved *"Come home."* From Torvin's wife Esha. Sti
 
 > *A leather-bound book, sand-stained, brass clasp. Found in the vest pocket of Torvin Dast, foreman of the mining crew.*
 
-**Day 1** — Left Lux Aeterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
+**Day 1** — Left Lux Æterna at first light. Six of us. Tajsh wants the vein scouted in ten days or we don't get paid the bonus. Rozen is already complaining about his boots.
 
 **Day 2** — Good ground. Water at a rock cistern two hours before camp. Rozen complaining about hardtack again. Told him he can eat sand. Maret laughed. She never laughs.
 
@@ -1087,7 +1087,7 @@ Small brass pocket-compass. Engraved *"Come home."* From Torvin's wife Esha. Sti
 
 **Day 8** — Strange feeling. Like someone standing behind you. Turned around twice at dinner — nothing there. Rozen said the same. Maret says it's the bat business.
 
-**Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Aeterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
+**Day 9** — Tomas broke a tooth on hardtack. I owe him a drink in Lux Æterna if we make it back in time for the Lantern's Wednesday stew. He says I owe him two drinks. I said one. We are agreed on one.
 
 **Day 10** — Rich vein. Purest I've seen. Something under it, though — dark stone that doesn't feel right. Tomas touched it. His hand went numb for an hour. Keeping that out of the official report until we're back.
 
@@ -1182,7 +1182,7 @@ You are a tank. You carry the weight at the front. Your shoulders know the shape
 
 ### Why You Were in the Desert
 
-You took work with a relic-hunting crew out of **Lux Aeterna** — a hidden settlement in the Westward Sands, a refuge for people the Mage-Purge Wars have no use for. The foreman's name is **Torvin Dast.** He is a fair man. He hired you because he needed a pick-man who could cut straight. You liked him.
+You took work with a relic-hunting crew out of **Lux Æterna** — a hidden settlement in the Westward Sands, a refuge for people the Mage-Purge Wars have no use for. The foreman's name is **Torvin Dast.** He is a fair man. He hired you because he needed a pick-man who could cut straight. You liked him.
 
 You had been with the crew for six days when it happened.
 

@@ -2,6 +2,22 @@
 
 AI-powered world-building toolkit. Everything stored in Markdown with YAML frontmatter.
 
+## Working Scope (Campaign vs. Canonical World)
+
+**All active work happens inside `Campaign/`.** The canonical world — root-level `World/`, `People/`, `Factions/`, `Religions/`, `Species/`, `Events/`, `Magic/`, `Technology/`, `Items/`, `Governments/`, `Lore/`, `Stories/` — is frozen reference material. The campaign is *based off* the canonical world but is **not** being merged into it until the campaign concludes.
+
+- New entities, session prep, NPCs, and locations for the active campaign go under `Campaign/` mirroring the root structure (e.g. `Campaign/World/Vael/...`, `Campaign/People/...`, `Campaign/Factions/...`).
+- Do **not** create or modify files in root-level canonical folders unless the user explicitly requests a canonical change.
+- Do **not** create entity files at the repo root (e.g. `/Lux Æterna.md`). Campaign entities live under `Campaign/`.
+- Wikilinks from Campaign files **may** reference canonical entities (e.g. `[[Lothari Desert]]`) — that's expected read-only reference, not a merge.
+
+### Markdown formatting & tooling
+
+We use Obsidian-style wikilinks (`[[Name]]`) and YAML frontmatter for convenience, but **we are not using Obsidian** — the vault must work with plain filesystem tooling first, with future Obsidian compatibility. Practical implications:
+
+- Wikilinks resolve by **filename** (Obsidian) or **frontmatter `name`** (wb.py). For a folder with rich content, use the folder-note pattern: `Foo/Foo.md` rather than `Foo/_index.md`, so `[[Foo]]` resolves in both worlds.
+- Do not rely on Obsidian-only plugins (Dataview, folder-note, etc.) for anything load-bearing.
+
 ## Ground Rules
 
 1. **Existing entity files are canonical truth.** Never contradict established lore. If unsure whether something is established, query or read the entity first.

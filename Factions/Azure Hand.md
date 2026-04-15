@@ -72,6 +72,10 @@ relationships:
   period: SA:440-
   metadata:
     description: Secretive house profiting from smuggling, espionage, and gray-market trade
+- target: '[[Lux Æterna]]'
+  type: ally
+  metadata:
+    description: Pragmatic supply and passage cooperation; no formal alliance
 timeline:
 - period: SA:1100
   label: Exposed Golden Compass embezzlement, triggering the Guild Wars

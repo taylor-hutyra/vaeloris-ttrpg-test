@@ -1,15 +1,15 @@
 ---
-name: Lux Ætterna Map Definitions
-description: Self-contained AI generation prompts and spatial layout for all Lux Ætterna maps.
+name: Lux Æterna Map Definitions
+description: Self-contained AI generation prompts and spatial layout for all Lux Æterna maps.
 tags: [maps, campaign, lux-aeterna, broken-harmonies]
 created: 2026-04-08
 modified: 2026-04-08
 ---
-# Lux Ætterna — Map Definitions
+# Lux Æterna — Map Definitions
 
 Self-contained map specs and AI prompts. Each prompt is copy-paste ready.
 
-**What is Lux Ætterna?** A hidden refugee settlement of ~400 people built into a deep, narrow box canyon in arid desert foothills. The canyon is naturally difficult to find — a narrow dogleg entrance, high inward-leaning walls, deep permanent shade — and is further concealed by carved ward-glyphs (the "Stitching") that create an aversion field, making anyone approaching without knowledge of the settlement feel compelled to look elsewhere and keep walking. Dwellings are carved into the cliff faces at multiple levels, connected by ladders and rope-and-plank walkways. The canyon floor holds the market. Cook-fire smoke vents through natural chimney cracks widened with picks.
+**What is Lux Æterna?** A hidden refugee settlement of ~400 people built into a deep, narrow box canyon in arid desert foothills. The canyon is naturally difficult to find — a narrow dogleg entrance, high inward-leaning walls, deep permanent shade — and is further concealed by carved ward-glyphs (the "Stitching") that create an aversion field, making anyone approaching without knowledge of the settlement feel compelled to look elsewhere and keep walking. Dwellings are carved into the cliff faces at multiple levels, connected by ladders and rope-and-plank walkways. The canyon floor holds the market. Cook-fire smoke vents through natural chimney cracks widened with picks.
 
 ---
 
@@ -53,7 +53,7 @@ Small ruin icon ~1/4 mile east labeled "Ruin of Sorath."
 ### Prompt
 
 ```
-Fantasy cartography city map in Mike Schley style, "Lux Ætterna," bird's-eye view. Hand-drawn linework on aged parchment background. A deep narrow box canyon in arid desert foothills, 300 feet long and 80-120 feet wide, with high vertical sandstone cliff walls that lean slightly inward, shown with heavy hatching. The canyon is widest at center, narrowing at north (sheer cliff face with cave arch openings at base) and south (narrow dogleg entrance crack between rock faces, no direct line of sight in).
+Fantasy cartography city map in Mike Schley style, "Lux Æterna," bird's-eye view. Hand-drawn linework on aged parchment background. A deep narrow box canyon in arid desert foothills, 300 feet long and 80-120 feet wide, with high vertical sandstone cliff walls that lean slightly inward, shown with heavy hatching. The canyon is widest at center, narrowing at north (sheer cliff face with cave arch openings at base) and south (narrow dogleg entrance crack between rock faces, no direct line of sight in).
 
 Inside the canyon: a settlement built vertically into the cliff faces. Ground-level market with tent canopies, lean-to structures, and stalls clustered around a central stone well in the widest section. Above the market, carved dwellings in the cliff face at two and three levels — small doorways and windows cut into the rock, connected by ladders and rope-and-plank walkways strung between the walls. A broad natural rock overhang shelters the west side of the market floor. The tallest freestanding building is a two-story tavern against the east wall. A small glowing niche shrine carved into the east canyon wall near the south entrance. At the north end, 3-4 dark cave arch openings at the cliff base labeled "The Warrens." On the canyon rim: a signal point on the east rim with a small flag symbol, and two subtle camouflaged observation shelters. Faint carved glyph patterns visible on the upper canyon walls.
 
@@ -93,7 +93,7 @@ Above the ground-floor shops on both walls: carved cliff-dwellings at second and
 ### Prompt
 
 ```
-Fantasy cartography district map in Mike Schley style, "Veiled Market" district of Lux Ætterna. Hand-drawn linework on aged parchment. Top-down view of a canyon-floor market roughly 180 by 120 feet, framed by vertical sandstone cliff walls on east and west sides with heavy hatching. A broad natural rock overhang shelters the west half of the market floor.
+Fantasy cartography district map in Mike Schley style, "Veiled Market" district of Lux Æterna. Hand-drawn linework on aged parchment. Top-down view of a canyon-floor market roughly 180 by 120 feet, framed by vertical sandstone cliff walls on east and west sides with heavy hatching. A broad natural rock overhang shelters the west half of the market floor.
 
 Individual building footprints keyed and numbered: (1) A small shrine niche carved into the east canyon wall near the south entrance, warm glow from a candle — "The Grey Flame." (2) A woven mat and small awning under a jutting rock shelf on the west wall, south end — "Cira's Corner." (3) A central stone well with rope-and-bucket crossbar, 8 feet diameter, open ground around it — "The Central Well." (4) A lean-to shop under the overhang against the west wall with front door, barred window, cluttered interior, and a locked back room carved into the rock — "Tajsh's Vault." (5) A two-story timber-and-stone tavern against the east wall, the tallest freestanding structure, with canvas awning and three upstairs windows — "The Dusty Lantern." (6) A counter-front apothecary shop on the east wall with jars and bottles on shelves — "The Crystal Counter." (7) A cramped tailor's shop against the west wall with interior extending into a shallow cave — "Needle & Thread." (8) An open-front smithy against the west wall with chimney and anvil — "Iron Shelf."
 
@@ -131,7 +131,7 @@ Main passage runs north, 8–12 feet wide, branching east and west with natural 
 ### Prompt
 
 ```
-Fantasy cartography district map in Mike Schley style, "The Warrens" underground residential caves of Lux Ætterna. Hand-drawn linework on aged parchment. Top-down plan view of a natural cave network approximately 200 feet deep and 150 feet wide, carved into a cliff face.
+Fantasy cartography district map in Mike Schley style, "The Warrens" underground residential caves of Lux Æterna. Hand-drawn linework on aged parchment. Top-down plan view of a natural cave network approximately 200 feet deep and 150 feet wide, carved into a cliff face.
 
 South edge: three cave arch openings in a cliff face, the central one largest at 15 feet wide, with deep umber shadow inside transitioning to amber torchlight deeper in. A main corridor runs north from the entrances with natural curves, 8-12 feet wide, branching east and west.
 
@@ -173,7 +173,7 @@ Desert hills, scrub, rocky outcrops, dry wash channels. Terrain should show this
 ### Prompt
 
 ```
-Fantasy cartography district map in Mike Schley style, "The Outlook" defensive perimeter of Lux Ætterna. Hand-drawn linework on aged parchment. Top-down view of a canyon rim and surrounding desert hills within 500 feet of the canyon edge. The canyon itself is an elongated north-south void in the center of the map with cliff edge hatching inward and a faint amber glow from lantern-light below.
+Fantasy cartography district map in Mike Schley style, "The Outlook" defensive perimeter of Lux Æterna. Hand-drawn linework on aged parchment. Top-down view of a canyon rim and surrounding desert hills within 500 feet of the canyon edge. The canyon itself is an elongated north-south void in the center of the map with cliff edge hatching inward and a faint amber glow from lantern-light below.
 
 Keyed locations on the rim: (1) "Signal Rock" — a prominent rock outcropping on the east rim near the north end with a small signal-glass symbol, highest point with clear eastern sightline. (2) "Observation Post East" — a camouflaged shelter midway along the east rim, sand-colored canvas barely visible against terrain, with a slit window facing east. (3) "Observation Post West" — matching camouflaged shelter on the west rim south of center, slit window facing west and south. (4) "Warden's Post" — an exposed rock outcropping on the south rim overlooking the canyon entrance and desert approach, no structure, just a lookout position. (5) "Bolt Hole Entrance" — a concealed tunnel opening as a dotted arch on the south canyon wall west side, with a faint dotted path curving southeast down the hillside to a dry riverbed labeled "Lira's Run."
 

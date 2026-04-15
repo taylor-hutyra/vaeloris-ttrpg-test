@@ -2,33 +2,51 @@
 wb-type: person
 wb-id: marta-dustborn
 name: Marta Dustborn
-aliases: ["Marta", "The Lantern-Keeper"]
+aliases:
+- Marta
+- The Lantern-Keeper
 species: Human
 born: SA:1455 (approx.)
 died: null
 birthplace: Argentum (Vael)
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: null
 role: Proprietor, The Dusty Lantern; community anchor
 title: null
 relationships:
-  - target: '[[Lux Ætterna]]'
-    type: serves
-    period: "SA:1480-"
-    metadata:
-      description: "One of the settlement's original residents; the social glue that holds the community together"
+- target: '[[Lux Æterna]]'
+  type: serves
+  period: SA:1480-
+  metadata:
+    description: One of the settlement's original residents; the social glue that holds the community together
+- target: '[[Dusty Lantern]]'
+  type: controls
+  period: SA:1485-
+  metadata:
+    description: Owner. Cook. Effective sole proprietor. Was a refugee once; the Lantern is what she built after.
 campaign-notes:
-  role: "The settlement's heart and memory; emotional anchor; the person who knows everyone's name"
-  voice: "Sharp-tongued but warm. Calls everyone 'love' until they've earned a name. Doesn't ask questions that aren't her business. Asks exactly the right questions that are."
-  secret: "Keeps a register — a small leather-bound journal — with the name of every person who has ever stayed in the Lantern and the date they left. She checks the register when someone is late returning. She never tells anyone she's checking."
-  want: "For this settlement to last. Specifically: for the people she's watched grow here to have somewhere safe to grow old."
-  fear: "That she'll outlive the community — that she'll be the last one left in an empty canyon."
+  role: The settlement's heart and memory; emotional anchor; the person who knows everyone's name
+  voice: Sharp-tongued but warm. Calls everyone 'love' until they've earned a name. Doesn't ask questions that aren't her
+    business. Asks exactly the right questions that are.
+  secret: Keeps a register — a small leather-bound journal — with the name of every person who has ever stayed in the Lantern
+    and the date they left. She checks the register when someone is late returning. She never tells anyone she's checking.
+  want: 'For this settlement to last. Specifically: for the people she''s watched grow here to have somewhere safe to grow
+    old.'
+  fear: That she'll outlive the community — that she'll be the last one left in an empty canyon.
   quest-hooks:
-    - "Best source of settlement rumors and community pulse; a conversation at the Lantern can reveal half the Rumor Table"
-    - "The pre-adventure bonding micro-scene: she asks each player their name and writes it in her register"
-    - "Notices the suspicious stranger (Tension Hook #6) before anyone else; may ask the party to quietly find out who they are"
-    - "During the Act I evacuation, she is loading bread and supplies onto her back when the party finds her; she has 'forgotten' her register and tries to go back for it"
-tags: [person, npc, campaign, tavern-keeper, community, broken-harmonies]
+  - Best source of settlement rumors and community pulse; a conversation at the Lantern can reveal half the Rumor Table
+  - 'The pre-adventure bonding micro-scene: she asks each player their name and writes it in her register'
+  - 'Notices the suspicious stranger (Tension Hook #6) before anyone else; may ask the party to quietly find out who they
+    are'
+  - During the Act I evacuation, she is loading bread and supplies onto her back when the party finds her; she has 'forgotten'
+    her register and tries to go back for it
+tags:
+- person
+- npc
+- campaign
+- tavern-keeper
+- community
+- broken-harmonies
 created: 2026-04-08
 modified: 2026-04-08
 ---
@@ -48,7 +66,7 @@ The Dusty Lantern's one rule — no faction business inside — is enforced not 
 
 Marta fled Argentum eleven years ago when the Silver Lord's purges swept through the lower city. She wasn't a mage. She sheltered one. The distinction stopped mattering when the Legio Null came for her neighbor and she didn't report it. She had a day's warning and a contact with the Azure Hand, and she ran south with a sack of bread recipes and a shovel.
 
-She was one of the original twenty-three residents of the camp that became Lux Ætterna. She has watched it grow from twenty-three people sharing two tents to 400 people with a market and a school and a well. She considers this the greatest thing she has ever done. She has never said this to anyone. The register is how she shows it.
+She was one of the original twenty-three residents of the camp that became Lux Æterna. She has watched it grow from twenty-three people sharing two tents to 400 people with a market and a school and a well. She considers this the greatest thing she has ever done. She has never said this to anyone. The register is how she shows it.
 
 ## The Register
 
@@ -58,6 +76,6 @@ During the Act I evacuation, Marta has her pack ready and is doing everything ri
 
 ## GM Notes
 
-Marta is the settlement's emotional core. She should be the NPC who makes players feel most at home in Lux Ætterna, which means the cost of leaving — and the cost of losing what they're leaving — is partially about her. The pre-adventure micro-scene where she asks for their names and writes them down is load-bearing. Don't skip it. Don't rush it.
+Marta is the settlement's emotional core. She should be the NPC who makes players feel most at home in Lux Æterna, which means the cost of leaving — and the cost of losing what they're leaving — is partially about her. The pre-adventure micro-scene where she asks for their names and writes them down is load-bearing. Don't skip it. Don't rush it.
 
 Let her be competent at practical things: she runs a complex logistics operation every day, she manages multiple interlocking social relationships, she maintains the neutral zone under real pressure. She is not just warmth. She is warmth that has survived eleven years of this.

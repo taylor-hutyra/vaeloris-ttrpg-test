@@ -21,21 +21,30 @@ relationships:
 - target: '[[Vael]]'
   type: located-in
   metadata:
-    description: "Southern desert region of the mainland continent"
+    description: Southern desert region of the mainland continent
 - target: '[[Desertborn Confederacy]]'
   type: controlled-by
-  period: "SA:1300-"
+  period: SA:1300-
   metadata:
-    description: "United under the Lothari Mystics as the Desertborn Confederacy"
+    description: United under the Lothari Mystics as the Desertborn Confederacy
 - target: '[[Silent Network]]'
   type: related
   metadata:
-    description: "Headquarters of the Lothari knowledge-preservation organization"
+    description: Headquarters of the Lothari knowledge-preservation organization
+- target: '[[Lux Æterna]]'
+  type: contains
+  metadata:
+    description: Concealed in box canyons at the foothills between the Lothari Desert and the Varnathi Highlands
+- target: '[[Old Cira]]'
+  type: native
+  metadata:
+    description: Lothari mystic tradition; desert-trained dream-reading
 timeline:
-- period: "SA:1300"
-  event: "Nomadic tribes unite under the Lothari Mystics as the Desertborn Confederacy, seizing control of the overland Silk Road"
-- period: "SA:1350"
-  event: "The Silent Network is formally organized to archive histories, artifacts, and myths in hidden desert vaults"
+- period: SA:1300
+  event: Nomadic tribes unite under the Lothari Mystics as the Desertborn Confederacy, seizing control of the overland Silk
+    Road
+- period: SA:1350
+  event: The Silent Network is formally organized to archive histories, artifacts, and myths in hidden desert vaults
 tags:
 - place
 - desert

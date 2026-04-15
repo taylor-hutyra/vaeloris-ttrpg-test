@@ -4,7 +4,7 @@
 
 > **Setting:** SA:1490 — The Arcane Revolution epoch
 > **Levels:** 1–12 (three acts)
-> **Players:** Party of mage-touched outcasts working for a relic broker in Lux Aeterna
+> **Players:** Party of mage-touched outcasts working for a relic broker in Lux Æterna
 > **Tone:** Desperate hope in a persecuted world; moral complexity; trust and betrayal; the cost of conviction
 
 ---
@@ -66,7 +66,7 @@ The campaign takes place 89 years after Melek the Grey first demonstrated mortal
 ### The Core Emotional Arc
 
 **Act I — Desperation and Hope**
-The players are hunted, persecuted, expendable. They find purpose in protecting Lux Aeterna. Then a being of light appears and tells them they matter — that their suffering has meaning. For people the world has told are monsters, this is intoxicating.
+The players are hunted, persecuted, expendable. They find purpose in protecting Lux Æterna. Then a being of light appears and tells them they matter — that their suffering has meaning. For people the world has told are monsters, this is intoxicating.
 
 **Act II — The Cost of Doing Right**
 Each crown piece they retrieve forces an impossible moral choice. Every "victory" hurts someone. The players build real relationships with people who depend on them — Gearhaven's desperate founders, the pirate captain who shows them honor among thieves, the Waldkyn elder who teaches them what balance really means. The Architect appears periodically, always reassuring, always right about the danger, always a little too interested in their progress.
@@ -136,7 +136,7 @@ Each piece embodies one of Kael'Zorai's four domains:
 
 | Piece | Domain | Current Location | Containment |
 |-------|--------|-----------------|-------------|
-| **The Ulzammar Band** | Time | Desert foothills near Lux Aeterna (in a First Age ruin) | Buried in ancient stone, stabilized by the Lothari's dream-magic and the desert's natural mana scarcity |
+| **The Ulzammar Band** | Time | Desert foothills near Lux Æterna (in a First Age ruin) | Buried in ancient stone, stabilized by the Lothari's dream-magic and the desert's natural mana scarcity |
 | **The Brass Heart** | Systematization | Gearhaven, Novaterra (discovered during excavation of Rust-Water Bay) | Being unknowingly used as a power source — its energy feeds the city's prototype Mana-Pylon network |
 | **The Leviathan's Eye** | Control | Serpent's Tooth, Fractured Isles (set into the lighthouse) | Submerged in deep water, anchored by the weight of the ocean and the chaotic energy of the reefs |
 | **The Singing Shard** | Silence | Whispering Vales, mainland (within a sacred grove) | Woven into the Waldkyn Song-Wards, its energy of silence balanced by the constant harmonic singing |
@@ -177,12 +177,12 @@ Regardless of choice, the broker wants the Band. It's clearly valuable. And word
 
 ### Session 2-3: "The Architect Appears"
 
-**The Return to Lux Aeterna:**
-The players return to Lux Aeterna with whatever they salvaged. The hidden city is described in detail: a subterranean settlement veiled by Mage-Weave silk (an enchanted canopy that bends light, concealing the city from aerial Legio Null scouts). The Veiled Market buzzes with black-market commerce. Mana-Crystals serve as currency. Exhausted mages work rotating shifts to maintain the mirror-charms.
+**The Return to Lux Æterna:**
+The players return to Lux Æterna with whatever they salvaged. The hidden city is described in detail: a subterranean settlement veiled by Mage-Weave silk (an enchanted canopy that bends light, concealing the city from aerial Legio Null scouts). The Veiled Market buzzes with black-market commerce. Mana-Crystals serve as currency. Exhausted mages work rotating shifts to maintain the mirror-charms.
 
 Key NPCs introduced:
-- **Rennick Thale** — the relic broker. Sharp, pragmatic, morally flexible. Genuinely cares about Lux Aeterna's survival but will cut corners to ensure it. Recognizes the Band as something extraordinary.
-- **Warden Sabel** — head of Lux Aeterna's defense. Former Varnathi soldier who deserted rather than enforce the Decree. Haunted by guilt. Responsible for the mirror-charm rotation.
+- **Rennick Thale** — the relic broker. Sharp, pragmatic, morally flexible. Genuinely cares about Lux Æterna's survival but will cut corners to ensure it. Recognizes the Band as something extraordinary.
+- **Warden Sabel** — head of Lux Æterna's defense. Former Varnathi soldier who deserted rather than enforce the Decree. Haunted by guilt. Responsible for the mirror-charm rotation.
 - **Old Cira** — an elderly Lothari dream-mystic who wandered into the city years ago. She sits in the Market and trades fortunes for food. She will be the first to sense something wrong about the Band — and later, about the Architect.
 
 **The Broker's Plan:**
@@ -191,7 +191,7 @@ Rennick wants to study the Band. He hires a Shadewalker contact to identify it. 
 This should alarm the players. Ink warns that possessing this artifact will attract attention — from things far worse than the Legio Null.
 
 **The Architect's Arrival:**
-That night, the mirror-charms flicker. For a single heartbeat, Lux Aeterna is visible from the sky. Then the charms stabilize — but something has entered the city.
+That night, the mirror-charms flicker. For a single heartbeat, Lux Æterna is visible from the sky. Then the charms stabilize — but something has entered the city.
 
 The players encounter the Architect in the tunnels beneath the Veiled Market. It appears as a tall figure of cold, geometric light — crystal facets rotating slowly around a humanoid core. Its voice resonates with harmonic certainty. It addresses each player by name.
 
@@ -214,12 +214,12 @@ The Architect gives them the **Resonance Compass** — a crystalline device that
 - It never once mentions the people who would be affected by removing the pieces from their current locations
 
 **Why the Players Agree:**
-Because the alternative is terrifying. The Architect accurately predicts that more aberrations will come — drawn to the Band's resonance. If the players do nothing, Lux Aeterna becomes a beacon for every Scar-spawned horror in the region. The city WILL fall.
+Because the alternative is terrifying. The Architect accurately predicts that more aberrations will come — drawn to the Band's resonance. If the players do nothing, Lux Æterna becomes a beacon for every Scar-spawned horror in the region. The city WILL fall.
 
 ### Session 3-4: "The Escape"
 
 **The Legio Null:**
-The mirror-charm flicker wasn't just noticed by the Architect. A Legio Null patrol — a squad of Cold-Iron-armored inquisitors mounted on sand-skimmers — detected the anomaly. They're converging on Lux Aeterna's approximate location.
+The mirror-charm flicker wasn't just noticed by the Architect. A Legio Null patrol — a squad of Cold-Iron-armored inquisitors mounted on sand-skimmers — detected the anomaly. They're converging on Lux Æterna's approximate location.
 
 **The Dilemma:**
 The players must flee the city AND draw the Legio Null away. Warden Sabel proposes a desperate plan: the players take the Band (which is causing the charm instability) and lead the Legio Null on a chase through the desert while the city relocates its silk canopy to an emergency fallback position.
@@ -234,7 +234,7 @@ Kael guides them to a hidden Lothari waystation, then to a coastal smuggler's co
 The Azure Hand captain, **Vesper Moraine**, demands payment: the players must carry a sealed package to a contact in one of the three Act II destinations (DM's choice based on where the Compass points most strongly). This gives the players a concrete reason to visit their first Act II location and introduces the Azure Hand as a recurring faction.
 
 **Act I Ends With:**
-The players on a ship, watching the mainland recede. Behind them, Lux Aeterna survives — but barely. They carry the Band, the Compass, and the Architect's mission. They are hunted by the Legio Null, indebted to Mirennian smugglers, and guided by a being of light they have no reason to distrust.
+The players on a ship, watching the mainland recede. Behind them, Lux Æterna survives — but barely. They carry the Band, the Compass, and the Architect's mission. They are hunted by the Legio Null, indebted to Mirennian smugglers, and guided by a being of light they have no reason to distrust.
 
 Yet.
 
@@ -483,7 +483,7 @@ The players' choices in Act II determine what help arrives:
 - **Pirate Confederacy (if allied):** Zara sends ships up the coast with ballistae and Wind-Shaped gales. They can't reach the Barren Hills directly, but they can evacuate civilians from the wave's path AND provide a naval bombardment distraction.
 - **Waldkyn (if allied):** Kethra leads a Song-Ward choir. Their harmonics can temporarily push back the Fifth Harmony wave, creating safe corridors for the assault and — critically — can disrupt the Crown's resonance at close range.
 - **Orkin Whisper-Shamans:** Grukka and her shamans join regardless of the players' earlier choices (the Orkin have the most personal stake — this is a perversion of their creator). They provide ground support, guerrilla warfare expertise in the Barren Hills, and spiritual insight into the Crown's nature.
-- **Lux Aeterna:** Warden Sabel leads a strike team of battle-mages. They're exhausted, under-equipped, and terrified. They came anyway.
+- **Lux Æterna:** Warden Sabel leads a strike team of battle-mages. They're exhausted, under-equipped, and terrified. They came anyway.
 
 **Phase 2: The Assault on the Cathedral**
 The floating cathedral must be breached. Its defenses include:
@@ -535,7 +535,7 @@ The Fifth Harmony wave's brief expansion leaves lasting marks:
 
 The Legio Null, witnessing the wave's effects, are shaken. Some begin to question whether magic is really the greatest threat. (This plants seeds for the eventual end of the Mage-Purge Wars, centuries later.)
 
-Lux Aeterna survives. The players are heroes — not publicly, not officially, but in the hearts of the people they saved. The relic broker buys them drinks and doesn't charge for the first round.
+Lux Æterna survives. The players are heroes — not publicly, not officially, but in the hearts of the people they saved. The relic broker buys them drinks and doesn't charge for the first round.
 
 Old Cira smiles and says: "The wind writes where we forget. But today, even the wind will remember you."
 
@@ -547,7 +547,7 @@ Old Cira smiles and says: "The wind writes where we forget. But today, even the 
 |-----|------|-----|-------------------|
 | **Zel'Khorath / The Architect** | BBEG | All | Trust, betrayal, the seduction of certainty |
 | **Rennick Thale** | Relic Broker | I, III | Pragmatism, moral flexibility, loyalty to place over principle |
-| **Warden Sabel** | Defender of Lux Aeterna | I, III | Guilt, redemption, the cost of desertion |
+| **Warden Sabel** | Defender of Lux Æterna | I, III | Guilt, redemption, the cost of desertion |
 | **Old Cira** | Lothari Dream-Mystic | I, II, III | Wisdom, foreshadowing, cultural bridge |
 | **Kael** | Lothari Guide | I | Youth, hope, the desert as teacher |
 | **Ink** | Shadewalker Agent | I | Information as weapon, the underground economy |
@@ -604,12 +604,12 @@ The worst-case scenario (all three arcs resolved through theft/betrayal) is STIL
 
 | Entity | Type | Canon Status |
 |--------|------|-------------|
-| **Lux Aeterna** | Place (hidden city) | New — becomes canonical settlement in Lothari Desert foothills |
+| **Lux Æterna** | Place (hidden city) | New — becomes canonical settlement in Lothari Desert foothills |
 | **Crown of the Ulzammar** | Item (divine artifact) | New — First Age instrument of Kael'Zorai, shattered during the Binding |
 | **Zel'Khorath** | Person/Entity (Echo-Lord) | New — a shard of Kael'Zorai's consciousness that survived the Binding |
 | **The Resonance Compass** | Item | New — fragment of Echo-Lord essence shaped into a tracking device |
-| **Rennick Thale** | Person | New — relic broker of Lux Aeterna |
-| **Warden Sabel** | Person | New — former Varnathi soldier, defender of Lux Aeterna |
+| **Rennick Thale** | Person | New — relic broker of Lux Æterna |
+| **Warden Sabel** | Person | New — former Varnathi soldier, defender of Lux Æterna |
 | **Grukka Ash-Eye** | Person | New — Whisper-Shaman elder of the Barren Hills Varr-Darg |
 | **Zara Vane** | Person | New — granddaughter of Captain Vane, Captain-General of Confederacy |
 | **Old Cira** | Person | New — Lothari dream-mystic |
@@ -627,18 +627,18 @@ The worst-case scenario (all three arcs resolved through theft/betrayal) is STIL
 | Waldkyn Song-Wards adapted to seal the Scar | Technique preserved by the Flowing River School; influences future Waldkyn engagement with the wider world |
 | Orkin Whisper-Shamans' resistance | Strengthens the "Grom-Kain is wounded, not returning" theological position against the Bloodied Fist |
 | The Stillwood's partial healing (if achieved) | Delays but doesn't prevent the conditions that lead to the Silent Blight centuries later |
-| Lux Aeterna's survival | The hidden city may persist for centuries as a refuge — or it may eventually be discovered and destroyed by the Legio Null |
+| Lux Æterna's survival | The hidden city may persist for centuries as a refuge — or it may eventually be discovered and destroyed by the Legio Null |
 
 ### The Biggest Canon Question
 
-What happens to Lux Aeterna? The campaign doesn't need to answer this definitively. The city's fate becomes an open thread in your world — a hidden place that the players saved, that might still be there, waiting, when the world needs it again.
+What happens to Lux Æterna? The campaign doesn't need to answer this definitively. The city's fate becomes an open thread in your world — a hidden place that the players saved, that might still be there, waiting, when the world needs it again.
 
 ---
 
 ## Part 10: Session Planning Checklist
 
 ### Before Session 1
-- [ ] Establish each PC's relationship to Lux Aeterna (how long they've lived there, what they owe the relic broker)
+- [ ] Establish each PC's relationship to Lux Æterna (how long they've lived there, what they owe the relic broker)
 - [ ] Establish each PC's "Spark" origin story (how their magic manifested, who they lost)
 - [ ] Plant personal hooks for each Act II destination (a PC from Gearhaven? One with pirate contacts? A Waldkyn half-blood?)
 - [ ] Prepare the Scorch-Wraith encounter (the mining camp ransacking)

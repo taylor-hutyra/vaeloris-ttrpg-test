@@ -163,7 +163,7 @@ Award at end of session:
 
 | PC | XP | Reputation |
 |---|---|---|
-| All PCs | **20 XP** | Lux Aeterna +1 (if they handled the Petra scene well) |
+| All PCs | **20 XP** | Lux Æterna +1 (if they handled the Petra scene well) |
 | Bonus | +5 XP to whoever drove Beat 6 or Beat 7 dialogue | — |
 
 Total Session 1 XP target: **~20 XP/PC.**

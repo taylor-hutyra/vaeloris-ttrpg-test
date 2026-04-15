@@ -1,6 +1,6 @@
 # The Mining Camp
 
-**A scarred half-circle of tents and equipment in the lee of a rocky outcrop, a mile east of a low, dark hill that contains the First Age ruin of Sorath. Three days' ride from Lux Aeterna. Torvin Dast's crew worked here for six days before the seam opened.**
+**A scarred half-circle of tents and equipment in the lee of a rocky outcrop, a mile east of a low, dark hill that contains the First Age ruin of Sorath. Three days' ride from Lux Æterna. Torvin Dast's crew worked here for six days before the seam opened.**
 
 ---
 

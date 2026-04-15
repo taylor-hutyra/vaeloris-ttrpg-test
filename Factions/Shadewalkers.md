@@ -168,6 +168,11 @@ relationships:
   period: SA:2500-SA:2688
   metadata:
     description: frequented-by
+- target: '[[Tajsh Thale]]'
+  type: related
+  period: SA:1440-SA:1483
+  metadata:
+    description: Former associate; left on bad terms after a deal went wrong in Port Farrick; still uses contacts
 timeline:
 - period: SA:710
   event: Founded by veterans of the Salt War, spies, and disgraced diplomats in Port Farrick

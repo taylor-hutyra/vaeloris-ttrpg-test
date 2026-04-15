@@ -8,7 +8,7 @@
 ## Thumbnail
 
 - Lothari, age unknown (looks 80, is probably older).
-- Wandered into Lux Aeterna three years ago. Says *"the sand told me to stop walking here."* Nobody has pressed her on it.
+- Wandered into Lux Æterna three years ago. Says *"the sand told me to stop walking here."* Nobody has pressed her on it.
 - Tells fortunes for food or wine. Most of what she says is soft-focus. Occasionally she says something unbidden to a stranger, with no preamble and no explanation, that is devastatingly correct.
 - Does not read as a magic-user to any detection method the settlement has. She is simply a woman who dreams accurately.
 
@@ -22,7 +22,7 @@ Short. Quiet. She rarely says things twice. If a player asks her to repeat somet
 ## What She Knows
 
 - **About the Band:** she knows it is wrong in the way sound knows it is wrong when a room is the wrong shape. She will not enter the Vault while it is there.
-- **About the Architect:** she does not know what it *is.* She knows it is already inside Lux Aeterna before the mirror-charms flicker. She feels it the way old people feel weather.
+- **About the Architect:** she does not know what it *is.* She knows it is already inside Lux Æterna before the mirror-charms flicker. She feels it the way old people feel weather.
 - **About the party:** she sees pieces. She does not assemble them. When she says something true to a PC, she does not remember saying it ten minutes later.
 
 ## Key Scene Moments

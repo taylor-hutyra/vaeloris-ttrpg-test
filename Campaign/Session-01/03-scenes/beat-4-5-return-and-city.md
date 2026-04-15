@@ -1,7 +1,7 @@
 # Beats 4 & 5 — The Return and the City That Is Off
 
 **Budget: 30–35 minutes combined (5–10 for travel, 20–25 for city)**
-**Location:** Desert road → Lux Aeterna
+**Location:** Desert road → Lux Æterna
 **Characters present:** All 5 PCs
 
 ---
@@ -26,7 +26,7 @@ Do not force roleplay. If the table wants to skip to arrival, cut to the city.
 
 ### Read-Aloud — Arrival
 
-> *The sun has been down an hour by the time you reach the slot canyon. You know the way in. The two sandstone pillars, the narrow walls, the quarter-mile of stone — and then the lanterns bloom out of the dark and Lux Aeterna is there, waiting for you.*
+> *The sun has been down an hour by the time you reach the slot canyon. You know the way in. The two sandstone pillars, the narrow walls, the quarter-mile of stone — and then the lanterns bloom out of the dark and Lux Æterna is there, waiting for you.*
 >
 > *Except it isn't, exactly. The lanterns are flickering wrong. One, steady-steady, flicker, steady, flicker-flicker. The market is quieter than it should be. Someone is humming a single sustained note from the mouth of the Warrens.*
 

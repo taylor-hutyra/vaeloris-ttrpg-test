@@ -71,6 +71,16 @@ CREATE TABLE IF NOT EXISTS sync_log (
     content_hash TEXT
 );
 
+-- Tracks which chunk IDs belong to which entity. Used for safe orphan
+-- deletion via delete(ids=...) — chromadb's delete/get(where=...) Rust
+-- binding segfaults on Windows, so we avoid it entirely.
+CREATE TABLE IF NOT EXISTS entity_chunks (
+    entity_id TEXT NOT NULL,
+    chunk_id TEXT NOT NULL,
+    PRIMARY KEY (entity_id, chunk_id)
+);
+CREATE INDEX IF NOT EXISTS idx_entity_chunks_entity ON entity_chunks(entity_id);
+
 CREATE INDEX IF NOT EXISTS idx_relationships_source ON relationships(source_id);
 CREATE INDEX IF NOT EXISTS idx_relationships_target ON relationships(target_id);
 CREATE INDEX IF NOT EXISTS idx_timeline_entity ON timeline(entity_id);
@@ -346,6 +356,28 @@ class SqliteStore:
             "INSERT INTO sync_log (entity_id, store, action, timestamp, content_hash) VALUES (?, ?, ?, ?, ?)",
             (entity_id, store, action, now, content_hash),
         )
+        self.conn.commit()
+
+    # ------------------------------------------------------------------
+    # Entity chunk tracking (for safe orphan deletion)
+    # ------------------------------------------------------------------
+
+    def get_entity_chunk_ids(self, entity_id: str) -> list[str]:
+        """Return chunk IDs previously stored for this entity."""
+        rows = self.conn.execute(
+            "SELECT chunk_id FROM entity_chunks WHERE entity_id = ?",
+            (entity_id,),
+        ).fetchall()
+        return [row["chunk_id"] for row in rows]
+
+    def set_entity_chunk_ids(self, entity_id: str, chunk_ids: list[str]) -> None:
+        """Replace the set of chunk IDs for this entity."""
+        self.conn.execute("DELETE FROM entity_chunks WHERE entity_id = ?", (entity_id,))
+        if chunk_ids:
+            self.conn.executemany(
+                "INSERT INTO entity_chunks (entity_id, chunk_id) VALUES (?, ?)",
+                [(entity_id, cid) for cid in chunk_ids],
+            )
         self.conn.commit()
 
     def get_sync_status(self) -> dict:

@@ -1,6 +1,6 @@
 # Vignette NPCs — Beat 5
 
-Small roles. Big cumulative weight. Each of these people is a thread the party will feel pulled when Lux Aeterna falls later in Act I. **Don't skip them.** Pick two or three to run based on which PCs gravitate toward which space.
+Small roles. Big cumulative weight. Each of these people is a thread the party will feel pulled when Lux Æterna falls later in Act I. **Don't skip them.** Pick two or three to run based on which PCs gravitate toward which space.
 
 ---
 
@@ -18,7 +18,7 @@ If a PC approaches him and asks if everything is okay: *"Everything is exactly w
 
 **What he sees:** He noticed Tajsh's candle freeze. He has not mentioned it to anyone. He is counting the things that have been wrong in the last six hours. He does not yet know what to do with the count.
 
-**What he does next session:** When the mirror-charms flicker (Beat 7 transition), Sabel runs. He knows the charm flicker means Lux Aeterna was briefly visible from the sky. He is preparing the evacuation plan.
+**What he does next session:** When the mirror-charms flicker (Beat 7 transition), Sabel runs. He knows the charm flicker means Lux Æterna was briefly visible from the sky. He is preparing the evacuation plan.
 
 ---
 
@@ -72,7 +72,7 @@ If a PC enters: he hands them a cup of something warm without asking. *"Whatever
 
 **What she knows:** The Mage-Weave is stuttering. Not failing. Stuttering. Which has never happened in the six years she's been maintaining it. The weave pattern is sound. The material is sound. What is wrong is *the air around it.* The ambient mana the Weave draws on is behaving unpredictably.
 
-She is the settlement's single most valuable non-combatant. If she dies, Lux Aeterna's cover fails within weeks. Sabel knows this. Tajsh knows this. Selin knows this, and it exhausts her.
+She is the settlement's single most valuable non-combatant. If she dies, Lux Æterna's cover fails within weeks. Sabel knows this. Tajsh knows this. Selin knows this, and it exhausts her.
 
 ---
 

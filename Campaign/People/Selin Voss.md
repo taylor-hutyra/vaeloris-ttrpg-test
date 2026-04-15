@@ -7,12 +7,12 @@ species: Gnome (Forest Gnome)
 born: SA:1463 (approx.)
 died: null
 birthplace: Unknown northern Gnomish community
-residence: '[[Lux Ætterna]]'
+residence: '[[Lux Æterna]]'
 faction: null
 role: Seamstress; ward-scribe; Needle & Thread proprietor
 title: null
 relationships:
-  - target: '[[Lux Ætterna]]'
+  - target: '[[Lux Æterna]]'
     type: serves
     period: "SA:1481-"
     metadata:
@@ -49,7 +49,7 @@ Selin calls the Veil-Ward network "the Stitching" because each glyph connects to
 
 She is the only person in the settlement who understands the full pattern. The ward-tenders know how to refresh individual glyphs — trace the lines with chalk-and-blood ink, feed mana into the carved channels — but only Selin knows how the glyphs interconnect, which sequences must be refreshed in which order, and what happens when one section weakens faster than its neighbors.
 
-Her day job is still seamstress. Everyone in Lux Ætterna has a survival job and a day job. The needle-and-thread metaphor is not a coincidence — she thinks in patterns, connections, tension, and seams. The shop is still called Needle & Thread. She actually does mend clothes. People just also come in to report ward anomalies between hem adjustments.
+Her day job is still seamstress. Everyone in Lux Æterna has a survival job and a day job. The needle-and-thread metaphor is not a coincidence — she thinks in patterns, connections, tension, and seams. The shop is still called Needle & Thread. She actually does mend clothes. People just also come in to report ward anomalies between hem adjustments.
 
 ## The Current Problem
 
