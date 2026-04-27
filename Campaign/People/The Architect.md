@@ -93,6 +93,19 @@ An **Echo-Lord** — a First Age entity of order-given-form, bound to the Crown 
 | It is a servant of the Four | Lie |
 | Fragments must be unmade at a wound in the world | Lie — will be *joined* |
 | Go north to the observatory | True (the observatory really does read fragment resonance) |
+| "Mortal records can wait" / dismissing the pedestal book | Tactical redirect (not a lie) — needs the disc to tune the Compass; does not want Tajsh and Ink running an independent translation |
+
+## The Symbol/Book Diagnostic
+
+If a player raises the three-ring symbol, Torvin's journal, the book on the pedestal, or Tajsh's recognition during the Architect's first manifestation, the Architect's response is the loudest signal it will ever give them. **Pick a flavor at the table:**
+
+- **Default — dismissal:** *"Mortal records can wait. The journey north is what matters. The fragments hunger; do not let parchment delay you."* Too quick, too final. The Architect wanted that conversation closed.
+- **Rushed encouragement:** *"Yes — retrieve it on your way. Do not linger."* Plausible but the urgency feels disproportionate.
+- **Conspicuous silence:** does not mention the book even when pressed. Most damning if a Scholar/Archivist or high-Cunning PC notices.
+
+**Why dismissal is the recommended default:** the Architect *needs* the disc on the pedestal — it is a resonance key that fits a slot in the Compass. So the dismissal must be calibrated: discouraging enough that the party doesn't run an independent translation through Ink, but not so prohibitive that they refuse if Tajsh insists they retrieve it. If they *do* retrieve the disc, the Architect later quietly suggests *"place that disc in the Compass — it will resonate more truly,"* which is the moment a perceptive player can ask: *how did you know there was a slot?*
+
+**The seed-not-reveal principle:** the Architect is never *caught* in a lie at this point. It is caught in a tonal mismatch. Players who look for cracks find them. Players who don't, won't. *Never explain the diagnostic to a player who didn't earn it.*
 
 ## How It Manifests
 

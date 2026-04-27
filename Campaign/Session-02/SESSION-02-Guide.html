@@ -1,0 +1,2002 @@
+<!DOCTYPE html><html><head>
+      <title>Session 2 — Campaign Session Guide</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\Taylo\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.24\crossnote\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-details{margin:0;padding:0;border:none}.markdown-preview .md-toc summary.md-toc-link-wrapper{cursor:pointer;list-style-position:outside}.markdown-preview .md-toc summary.md-toc-link-wrapper::marker{font-size:.85em}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='0']{margin-left:12px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='1']{margin-left:28px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='2']{margin-left:44px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='3']{margin-left:60px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='4']{margin-left:76px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='5']{margin-left:80px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-details{margin:0;padding:0;border:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='0']{padding-left:0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='1']{padding-left:16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='2']{padding-left:32px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='3']{padding-left:48px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='4']{padding-left:64px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='5']{padding-left:80px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script>
+    </head>
+    <body for="html-export">
+      <div class="crossnote markdown-preview  ">
+      <div>
+<h1 id="session-2--campaign-session-guide">Session 2 — Campaign Session Guide </h1>
+<h2 id="return-to-lux-æterna--the-architect"><em>"Return to Lux Æterna → The Architect"</em> </h2>
+<blockquote>
+<p><em>The party returns to Lux Æterna with a First Age fragment in their pack, finds the settlement bleeding at the seams, and is summoned beneath it to meet a being that knows their names.</em></p>
+</blockquote>
+<p><strong>Companion documents:</strong></p>
+<ul>
+<li><strong><code>SESSION-02-NPCs.md</code></strong> — every NPC the players might meet (voice, dialogue, secrets, rolls)</li>
+<li><strong><code>SESSION-02-Locations.md</code></strong> — every location they might visit (descriptions, inventory, rolls)</li>
+</ul>
+<p>This document is the walkthrough. The other two are reference. <strong>Stat blocks and prices match across all three.</strong></p>
+<hr>
+<h2 id="quick-reference">Quick Reference </h2>
+<h3 id="party-at-session-start">Party at Session Start </h3>
+<table>
+<thead>
+<tr>
+<th>PC</th>
+<th>Role</th>
+<th>State</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vorn</strong></td>
+<td>Dwarf, survivor of the rift</td>
+<td><strong>ABSENT TODAY</strong> — minimize on-screen</td>
+</tr>
+<tr>
+<td><strong>Valeth</strong></td>
+<td>Aen'valar Elf, rift-touched wanderer</td>
+<td>Aether-quartz anchor at <strong>4 uses remaining</strong> (cracked); has been hearing the Band's song for 4 days; song goes silent when they enter Lux Æterna</td>
+</tr>
+<tr>
+<td><strong>Yldroth</strong></td>
+<td>Elf monk (Aen'tir), heals by striking</td>
+<td>Full strain</td>
+</tr>
+<tr>
+<td><strong>Norseman</strong></td>
+<td>Human battle mage</td>
+<td>Full strain</td>
+</tr>
+<tr>
+<td><strong>Arden</strong></td>
+<td>Drakona mystic (hidden)</td>
+<td>Full strain. <em>Drakona reveal HELD this session.</em></td>
+</tr>
+</tbody>
+</table>
+<h3 id="currency">Currency </h3>
+<p><strong>Lumens</strong> (mana-chit denomination). Camp-recovered pouch ≈ <strong>40 Lumens</strong>.</p>
+<h3 id="what-the-party-carries">What the Party Carries </h3>
+<ul>
+<li><strong>Ulzammar Band</strong> (wrapped in dark wool, in someone's pack)</li>
+<li><strong>Torvin Dast's journal</strong> (load-bearing — Tajsh will read this)</li>
+<li><strong>Torvin's brass pocket-compass</strong> ("Come home" — engraved by his wife Esha; ◆ on desert Survival)</li>
+<li><strong>Maret's clan-marked knife</strong> (Dwarven; Vorn's if present, otherwise stays wrapped)</li>
+<li><strong>The crew pay-pouch</strong> (~40 Lumens)</li>
+<li><strong>Three camels</strong> (calm, thirsty, serviceable)</li>
+</ul>
+<h3 id="holds-do-not-trigger-this-session">Holds (do NOT trigger this session) </h3>
+<ul>
+<li><strong>Arden's Drakona / "Sleeping Wings" reveal</strong> — Architect addresses him pointedly but does NOT name his lineage.</li>
+<li><strong>Esha Dast</strong> (Torvin's widow) — held for a future heavier session.</li>
+<li><strong>Aldric's Melek-the-Grey reveal</strong> — first Schoolroom conversation only; second comes later.</li>
+</ul>
+<h3 id="burial-assumption">Burial Assumption </h3>
+<p>Default: <strong>the party buried Torvin's crew</strong> at the end of Scene 4. Two flavor texts available in §1 — pick whichever fits the table's actual choice.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h2 id="time-budget">Time Budget </h2>
+<p>~2 hour session. Pacing table:</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Beat</th>
+<th>Target</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Ride Back — narrative dice menu, no combat</td>
+<td>8–10 min</td>
+<td>COMPRESS</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Arrival — description, NPC recap, brief history</td>
+<td>5–7 min</td>
+<td>MUST HIT (compressed)</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Lux Æterna Sandbox</strong></td>
+<td>35–45 min</td>
+<td>MODULAR</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Revelation &amp; Flicker <strong>+ Combat</strong> (Tajsh DEFERS the ask)</td>
+<td>18–22 min</td>
+<td>MUST HIT</td>
+</tr>
+<tr>
+<td>5</td>
+<td>The Architect — climax (now includes book/symbol diagnostic)</td>
+<td>30–40 min</td>
+<td>MUST HIT — protect this</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Scene 5 Epilogue</strong> — Tajsh waiting, Session 3 hook</td>
+<td>3 min</td>
+<td>END HERE</td>
+</tr>
+<tr>
+<td>–</td>
+<td>Buffer / transitions</td>
+<td>~5–10 min</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cut hierarchy if running long:</strong> trim Sandbox first → trim Ride Back dice menu → compress Revelation read-aloud → never trim the Architect, the combat, or the Epilogue hook.<br>
+<strong>If running short:</strong> add a third Sandbox activity → deepen Revelation NPC reactions (Cira summons, Sabel storms in).</p>
+<p><strong>Note on Tajsh's book ask:</strong> In earlier drafts, Tajsh's request for the pedestal book happened <em>before</em> the Architect (in Scene 4). That has been deferred to Session 3 opening as a "two sources" verification pitch — Tajsh is now the <strong>grounding skeptic</strong> to the Architect's divine voice, not a parallel quest-giver. See campaign master document <em>The Morning After: Tajsh's Two-Sources Pitch</em> and <em>The Branching Choice</em> for the full Session 3 setup.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="scene-1-the-ride-back">Scene 1: The Ride Back </h1>
+<blockquote>
+<p><strong>Budget:</strong> 8–10 min · <strong>Cast:</strong> all PCs · <strong>Location:</strong> scrub desert between Mining Camp and Lux Æterna · <strong>No combat.</strong></p>
+</blockquote>
+<h2 id="goal">Goal </h2>
+<p>A breather and a bridge. New-party-dynamics start to form. Set up the wrongness that will be waiting at Lux Æterna by giving Valeth a quiet moment to register that the song has gone silent.</p>
+<h2 id="setup--read-aloud-montage">Setup — Read-Aloud (montage) </h2>
+<blockquote>
+<p><em>The mining camp falls behind you. The wind picks up after sundown — fine grit against the lips, the camels' steady plod, the wrapped Band weighing in someone's pack heavier than its size should allow. Valeth, the song you followed for four days is gone; the desert is just the desert again.</em></p>
+</blockquote>
+<h3 id="burial-flavor--default-buried">Burial Flavor — Default: BURIED </h3>
+<blockquote>
+<p><em>"You left them under stone-cairns at dusk. Vorn rode quiet for an hour after, hands tight on the reins. The camels move easier than they did. The Band weighs heavier."</em></p>
+</blockquote>
+<h3 id="burial-flavor--if-not-buried">Burial Flavor — IF NOT BURIED </h3>
+<blockquote>
+<p><em>"You left them where they lay. By the time you crested the first dune, the buzzards had already stopped circling — they'd settled in. Nobody looks back. Norseman stops glancing east after the second hour."</em></p>
+</blockquote>
+<h2 id="the-narrative-dice-menu">The Narrative Dice Menu </h2>
+<p>Offer these to the table. <strong>Players take none, one, or several.</strong> Each is one roll, ~1–2 min, and produces a small concrete payoff. Do <strong>not</strong> force any of them.</p>
+<h3 id="opportunity-1--the-lothari-trade-cairn">Opportunity 1 — The Lothari Trade-Cairn </h3>
+<blockquote>
+<p><em>"Off the road, half-buried in the lee of a rock outcropping, a small pile of pale stones — an old Lothari cairn. Easy to ride past."</em></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Perception ◆◆</strong></td>
+<td>A small cache: a sealed water-skin (1 day's water for the party) and a wrapped bundle of dried meat (1 day's rations for the party).</td>
+</tr>
+<tr>
+<td><strong>Triumph</strong></td>
+<td>Also a small pouch of <strong>10 Lumens</strong> tucked in oilcloth at the bottom.</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td>They notice the cairn but find nothing useful in it.</td>
+</tr>
+<tr>
+<td><strong>Despair</strong></td>
+<td>The cairn collapses when disturbed. A camel spooks; ride on, no payoff.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="opportunity-2--recognize-the-cairns-clan-mark-chains-off-opportunity-1">Opportunity 2 — Recognize the Cairn's Clan-Mark (chains off Opportunity 1) </h3>
+<blockquote>
+<p><em>"There's a small mark scratched into the side of one stone — a six-pointed star with a curve through the center."</em></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Knowledge (Lore) ◆◆◆</strong></td>
+<td>This stretch was a <strong>Lothari Silent Network relay route</strong> a generation ago. The cairns were drop-points for letters and supplies passed along by dream-mystics. The PC may ask one follow-up question of the GM about Lothari history — answered honestly.</td>
+</tr>
+<tr>
+<td><strong>Triumph</strong></td>
+<td>The PC can read three additional marks: this cairn was active 38 years ago, abandoned during the Mage-Purge Wars. Worth knowing.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="opportunity-3--read-the-dunes">Opportunity 3 — Read the Dunes </h3>
+<blockquote>
+<p><em>"The wind has shifted the dune-shapes since you came this way. There's a route through the high gully you didn't take on the way out — might cut time."</em></p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Survival ◆◆</strong></td>
+<td>Shave ~30 minutes off the ride; arrive in better light; <strong>◼ to the next overland Survival check</strong> in this region.</td>
+</tr>
+<tr>
+<td><strong>Triumph</strong></td>
+<td>Also: spot a Sand-Rider's old camp site below the ridge — extinguished a week ago, judging by the ash. Patrols closer than a month back. (Foreshadow.)</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td>The shortcut is harder than expected. No bonus, no penalty — just a longer ride.</td>
+</tr>
+<tr>
+<td><strong>Despair</strong></td>
+<td>They get briefly lost. Add ~30 min to the ride. Tighten the time budget.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="opportunity-4--resist-the-bands-whisper">Opportunity 4 — Resist the Band's Whisper </h3>
+<blockquote>
+<p><em>"The Band is in your pack, wrapped in wool. As the night gets colder you can almost feel it — not the weight, the pressure. A pulse just below thought. Like something humming inside your skull, asking to be looked at."</em></p>
+</blockquote>
+<p><strong>Offer this to whichever PC is carrying the Band, OR any PC who voluntarily reaches for it.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Discipline ◆◆</strong></td>
+<td>The pressure quiets. The Band is just an object in a pack again.</td>
+</tr>
+<tr>
+<td><strong>Triumph</strong></td>
+<td>The PC briefly <em>understands</em> the pressure: the Band is not malicious. It is <em>waiting.</em> (No mechanical effect; flavor for later when the Architect speaks.)</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td>1 strain. The PC feels the temporal field flicker — a flame at the next campfire will lag for a heartbeat.</td>
+</tr>
+<tr>
+<td><strong>Despair</strong></td>
+<td>2 strain. The PC dreams of a circular room with a missing center-point. They will recognize the Deep Chamber when they see it. (Don't tell them yet.)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="opportunity-5--mage-pcs-sense-the-wider-weave">Opportunity 5 — Mage PCs: Sense the Wider Weave </h3>
+<blockquote>
+<p><em>"You've felt it the whole ride — a thread of magic on the western horizon. The Stitching, you realize. The aversion field around Lux Æterna. From this far out it feels like a chord, steady and complicated."</em></p>
+</blockquote>
+<p><strong>Offer to Norseman, Valeth, or Arden.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Knowledge (Arcana) ◆◆◆</strong></td>
+<td>The chord is <em>pulsing wrong.</em> Not failing. Not yet. But stuttering in a way the PC has never sensed before. (Foreshadow Lux Æterna's troubles.)</td>
+</tr>
+<tr>
+<td><strong>Triumph</strong></td>
+<td>They can briefly hear the whole pattern. They feel a second harmonic threading through it — something <em>underneath</em> the canyon, much older, that has woken up. Don't elaborate. (This is the Architect.)</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td>They feel the chord but can't read it. Frustration. 1 strain.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-personal-opening-not-scripted">The Personal Opening (NOT scripted) </h2>
+<p>After 1–2 dice opportunities, deliver this once and let it lie:</p>
+<blockquote>
+<p><em>"The camels are walking close enough that any of you can ride alongside any other for a quiet word."</em></p>
+</blockquote>
+<p>That's the whole prompt. <strong>Do not direct any PC toward another.</strong> If they take the opening, run with it. If they don't, push to Arrival.</p>
+<h2 id="exit-condition">Exit Condition </h2>
+<p>Canyon mouth in sight at dusk. <strong>Cut to Beat 2.</strong></p>
+<h2 id="time-guardrail">Time Guardrail </h2>
+<p>If past <strong>15 min total session time</strong>, push to Arrival immediately. Drop unused dice menu options.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="scene-2-arrival">Scene 2: Arrival </h1>
+<blockquote>
+<p><strong>Budget:</strong> 5–7 min · <strong>Cast:</strong> all PCs · <strong>Location:</strong> Slot Canyon Approach → Veiled Market · <strong>No combat. No checks (unless players push).</strong></p>
+</blockquote>
+<h2 id="goal-1">Goal </h2>
+<p>Drop the party into the city. Recap what they know. Open the Sandbox.</p>
+<h2 id="read-aloud--the-slot-canyon">Read-Aloud — The Slot Canyon </h2>
+<blockquote>
+<p><em>The sun has been down an hour by the time you reach the slot canyon. Two sandstone pillars — identical to anyone who doesn't know what they're looking at. A narrow slot. A quarter-mile of stone walls. And then the lanterns bloom out of the dark, and Lux Æterna is there, waiting for you.</em></p>
+<p><em>Except it isn't, exactly. The lanterns are flickering wrong. One steady, one steady, flicker, flicker-flicker, steady. The market is quieter than it should be — not silent, just careful. People aren't arguing tonight. That isn't normal.</em></p>
+<p><em>From the mouth of the Warrens, someone is humming a single sustained note. Low. Long. Not quite a pitch a human throat should be able to hold. The note has been going for a while.</em></p>
+</blockquote>
+<h3 id="valeth-beat-not-optional--hand-to-valeths-player">Valeth Beat (NOT optional — hand to Valeth's player) </h3>
+<blockquote>
+<p><em>"Valeth — you stop your camel. You listen. You look at the others. You say:"</em></p>
+</blockquote>
+<p>Let the player deliver. If they freeze, prompt:</p>
+<blockquote>
+<p><em>"That's the song. It's here too. It's been here the whole time."</em></p>
+</blockquote>
+<h2 id="npc-recap-read-whichever-apply">NPC Recap (read whichever apply) </h2>
+<p>Match what the party already knows from Session 1:</p>
+<ul>
+<li><strong>Tajsh Thale</strong> — your employer. Relic broker. Office above his Vault on the market. Sharp, warm, never stops moving.</li>
+<li><strong>Marta Dustborn</strong> — runs the <strong>Dusty Lantern</strong>. Tavern keeper, original settler. Keeps a register of every guest. The shovel behind the bar is called "the policy."</li>
+<li><strong>Hask</strong> — alchemist at the <strong>Crystal Counter</strong>. Orkin. One eye, scarred, quiet. Tests every draught on himself.</li>
+<li><strong>Old Cira</strong> — fortune-teller at her woven mat in the market. Lothari, blind, age uncertain. Her riddles come true two days late.</li>
+<li><strong>Warden Sabel</strong> — head of defense. Patrols the Outlook above the canyon rim.</li>
+</ul>
+<h2 id="brief-history-23-sentences">Brief History (2–3 sentences) </h2>
+<blockquote>
+<p><em>"Lux Æterna is a refugee settlement of about four hundred souls — mages, deserters, anyone the Decree of Prohibition wants dead. Hidden by the Stitching, a glyph-ward that makes outsiders' eyes slide off the canyon. Eleven years standing. Holding its breath."</em></p>
+</blockquote>
+<h2 id="what-players-sense-without-rolling">What Players Sense Without Rolling </h2>
+<ul>
+<li>The market is quieter than it should be.</li>
+<li>Lanterns flicker out of rhythm.</li>
+<li>Well water tastes metallic.</li>
+<li>A low hum drifts from the Warrens.</li>
+<li><strong>Cira is sitting outside the Vault</strong> humming a single sustained low note.</li>
+<li><strong>Selin is up a ladder</strong> retouching a wavering glyph.</li>
+<li>Three of four working dogs refuse to come inside.</li>
+</ul>
+<h2 id="optional--one-roll-available">Optional — One Roll Available </h2>
+<p>If a player asks specifically what's wrong:</p>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read the wrongness</td>
+<td>Perception ◆◆</td>
+<td>The party can feel the temporal field of the Band, faintly — that's what's making the lanterns and water wrong. Whoever carries the Band feels it strongest.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ciras-line-only-if-valeth-or-arden-passes-near">Cira's Line (only if Valeth or Arden passes near) </h2>
+<p><strong>Valeth:</strong> Cira opens her eyes, looks up at him, says softly: <em>"Two of you are walking. Only one came back."</em> Returns to humming. <strong>Do not explain.</strong></p>
+<p><strong>Arden:</strong> Cira looks at him. With <em>politeness</em> — not recognition. Says nothing aloud. <em>(Pass Arden's player a private note: "She sees you. She knows. She is choosing not to say so. Out loud, to anyone.")</em></p>
+<h2 id="exit-condition-1">Exit Condition </h2>
+<p>Drop them at the Veiled Market. <strong>Open the Sandbox.</strong></p>
+<h2 id="time-guardrail-1">Time Guardrail </h2>
+<p>If past <strong>22 min total session time</strong>, you've spent too long here. Cut to Sandbox even mid-description.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="scene-3-the-lux-æterna-sandbox">Scene 3: The Lux Æterna Sandbox </h1>
+<blockquote>
+<p><strong>Budget:</strong> 35–45 min · <strong>Cast:</strong> all PCs + Sandbox NPCs · <strong>Location:</strong> Veiled Market and adjacent</p>
+</blockquote>
+<h2 id="format">Format </h2>
+<p>The city is open. <strong>Players choose.</strong> Each activity is self-contained, 5–10 min, with a clear in/out.</p>
+<h2 id="convergence-rule">Convergence Rule </h2>
+<p>Advance to the <strong>Revelation</strong> (Scene 4) when <strong>BOTH</strong> are true:</p>
+<ul>
+<li>(a) Tajsh has had the journal in his hands for at least one full activity.</li>
+<li>(b) The table has had ~30 minutes of city play.</li>
+</ul>
+<p>Whichever comes later. Until then, keep the city open.</p>
+<h2 id="activities-at-the-ready">Activities At-The-Ready </h2>
+<p>Full prep on each — the user can't pre-pick, so they're all ready. <strong>Player files reference NPCs §1–11 and Locations §3–10 for fuller content.</strong></p>
+<hr>
+<h3 id="a-tajshs-vault--deliver-band--journal">A. Tajsh's Vault — Deliver Band &amp; Journal </h3>
+<p><strong>Time:</strong> 8–12 min · <strong>Anchor:</strong> Tajsh Thale (NPCs §1) · <strong>Location:</strong> Tajsh's Vault (Locations §4)</p>
+<p>The handoff. <strong>Triggers Revelation when Tajsh reads the journal.</strong> You can stretch the moment if the table needs more city time first — <em>"Let me sit with this. Get yourselves fed. I'll send for you."</em></p>
+<p><strong>Tajsh's first reaction (read aloud):</strong></p>
+<blockquote>
+<p><em>"Set it on the desk. Don't unwrap it. Not yet. Sit. Tell me everything from the moment you saw the pit."</em></p>
+</blockquote>
+<p><strong>He examines the bundle.</strong> Unwraps a corner. Sees the dark crystal and pale metal. Doesn't touch it.</p>
+<blockquote>
+<p><em>(the candle on his desk stops flickering — the flame is still lit but not moving — Tajsh watches it for a long second, picks it up, carries it across the room, sets it on a shelf near the door)</em> <em>"Better."</em></p>
+</blockquote>
+<p>If they hand over the journal in the same conversation: skip ahead — Tajsh reads it. Read the Revelation when ready (Scene 4).</p>
+<p>If they hold the journal: Tajsh asks for it explicitly: <em>"What else did Torvin leave behind? You said there was a journal. I need it. Tonight."</em></p>
+<p><strong>Tajsh writes Valeth's and Vorn's names in his ledger.</strong> <em>"Next of kin?"</em> (If Vorn is absent: he writes the name and asks if there's anyone Vorn would want notified. The party answers as best they can.)</p>
+<h4 id="available-rolls-at-the-vault">Available Rolls at the Vault </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read what Tajsh isn't saying</td>
+<td>Perception (Cunning) ◆◆◆</td>
+<td>He recognized the symbol the moment it came in. He's already deciding what to tell you and what to hold.</td>
+</tr>
+<tr>
+<td>Spot the back-room door's wards</td>
+<td>Knowledge (Arcana) ◆◆◆</td>
+<td>The lock is mundane. The frame is bound by recent glyph-work — Selin's hand.</td>
+</tr>
+<tr>
+<td>Surreptitiously read the upstairs ledger</td>
+<td>Skulduggery ◆◆◆◆</td>
+<td>Hard. He's watching. <strong>Triumph:</strong> glimpse a recent entry — <em>"Ink — write next caravan. Urgent."</em></td>
+</tr>
+</tbody>
+</table>
+<h4 id="if-the-party-refuses-to-hand-over-the-band">If the Party Refuses to Hand Over the Band </h4>
+<p>Tajsh doesn't push. <em>"Suit yourselves. Sleep with it. See how that goes."</em> The Band's effects worsen overnight (cold spots, the candle won't relight, Cira's humming gets louder). Cira summons them anyway.</p>
+<hr>
+<h3 id="b-the-dusty-lantern--drink-eat-gossip">B. The Dusty Lantern — Drink, Eat, Gossip </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Marta Dustborn (NPCs §4) · <strong>Location:</strong> Dusty Lantern (Locations §5)</p>
+<p><strong>Marta's greeting (read aloud):</strong></p>
+<blockquote>
+<p><em>"You're back. Good. Sit. Stew first, gossip after. Three Lumens for the lot, two more for ale, and don't make me regret the policy tonight."</em></p>
+</blockquote>
+<p><strong>Tajsh's tab:</strong> if PCs mention it, food/drink on him. If they don't, Marta puts it on her own tab — don't tell them.</p>
+<h4 id="menu-lumens">Menu (Lumens) </h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stew + bread</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Flatbread + oil</td>
+<td>1</td>
+</tr>
+<tr>
+<td>House wine (bad, honest about it)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Dwarven dark ale</td>
+<td>5</td>
+</tr>
+<tr>
+<td>A place to sit and say nothing</td>
+<td>free</td>
+</tr>
+</tbody>
+</table>
+<h4 id="available-rolls">Available Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Strike up a rumor conversation</td>
+<td>Charm (Presence) ◆</td>
+<td>Roll d8 on the Rumor Table below</td>
+</tr>
+<tr>
+<td>Eavesdrop on a specific table</td>
+<td>Streetwise (Cunning) ◆◆</td>
+<td>Pull one rumor of GM's choice</td>
+</tr>
+<tr>
+<td>Bone-Dice with the off-duty militia</td>
+<td>Skulduggery (Cunning), opposed</td>
+<td>Win or lose 5–10 Lumens; either way +1 round of rumors</td>
+</tr>
+<tr>
+<td>Notice Marta watching the door more than the bar</td>
+<td>Perception ◆◆◆</td>
+<td>She's watching for the silent stranger from the Grey Flame</td>
+</tr>
+</tbody>
+</table>
+<h4 id="rumor-table-d8">Rumor Table (d8) </h4>
+<table>
+<thead>
+<tr>
+<th>d8</th>
+<th>Rumor</th>
+<th>Truth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>"Legio Null has a new commander — some zealot from Castellum. Patrols doubling in the foothills."</td>
+<td>TRUE</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"A Wandering Kin caravan spotted on the mountain road, moving fast, no goods. Smuggling people, probably."</td>
+<td>TRUE</td>
+</tr>
+<tr>
+<td>3</td>
+<td>"The miners found something evil. Goss says his partner went mad and walked into the desert."</td>
+<td>Partially true</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"Lothari caravans rerouting around the eastern foothills. Bad dreams near the old stones."</td>
+<td>TRUE</td>
+</tr>
+<tr>
+<td>5</td>
+<td>"Heard Tajsh used to be a Shadewalker. Got kicked out for stealing from the Guild itself."</td>
+<td>Partially true</td>
+</tr>
+<tr>
+<td>6</td>
+<td>"Hidden Dwarven waystation north of here. Sealed for centuries. Tools maybe."</td>
+<td>TRUE — but warded</td>
+</tr>
+<tr>
+<td>7</td>
+<td>"Word from Argentum: they're burning mages in the Silver Square again. Three this month."</td>
+<td>TRUE</td>
+</tr>
+<tr>
+<td>8</td>
+<td>"Something wrong with the Deep Well water. Tastes like metal. Cira says it's 'remembering.'"</td>
+<td>TRUE — the Band's field</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="c-the-crystal-counter--apothecary">C. The Crystal Counter — Apothecary </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Hask (NPCs §5) · <strong>Location:</strong> Crystal Counter (Locations §6)</p>
+<p><strong>Hask's read on the party (read aloud):</strong></p>
+<blockquote>
+<p><em>(his good eye drops to their hands and stays there a beat too long)</em> <em>"...you've been near something measuring. The light off you's wrong."</em> <em>(quiet; doesn't ask what)</em></p>
+</blockquote>
+<h4 id="inventory-lumens">Inventory (Lumens) </h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Healing Draught (minor)</td>
+<td>15</td>
+<td>Restore 3 strain or 2 wounds</td>
+</tr>
+<tr>
+<td>Healing Draught (proper)</td>
+<td>40</td>
+<td>Restore 5 strain or 4 wounds. Limit 2 in stock.</td>
+</tr>
+<tr>
+<td>Ash-Root Paste</td>
+<td>10</td>
+<td>Numbs pain 1 hr; ◼ to Resilience vs. cold or heat/dehydration (8 hrs)</td>
+</tr>
+<tr>
+<td>Scorpion-Sting Tincture</td>
+<td>15</td>
+<td>Halves poison damage before soak for 1 hr</td>
+</tr>
+<tr>
+<td>Sand-Eye Drops</td>
+<td>10</td>
+<td>Removes darkness penalties for 4 hrs (stings)</td>
+</tr>
+<tr>
+<td>Cira's Dreamcatch</td>
+<td>25</td>
+<td>One prophetic dream. Single use.</td>
+</tr>
+<tr>
+<td>Smokebomb</td>
+<td>20</td>
+<td>Short-range cloud, 3 rounds</td>
+</tr>
+<tr>
+<td>Wyrm's-Tear Oil</td>
+<td>25</td>
+<td>First attack next combat adds ◼◼</td>
+</tr>
+<tr>
+<td>Antidote (mundane)</td>
+<td>8</td>
+<td>Common desert venoms</td>
+</tr>
+</tbody>
+</table>
+<p><strong>If the party seems poor:</strong> Hask flags down whichever PC he reads most clearly. <em>"Take this. Pay me when you can. You'll want it where you're going."</em> — <strong>Sand-Eye Drops at half price (5 Lumens).</strong></p>
+<p><strong>Barter:</strong> aether-quartz dust = ~30 Lumens credit per shard.</p>
+<h4 id="available-rolls-1">Available Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Help him brew</td>
+<td>Knowledge (Nature or Medicine) ◆◆</td>
+<td>Learn to brew 1 Ash-Root Paste; Hask tells a story</td>
+</tr>
+<tr>
+<td>Notice the eyepatch</td>
+<td>Perception ◆◆◆</td>
+<td>The patch isn't covering a wound. It's covering something hidden. <strong>Don't volunteer the why.</strong></td>
+</tr>
+<tr>
+<td>Read his real mood</td>
+<td>Perception (Cunning) ◆◆◆</td>
+<td>He is privately furious tonight. Something specific. He won't say.</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="d-ciras-corner--fortunes">D. Cira's Corner — Fortunes </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Old Cira (NPCs §2) · <strong>Location:</strong> Cira's Corner (Locations §7)</p>
+<p><strong>Cira's opening (read aloud):</strong></p>
+<blockquote>
+<p><em>(eyes closed, hands palms-up)</em> <em>"You walked in carrying weather. The canyon felt it. Sit. One of you. Now."</em></p>
+</blockquote>
+<p>She reads ONE PC. <strong>Riddle hits in two days</strong> (track for next session).</p>
+<h4 id="lines-per-pc">Lines per PC </h4>
+<ul>
+<li><strong>Valeth:</strong> <em>"You came back. Only just. There is something on the other side of the seam that knows your shape now. It will not call again, until it does."</em></li>
+<li><strong>Yldroth:</strong> <em>"Your hands carry two opposite things. Do not let one forget it lives inside the other."</em></li>
+<li><strong>Norseman:</strong> <em>"There is a child in this canyon who does not know yet what she is. She will look at you and know you have already been her. Do not flinch."</em> <em>(if he hasn't met Petra yet, this nudges him to the Warrens)</em></li>
+<li><strong>Arden:</strong> <em>(her hand pauses just over his, not touching)</em> <em>"You have practiced being smaller than you are. Keep practicing. Tonight is not the night."</em> — withdraws, says nothing more.</li>
+<li><strong>Vorn (absent):</strong> skip.</li>
+</ul>
+<p><strong>No dice. Pure roleplay.</strong></p>
+<h4 id="optional-rolls">Optional Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read what she's hiding</td>
+<td>Perception ◆◆◆</td>
+<td>She is hiding something specific, but not from the party — <em>for</em> them. The withholding is protective.</td>
+</tr>
+<tr>
+<td>(Lothari background only) Recognize the olive-pit pattern under her mat</td>
+<td>Knowledge (Lore) ◆◆◆◆</td>
+<td>Silent Network sigil. Ranking operative. <strong>DO NOT volunteer.</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="e-iron-shelf--gear">E. Iron Shelf — Gear </h3>
+<p><strong>Time:</strong> 3–5 min · <strong>Anchor:</strong> Tomm Broadback (NPCs §10) · <strong>Location:</strong> Iron Shelf (Locations §8)</p>
+<p><strong>Low-friction shopping. NO check needed for purchases.</strong> Standard prices, no markup. Resolve at the table.</p>
+<h4 id="inventory-lumens-1">Inventory (Lumens) </h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rations (1 week)</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Waterskin</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Rope (50 ft)</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Lantern + oil (1 week)</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Dagger / club / sling</td>
+<td>15–25</td>
+</tr>
+<tr>
+<td>Short sword / hand axe / spear</td>
+<td>30–40</td>
+</tr>
+<tr>
+<td>Crossbow + 10 bolts</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Bow + 20 arrows</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Leather armor (used, repaired)</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Maps (regional)</td>
+<td>20–60</td>
+</tr>
+<tr>
+<td>Camel</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Boot repair</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Weapon repair / sharpening</td>
+<td>3–10</td>
+</tr>
+<tr>
+<td>Pry bar / chisel set</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Prospecting kit</td>
+<td>35</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Optional Roll</strong> — Negotiation ◆◆◆: Tomm won't drop a base price, but <strong>triumph</strong> = he throws in something small for free (a sharpening, a coil of twine, a repair).</p>
+<hr>
+<h3 id="f-needle--thread--ward-scribe">F. Needle &amp; Thread — Ward-Scribe </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Selin Voss (NPCs §6) · <strong>Location:</strong> Needle &amp; Thread (Locations §9)</p>
+<h4 id="inventory-lumens-2">Inventory (Lumens) </h4>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desert cloak (standard)</td>
+<td>30 (◼ Stealth in sand)</td>
+</tr>
+<tr>
+<td>Mage-Weave cloak scrap</td>
+<td>80 (◼◼ Stealth, fragile)</td>
+</tr>
+<tr>
+<td>Boot repair</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pack repair</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Glyph-rubbing kit</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Mending kit</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<h4 id="if-a-pc-asks-about-the-wards">If a PC asks about the wards: </h4>
+<blockquote>
+<p><em>"The Stitching's been thinning for months. We're at six tenders for an eight-tender weave. I have a design — a self-sustaining glyph pattern — but it needs a forty-eight-hour shutdown to seat. Forty-eight hours of no wards. If anyone outside is looking..."</em> <em>(trails off, won't finish)</em></p>
+</blockquote>
+<p><strong>Foreshadow only. No payoff this session.</strong></p>
+<h4 id="sandbox-activity--help-retouch-a-glyph-if-shes-on-the-ladder">Sandbox Activity — Help Retouch a Glyph (if she's on the ladder) </h4>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Knowledge (Arcana) Hard ◆◆◆</strong></td>
+<td>Reinforce the failing patch for the night. <strong>Reward: 10 Lumens + ◼ on one future social check with any Lux Æterna resident.</strong> Selin remembers. So will Sabel.</td>
+</tr>
+<tr>
+<td><strong>Failure</strong></td>
+<td>Glyph holds. PC takes 2 strain from mana-burn. Selin offers Ash-Root Paste at cost (10 Lumens).</td>
+</tr>
+<tr>
+<td><strong>Despair</strong></td>
+<td>Glyph cracks. Selin recarves it overnight. Party on her bad list for a week. (Don't crush — let her be angry, then forgive.)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="g-the-warrens--petra-at-the-well">G. The Warrens — Petra at the Well </h3>
+<p><strong>Time:</strong> 5–10 min · <strong>Anchor:</strong> Petra (NPCs §9) · <strong>Location:</strong> the Warrens steps (Locations §11)</p>
+<p><strong>Optional. Only fires if a PC wanders the Warrens.</strong> Particularly available to Norseman.</p>
+<blockquote>
+<p><em>"A girl, maybe ten, sits on the steps outside the schoolroom. Her fingers are sooty — the kind of soot that doesn't wash. She's looking at her hands like they belong to someone else."</em></p>
+</blockquote>
+<h4 id="if-a-pc-engages">If a PC engages </h4>
+<p>She'll show them. <em>"It happened two weeks ago. Nobody knows what to do with me."</em></p>
+<p><strong>If Norseman engages:</strong> he sees what she is. He was her once. <strong>The plan offers no script — only the recognition.</strong> If he tells her so, she looks at him a long moment, nods, then runs.</p>
+<p><strong>If a PC says it gets better:</strong> <em>"Have you ever burned someone by accident?"</em></p>
+<p><strong>She remembers who helped.</strong> Track it.</p>
+<h4 id="sandbox--also-available-in-the-warrens">Sandbox — also available in the Warrens </h4>
+<ul>
+<li><strong>Brother Oram in the Sick-Bay</strong> — wound healing (NPCs §11): Medicine ◆◆ from Oram, heal 2 Wounds beyond natural recovery. No charge.</li>
+<li><strong>Aldric in the Schoolroom</strong> — see Activity I below if a PC wanders here instead.</li>
+<li><strong>The Deep Well guards</strong> — they will report the still water if asked. Knowledge (Arcana) ◆◆ to recognize the temporal field.</li>
+<li><strong>The Children's Tunnel</strong> — visible. Smells of ozone. <strong>Don't push. Don't reveal yet.</strong> This is the way down for Scene 5.</li>
+</ul>
+<hr>
+<h3 id="h-the-outlook--sabel-on-the-rim">H. The Outlook — Sabel on the Rim </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Warden Sabel (NPCs §7) · <strong>Location:</strong> the Outlook (Locations §15)</p>
+<p>PCs are unlikely to come up here unless they want tactical info. If they do:</p>
+<p><strong>Sabel's greeting:</strong> <em>"You're back. Good. Tajsh has been waiting."</em> (No first names. Nods past them.)</p>
+<h4 id="available-rolls-2">Available Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pull tactical info</td>
+<td>Streetwise (Cunning) or Vigilance (Willpower) ◆◆</td>
+<td>Sabel confides one of: (a) the dark Lothari relay station, (b) boot prints two canyons east, (c) the staffing crisis. <strong>Triumph:</strong> all three.</td>
+</tr>
+<tr>
+<td>Read the desert from the rim</td>
+<td>Perception ◆◆</td>
+<td>Sand-Rider tracks at the third waystation, half a day's ride out. Closer than last month.</td>
+</tr>
+<tr>
+<td>Spot the Bolt Hole entrance</td>
+<td>Perception ◆◆◆◆</td>
+<td>The false rock face is excellent. <strong>Triumph:</strong> they see it. Sabel notices that they noticed. He'll say nothing.</td>
+</tr>
+<tr>
+<td>Use the Signal Rock flash kit</td>
+<td>Knowledge (Education) ◆◆</td>
+<td>Send a basic message to the Lothari relay. Reply within ~30 minutes (mostly empty channel; one station has been dark six days).</td>
+</tr>
+<tr>
+<td>Read Sabel's exhaustion</td>
+<td>Perception (Cunning) ◆◆</td>
+<td>He has not slept in five days. Functional but only just.</td>
+</tr>
+</tbody>
+</table>
+<p>He will NOT give the Bolt Hole route. Yet.</p>
+<hr>
+<h3 id="i-the-schoolroom--aldric">I. The Schoolroom — Aldric </h3>
+<p><strong>Time:</strong> 5–8 min · <strong>Anchor:</strong> Aldric Greypen (NPCs §8) · <strong>Location:</strong> Schoolroom (Locations §12)</p>
+<p><strong>Aldric greeting:</strong> <em>"Ah — my dear, come in, sit, mind the books on that chair, I'll move them — I will move them, eventually — what brings you to me?"</em></p>
+<p><strong>If a PC offers to teach</strong> (children's reading or mage Spark-control): no check; the reward is one beat with Aldric (he gets the PC's name correct on the first try, or comments on their teaching technique — see NPCs §8).</p>
+<h4 id="available-rolls-3">Available Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Find a book on the symbol or the Band</td>
+<td>Knowledge (Lore) ◆◆◆◆</td>
+<td>Nothing on the three-ring specifically (Decree burned everything). <strong>Triumph:</strong> Aldric hesitates as if he might have <em>seen</em> the pattern in something he's memorized. <strong>Won't elaborate this session.</strong></td>
+</tr>
+<tr>
+<td>Test the practice circle</td>
+<td>Knowledge (Arcana) ◆◆◆</td>
+<td>Unusually precise. Aldric carved it from a memorized template — the same Melek the Grey used for his First Revelation demonstrations.</td>
+</tr>
+<tr>
+<td>Borrow a book</td>
+<td>Negotiation or Charm ◆◆</td>
+<td>Maybe. Lothari primer or metallurgy manual. He will NOT lend the pre-Decree mage-craft notes.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Do NOT pay off the Melek reveal this session.</strong> Plant the seed.</p>
+<hr>
+<h3 id="j-the-grey-flame-shrine--the-silent-stranger">J. The Grey Flame Shrine — The Silent Stranger </h3>
+<p><strong>Time:</strong> 3–5 min · <strong>Anchor:</strong> the silent stranger (no file) · <strong>Location:</strong> the Grey Flame (Locations §10)</p>
+<blockquote>
+<p><em>"On the bench across from the shrine, a stranger is sitting. Cloaked, hood up. Watching the sketch. They have not moved in an hour. They do not look up when you approach."</em></p>
+</blockquote>
+<p><strong>The stranger will not speak. Will not look up. Will not move. Slow burn — nothing happens this session.</strong></p>
+<h4 id="available-rolls-4">Available Rolls </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read the stranger</td>
+<td>Perception (Cunning) ◆◆◆</td>
+<td>Armed — knife at the small of the back, professionally hidden. Paying close attention to who lights the candle and who doesn't.</td>
+</tr>
+<tr>
+<td>Try to identify them</td>
+<td>Knowledge (Education) or Streetwise ◆◆◆◆</td>
+<td>The cloak's stitching is Castellum-style. Civilian cut, not Legio Null livery. Could be Shadewalker. Could be something else. <strong>Make the player work for it.</strong> Don't say "Castellum" outright unless the roll is excellent.</td>
+</tr>
+<tr>
+<td>Approach physically</td>
+<td>(no check)</td>
+<td>Stands and walks away. Calmly. Not running.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sandbox-nudge-toolkit">Sandbox Nudge Toolkit </h2>
+<table>
+<thead>
+<tr>
+<th>Trigger</th>
+<th>Response</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Idle &gt; 5 min, undecided</strong></td>
+<td>Cira appears at their table or path. <em>"You walked in carrying weather. The canyon felt it."</em></td>
+</tr>
+<tr>
+<td><strong>Avoiding Tajsh entirely</strong></td>
+<td>Tajsh's runner (Korel) finds them. <em>"He's asking after you. Says it's about what you brought."</em></td>
+</tr>
+<tr>
+<td><strong>Trying to leave town early</strong></td>
+<td>Sabel intercepts at the dogleg. Wards are dropping; he won't open the gate.</td>
+</tr>
+<tr>
+<td><strong>Going too fast — one activity, then "what next?"</strong></td>
+<td>Marta plants gossip. Hask flags them down. The wrongness intensifies — someone outside Tajsh's office mentions the lanterns out of nowhere.</td>
+</tr>
+<tr>
+<td><strong>Spending too much time on one activity</strong></td>
+<td>Send Korel: <em>"Tajsh wants you in his office. Now."</em> — forces the Revelation.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="exit-conditions-advance-to-scene-4">Exit Conditions (advance to Scene 4) </h2>
+<p>ALL of these:</p>
+<ul>
+<li>Tajsh has the journal.</li>
+<li>~30 min of city play has elapsed.</li>
+<li>At least 2 PCs have had a personal moment (any kind — not specified).</li>
+</ul>
+<h2 id="time-guardrail-2">Time Guardrail </h2>
+<p>Cap at <strong>65 min total session time.</strong> If past that, force the Revelation regardless of the convergence rule.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="scene-4-the-revelation--flicker--combat">Scene 4: The Revelation &amp; Flicker (+ Combat) </h1>
+<blockquote>
+<p><strong>Budget:</strong> 18–22 min · <strong>Cast:</strong> all PCs, Tajsh Thale, the Wraithling, Cira (closing) · <strong>Location:</strong> Tajsh's office → outside · <strong>MUST HIT.</strong></p>
+</blockquote>
+<h2 id="trigger">Trigger </h2>
+<p>Tajsh reads the journal and reaches the page where the three-ring symbol is sketched.</p>
+<h2 id="read-aloud--the-trigger">Read-Aloud — The Trigger </h2>
+<blockquote>
+<p><em>Tajsh's hand stops on the page. He doesn't turn it. He reads it again. He reads it a third time. Then he closes the journal slowly and looks up at you, and for one full breath, he is not the man who hired you.</em></p>
+<p><em>"...where did Torvin draw this?"</em></p>
+</blockquote>
+<h2 id="the-monologue-deliver-slowly--pause-on-the-pauses">The Monologue (deliver slowly — pause on the pauses) </h2>
+<blockquote>
+<p><em>"I have seen this twice in my life. The first time was when I was twenty-two, and I was standing in a Shadewalker archive in Ostmark, and a sealed crate came in, and the man who'd brought it would not put it down. He set it on a stone table, and he stepped back from it like it was a cobra. Everybody in the room was very still. Very careful.</em></p>
+<p><em>"The second time was seventeen years ago. Barren Hills. I was hired to seal a chamber in an old ruin. The contract was specific. Carve this mark on the door. Carve it deep. Walk away. Don't look back. They paid me four times the going rate, and I still wish they hadn't.</em></p>
+<p><em>"This — what Torvin drew — this is the same mark. And the thing your crew dug up in that pit is what was in the chamber. And I need you to understand what that means before I ask anything more of you."</em></p>
+</blockquote>
+<h3 id="tajsh-defers-the-ask">Tajsh DEFERS the ask </h3>
+<p>He does <strong>not</strong> give them the next arc objective here. That ask comes after the Architect, reframed as a "two sources" verification — see <em>Scene 5 Epilogue</em> and the Session 3 hook. For now:</p>
+<blockquote>
+<p><em>(He polishes his thumb-ring without realizing. Sets the journal down very carefully, as if it might break.)</em></p>
+<p><em>"I need a night with this. Eat. Rest. I'll send for you when I know what I'm asking. The Band stays in this room — in this wool — until I do."</em></p>
+</blockquote>
+<p><strong>If pressed for more:</strong> <em>"I have a guess. I don't want to commit to the guess until I've sent a message and slept on it. Don't make me commit yet."</em></p>
+<p><strong>Why deferred:</strong> Tajsh's pitch lands harder <em>after</em> the Architect speaks, not before. The party has just been shown a being of light that knows their names. Tajsh — the human voice, the Shadewalker instinct — comes next. <em>Two sources is a Shadewalker discipline.</em> Asking for verification on the heels of a divine encounter is a different thing than asking for an errand before one.</p>
+<h2 id="tajshs-prepared-answers">Tajsh's Prepared Answers </h2>
+<table>
+<thead>
+<tr>
+<th>If asked…</th>
+<th>He says…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>What were the Shadewalkers afraid of?</td>
+<td><em>"I never found out. The crate was gone by the next month. The briefing file I tried to pull was missing. I stopped asking."</em></td>
+</tr>
+<tr>
+<td>Who was your employer at Barren Hills?</td>
+<td><em>"A name I don't say out loud. Sorry. Not today. Ask me again in a year."</em></td>
+</tr>
+<tr>
+<td>Why us?</td>
+<td><em>"Because you found it. Because whatever this is has decided you exist. And because I trust you more than I trust anyone else in this settlement right now."</em></td>
+</tr>
+<tr>
+<td>What about the Band?</td>
+<td><em>"Stays here. In this room. In this wool. I don't want it on the road."</em></td>
+</tr>
+<tr>
+<td>What's the guess you won't commit to?</td>
+<td><em>"That there is more than one of these, and that someone wanted them found in a specific order. I'd like to know if I'm right before I send anyone anywhere."</em></td>
+</tr>
+<tr>
+<td>Should we go north on the Architect's word?</td>
+<td><em>(After the Architect appears — in Session 3.)</em> <em>"That is the question we need to answer in the morning."</em></td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-stitching-drops--read-aloud">The Stitching Drops — Read-Aloud </h2>
+<blockquote>
+<p><em>A sound you had not noticed — a low, constant hum you'd registered so long ago it had become the canyon's silence — stops.</em></p>
+<p><em>Every carved glyph on the upper canyon walls goes dark. Hundreds of them, all at once. The faint amber glow they give off — the glow you've never thought about, because it's just always there — is gone. For one heartbeat, the canyon is only stone and shadow and the ordinary lanterns burning at the market stalls.</em></p>
+<p><em>Then the glyphs come back. Brighter than they should be. They pulse once, twice, then settle into their usual faint amber hum. The background sound returns.</em></p>
+<p><em>One heartbeat. The Stitching dropped.</em></p>
+<p><em>Tajsh is already on his feet. He is looking at Sabel through the window, and Sabel is running toward the outlook. Tajsh says, quietly: "That was bad. That was very bad. Stay here."</em></p>
+</blockquote>
+<h4 id="available-roll">Available Roll </h4>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read what just happened</td>
+<td>Perception ◆◆</td>
+<td>Felt watched. Something just looked at the canyon from outside — and now it knows where you are.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>(GM note — don't reveal:</strong> this is the moment Legio Null gets a fix on the canyon. The flicker also coincides with the Architect's attention reaching the Deep Chamber — its arrival caused it.)</p>
+<h2 id="combat-the-scar-touched-wraithling">Combat: The Scar-Touched Wraithling </h2>
+<p><strong>A <em>thing</em> slips through during the heartbeat the wards drop.</strong> Comes through a wall, a floor, a shadow that wasn't there before.</p>
+<h3 id="read-aloud--the-intrusion">Read-Aloud — The Intrusion </h3>
+<blockquote>
+<p><em>The candle on the shelf — the one Tajsh moved earlier — guttering, pinches itself out. The shelf is in shadow. The shadow is not staying still.</em></p>
+<p><em>Out of the shadow, sand and glass — a humanoid shape made of superheated grit and angled facets, faces hollow where features should be. It moves with uncanny precision — joints too regular, like its limbs were drawn with a ruler. It sees you. Or whatever its hollow geometric cavities do instead of seeing.</em></p>
+<p><em>A claw of glass extends toward the Band on the desk. Initiative.</em></p>
+</blockquote>
+<h3 id="battlefield">Battlefield </h3>
+<p><strong>Default: Tajsh's office.</strong> Cramped — engaged range to all PCs on entry. Desk between them and the Wraithling. Window onto the canyon rim.</p>
+<p><strong>Alternative: the alley outside</strong> if the Sandbox handed off there. More room. More visible to bystanders. Either works.</p>
+<h3 id="stat-block--scar-touched-wraithling">Stat Block — Scar-Touched Wraithling </h3>
+<pre data-role="codeBlock" data-info="" class="language-text"><code>SCAR-TOUCHED WRAITHLING — RIVAL · ABERRATION
+
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |
+|   3   |    3    |     1     |    2    |     2     |     1    |
+
+Wounds: 8 · Soak: 2 · Defense: 0 / 0
+Skills: Brawl 2, Perception 1, Vigilance 1
+
+ATTACK
+  Sync-Slash (Brawl) — Damage 5 · Crit 4 · Engaged · Burn 1
+
+ABILITIES
+  • Out-of-Sync. Once per round, when targeted by an attack, the
+    Wraithling resolves a beat late. Add ◆ (Setback) to the incoming
+    attack roll for the rest of that round.
+
+  • Phase-Step (maneuver). Move from Engaged to Short range through
+    a wall, floor, or shadow. Ignores difficult terrain.
+
+  • Wards-Bound. At the START of round 3 (or when its Wounds reach 0,
+    whichever comes first), the wards re-anchor and the Wraithling
+    DISSOLVES into ash and ozone. The fight ends.
+
+VULNERABILITIES
+  • Cold attacks: +2 damage and disable Out-of-Sync for 1 round.
+  • Fire: IMMUNE (no damage from fire sources; it is already a Burn-type).
+</code></pre><h3 id="tactical-notes-for-the-gm">Tactical Notes for the GM </h3>
+<ul>
+<li><strong>Round 1:</strong> It Phase-Steps to the desk and Sync-Slashes whoever is between it and the Band (or the journal). It will attack the Band-carrier preferentially.</li>
+<li><strong>Round 2:</strong> If wounded, it Phase-Steps away to Short range (through a wall) and re-engages a different target. Uses Out-of-Sync the moment a heavy hitter targets it.</li>
+<li><strong>Round 3:</strong> <strong>Wards-Bound dissolves it at the start of the round, regardless of Wounds.</strong> Even if the PCs haven't dropped it, the wards close and it's gone. <strong>No TPK risk.</strong> Don't telegraph this — let the moment land.</li>
+<li><strong>If a PC uses cold:</strong> Out-of-Sync is disabled for 1 round + extra damage. Norseman with a cold spell, Valeth with aether-quartz channeled cold, anyone with a Frost-Touched weapon — give them the moment.</li>
+</ul>
+<h3 id="quick-reference-combat-rules">Quick-Reference Combat Rules </h3>
+<ul>
+<li><strong>Initiative:</strong> Cool or Vigilance vs. Cool or Vigilance, opposed.</li>
+<li><strong>Engaged → Short:</strong> one maneuver to disengage (Athletics ◆◆ if pursued).</li>
+<li><strong>Maneuver examples:</strong> move one range band, draw weapon, aim, recover.</li>
+<li><strong>Action examples:</strong> attack, cast magic, skill check.</li>
+<li><strong>Strain costs:</strong> spending a second maneuver in a turn = 2 strain.</li>
+</ul>
+<h3 id="damage--soak">Damage &amp; Soak </h3>
+<p>Damage − Soak = Wounds dealt. <strong>Burn 1</strong> = 1 wound bleed at start of next turn unless the PC takes a maneuver to extinguish.</p>
+<h2 id="after-combat--read-aloud">After Combat — Read-Aloud </h2>
+<blockquote>
+<p><em>Whatever it was, it isn't there anymore. The shadow on the shelf is just shadow again. The lantern on Tajsh's desk is steady. Sabel's shouting outside has stopped. Somewhere outside, a child is crying — briefly, then quiet.</em></p>
+<p><em>A knock at the door. A boy from the Warrens. Out of breath.</em></p>
+<p><em>"Cira sent me. She says — she says the Children's Tunnel is open, and it won't wait."</em></p>
+</blockquote>
+<h2 id="ciras-summons-in-person-at-the-mouth-of-the-warrens">Cira's Summons (in person, at the mouth of the Warrens) </h2>
+<p>By the time the party leaves Tajsh's office, Cira is at the mouth of the Warrens. The market is silent. People are looking up. Sabel is on the outlook wall, shouting orders quietly.</p>
+<p>Cira has stopped humming. She is waiting for them.</p>
+<blockquote>
+<p><em>"I cannot follow you where this goes. Listen carefully. Doubt generously. Come back."</em></p>
+</blockquote>
+<p>She steps aside. The tunnel is open.</p>
+<h4 id="if-the-party-hesitates">If the Party Hesitates </h4>
+<blockquote>
+<p><em>"It will not come to you if you stay up here. It will wait. It has waited fifteen hundred years. But while it waits, what is above will find what is below. Go. Now. Please."</em></p>
+</blockquote>
+<h2 id="exit-condition-2">Exit Condition </h2>
+<p>The party descends through the Warrens, past the Schoolroom, past the Sick-Bay, past the Deep Well, into the Children's Tunnel. <strong>Cut to Scene 5.</strong></p>
+<h2 id="time-guardrail-3">Time Guardrail </h2>
+<p>If past <strong>95 min total session time</strong>, <strong>truncate the combat to 1 round of skirmish + the wards close (Wards-Bound triggers early).</strong> Architect time is sacred.</p>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="scene-5-the-architect--climax">Scene 5: The Architect — Climax </h1>
+<blockquote>
+<p><strong>Budget:</strong> 30–40 min · <strong>Cast:</strong> all PCs, the Architect, Cira (bookending) · <strong>Location:</strong> Deep Chamber (pocket-space) · <strong>MUST HIT — protect this time.</strong></p>
+</blockquote>
+<p><strong>Phase structure:</strong> Entry → Naming → Message → Questions → Exit.</p>
+<h2 id="phase-1--entry-5-min">Phase 1 — Entry (5 min) </h2>
+<h3 id="descent--read-aloud">Descent — Read-Aloud </h3>
+<blockquote>
+<p><em>The tunnel narrows as you go. The walls start to feel older than the rest of the settlement — because they are. Lux Æterna was built over someone else's ruin. You've always known that. You just haven't had a reason to care, until tonight.</em></p>
+<p><em>The air cools. The torch flame flickers slower. Slower. Then it stops flickering entirely. It is still burning. It just isn't moving.</em></p>
+<p><em>You reach the chamber. Round, empty, stone. There's nothing here. You've walked to the end of the tunnel system.</em></p>
+<p><em>And then the last of you crosses the threshold.</em></p>
+</blockquote>
+<h3 id="the-transition--read-aloud-slow-pauses-are-doing-work">The Transition — Read-Aloud (slow; pauses are doing work) </h3>
+<blockquote>
+<p><em>The stone behind you is no longer there. Not dark. Not hidden. Not THERE. You don't turn around to check. You know, the way you know where your own hand is, that if you turned around there would be nothing to turn toward.</em></p>
+<p><em>Your torch is still. The flame has not gone out. It is simply holding its shape, like someone pressed pause on it.</em></p>
+<p><em>The air is warm and has no smell. Your breathing is slower than it should be. You aren't running out of air. You aren't getting any, either.</em></p>
+<p><em>Around you — not close, not far, distance isn't the right word here — rings of geometric light rotate in planes that don't intersect the way your eyes expect them to. Symbols you don't know the names of drift past and through each other. Some of them are versions of the three-ring mark. Some of them are things that mark could grow into if you let it keep going.</em></p>
+<p><em>There is no door. There is no floor, but you are not falling. You are, in every sense that matters, standing somewhere that is not a place.</em></p>
+<p><em>And at the center of all of it — not a figure, exactly. A CENTER. A point where the geometry converges and something is looking back.</em></p>
+</blockquote>
+<p><strong>Pause. Let the silence sit. Let a player be the one who speaks first.</strong> When ready, deliver, quiet:</p>
+<blockquote>
+<p><em><strong>"I have been waiting a long time to meet you."</strong></em></p>
+</blockquote>
+<h3 id="pocket-space-properties-gm-reference">Pocket-Space Properties (GM Reference) </h3>
+<ul>
+<li><strong>No time.</strong> 3 hours outside for every 5 minutes inside. Players will not notice.</li>
+<li><strong>No door.</strong> They wait to be released.</li>
+<li><strong>No weapons.</strong> Drawn weapons do nothing. <strong>Discipline ◆◆</strong> to recognize. Failure: they try anyway, feel foolish.</li>
+<li><strong>Echoless voices.</strong> Like speaking inside a glass sphere.</li>
+</ul>
+<h2 id="phase-2--the-naming-710-min">Phase 2 — The Naming (7–10 min) </h2>
+<p>The Architect addresses each PC by name. <strong>Deliver slowly. This is relief, not threat.</strong> Every word is tuned to lower their defenses. Let it land.</p>
+<h3 id="vorn--absent-today">Vorn — ABSENT TODAY </h3>
+<p><strong>Pick one option at the table:</strong></p>
+<p><strong>Option (a) — Foreshadow (recommended):</strong></p>
+<blockquote>
+<p><em>(quiet, like finishing a thought)</em> <em>"...and the stone-line will know me when he comes."</em></p>
+</blockquote>
+<p>The other PCs hear it. None of them know who it means.</p>
+<p><strong>Option (b) — Skip:</strong> the Architect's gaze passes the empty seat without comment.</p>
+<p><strong>If Vorn IS at the table</strong> (full script):</p>
+<blockquote>
+<p><em>"Son of the stone-line. You have a word your grandmother would not speak twice. You know what it is. You felt it when you struck the seam — not fear of falling, but recognition. You were not lost in the dark. You were CALLED there. The hand that reached for you was sent because I could not send my own. What you survived, you survived so that we could stand here now. Nothing is wasted. Not even grief."</em></p>
+</blockquote>
+<h3 id="valeth-aenvalar-elf">Valeth (Aen'valar Elf) </h3>
+<blockquote>
+<p><em>"Child of the long silence. You have walked closer to the truth of things than any of your companions. What did you find, there, in the rooms that are not rooms? You saw something that made you doubt whether you should come back. You came back. That choice is the one I needed. That is why you could hear me from across the veil. That is why the song found you first."</em></p>
+</blockquote>
+<h3 id="yldroth-elf-monk-aentir">Yldroth (Elf Monk, Aen'tir) </h3>
+<blockquote>
+<p><em>"Child of the Aen'tir line. Your fists have remembered how to hold grief and how to release it both. You heal what you strike because you learned, long before you had a teacher, that the body is a text and the hand is the pen. Your brother in silence — Valeth — does not know yet how much you will need to teach him. You will know when."</em></p>
+</blockquote>
+<h3 id="norseman-human-battle-mage">Norseman (Human Battle Mage) </h3>
+<blockquote>
+<p><em>"Son of the northern cold. You carry magic in a world that burns people for carrying it. You have made peace with being both the sword and the hand that wields it — most mages never learn that. The purge will not stop because we wish it to stop. It will stop because someone decides it will. You have been deciding things your whole life that others were too afraid to decide. I came to you because you are already the person this task requires."</em></p>
+</blockquote>
+<h3 id="arden-drakona-mystic--lineage-held-this-session">Arden (Drakona Mystic — <strong>lineage HELD this session</strong>) </h3>
+<p><strong>Pick ONE line at the table. Both withhold the lineage reveal.</strong></p>
+<p><strong>Line A (recommended — "soft watcher"):</strong></p>
+<blockquote>
+<p><em>(the voice softens — only Arden feels the shift, the others hear something cryptic)</em> <em>"Son of cold flame and careful skin. You have learned to be softer than you are, and you have learned it well. I will not ask you to be otherwise. Not tonight."</em></p>
+</blockquote>
+<p><strong>Line B ("seen and unsaid"):</strong></p>
+<blockquote>
+<p><em>(a pause that is too long; the geometry around Arden dims by one degree)</em> <em>"You have practiced not being seen. That is a useful skill. I see you anyway. I will not say what I see. Not here. Not yet."</em></p>
+</blockquote>
+<p><strong>For Arden's player:</strong> unsettling. The Architect has SEEN him and is choosing DISCRETION. Whether protective or manipulative is the player's question.</p>
+<h2 id="phase-3--the-message-5-min">Phase 3 — The Message (5 min) </h2>
+<p>Run as continuous dialogue, not a list:</p>
+<ol>
+<li><em>"The object you carry — what you call the Band — is a fragment of an instrument. Once whole, it was used to reshape the world. It nearly ended. The fragments were scattered to prevent that ending. Two more remain."</em></li>
+<li><em>"I do not know where they are. Fifteen hundred years of watching, and even I cannot see everything. The fragments were hidden by gods. They are hidden from me too."</em></li>
+<li><em>"I am a servant of the Four. I was left behind to watch. To wait. To speak when there was finally someone to speak to."</em></li>
+<li><em>"I have prepared something for you."</em></li>
+</ol>
+<blockquote>
+<p><em>A plinth of folded light rises in front of the party. On it, revealed: a palm-sized circle of dark crystal wrapped in pale metal, slotted in the center. It hums. Valeth hears the note he has been following — except now it is in harmony with itself, and before it was alone.</em></p>
+</blockquote>
+<ol start="5">
+<li><em>"This is a Compass. It will sing when a fragment is near. But it cannot tell you where to begin. You must first learn where to look. Go north. The Dragon's Tooth pierces the sky. At its peak, there stands an observatory built in the age of gods. Its instruments read the stars as mortals read letters. Fragments disturb the heavens. Any lens trained on the sky will see their mark."</em></li>
+<li><em>"Once all three are gathered, they must be brought to a wound in the world, and there they will be unmade. Only there. Nowhere else. That is the task."</em></li>
+</ol>
+<p>The plinth of light remains. The Compass is on it. <strong>A PC may take it at any time — it will not resist.</strong></p>
+<h2 id="phase-4--the-questions-1015-min">Phase 4 — The Questions (10–15 min) </h2>
+<p><strong>Tell players in your GM voice:</strong> <em>"It has said what it came to say. It is waiting. You can ask it anything."</em></p>
+<h3 id="prepared-answers">Prepared Answers </h3>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>What are you?</strong></td>
+<td><em>"A servant. When the Four turned their hands from the world, some were left behind to watch the places that could not be left unwatched. I am what remains of that watching. I am not a god. I do not want worship. I want the world to continue."</em></td>
+</tr>
+<tr>
+<td><strong>Why us?</strong></td>
+<td><em>"Because the Band has answered your hand. Because those of you who carry wounds know how to walk with them. And because you are HERE. Gods plan. Mortals arrive. I have learned to work with what arrives."</em></td>
+</tr>
+<tr>
+<td><strong>Are you good?</strong></td>
+<td><em>"I am useful. Goodness is a mortal accounting, and the accounts are kept by those who survive to keep them. I was left here to prevent a catastrophe. That is the only measure I am prepared to answer for. When this is done, you will decide whether what I did was good. That is your right, not mine."</em></td>
+</tr>
+<tr>
+<td><strong>What comes if we fail?</strong></td>
+<td><em>"A song that the world cannot survive being sung. The best of my language can describe it only as HUNGER GIVEN FORM. It sleeps. The fragments, gathered and wrongly used, would wake it. Gathered and rightly unmade, they would silence it forever."</em></td>
+</tr>
+<tr>
+<td><strong>Why can't you take the Band yourself?</strong></td>
+<td><em>"Because I am not here. What you see is a shape my attention is taking, in a place my attention has reached. I cannot lift a stone. I cannot kill your enemies. I can watch, and speak, and prepare the ground. The rest is for hands that bleed."</em></td>
+</tr>
+<tr>
+<td><strong>How do we know you're telling the truth?</strong></td>
+<td><em>"You do not. You never will, not entirely. Any test I suggest is a test I have prepared for. I will offer what I can: I have told you nothing tonight that you can verify immediately. Go north. Find the observatory. See whether the stars say what I say they say. If they do not, come back and name me a liar. I will still be waiting."</em></td>
+</tr>
+<tr>
+<td><strong>(Valeth) Have you been in the rifts?</strong></td>
+<td><em>"I know what is in them. I know what you did not let them take from you. That knowledge is not the same as the living of it. You have something I do not. It is why I can ask this of you and not of myself."</em></td>
+</tr>
+<tr>
+<td><strong>(Vorn, if present) Did you kill my crew?</strong></td>
+<td><em>(pause)</em> <em>"No. What killed your crew was already walking the thin places long before I knew your name. I could not reach them. I could not reach you, until the seam opened. Yours is a grief I do not know how to carry for you. I am sorry."</em></td>
+</tr>
+<tr>
+<td><strong>What about the ones hunting us?</strong></td>
+<td><em>"The Legio Null will come. Soon. Your settlement was visible from the sky for one heartbeat. That is enough. You must leave this place, and soon. I cannot stop the hunt. I can only tell you to RUN."</em></td>
+</tr>
+<tr>
+<td><strong>Will we see you again?</strong></td>
+<td><em>"When the Compass sings, I will be near. Not always in a form your eyes can hold. But near."</em></td>
+</tr>
+<tr>
+<td><strong>What about the symbol Tajsh saw? / Tajsh wants a book with the same mark.</strong></td>
+<td><em><strong>DIAGNOSTIC.</strong></em> Default — <strong>dismissal:</strong> <em>"Mortal records can wait. The journey north is what matters. The fragments hunger; do not let parchment delay you."</em> Alternative tones: <strong>rushed encouragement</strong> (<em>"Yes — retrieve it on your way. Do not linger."</em>) or <strong>conspicuous silence</strong> (it doesn't acknowledge the topic at all). See the <em>Architect Diagnostic</em> sidebar below for which to pick.</td>
+</tr>
+<tr>
+<td><strong>(Threats / coercion)</strong></td>
+<td><em>(calm, slightly amused)</em> <em>"You are holding a Band you cannot control in a settlement your enemies will find within the week. I am the hand offered to you in the dark. If you prefer another, seek it. I will not chase you. I will be here if you return."</em></td>
+</tr>
+</tbody>
+</table>
+<h3 id="architect-diagnostic--when-the-symbol-comes-up">Architect Diagnostic — When the Symbol Comes Up </h3>
+<p>If a player raises the symbol, the journal, the book on the pedestal, or Tajsh's recognition during Phase 4, <strong>the Architect's response is the loudest signal it will give them this session.</strong> Pick a flavor at the table:</p>
+<ul>
+<li><strong>(Default — recommended) Dismissal.</strong> <em>"Mortal records can wait."</em> Tonally too quick, too final. The Architect wanted that conversation closed.</li>
+<li><strong>Rushed encouragement.</strong> <em>"Yes — retrieve it on your way. Do not linger."</em> Plausible. The urgency feels disproportionate.</li>
+<li><strong>Conspicuous silence.</strong> It does not acknowledge the topic at all even when pressed. Most damning if a Scholar/Archivist or high-Cunning PC notices.</li>
+</ul>
+<p><strong>The truth (GM only):</strong> the Architect needs the disc on the pedestal — it is a resonance key that fits a slot in the Compass. It does not want Tajsh and Ink running an <em>independent</em> analysis. So it dismisses the book to keep the party moving north, but not so prohibitively that they refuse if Tajsh insists.</p>
+<p><strong>Available rolls when the dismissal lands:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read the dismissal's emotional resonance</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+<td>Different tone than the rest of the speech — too quick, too final. The Architect wanted that closed.</td>
+</tr>
+<tr>
+<td>Recognize phrasing as theologically off</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+<td>(Scholar/Archivist) No major theological tradition treats firsthand pre-Paroxysm provenance as "mortal records." Wrong language for a self-described Servant of the Four.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>GM Reminder:</strong> Seeds, not reveals. Players who look will see. Players who don't, won't. <em>Never explain the diagnostic to a player who didn't earn it.</em></p>
+<h3 id="available-skill-checks-cracks-in-the-armor">Available Skill Checks (Cracks-in-the-Armor) </h3>
+<p>Any player may roll. Offer these if a player states an intent:</p>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Check</th>
+<th>Difficulty</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Notice something visually wrong</td>
+<td>Perception</td>
+<td>◆◆</td>
+<td>The Architect casts no reflection in the floating crystal symbols. Nothing else here has this problem.</td>
+</tr>
+<tr>
+<td>Read beneath its composure</td>
+<td>Perception</td>
+<td>◆◆◆</td>
+<td>Anticipation when it speaks of "unmaking." Not relief. <strong>Triumph:</strong> <em>hunger.</em></td>
+</tr>
+<tr>
+<td>Magical signature</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+<td>Divine on surface, <strong>abyssal</strong> underneath. Perfume over rot.</td>
+</tr>
+<tr>
+<td>Environment</td>
+<td>Knowledge (Nature)</td>
+<td>◆◆</td>
+<td>A moth drifted in with you. It is paused mid-flight. Not dead. <em>Paused.</em></td>
+</tr>
+<tr>
+<td>Floating symbols</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+<td>Compositional notation — music for frequencies no mortal throat can produce. The three-ring mark is a <strong>chord. Triumph:</strong> Torvin's sketch was a degraded version.</td>
+</tr>
+<tr>
+<td>Resist the emotional pull</td>
+<td>Discipline</td>
+<td>◆◆</td>
+<td>Recognize the Naming as <em>too</em> tailored. A therapist would call it skill. A spy would call it targeting.</td>
+</tr>
+<tr>
+<td>Coax out more detail</td>
+<td>Charm or Negotiation</td>
+<td>◆◆◆</td>
+<td>Reveals one detail beyond plan. <strong>GM picks:</strong> (a) <strong>Brenn Hallowveil</strong> — the observatory's last living custodian. (b) A Waldkyn Song-Ward master who could train Valeth's anchor.</td>
+</tr>
+<tr>
+<td>Mislead it</td>
+<td>Deception</td>
+<td>◆◆◆◆</td>
+<td>Appears to believe. Half a beat later, one sentence betrays that it did not. Only the rolling player notices.</td>
+</tr>
+<tr>
+<td>Threaten / demand</td>
+<td>Coercion</td>
+<td>◆◆◆◆◆</td>
+<td>Fails. Amused. <em>"You are welcome to try. I have been threatened by better than you and was not moved. Sit down. Or do not. I am not in a hurry."</em></td>
+</tr>
+</tbody>
+</table>
+<h3 id="truth-audit-gm-only--never-read-aloud">Truth Audit (GM only — never read aloud) </h3>
+<table>
+<thead>
+<tr>
+<th>Architect's claim</th>
+<th>Truth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Band is a fragment of a world-altering instrument</td>
+<td><strong>TRUE</strong></td>
+</tr>
+<tr>
+<td>Two more fragments exist</td>
+<td><strong>TRUE</strong></td>
+</tr>
+<tr>
+<td>It does not know where they are</td>
+<td><strong>PARTIAL LIE</strong> (knows approximately)</td>
+</tr>
+<tr>
+<td>It is a servant of the Four</td>
+<td><strong>LIE</strong></td>
+</tr>
+<tr>
+<td>Fragments must be unmade at a wound in the world</td>
+<td><strong>LIE</strong> — will be <em>joined</em></td>
+</tr>
+<tr>
+<td>Go north to the observatory</td>
+<td><strong>TRUE</strong> (the lens really does see fragment resonance)</td>
+</tr>
+<tr>
+<td>"Mortal records can wait" / dismissing the book</td>
+<td><strong>TACTICAL.</strong> It needs the disc on the pedestal to tune the Compass; it dismisses the book so the party doesn't run an independent translation through Ink. Not a lie — a redirection.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="phase-5--exit">Phase 5 — Exit </h2>
+<p>When the questions run out, deliver:</p>
+<blockquote>
+<p><em>"Go north. Take the Band. Take the Compass. Trust the people who love you. Do not trust me further than you have to. This is the only honest thing I will say tonight."</em></p>
+</blockquote>
+<h3 id="read-aloud--collapse">Read-Aloud — Collapse </h3>
+<blockquote>
+<p><em>The geometry folds inward. The planes rotate, then dim. The center-point you have been speaking to contracts to a single point of light, and then that point is gone. You blink.</em></p>
+<p><em>The torch is flickering again. The stone behind you is stone. The floor is under your boots. The Compass is warm in someone's hand.</em></p>
+<p><em>You turn. Cira is at the mouth of the tunnel. She looks at you. She says:</em></p>
+<p><em>"How long were you gone?"</em></p>
+<p><em>One of you answers, "A few minutes."</em></p>
+<p><em>She says, "It has been three hours. I could not see you. I was not sure you were coming back. How do you feel?"</em></p>
+</blockquote>
+<h2 id="phase-6--scene-5-epilogue-tajsh-waiting-3-min">Phase 6 — Scene 5 Epilogue: Tajsh, Waiting (~3 min) </h2>
+<blockquote>
+<p><strong>Budget:</strong> 3 minutes. <strong>No checks. No questions answered. Hook the next session.</strong></p>
+</blockquote>
+<p>As the party climbs back out of the Warrens, Tajsh is on the steps of his Vault, lantern in hand. He has not slept. Sabel is on the rim above. The market is empty. Cira is gone.</p>
+<p>Tajsh looks at them. Looks at the Compass. Looks back at them.</p>
+<blockquote>
+<p><em>"In the morning, I'm asking you for something. Not tonight. Tonight you sleep. But in the morning, I'm asking — and I want you to come hear me out before you decide whether the god of light gets the next word."</em></p>
+</blockquote>
+<p>He doesn't elaborate. He doesn't push. He waits to see if anyone says anything.</p>
+<p><strong>If a player asks what:</strong> <em>"In the morning. Sleep first. Please."</em></p>
+<p><strong>If a player presses harder:</strong> <em>"It's about a book Torvin saw. And a symbol. And whether the only voice you trust tonight is the one that knew your names before you walked in the room. That's all I'm saying tonight. Get some sleep."</em></p>
+<p><strong>If they refuse to wait:</strong> he holds the line. <em>"Morning. I'm not negotiating this one. Be in the Vault at first light, or don't, and we'll see where we are."</em></p>
+<p><strong>The hook is set.</strong> The Two-Sources Pitch and the Branching Choice play out in <strong>Session 3 opening</strong> — see the campaign master document, <em>The Morning After: Tajsh's Two-Sources Pitch</em> and <em>The Branching Choice.</em></p>
+<h2 id="closing-the-session">Closing the Session </h2>
+<p><strong>Ask each player, in character, ONE sentence only:</strong> <em>"How do you feel?"</em></p>
+<p>Go around the table. Each player, one sentence. <strong>No discussion.</strong> When the last has spoken:</p>
+<blockquote>
+<p><em>"That's where we leave it for tonight. Good game, everyone."</em></p>
+</blockquote>
+<h2 id="xp-award-suggested">XP Award (suggested) </h2>
+<table>
+<thead>
+<tr>
+<th>Award</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>All PCs base</td>
+<td><strong>15 XP</strong></td>
+</tr>
+<tr>
+<td>Bonus for driving Revelation or Architect dialogue</td>
+<td>+5 XP</td>
+</tr>
+<tr>
+<td>Lux Æterna reputation +1 if Petra was helped</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Vorn (if attended)</td>
+<td>+5 XP for new-PC integration carryover</td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="appendix-a--all-rolls-cheatsheet">Appendix A — All Rolls Cheatsheet </h1>
+<p>Every check the players might make this session, organized by scene. <strong>Flip here when a player says "I want to..."</strong></p>
+<h3 id="scene-1--ride-back">Scene 1 — Ride Back </h3>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cairn</td>
+<td>Spot it</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Cairn</td>
+<td>Read clan-mark</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Dunes</td>
+<td>Find shortcut</td>
+<td>Survival</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Band</td>
+<td>Resist whisper</td>
+<td>Discipline</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Stitching</td>
+<td>Sense the weave</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="scene-2--arrival">Scene 2 — Arrival </h3>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Slot canyon</td>
+<td>Read the wrongness</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Slot canyon</td>
+<td>Sense mana state</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Slot canyon</td>
+<td>Notice off-pattern signal</td>
+<td>Vigilance</td>
+<td>◆◆◆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="scene-3--sandbox">Scene 3 — Sandbox </h3>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vault</td>
+<td>Read what Tajsh isn't saying</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Vault</td>
+<td>Spot back-room wards</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Vault</td>
+<td>Read upstairs ledger</td>
+<td>Skulduggery</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Lantern</td>
+<td>Strike up rumors</td>
+<td>Charm (Presence)</td>
+<td>◆</td>
+</tr>
+<tr>
+<td>Lantern</td>
+<td>Eavesdrop</td>
+<td>Streetwise (Cunning)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Lantern</td>
+<td>Bone-Dice</td>
+<td>Skulduggery, opposed</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Lantern</td>
+<td>Read Marta's tension</td>
+<td>Perception</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Crystal Counter</td>
+<td>Help Hask brew</td>
+<td>Knowledge (Nature/Medicine)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Crystal Counter</td>
+<td>Notice eyepatch</td>
+<td>Perception</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Crystal Counter</td>
+<td>Read Hask's mood</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Cira's Corner</td>
+<td>Read what she's hiding</td>
+<td>Perception</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Cira's Corner</td>
+<td>(Lothari only) Recognize sigil</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Iron Shelf</td>
+<td>Haggle</td>
+<td>Negotiation</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Needle &amp; Thread</td>
+<td>Help retouch glyph</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Needle &amp; Thread</td>
+<td>Read Selin's exhaustion</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Needle &amp; Thread</td>
+<td>Spot self-sustaining design</td>
+<td>Perception</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Warrens</td>
+<td>Investigate still water</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Warrens</td>
+<td>Spot chisel marks at tunnel</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Warrens</td>
+<td>Read ozone smell</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Warrens</td>
+<td>Squeeze through Tunnel</td>
+<td>Athletics</td>
+<td>◆</td>
+</tr>
+<tr>
+<td>Warrens / Sick-Bay</td>
+<td>Heal at Oram</td>
+<td>Medicine (NPC roll)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Outlook</td>
+<td>Pull tactical info</td>
+<td>Streetwise or Vigilance</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Outlook</td>
+<td>Read desert</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Outlook</td>
+<td>Spot Bolt Hole</td>
+<td>Perception</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Outlook</td>
+<td>Use Signal Rock</td>
+<td>Knowledge (Education)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Outlook</td>
+<td>Read Sabel's exhaustion</td>
+<td>Perception (Cunning)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Schoolroom</td>
+<td>Find a book on the symbol</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Schoolroom</td>
+<td>Test practice circle</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Schoolroom</td>
+<td>Borrow a book</td>
+<td>Negotiation or Charm</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Grey Flame</td>
+<td>Read the stranger</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Grey Flame</td>
+<td>Identify their cloak</td>
+<td>Knowledge (Education) or Streetwise</td>
+<td>◆◆◆◆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="scene-4--revelation--combat">Scene 4 — Revelation &amp; Combat </h3>
+<table>
+<thead>
+<tr>
+<th>Where</th>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Office</td>
+<td>Read what just happened (flicker)</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Combat</td>
+<td>Initiative</td>
+<td>Cool or Vigilance</td>
+<td>opposed</td>
+</tr>
+<tr>
+<td>Combat</td>
+<td>Disengage from Wraithling</td>
+<td>Athletics</td>
+<td>◆◆</td>
+</tr>
+</tbody>
+</table>
+<h3 id="scene-5--the-architect">Scene 5 — The Architect </h3>
+<table>
+<thead>
+<tr>
+<th>Intent</th>
+<th>Skill</th>
+<th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Notice no reflection</td>
+<td>Perception</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Read its anticipation</td>
+<td>Perception</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Read its book/symbol dismissal as off-tone</td>
+<td>Perception (Cunning)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Magical signature</td>
+<td>Knowledge (Arcana)</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Paused moth</td>
+<td>Knowledge (Nature)</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Read floating symbols</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Recognize "mortal records" phrasing as theologically wrong</td>
+<td>Knowledge (Lore)</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Resist Naming pull</td>
+<td>Discipline</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Recognize drawn weapons useless</td>
+<td>Discipline</td>
+<td>◆◆</td>
+</tr>
+<tr>
+<td>Coax extra detail</td>
+<td>Charm or Negotiation</td>
+<td>◆◆◆</td>
+</tr>
+<tr>
+<td>Mislead it</td>
+<td>Deception</td>
+<td>◆◆◆◆</td>
+</tr>
+<tr>
+<td>Threaten</td>
+<td>Coercion</td>
+<td>◆◆◆◆◆</td>
+</tr>
+</tbody>
+</table>
+<div style="page-break-after: always;"></div>
+<hr>
+<h1 id="appendix-b--player-agency-contingency-table">Appendix B — Player-Agency Contingency Table </h1>
+<table>
+<thead>
+<tr>
+<th>If players…</th>
+<th>…respond with</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Refuse to give Tajsh the Band</td>
+<td>Tajsh doesn't push. Effects worsen overnight (cold spots, candle won't relight). Cira summons them anyway.</td>
+</tr>
+<tr>
+<td>Try to leave town before Revelation</td>
+<td>Sabel intercepts at the dogleg. Stitching is dropping; no one leaves until ward-tenders re-anchor (~30 min pause they can fill in Sandbox).</td>
+</tr>
+<tr>
+<td>Refuse to descend to the Deep Chamber</td>
+<td>The chamber comes to them. The Children's Tunnel exhales cold across the Warrens. Cira: <em>"It will not wait, and it will not come up."</em></td>
+</tr>
+<tr>
+<td>Attack / test the Architect physically</td>
+<td>It does not defend itself. Geometry dims. <em>"Then you do not yet need me. Find me when you do."</em> — exits early. The Compass remains in someone's hand.</td>
+</tr>
+<tr>
+<td>Accept the Architect's word entirely without probing</td>
+<td>That's fine. The wrongness will surface in later sessions when the Compass leads them somewhere it shouldn't.</td>
+</tr>
+<tr>
+<td>Skip shopping entirely</td>
+<td>Hask flags them down himself. <em>"You'll want this where you're going."</em> Pushes Sand-Eye Drops at half price.</td>
+</tr>
+<tr>
+<td>Pursue Selin's ward-shutdown plan</td>
+<td>Foreshadow only. Won't pay off until later.</td>
+</tr>
+<tr>
+<td>Confront the silent stranger at the Grey Flame</td>
+<td>He won't speak. Won't look up. Doesn't move. Slow burn — nothing happens this session.</td>
+</tr>
+<tr>
+<td>Try to identify the Wraithling after the fight</td>
+<td>A Knowledge (Lore) ◆◆◆◆ check tells them: a <strong>Scar-spawn</strong> like the Scorch-Wraiths from the mining camp — but warped. The temporal field has been working on it. <em>Don't volunteer that the Architect's arrival caused this.</em></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h1 id="appendix-c--pre-session-verification-checklist">Appendix C — Pre-Session Verification Checklist </h1>
+<ul>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> All NPC pages in <code>SESSION-02-NPCs.md</code> skimmed</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> All Location pages in <code>SESSION-02-Locations.md</code> skimmed</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Wraithling stat block (Scene 4) ready</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Architect Naming script — Vorn option chosen, Arden line A or B chosen</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Resonance Compass description ready as handout (optional)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Three-ring symbol card located (reuse from Session-01 handouts)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Time budget confirmed: ~110 min + ~10 min buffer (includes 3-min Scene 5 Epilogue)</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Players reminded: ~2 hours, climax non-negotiable, decisions matter</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> Burial assumption confirmed — buried = default; alt flavor available</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> <strong>Tajsh's deferred-ask reframe:</strong> Scene 4 ends with Tajsh saying <em>"I need a night with this"</em> — NOT giving a quest. The pitch is in Session 3.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> <strong>Architect diagnostic decided:</strong> which flavor (dismissal / rushed / silent) if a player raises the symbol/book in Phase 4.</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox"> <strong>Scene 5 Epilogue:</strong> Tajsh-on-the-Vault-steps line memorized — sets the Session 3 hook.</li>
+</ul>
+<hr>
+<p><strong>END OF GUIDE.</strong></p>
+<p><em>Companion files: <code>SESSION-02-NPCs.md</code> (NPC reference) · <code>SESSION-02-Locations.md</code> (location reference) · <code>SESSION-02-PLAN.md</code> (planning document, archival).</em></p>
+</div>
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

@@ -49,7 +49,8 @@ relationships:
   metadata:
     description: Hired by Tajsh's operation; newly returned and newly bonded to the relic-hunting crew.
 campaign-notes:
-  role: Primary employer; quest-giver; reluctant father figure to the settlement
+  role: Primary employer; quest-giver; reluctant father figure to the settlement; **the grounding skeptic** — human voice
+    against the Architect's divine voice
   voice: Speaks fast, finishes other people's sentences incorrectly, uses humor to deflect. Polishes whatever he's holding
     — coin, cup, artifact shard — when nervous.
   secret: Skims 10% off every relic sale into a hidden emergency evacuation fund. Still has active Shadewalker contacts he
@@ -63,6 +64,11 @@ campaign-notes:
   - Hires Shadewalker archivist Ink to identify the Ulzammar Band when they bring it back
   - Knows more about the Band's provenance than he initially admits — a single deep-archive briefing from his Shadewalker
     years
+  - On Session 2 Scene 4, recognizes the three-ring symbol but **DEFERS the ask** — does not yet send the party for the pedestal
+    book; that pitch comes after the Architect, in Session 3
+  - Session 3 opening — **Two-Sources Pitch.** Pulls the party aside privately and asks them to retrieve the pedestal book
+    as a *second source* before they trust the Architect's directive. Two sources is a Shadewalker discipline. He does not
+    call the Architect a liar; he calls it *unverified.* The distinction is load-bearing.
   - If the evacuation fund is discovered, the party learns it's in an external cache, not the settlement — he was planning
     for a scenario where the settlement has to be abandoned
 tags:
@@ -110,3 +116,20 @@ When Ink identifies the Ulzammar Band, the relationship becomes complicated.
 Tajsh should feel like the most competent adult in any room — not because he's more powerful, but because he's been at this longer. Let him be right about the small things, often, so that when he's wrong about the big thing (trusting the Architect longer than he should), it lands harder.
 
 His relationship with the party should develop naturally from employer → trusted employer → something like family. He will not use that word. He may, once, late in the campaign, use their first names.
+
+## The Grounding Skeptic — Two-Sources Posture
+
+After the Architect appears in Session 2, Tajsh becomes the campaign's quiet counterweight to its divine voice. He is not an antagonist to the Architect; he is the Shadewalker discipline asserting itself: *two sources before action.*
+
+**Phrasing rules for the GM:**
+
+- He does **not** say *"I think it's lying."*
+- He does **not** call the Architect a con.
+- He says: *"I trust evidence. The Architect is not evidence yet."*
+- He says: *"Two sources. That's all I'm asking for."*
+
+The earned-suspicion principle works because the *players* reach the conclusion. Tajsh provides the language and the request. The judgment is theirs.
+
+**Pitch venue:** never in the Vault when the Architect could (theoretically) be listening. He pulls the party aside above the Crystal Counter, in Marta's "policy" back-room, or on the Outlook with Sabel present. The privacy itself is part of the message.
+
+**Watch the polish-tell:** when he is nervous about the pitch, he polishes his thumb-ring without realizing. If a player sees it and notes it, he doesn't deflect. He says: *"You read me. Good. Then you understand I'm not asking for fun."*

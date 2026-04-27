@@ -79,3 +79,13 @@ If the Legio Null ever identifies Lux Æterna, Sabel is not just a mage-protecto
 Sabel is the campaign's moral weight. He doesn't moralise — he acts, and his actions show what he believes. Let him be tired. Let him be wrong sometimes (he's slower to trust the Architect's information than most, which is correct, but he's also slower to act on it). Let him earn his first-name use with each party member at a different point.
 
 He will sacrifice himself if required. He will not do it dramatically. He will do it the way he does everything: quietly, efficiently, making sure someone else has the water first.
+
+## Current State (Session 2)
+
+**Day five with no sleep.** Functional. Not okay. He has run on less before; he has not done it gracefully. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #13. A PC who brings him tea quietly without commenting earns a rep slot — Sabel doesn't acknowledge it, but he remembers. A PC who tells him he should sleep gets *"Noted."* and a wall.
+
+**The Bolt Hole carve mark.** Sabel found a Legio Null gear-and-chain symbol scratched into the stone near the concealed Bolt Hole exit, roughly a week old. Not freshly carved. He has not told Tajsh yet — he is checking it daily for changes and weighing whether the carver was someone outside (warning) or inside (signal). **Tajsh knows about the mark independently** (he checks the Bolt Hole every morning) and is being patient. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #16.
+
+**Why this matters dramatically:** the carve mark is the first concrete tell that Lux Æterna's anonymity is failing — earlier than the Stitching flicker, earlier than the Architect's arrival. Sabel and Tajsh are both holding it without telling each other, which is exactly the kind of error two competent people make under enough pressure. PCs who broker the conversation between them — *"Have you talked to Sabel about it?" / "Have you told Tajsh?"* — accelerate Act I's emergency response.
+
+**Available roll:** Perception ◆◆◆ at the Bolt Hole reveals the carver was right-handed, worked slowly, in daylight, with calluses worn into the stone around the mark from sustained pressure. **Not someone hiding.** This is the detail that flips it from threat-warning to friend-signal — but PCs have to investigate and read it correctly.

@@ -74,3 +74,13 @@ Selin has been sitting on this for four months.
 Selin is the settlement's technical conscience — the person who sees the engineering problem clearly and is slowed by the human problem of communicating it. Her secret is an Act I optional objective that can give players real agency over the settlement's survival trajectory.
 
 Let her expertise show in small ways: she notices things nobody else would, corrects small assumptions about how magic works, occasionally touches a canyon wall with a focused expression and makes a note. She should feel like someone who is always quietly monitoring three problems simultaneously, only one of which is visible at any moment.
+
+## Current State (Session 2)
+
+**The fight with Marta.** Selin asked [[Marta Dustborn]] last week to close the Dusty Lantern for two nights so she could attempt a partial glyph re-seat without the canyon humming with drunk-mage energy. Marta refused. Selin heard it as *"your work is not as important as my tavern"* — which was not what Marta meant. Selin hasn't been back to the Lantern since, despite Marta leaving a half-loaf at her shop door each morning. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #4.
+
+**Why she's hurt:** the Lantern closure was Selin's compromise. The full re-seat would require a 48-hour aversion-field shutdown (the load-bearing version of the secret in this file). She floated the two-night version because she thought Marta would see it as the more reasonable ask. Marta refusing the smaller version made the larger version unspeakable. Selin has been carrying this alone for a week and is closer to breaking than she has ever been.
+
+**The bread is working slowly.** Selin notices the bread at her door each morning. She does not eat it where Marta could see. She does eat it. She has not given it back. **A PC who reads this small detail can catalyze reconciliation** — Charm ◆◆ to Marta or Selin individually, or Negotiation ◆◆◆ to broker the conversation directly. Reconciliation does not unlock the 48-hour plan, but it does unlock Selin re-engaging with the Lantern, which Marta has been quietly destroyed by.
+
+**Player-facing payoff:** if a PC manages to broker the conversation between Marta and Selin, Selin tells them about the 48-hour plan first — before she tells anyone else. That is the shape of her trust.

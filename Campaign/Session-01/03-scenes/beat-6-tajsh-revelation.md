@@ -1,5 +1,14 @@
 # Beat 6 — Tajsh's Revelation
 
+> **⚠ STATUS: DEFERRED + REFRAMED.** This beat did not run in Session 1 — it has been moved to Session 2 (see `Session-02/SESSION-02-Guide.md` Scene 4) and **the ask has been reframed**. The original draft below has Tajsh asking the party for the pedestal book *here*, before the Architect appears. The current canon is:
+>
+> 1. **Session 2 Scene 4** — Tajsh recognizes the symbol but **DEFERS** the ask. He says *"I need a night with this. Eat. Rest. I'll send for you when I know what I'm asking."*
+> 2. **Session 2 Scene 5** — The Architect appears.
+> 3. **Session 2 Scene 5 Epilogue (Phase 6)** — Tajsh waits on the Vault steps and hooks Session 3.
+> 4. **Session 3 opening** — **Two-Sources Pitch + Branching Choice.** Tajsh asks the party privately to retrieve the pedestal book as a *second source* before they trust the Architect's directive. See `full-campaign.md` *The Morning After: Tajsh's Two-Sources Pitch* and *The Branching Choice*.
+>
+> The text below is **archival**. Useful for the symbol-recognition monologue (which is preserved). Do **not** deliver the *"There is a book…"* paragraph as written — that ask is now Session 3.
+
 **Budget: 10–15 minutes**
 **Location:** Tajsh's Office, Lux Æterna
 **Characters present:** All 5 PCs + Tajsh

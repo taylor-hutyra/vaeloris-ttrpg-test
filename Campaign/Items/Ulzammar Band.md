@@ -107,6 +107,15 @@ Slows aging of anything within its field (not known to the party in Session 1).
 
 The three-ring symbol on the pedestal in the ruin is a **chord** — not a rune — and the Band sings one of the three notes.
 
+## Companion Objects on the Pedestal (in the abandoned mine)
+
+Torvin Dast's journal describes a stone pedestal across a chasm in an abandoned First Age mine — a day's ride before the mining camp. On the pedestal:
+
+- **The Book** — an Ulzammar construction record for the Crown pieces. Technical, not narrative. Written in pre-Paroxysm notation. Ink can partially read it. **Translation seam:** the text uses *nau-ëra-thol* ("returned to unity") for the Crown's purpose, where the Architect uses "unmade." This is the splinter that lets perceptive players begin to theorize.
+- **The Crystalline Disc** — palm-sized, inscribed with the same three-ring symbol. A **resonance key.** It fits a slot in the Resonance Compass exactly. If placed, the Compass becomes substantially more accurate at locating other Crown fragments — which is exactly what the Architect wants. The disc is the campaign's first quiet ticking bomb: even pursuing Tajsh's "skeptical" path (retrieving it) ultimately serves the Architect's goal. There are no purely safe choices.
+
+**Retrieval is now an Optional Detour** — it depends on whether the party accepts Tajsh's Two-Sources Pitch in Session 3 opening (see `full-campaign.md` *The Branching Choice*). If retrieved, run *Optional Detour: The Pedestal Book* and *Ink's Translation — The Splinter* in the campaign master document.
+
 ## Appearances
 
 - Found: [[04-scene-the-camp-aftermath|Chapter 1 Scene 4]].

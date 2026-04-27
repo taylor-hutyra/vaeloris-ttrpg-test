@@ -72,3 +72,11 @@ When the Ulzammar Band arrives in the settlement, if he removes the patch to exa
 Hask's secret — the mage-touched eye — is a reveal that should happen when it's most useful narratively, not at the first opportunity. Let players notice the patch doesn't sit quite right, let them wonder, let the question build. When they find out, it should feel like they earned it.
 
 He connects to the Orkin background player character specifically: he knows what the Quarters are like, he knows what it costs to walk away from a community, and he will recognize someone who made the same choice without saying anything about it for weeks.
+
+## Current State (Session 2)
+
+**Hasn't eaten in two days.** Marta has been leaving stew at his shop door each evening. He hasn't touched it. Tajsh has noticed and won't ask — see [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #10. Hask will deflect any direct question about food: *"I'm working. I'll eat when I'm done."* He won't say what he's working on.
+
+**The reason (GM only):** he saw the Ulzammar Band's effect on the mana field with his uncovered eye on the day it arrived in the Vault, and he has been awake processing what it means ever since. He has not told anyone what he saw. He suspects the Band is not just measuring time — it's *waiting* for something. He has no framework for what.
+
+**Player-facing payoff:** A PC who quietly leaves food without commenting earns rep with Hask permanently. A PC who pushes him to eat gets nothing. A PC who notices the eyepatch sitting differently and asks gently — Perception ◆◆◆, then Charm or Streetwise ◆◆◆ — gets the first hint of the mage-touched eye reveal.

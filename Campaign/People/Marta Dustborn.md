@@ -79,3 +79,13 @@ During the Act I evacuation, Marta has her pack ready and is doing everything ri
 Marta is the settlement's emotional core. She should be the NPC who makes players feel most at home in Lux Æterna, which means the cost of leaving — and the cost of losing what they're leaving — is partially about her. The pre-adventure micro-scene where she asks for their names and writes them down is load-bearing. Don't skip it. Don't rush it.
 
 Let her be competent at practical things: she runs a complex logistics operation every day, she manages multiple interlocking social relationships, she maintains the neutral zone under real pressure. She is not just warmth. She is warmth that has survived eleven years of this.
+
+## Current State (Session 2)
+
+**The bread at Selin's door.** Last week [[Selin Voss]] asked Marta to close the Lantern for two nights so she could attempt a glyph re-seat without the canyon humming with drunk-mage energy. Marta refused — *"the day I close the Lantern is the day I stop loving anyone"* — and Selin took it as personal. Selin hasn't been back for a meal since. Marta has been leaving a wrapped half-loaf and a small tin of butter at Selin's shop door each morning. It is an apology. Neither of them will say so. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #4.
+
+**Hask's untouched stew.** Marta has also been leaving stew at Hask's door each evening, knowing he won't eat it. She does it anyway. *(See Hask, Current State.)* This is the shape of her caring — she does not stop because the gesture is unreceived.
+
+**The silent stranger.** A refugee arrived two weeks ago and has asked no questions, taken no work, spoken to no one. Marta has been watching them eat alone every night. She started leaving bread at the Grey Flame shrine where they sit. It is gone every morning. She doesn't know if they are taking it or someone else is. She has not told anyone she is watching. See [[Lux Æterna]] Tension Hook #6.
+
+**PC interaction notes:** Marta won't volunteer any of these threads. They surface only if a PC asks the right question or notices the bread on a relevant doorstep. Perception ◆◆◆ at the Lantern (during a meal beat) catches her watching the door more than the bar.

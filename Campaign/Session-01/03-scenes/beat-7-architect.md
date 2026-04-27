@@ -1,5 +1,7 @@
 # Beat 7 — The Architect
 
+> **⚠ STATUS: DEFERRED to Session 2.** This beat did not run in Session 1. It is now Session 2 Scene 5 — see `Session-02/SESSION-02-Guide.md` Phase 1–5 for the playable version, which adds the **Architect Diagnostic** (the Architect's reaction when a player raises Tajsh's symbol or the pedestal book). The text below remains accurate for the Naming, Message, and Questions phases. Use the Session-02 Guide for the diagnostic Q&A row and the Phase 6 Epilogue (Tajsh, waiting).
+
 **Budget: 25–30 minutes** (the session's centerpiece)
 **Location:** The Deep Chamber, via the Warrens
 **Characters present:** All 5 PCs + the Architect (+ Cira bookending)

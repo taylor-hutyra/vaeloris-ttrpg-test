@@ -70,3 +70,11 @@ If Norseman intervenes and identifies himself as a fellow mage, Petra will find 
 - [[02-Lux-Aeterna|Chapter 2 — Lux Æterna]]: Scene 2 (the Well), briefly in Scene 3 morning if Norseman seeks her out.
 - The Night the Lantern Was Full: later in Act I.
 - The fall of [[Lux Æterna]]: end of Act I.
+
+## Current State (Session 2)
+
+**She has been practicing in the Warrens at night** — alone, when she can't sleep, in a side-passage that nobody uses. She burned her hand again two days ago. [[Aldric Greypen]] found her, healed it without making her cry, and did not tell her parents. He should. He won't. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #12.
+
+**Why she practices alone:** because every time she practices in front of someone, the *someone* flinches, even people who try not to. She is ten years old and she has correctly read every involuntary microexpression in her life. The Warrens at night is the only place she can practice without flinching at herself.
+
+**Norseman hook (continued from her main scene):** if Norseman engages with her at the Well and she trusts him, she may quietly ask if he'd practice with her at night. Not for instruction. For the company of someone who won't flinch. That request — if accepted — becomes the load-bearing relationship that pays off when the settlement falls.

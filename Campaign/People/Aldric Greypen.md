@@ -91,3 +91,19 @@ If Aldric dies without passing this on, the chain ends. The Decree wins through 
 Aldric's memory is the campaign's hidden resource — the kind that matters in Act III when the party needs to understand what the Crown actually does and what it could do differently. Don't make it obvious. Let him slip a detail here and there, let players build the picture from fragments. The moment when they realize what he's been carrying is earned, not delivered.
 
 His terrible memory for names is played for warmth, not comedy. He genuinely tries. He apologizes genuinely when he gets it wrong. The first time he gets a player character's name right without prompting is a moment worth noting.
+
+## Current State (Session 2) — The Scorched Rooms
+
+**Aldric knows who caused the nightmare-burst.** Last week, a young mage in the Warrens lost control during a nightmare and a fire-blast scorched two chambers, displacing three families to the market. Nobody has reported the incident to [[Warden Sabel]]. Aldric knows the mage. Aldric is sheltering him in the Schoolroom. See [Tajsh Intel](../Session-02/Tajsh%20Intel.md) #14 and [[Lux Æterna]] Tension Hook #3.
+
+**The mage:** a 17-year-old apprentice named **Hennel** — Aldric's most promising current student. The fire-blast was triggered by a recurring nightmare about his sister, who was killed in an Argentum purge two years ago and whose body Hennel found. He has been refusing sleep ever since the incident, surviving on Lothari stim-tea Aldric brews for him. The next nightmare will be worse.
+
+**Why Aldric is protecting him:** because reporting Hennel to Sabel means displacement, possibly exile from the settlement. Aldric believes — correctly — that exile is a death sentence in the current desert pressure. He believes — possibly incorrectly — that he can teach Hennel control before another incident. He has never done this on a five-day timeline before.
+
+**PC intervention:**
+
+- *Confront Aldric directly:* he won't lie. He'll say *"I am asking you to give me a week. Talk to Hennel first. If, after talking to him, you still believe Sabel needs to know, I will not stop you."* This is genuinely his offer.
+- *Talk to Hennel:* Aldric will allow it if asked respectfully. Hennel is articulate, terrified, and ashamed. He is not a danger by intent — only by sleep. Medicine ◆◆◆ or Knowledge (Arcana) ◆◆◆ from a PC may identify a workable approach: Cira's Dreamcatch (Hask sells it for 25 Lumens) used in conjunction with Aldric's control exercises could break the nightmare cycle in three nights.
+- *Report to Sabel:* Sabel will quietly relocate Hennel to the Bolt Hole hideout outside the canyon "until things settle." Aldric will be coldly polite to the reporting PC for the rest of the session. Hennel survives but is severed from the settlement — and from Aldric's teaching.
+
+**Carry-forward:** Hennel is a recoverable thread. Whatever the party chooses, his fate marks the table — a quiet metric of what the settlement is willing to lose to remain safe, or how it adapts when it stops being able to be safe.
