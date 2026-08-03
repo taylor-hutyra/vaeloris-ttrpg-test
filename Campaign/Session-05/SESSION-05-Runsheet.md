@@ -52,7 +52,7 @@ This is the load-bearing lore beat of the session. Labeling per the ground rules
 | § | Beat | Target | Status |
 |---|------|--------|--------|
 | 1 | **Camp & Approach** | 10–15 min | color |
-| 2 | **The Ruin of Sorath** — short dungeon dive (threshold, trap, guardian hall) | ~30 min | PROTECT |
+| 2 | **The Ruin of Sorath** — short dungeon dive (threshold, trap, **the Rule of Sorath**) | ~30 min | PROTECT |
 | 3 | **The Pedestal & the Book** — ripping it open | 10–15 min | MUST HIT |
 | 4 | **The Architect Returns** — translation, the Gem | 20–30 min | MUST HIT |
 | 5 | **The Completion** — assembly at range | 15–20 min | CLIFFHANGER build |
@@ -62,7 +62,7 @@ This is the load-bearing lore beat of the session. Labeling per the ground rules
 | 9 | **Thalric's Return** | 10–15 min | CLIFFHANGER |
 | — | Buffer | 10–15 min | — |
 
-**Cut order if long:** compress §1 to one paragraph → drop the trap in §2B and go straight to the Guardian Hall → run the guardian fight as a single hard round instead of the full IN-STEP encounter → trim the Architect's Q&A tendencies in §4 (he doesn't take questions tonight the way he used to; he's in a hurry now, playing a different register). **Never cut** the Unveiling (§6) or the Collapse (§8) — the session doesn't work without either.
+**Cut order if long:** compress §1 to one paragraph → drop the trap in §2B and go straight to the Guardian Hall → run the **Fast version** of the Rule (three configurations, two marks, no Stakes — printed at the end of §2C) → trim the Architect's Q&A tendencies in §4 (he doesn't take questions tonight the way he used to; he's in a hurry now, playing a different register). **Never cut** the Unveiling (§6) or the Collapse (§8) — the session doesn't work without either.
 
 ---
 
@@ -85,6 +85,8 @@ No mechanical stakes here — this is the held breath before the delve. Move to 
 
 Keep this brisk and physical — three short beats, classic dungeon shape, in and out in about half an hour. This is not the session's danger budget; save that for the Unveiling and the Collapse.
 
+> **What changed here, and why (GM):** the guardian is no longer Scorch-Wraiths. The party has fought that fight twice — Session 1 at the camp, Session 4 in the gallery — and a third round of the same silhouette with the same answer teaches them nothing. **§2C is now an action-oriented set-piece against a First Age automaton**, built so the players read it rather than roll at it: it acts three times a round on interleaved slots running the same visible work-cycle, it names each attack one PC turn before it lands, it can't be killed by damage until three objectives are down, and it punishes repetition instead of rewarding the cold-and-song button. **It is tuned to be readable and quick, not lethal** — three or four rounds, small opt-in damage, and a hard rule that it cannot drop anyone. Cold does not hurt it *at all*, which is a deliberate, load-bearing failure: when frost catches on the Architect in §7 it should be the first thing all night that the trick has worked on.
+
 ### A — The Threshold (~5 min)
 > *The door is stone, man-height, carved with the same three-ring mark that's followed you since the mine — except here it isn't scattered. It's a single mark, enormous, centered, deliberate. Beneath it, scratched crudely into the stone in a hand that isn't First Age at all: two words, recent, maybe a year old. **"NOT THIS."***
 
@@ -102,42 +104,158 @@ The door isn't locked, isn't trapped, isn't guarded. It just opens — too easil
 
 *(Nice color beat, not a puzzle to belabor: if a player tries something clever — humming the pulse back at the walls, having Vorn read the stonework, using Valeth's anchor-note to "answer" the rhythm rather than just matching it — reward it. This is the ruin's one moment of asking the party to be orderly before it asks them, upstairs, to be anything but.)*
 
-If the alarm-note rings, skip ahead: the guardians in §2C are already moving before the party reaches them.
+**The pulse is not ambience — it's the thing in §2C, idling.** Establish it hard here: steady, patient, measurable. When it changes tempo at the top of the Guardian Hall read-aloud, every player who was paying attention in this corridor should feel their stomach drop before you've described anything.
 
-### C — The Guardian Hall (~15–20 min)
-> *The corridor opens into a hall broken pillars, a First Age ceiling half fallen in, cold pooling along the floor like ground-fog from somewhere further down and further wrong. And rising out of the drifted sand between the pillars: shapes you've fought before — but many, and moving in step, in rhythm, in order.*
+If the alarm-note rings, skip ahead: the Rule in §2C is already standing and turning before the party reaches the hall (see the note at the end of §2C).
 
-The synchronized guardian fight — this is the table's cold-and-song combo getting one more workout before it matters against something much bigger. No Tajsh in a doorway shouting useful things this time; the party reads the room on their own.
+### C — The Guardian Hall: THE RULE OF SORATH (~15 min)
+
+> *The corridor opens into a hall, and for a moment it is only a hall — broken pillars, a First Age ceiling half fallen in, drifted sand, cold pooling along the floor from somewhere further down and further wrong. At the far end, a door: sealed once, broken open recently, by picks. Torvin's crew got this far.*
+>
+> *Then the pulse you have been walking on for the last two hundred feet changes tempo. And one of the pillars takes a step.*
+>
+> *It was never a pillar. It has simply been standing very still for fifteen hundred years, and the ruin grew up around the habit. Three rings of pale metal — the same metal as the Band, the same veins — hang nested around an armature of stone and fused glass, and they begin, slowly, to turn. It stands three times the height of a man. It has no face. It has an **aperture**, where the three rings cross, and the aperture is pointed at you.*
+>
+> *Along the walls, three of the ten thousand carved marks light up from the inside, one after another, like lamps coming on in a house that just heard someone at the door.*
+
+**No wraiths tonight.** This is not Scar-spawn; it is *the opposite of Scar-spawn.* It is the First Age's own housekeeping, still running.
+
+> **What it is, in one sentence — say a version of this out loud in round one:** *a surveying engine that has been holding this hall to specification since before your language existed, and you are out of specification.*
+
+> **Design targets, so you can steer at the table: 3–4 rounds. 12–15 minutes. Nobody drops.** The Rule is a *puzzle with a countdown*, not a threat. Its damage is deliberately small — it acts three times a round, so each act has to be cheap. **Tonight's danger budget belongs to the Architect and the Collapse.** If you're entering round 5, break a mark for them: a pillar comes down on one, the hall does the party a favor, whatever gets you to §3.
+
+#### How it acts: three slots, interleaved
+
+**The Rule takes three NPC initiative slots, spread through the round** — one after each of the first three PC turns:
 
 ```
-SCORCH-WRAITHS — run as 2 groups of 2 (Rival stats, grouped for speed)
-Brawn 2 | Agility 3 | Intellect 1 | Cunning 2 | Willpower 2 | Presence 1
-Wounds: 8 each | Soak: 3 | Defense: 0/0
-Skills: Brawl 2, Perception 1
-  Glass claws — Brawl · Damage 6 · Crit 3 · Engaged · Burn 1
-ABILITIES
-• Immune to Fire. | • Vulnerable to Cold (+2 damage; disables Geometric
-  Eyes 1 round). | • Blindsight. | • Shatter (defeated: Coordination ◆ at
-  Engaged or 3 piercing).
-• Geometric Eyes (maneuver) — heat beam, Short line: Coordination ◆◆ or
-  8 fire damage.
-• IN-STEP (tonight only) — while the wraiths move in unison they add ◼
-  to all checks. ANY dissonance breaks it for a full round: Valeth's
-  anchor-note, clashing metal dragged on stone, deliberately arrhythmic
-  attacks (player describes fighting UGLY), a cold effect. Broken rhythm:
-  they lose the ◼ and grant ◼ to attacks against them.
+PC  →  RULE (SIGHT)  →  PC  →  RULE (STRIKE)  →  PC  →  RULE (DRAW)  →  PC …
 ```
 
-**SONG-AND-FROST** (Valeth's signature): sings into his anchor-stone, directs the cold pooling along the floor at a group (Action — Knowledge (Arcana) or Discipline ◆◆; no anchor charge spent unless he also wants a ward):
-- **Success:** 4 cold damage (ignores Soak), disables Geometric Eyes 1 round, breaks IN-STEP for a full round.
-- **Triumph:** the group is immobilized 1 round.
-- **Despair:** 2 strain to Valeth — the hum under the floor climbs a step.
+Every round it runs the same three-beat work cycle, in the same order, forever. **That cycle is the entire fight, and the table will have it memorized by the end of round one:**
 
-Any PC can improvise cold — treat as a cold effect, +2 damage per vulnerability. **Creative cold always does something.**
+| Slot | It does | At the table |
+|---|---|---|
+| **1 · SIGHT** | Aims. Rotates its rings into a configuration and puts light on a target. **No damage.** | *Announce it out loud, by name.* "PLUMB. The bead is on Vorn." Then a PC gets to act on that information immediately. |
+| **2 · STRIKE** | Executes what it sighted. | Anyone who moved is fine. Anyone who didn't, isn't. Small damage — see below. |
+| **3 · DRAW** | Repairs. A rope of light runs from one wall-mark into its scars and the missing mass flows back. | **Point at the mark. Say which one.** No damage, no roll. This slot exists to show them the puzzle, once per round, for free. |
 
-**Teaching beat:** first PC to invoke a Sabel lesson aloud ("fight ugly," "they like order," "sing it cold") gives the party ◼ next round and +5 XP at wrap.
+**Why three slots is better than one big turn:** the players only ever wait one PC turn to find out what happens next, and they always get a turn *between* the warning and the hit. It's a machine working in front of them, not a monster taking a big swing at them. Speed comes from the fact that two of its three slots involve **zero dice.**
 
-Win = clear both groups or drop them to a single wraith, who shatters and flees deeper into the hall, toward a door at the far end — sealed once, broken recently, by picks. Torvin's crew got this far. Not one step further. → §3.
+#### The three rules (put these on a card)
+
+1. **IT TELLS YOU WHAT IT'S DOING.** SIGHT always precedes STRIKE, and there is always a PC turn between them. **Never surprise them** — until it's down to one mark, when it loses SIGHT and the warning stops. That's a horror beat, not a difficulty spike; by then it's dying.
+2. **IT REPAIRS.** DRAW undoes damage while the marks are lit. Break the marks.
+3. **IT TAKES YOUR MEASURE.** Same kind of check two rounds running and the hall has your number: **◼◼ to the Rule against you, and 2 strain**, until you do something different. Sabel's "fight ugly" wearing new clothes — and this time being unpredictable makes you *safer.* *(Strain, not wounds. This rule is pressure, not lethality. Let it lapse if it's slowing the table down.)*
+
+```
+THE RULE OF SORATH — Nemesis · Construct · First Age surveying-engine
+Brawn 4 | Agility 1 | Intellect 2 | Cunning 1 | Willpower 4 | Presence 1
+Soak: 5 | Wounds: 20 | Defense: 0/0 | Silhouette 3
+Skills: Discipline 3, Perception 3
+IMMUNE — fire, COLD, strain, fear, poison, disarm, all social checks.
+THREE SLOTS PER ROUND, interleaved between PC turns: SIGHT / STRIKE / DRAW.
+• While ANY mark is lit it cannot be reduced below 1 wound. It always
+  re-seats. Damage is not the win condition — the MARKS are. Say so early.
+• Barely track its wounds until the first mark falls; before that, DRAW
+  wipes them anyway.
+OFF-TRUE (the Triumph sink) — any Triumph, or 3 advantage spent, knocks a
+  ring out of alignment: the Rule LOSES ITS NEXT SLOT while it re-seats.
+  This is the best thing anyone can do with a Triumph tonight. Tell them
+  so, out loud, the first time one comes up.
+SAFETY VALVE — it CANNOT drop a PC. A PC who would be knocked out is
+  instead pinned prone under a ring at 1 wound remaining; any ally frees
+  them with a maneuver. Nobody dies in this room. Not tonight.
+```
+
+#### The configurations (read the italics aloud on SIGHT)
+
+| SIGHT — announce it | STRIKE — what happens | The counter (free, no roll) |
+|---|---|---|
+| **PLUMB** — *"The rings stack vertical, one above another, and a bead of light drops out of the aperture and settles on the top of your head. It stays there."* | A column of force, straight down. Anyone **still standing in the bead**: **6 damage** and prone. | **Move.** Any movement on your turn, no check. Anyone still in the light chose to be. *(Can't move — pinned, held, prone? **Coordination ◆◆** to roll clear.)* |
+| **LEVEL** — *"The rings swing flat and spin up hip-height, and a line of light sweeps out across the whole hall at the height of your knees."* | Sweeps the floor. **Everyone still at ground level: 5 damage** and prone. | **Get off the floor.** Pillar stump, rubble, the door-step, an ally's cupped hands, Yldroth being Yldroth. A maneuver, no check. *(Nothing to climb? **Coordination ◆◆** to jump it.)* |
+| **SQUARE** — *"The three rings interlock into the mark you've been following since the mine — the real one, the one Torvin couldn't draw — and it turns to face exactly one of you."* | **Measurement.** **Discipline ◆◆** or held fast in a frame of light: immobilized, **3 damage at the start of each of your turns** until it breaks. | **Break the frame** — an ally's maneuver + **Athletics ◆◆**, *any* cold effect, or any deliberately ugly/arrhythmic act at Engaged. Cold snaps it with no roll. |
+
+*(Soak applies to all of it. Rotate PLUMB → LEVEL → SQUARE; don't repeat one twice running. Worst honest case for a PC who ignores every warning is about 6 wounds a round before soak — enough to hurt a 12-wound character, not enough to end them, and entirely opt-in.)*
+
+#### THE THREE MARKS — the win condition
+
+Three carved ring-marks, waist-high, one per wall, cut deeper than the other ten thousand. **Vorn** — or anyone with Knowledge (Lore) ◆◆, or anyone who just walks over and looks — reads the Ulzammar glyph beneath each:
+
+> **THE MEASURE · THE SETTING · THE STONE**
+
+*(Let that sit. If Vorn's player has ever spoken his grandmother's rhyme at the table, do not explain it. Just let him read the third one out loud and stop talking.)*
+
+**Each mark is one action to break — and each one you break takes a slot away from the Rule.** This is the whole difficulty curve, and it runs *downhill:*
+
+| Marks lit | Slots it still has | What the table sees and feels |
+|---|---|---|
+| **3** | SIGHT · STRIKE · DRAW | Full cycle. It aims, it hits, it heals. One round of this and they've read it. |
+| **2** | SIGHT · STRIKE | **It stops healing.** Damage sticks now. Immediate, visible, earned. |
+| **1** | STRIKE only | **It stops warning them.** Only acts once a round now — but blind. Genuinely unsettling after two rounds of trusting the telegraph, and no more dangerous. |
+| **0** | — | **THE FOURTH.** See below. |
+
+**Five ways to break a mark — all of them work, all of them are cheap:**
+
+| Route | Check | Effect |
+|---|---|---|
+| **Iron and force** | Melee/Brawl **◆◆** against the mark | Shatters it. Vorn's pick is the right tool and he should be told so. |
+| **Cold, then anything** | a cold effect (no check) → any hit after | Cold detunes the stone. **Auto-shatter, no roll.** The signature combo is a force multiplier tonight, not a win button. |
+| **Sing it wrong** | Discipline or Knowledge (Arcana) **◆◆** | Sing the mark's own note back at it *deliberately off* and the mark cracks itself. **← the plant. See below.** |
+| **Let the Rule do it** | **Coordination ◆◆◆** | Stand in front of a mark wearing a PLUMB bead; move at the last instant. Kills the mark, and the Rule goes **off-true** for a slot. Give this a whole beat — it's the story they'll retell. |
+| **Turn a Stake** | Mechanics or Skulduggery **◆◆** | Hoist a Stake and aim it at a mark. The next STRIKE lands on the Rule's own anchor. |
+
+> **GM — the plant, and why this fight exists.** "Sing it wrong" is the sundering-chord at one-tenth scale. Three things named the Measure, the Setting and the Stone, held in tune — undone by a voice deliberately off-key. **The party is rehearsing next session's kill on a practice dummy without knowing it.** Don't explain it tonight. If someone takes the route, describe the crack and move on. If nobody does, they watch it happen anyway when the Rule un-tunes itself in THE FOURTH.
+
+**If the table hasn't connected DRAW to the marks by the end of round 2, give it away.** Free Perception ◆, or Vorn's stone-sense, or Arden feeling the pull of the ropes of light. A puzzle nobody solves isn't a puzzle, it's a wall — and this one is on a fifteen-minute clock.
+
+#### SURVEY-STAKES ×3 (free flavor — they never take a turn)
+
+```
+SURVEY-STAKES ×3 — Minion · Construct
+Waist-high tripods, a single ring on a stalk, standing where they were
+planted fifteen centuries ago.
+Soak: 2 | Wounds: 4 — one solid hit kills one. NO initiative slot, EVER.
+THEY DEAL NO DAMAGE. They SIGHT.
+• While a Stake has line to a PC, the Rule adds ◼ against that PC and can
+  SIGHT them at any range. Kill one and the bead slides off you.
+• They can be uprooted, carried, and aimed (see "Turn a Stake").
+```
+
+They cost zero table time and give a player something to smash on turn one that visibly helps. Cut them first if you're compressing.
+
+#### The other way through: present the Band
+
+**It isn't hostile at first.** It's taking an inventory — SQUARE on whoever looks most *orderly*, treating them as an object to be filed rather than an enemy to be killed. Which means there's a door out of this that isn't a fight. If anyone holds up the **Ulzammar Band**:
+
+> *Every ring stops. All three at once, in a hall that hasn't been silent since you walked into it. Then the rings tilt — the whole three-times-a-man weight of it inclining, fractionally, the way a clerk inclines toward a seal he recognizes.*
+
+The bearer may issue **simple geometric commands** — OPEN. STOP. STAND. One per action, **Discipline or Coercion ◆◆◆** (they're holding authority they don't actually have, and the machine can almost tell).
+
+- **Two successes:** it opens the far door, walks back to its place among the pillars, and becomes a pillar again. **They talked past it.** Let them — it's a better story than the fight, and it's faster.
+- **Any failure:** it re-measures the bearer, finds a forgery, and the fight starts with that PC sighted. Announce the shift physically: **the rings reverse direction.**
+- **Despair:** as failure, and the far door *locks.* The marks are now the only way out.
+
+> **GM — you lose nothing by letting them skip the fight.** If the Rule is standing down when the Architect arrives in §4, he dismisses it mid-sentence without looking at it and it comes apart on the spot — three notes falling out of tune, exactly the way the marks would have. *"Oh — that. Yes, I made a great many of those, once, for a man who liked things kept level."* They get the plant anyway, and they get to watch him unmake in one distracted breath the thing they just spent ten minutes negotiating with. **That's the better version of §4's opening. Take it if they earn it.**
+
+#### THE FOURTH (last mark breaks — 1 round, maybe 2)
+
+No mass left to draw on, so it starts consuming itself. **Soak drops to 3; it keeps whatever wounds it has accumulated.** It sheds its outer ring, which **rolls** — Coordination ◆◆ or 4 and prone — and it gets one last STRIKE with no SIGHT. **At the end of the second round of this phase it falls on its own, whether or not anyone hits it.** Killing it faster is a mercy. There is no version where this phase eats ten minutes.
+
+**The death — do not skip this:**
+> *The last ring loses the note it has been holding since before there were dwarves, and the other two lose it a half-beat later, and for the first time since you came down those stairs the hall is completely silent. Three thousand pounds of First Age engineering comes down in the sand like something sitting.*
+>
+> *Three made one. Made silence.*
+
+#### Teaching beat & XP triggers
+First PC to name the fight's logic out loud — *"it tells us what it's about to do," "stop hitting it and break the marks," "don't do that twice"* — gives the party ◼ on their next round and **+5 XP** at wrap. This replaces the Sabel-lesson callout: the lesson is still in the fight, wearing different clothes, and letting them re-derive it beats letting them quote it.
+
+**If the alarm rang in §2B:** the Rule is already standing and already turning, and it takes its **SIGHT** slot before anyone's first turn — they lose the free look-around. Real cost, no extra damage.
+
+#### Fast version (~8 minutes, cut to this without apology)
+**Two marks, not three. No Stakes. Two slots — SIGHT and STRIKE.** Run PLUMB, then LEVEL, then it's down to THE FOURTH. Same death beat, same read-alouds. Everything that makes the scene work survives; only the bookkeeping goes.
+
+Win = the Rule down, or the far door opened by other means. Either way the door is First Age, sealed once and broken open recently, by picks. Torvin's crew got this far. Not one step further. → §3.
 
 ---
 
@@ -298,7 +416,7 @@ Run this as an escalating skill challenge across three legs — different PC lea
 | Leg | Obstacle | Example checks | Cost of failure |
 |---|---|---|---|
 | **1. The Guardian Hall** | Broken pillars coming down, floor buckling | Athletics ◆◆ (clear the debris fall) · Vigilance ◆◆ (read which section goes next) · Coordination ◆◆ (help someone slower) | 2 strain; the group's pace slows, tightening the timer on leg 2 |
-| **2. The Trap Corridor** | The resonance-carved walls are shearing apart — and something is coming up through the cracks | Athletics ◆◆◆ (sprint it clean) · a cold/song effect (drives back whatever's rising, buys the party a round) | A **lesser fiend** (use Scorch-Wraith stats at half Wounds, no IN-STEP) grabs the slowest PC; Athletics ◆◆ from an ally frees them |
+| **2. The Trap Corridor** | The resonance-carved walls are shearing apart — and something is coming up through the cracks | Athletics ◆◆◆ (sprint it clean) · a cold/song effect (drives back whatever's rising, buys the party a round) | A **lesser fiend** (Scorch-Wraith stats at half Wounds) grabs the slowest PC; Athletics ◆◆ from an ally frees them. *Cold works on this one — and that contrast, one room after a machine that laughed at frost, is worth pointing out.* |
 | **3. The Threshold** | Climbing back out the way they came in as the hill settles around the doorway | Athletics ◆◆◆ (the stair is failing) · Brawn ◆◆ (boost someone up bodily) | 1 wound, no worse; this is the last stretch, let momentum carry them |
 
 **Bonus objective — plant Tajsh's return:** somewhere in leg 1, before the pedestal chamber goes, offer one PC the chance to grab a fistful of loose pages/rubbings from the shattered book — **Perception ◆◆ to notice the chance, then an action to actually grab them, at the cost of falling behind (treat as failing that leg's roll).** Whether or not they take it: this is what Tajsh will have to work with next session. If they leave empty-handed, that's fine too — it just means session 6 leans harder on Sabel's lessons and the Legio Null's resources instead of translation. **Do not force this choice; offer it once, clearly, and move on.**
@@ -334,7 +452,10 @@ Do not run one more minute. Confirm the pivot out loud: **next session — Lux �
 | Award | Value |
 |---|---|
 | All PCs, base | **25 XP** (endgame pacing) |
-| First to invoke a Sabel lesson in the guardian fight | **+5 XP** |
+| First to name the Rule's logic aloud ("break the marks," "don't repeat yourself," "it tells us what's coming") | **+5 XP** |
+| Broke a mark by "singing it wrong" | **+5 XP** — quietly. Don't explain why. |
+| Baited a PLUMB into destroying a mark (§2C) | **+10 XP** — the hardest, best thing anyone can do in that fight |
+| Talked past the Rule with the Band instead of fighting it | **+10 XP** (party) — a clean solve beats a clean kill |
 | Creative cold/song use anywhere tonight | **+5 XP** (once) |
 | Tried to physically stop the assembly (§5) | **+10 XP** |
 | Landed cold/song on the embodied Architect (§7) | **+10 XP** — this is the finale's kill-condition head start; make it feel earned |
@@ -344,7 +465,8 @@ Do not run one more minute. Confirm the pivot out loud: **next session — Lux �
 ### Live threads into Session 6
 - **The Crown is gone.** The Architect has it, is wearing it, and is not yet at full strength — he said so himself. That weakness window is the entire premise of next session.
 - **He has a name now, in-fiction: the Architect, an Echo-Lord — the greatest creation of Kael'Zorai, the Fifth First Hand, erased from the world alongside his maker.** Not a god himself, but a servant who outlasted the one he served and decided the throne should be his. How much the party shares with Thalric, and how Thalric reacts to learning the enemy is something closer to Sauron than a monster he can put a bounty on, is next session's opening scene.
-- **Cold + song hurts him.** Confirmed on-screen tonight if the party landed it in §7; otherwise it's a strong hypothesis Sabel or Valeth can voice next session instead. Either way, it's the finale's answer, same as it's been the answer to everything since the Vitriarch.
+- **Cold + song hurts him.** Confirmed on-screen tonight if the party landed it in §7; otherwise it's a strong hypothesis Sabel or Valeth can voice next session instead. Either way, it's the finale's answer, same as it's been the answer to everything since the Vitriarch. **Sharpened tonight by contrast:** cold did *nothing* to the Rule, and then it caught on him. The party now has evidence, not just a habit.
+- **They have rehearsed the sundering without knowing it.** The Rule was held together by three anchors named **the Measure, the Setting, the Stone**, and it came apart when they were knocked out of tune — by force, by cold, or (if anyone took that route) by a voice deliberately singing them wrong. That is the finale's kill in miniature: three things made one, undone by the fourth, which is not a note but a silence. **Do not connect the dots for them tonight.** Next session, when Vorn's grandmother's rhyme turns out to be the chord's note-names, the table should get the click themselves — and the memory of a three-thousand-pound machine falling silent in the sand is what makes it land.
 - **Lux Æterna is occupied.** The Deep Chamber — his real anchor, the place he's manifested from since Session 1 — is directly under the town. Sabel, Tajsh, Cira, and everyone the evacuation didn't fully clear are there.
 - **The book, or what's left of it.** If the party grabbed pages during the Collapse, Tajsh has something to actually work with next session — his arc (the archivist who finally gets his "two sources") pays off late instead of mid-descent, but it still pays off.
 - **The alliance is live, not theoretical.** Thalric is riding with them at the top of session 6, not showing up to grant permission — write his terms and his men's discomfort into the opening scene.
@@ -353,7 +475,7 @@ Do not run one more minute. Confirm the pivot out loud: **next session — Lux �
 
 ## §11 — At-the-Table Cheat Sheet
 
-**Tonight's shape:** camp near the **Ruin of Sorath** (not the Mining Camp — a new site Torvin's crew saw and marked "NOT THIS") → **short dive**: threshold (a crew's hasty warning) → trap corridor (match the pulse or eat a stone-tooth volley) → guardian hall (**guardian fight**, Scorch-Wraiths ×4, IN-STEP, cold/dissonance breaks it) → pedestal, **no gem on it, book only** → open the book (Perception ◆◆ finds the seam / Brawn ◆◆◆ forces it, 1 strain party-wide) → **Architect returns**, translates ("three made one made silence"), Gem was in the spine → **he starts to coach them through the joining, then stops them cold — "I no longer need to borrow hands"** — assembles the Crown himself, at range, Band lifts itself, compass reveal (Setting), pieces join, Crown lands → **the Unveiling**: not a god — an Echo-Lord, Kael'Zorai's own creation (the Circles Below's Echo-entities, per canon), caught in the Ulzammar's Crown when their ritual reached for the Four and found his maker's reach instead; dwarven "Ulzammar" and the vanished people's name were never a coincidence; **"hunger given form" was always him, not a warning about someone else** → armored, staggering, weak → attacks pass through except **cold/song, which catches** — structural, not asserted: he's from the same broken realm as every Scar-spawn tonight (Frost Recognition beat, plant the finale's answer) → *"There is a throne under that lantern-town... I am going to go take what's mine"* → portal, **ruin comes down** → skill-challenge escape (hall / corridor+lesser fiend / threshold), optional book-fragment grab for Tajsh's sake → surface → **Thalric arrives, already riding toward the noise** → *"Get on. We ride for your town."* → END.
+**Tonight's shape:** camp near the **Ruin of Sorath** (not the Mining Camp — a new site Torvin's crew saw and marked "NOT THIS") → **short dive**: threshold (a crew's hasty warning) → trap corridor (match the pulse or eat a stone-tooth volley; **the pulse is the guardian, idling**) → guardian hall (**THE RULE OF SORATH** — a pillar stands up; **three interleaved NPC slots, same cycle every round: SIGHT → STRIKE → DRAW**, one PC turn between each; it names its attack before it throws it (PLUMB / LEVEL / SQUARE) and every counter is *move, climb, or break the frame*; damage doesn't stick while the three wall-marks — **the Measure, the Setting, the Stone** — are lit; **each mark broken deletes one of its slots**, so it gets weaker and quieter as it dies; repeating yourself gets you measured; **cold does nothing to it**; it cannot drop a PC; can be talked past entirely by presenting the Band) → pedestal, **no gem on it, book only** → open the book (Perception ◆◆ finds the seam / Brawn ◆◆◆ forces it, 1 strain party-wide) → **Architect returns**, translates ("three made one made silence"), Gem was in the spine → **he starts to coach them through the joining, then stops them cold — "I no longer need to borrow hands"** — assembles the Crown himself, at range, Band lifts itself, compass reveal (Setting), pieces join, Crown lands → **the Unveiling**: not a god — an Echo-Lord, Kael'Zorai's own creation (the Circles Below's Echo-entities, per canon), caught in the Ulzammar's Crown when their ritual reached for the Four and found his maker's reach instead; dwarven "Ulzammar" and the vanished people's name were never a coincidence; **"hunger given form" was always him, not a warning about someone else** → armored, staggering, weak → attacks pass through except **cold/song, which catches** — structural, not asserted: he's from the same broken realm as every Scar-spawn tonight (Frost Recognition beat, plant the finale's answer) → *"There is a throne under that lantern-town... I am going to go take what's mine"* → portal, **ruin comes down** → skill-challenge escape (hall / corridor+lesser fiend / threshold), optional book-fragment grab for Tajsh's sake → surface → **Thalric arrives, already riding toward the noise** → *"Get on. We ride for your town."* → END.
 
 **Never cut:** the Unveiling (§6), the Collapse (§8).
 
